@@ -1,7 +1,7 @@
 ---
 measure: S. 57
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 57
@@ -16,6 +16,10 @@ Sand Creek Massacre National Historic Site Trust Act of 2005
 
 - Sen. Allard, Wayne [R-CO] (A000109)
 
+## Cosponsors (1)
+
+- Sen. Salazar, Ken [D-CO] (S001163)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +28,7 @@ Sand Creek Massacre National Historic Site Trust Act of 2005
 
 - 2005-01-24 — Introduced in Senate
 - 2005-01-24 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2005-02-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-03-08 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-20.
+- 2005-03-08 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-20.
+- 2005-03-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
