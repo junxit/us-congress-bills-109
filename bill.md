@@ -18,11 +18,11 @@ This Act may be cited as the “Rim of the Valley Corridor Study Act”.
 In this Act:
 
 - **(1)** *Corridor*
-  - **(A)** *In general* The term “Corridor” means the land, water, and interests of the area in the State known as the “Rim of the Valley Corridor”.
-  - **(B)** *Inclusions* The term “Corridor” includes the mountains surrounding the San Fernando, La Crescenta, Santa Clarita, Simi, and Conejo valleys in the State.
-- **(2)** *Recreation area* The term “Recreation Area” means the Santa Monica Mountains National Recreation Area in the State.
-- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-- **(4)** *State* The term “State” means the State of California.
+  - **(A)** *In general* The term Corridor means the land, water, and interests of the area in the State known as the “Rim of the Valley Corridor”.
+  - **(B)** *Inclusions* The term Corridor includes the mountains surrounding the San Fernando, La Crescenta, Santa Clarita, Simi, and Conejo valleys in the State.
+- **(2)** *Recreation Area* The term Recreation Area means the Santa Monica Mountains National Recreation Area in the State.
+- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(4)** *State* The term State means the State of California.
 
 ## § 3. Resource study of the Rim of the Valley Corridor, California
 
