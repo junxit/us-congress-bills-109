@@ -1,7 +1,7 @@
 ---
 measure: S. 263
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 263
@@ -16,13 +16,16 @@ Paleontological Resources Preservation Act
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -33,3 +36,7 @@ Paleontological Resources Preservation Act
 - 2005-02-02 — Introduced in Senate
 - 2005-02-02 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S892-893)
 - 2005-02-02 — Sponsor introductory remarks on measure. (CR S891-892)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2005-03-11 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-36.
+- 2005-03-11 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-36.
+- 2005-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.

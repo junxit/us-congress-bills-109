@@ -56,7 +56,7 @@ The Secretary shall establish a program to increase public awareness about the s
   - **(1)** The Secretary may modify, suspend, or revoke a permit issued under this section—
     - **(A)** for resource, safety, or other management considerations; or
     - **(B)** when there is a violation of term or condition of a permit issued pursuant to this section.
-  - **(2)** The permit shall be revoked if any person working under the authority of the permit is convicted under section 9 or is assessed a civil penalty under section 10.
+  - **(2)** The permit shall be revoked if any person working under the authority of the permit is convicted under section 9 section 7 or is assessed a civil penalty under section 10 section 8.
 - **(e)** *Area closures* In order to protect paleontological or other resources and to provide for public safety, the Secretary may restrict access to or close areas under the Secretary’s jurisdiction to the collection of paleontological resources.
 
 ## § 6. Curation of resources
@@ -92,14 +92,14 @@ Any paleontological resource, and any data and records associated with the resou
 - **(d)** *Use of recovered amounts* Penalties collected under this section shall be available to the Secretary and without further appropriation may be used only as follows:
   - **(1)** To protect, restore, or repair the paleontological resources and sites which were the subject of the action, or to acquire sites with equivalent resources, and to protect, monitor, and study the resources and sites. Any acquisition shall be subject to any limitations contained in the organic legislation for such Federal lands.
   - **(2)** To provide educational materials to the public about paleontological resources and sites.
-  - **(3)** To provide for the payment of rewards as provided in section 11.
+  - **(3)** To provide for the payment of rewards as provided in section 11 section 9.
 
 ## § 9. Rewards and forfeiture
 
-- **(a)** *Rewards* The Secretary may pay from penalties collected under section 9 or 10—
+- **(a)** *Rewards* The Secretary may pay from penalties collected under section 9 or 10 section 7 or 8—
   - **(1)** consistent with amounts established in regulations by the Secretary; or
   - **(2)** if no such regulation exists, an amount equal to the lesser of one-half of the penalty or $500, to any person who furnishes information which leads to the finding of a civil violation, or the conviction of criminal violation, with respect to which the penalty was paid. If several persons provided the information, the amount shall be divided among the persons. No officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall be eligible for payment under this subsection.
-- **(b)** *Forfeiture* All paleontological resources with respect to which a violation under section 9 or 10 occurred and which are in the possession of any person, and all vehicles and equipment of any person that were used in connection with the violation, shall be subject to civil forfeiture, or upon conviction, to criminal forfeiture. All provisions of law relating to the seizure, forfeiture, and condemnation of property for a violation of this Act, the disposition of such property or the proceeds from the sale thereof, and remission or mitigation of such forfeiture, as well as the procedural provisions of chapter 46 of title 18, United States Code, shall apply to the seizures and forfeitures incurred or alleged to have incurred under the provisions of this Act.
+- **(b)** *Forfeiture* All paleontological resources with respect to which a violation under section 9 or 10 section 7 or 8 occurred and which are in the possession of any person, and all vehicles and equipment of any person that were used in connection with the violation, shall be subject to civil forfeiture, or upon conviction, to criminal forfeiture. All provisions of law relating to the seizure, forfeiture, and condemnation of property for a violation of this Act, the disposition of such property or the proceeds from the sale thereof, and remission or mitigation of such forfeiture, as well as the procedural provisions of chapter 46 of title 18, United States Code, shall apply to the seizures and forfeitures incurred or alleged to have incurred under the provisions of this Act.
 - **(c)** *Transfer of seized resources* The Secretary may transfer administration of seized paleontological resources to Federal or non-Federal educational institutions to be used for scientific or educational purposes.
 
 ## § 10. Confidentiality
@@ -118,7 +118,7 @@ As soon as practical after the date of the enactment of this Act, the Secretary 
 
 Nothing in this Act shall be construed to—
 
-- **(1)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784), the Mining in the Parks Act, the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358), and the Organic Administration Act (16 U.S.C. 478, 482, 551);
+- **(1)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784), the Mining in the Parks Act Public Law 94–429 (commonly known as the “Mining in the Parks Act”) (16 U.S.C. 1901 et seq.), the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358), and the Organic Administration Act (16 U.S.C. 478, 482, 551);
 - **(2)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under existing laws and authorities relating to reclamation and multiple uses of Federal lands;
 - **(3)** apply to, or require a permit for, casual collecting of a rock, mineral, or invertebrate or plant fossil that is not protected under this Act;
 - **(4)** affect any lands other than Federal lands or affect the lawful recovery, collection, or sale of paleontological resources from lands other than Federal lands;
