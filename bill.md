@@ -1,0 +1,79 @@
+---
+legis-num: H.R. 36
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 36
+
+> To amend the Internal Revenue Code of 1986 to provide for a small agri-biodiesel producer credit and to improve the small ethanol producer credit.
+
+## § 1. Small agri-biodiesel producer credit
+
+- **(a)** *In general* Subsection (a) of section 40A of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(a)** *General rule* For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
+  >   - **(1)** the biodiesel mixture credit, plus
+  >   - **(2)** the biodiesel credit, plus
+  >   - **(3)** in the case of an eligible small agri-biodiesel producer, the small agri-biodiesel producer credit.
+
+- **(b)** *Small agri-biodiesel producer credit defined* Subsection (b) of section 40A of such Code is amended by adding at the end the following new paragraph:
+  > - **(5)** *Small agri-biodiesel producer credit*
+  >   - **(A)** *In general* The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 10 cents for each gallon of qualified agri-biodiesel production of such producer.
+  >   - **(B)** *Qualified agri-biodiesel production* For purposes of this paragraph, the term “qualified agri-biodiesel production” means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
+  >     - **(i)** is sold by such producer to another person—
+  >       - **(I)** for use by such other person in the production of a qualified biodiesel mixture in such other person's trade or business (other than casual off-farm production),
+  >       - **(II)** for use by such other person as a fuel in a trade or business, or
+  >       - **(III)** who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or
+  >     - **(ii)** is used or sold by such producer for any purpose described in clause (i).
+  >   - **(C)** *Limitation* The qualified agri-biodiesel production of any producer for any taxable year shall not exceed 15,000,000 gallons.
+
+- **(c)** *Definitions and special rules* Section 40A of such Code is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection:
+  > - **(e)** *Definitions and special rules for small agri-biodiesel producer credit* For purposes of this section—
+  >   - **(1)** *Eligible small agri-biodiesel producer* The term “eligible small agri-biodiesel producer” means a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons.
+  >   - **(2)** *Aggregation rule* For purposes of the 15,000,000 gallon limitation under subsection (b)(5)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
+  >   - **(3)** *Partnership, S corporations, and other pass-thru entities* In the case of a partnership, trust, S corporation, or other pass-thru entity, the limitations contained in subsection (b)(5)(C) and paragraph (1) shall be applied at the entity level and at the partner or similar level.
+  >   - **(4)** *Allocation* For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.
+  >   - **(5)** *Regulations* The Secretary may prescribe such regulations as may be necessary—
+  >     - **(A)** to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of agri-biodiesel during the taxable year, or
+  >     - **(B)** to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year.
+  >   - **(6)** *Allocation of small agri-biodiesel credit to patrons of cooperative*
+  >     - **(A)** *Election to allocate*
+  >       - **(i)** *In general* In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
+  >       - **(ii)** *Form and effect of election* An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year.
+  >     - **(B)** *Treatment of organizations and patrons*
+  >       - **(i)** *Organizations* The amount of the credit not apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under subsection (a)(3) for the taxable year of the organization.
+  >       - **(ii)** *Patrons* The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+  >       - **(iii)** *Special rules for decrease in credits for taxable year* If the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of—
+  >         - **(I)** such reduction, over
+  >         - **(II)** the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+
+- **(d)** *Small agri-biodiesel credit not a passive activity credit* Clause (i) of section 469(d)(2)(A) of such Code, as amended by section 2, is further amended by striking “section 40(a)(3)” and inserting “sections 40(a)(3) and 40A(a)(3)”.
+- **(e)** *Small agri-biodiesel producer credit not added back to income under section 87* Section 87 of such Code, as amended by section 2, is further amended by striking “and” at the end of paragraph (2) and by striking paragraph (3) and inserting the following new paragraphs:
+  > - **(3)** the biodiesel mixture credit determined with respect to the taxpayer for the taxable year under section 40A(a)(1), and
+  > - **(4)** the biodiesel credit determined with respect to the taxpayer for the taxable year under section 40A(a)(2).
+
+- **(f)** *Conforming amendments*
+  - **(1)** Paragraph (4) of section 40A(b) of such Code is amended by striking “this section” and inserting “paragraph (1) or (2) of subsection (a)”.
+  - **(2)** The heading of subsection (b) of section 40A of such Code is amended by striking “and biodiesel credit” and inserting “, biodiesel credit, and small agri-Biodiesel producer credit”.
+  - **(3)** Paragraph (3) of section 40A(d) of such Code is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:
+    > - **(C)** *Producer credit* If—
+    >   - **(i)** any credit was determined under subsection (a)(3), and
+    >   - **(ii)** any person does not use such fuel for a purpose described in subsection (b)(5)(B),
+
+- **(g)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+## § 2. Improvements to small ethanol producer credit and small agri-biodiesel producer credit
+
+- **(a)** *Definition of small ethanol producer* Section 40(g) of the Internal Revenue Code of 1986 (relating to definitions and special rules for eligible small ethanol producer credit) is amended by striking “30,000,000” each place it appears and inserting “60,000,000”.
+- **(b)** *Small ethanol producer credit not a passive activity credit* Clause (i) of section 469(d)(2)(A) of such Code is amended by striking “subpart D” and inserting “subpart D, other than section 40(a)(3),”.
+- **(c)** *Small ethanol producer credit not added back to income under section 87* Section 87 of such Code (relating to income inclusion of alcohol fuel credit) is amended to read as follows:
+  > ## § 87. Alcohol fuel credit
+  >
+  > Gross income includes—
+  >
+  > - **(1)** the amount of the alcohol mixture credit determined with respect to the taxpayer for the taxable year under section 40(a)(1),
+  > - **(2)** the alcohol credit determined with respect to the taxpayer for the taxable year under section 40(a)(2), and
+  > - **(3)** the biodiesel fuels credit determined with respect to the taxpayer for the taxable year under section 40A(a).
+
+- **(d)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
