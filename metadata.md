@@ -1,7 +1,7 @@
 ---
 measure: S. 214
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 214
@@ -30,3 +30,7 @@ United States-Mexico Transboundary Aquifer Assessment Act
 - 2005-01-31 — Introduced in Senate
 - 2005-01-31 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S659-660)
 - 2005-01-31 — Sponsor introductory remarks on measure. (CR S3280)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-03-07 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-17.
+- 2005-03-07 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-17.
+- 2005-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.
