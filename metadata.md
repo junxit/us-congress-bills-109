@@ -1,7 +1,7 @@
 ---
 measure: S. 225
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 225
@@ -30,3 +30,7 @@ Federal Land Recreational Visitor Protection Act of 2005
 - 2005-02-01 — Introduced in Senate
 - 2005-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2005-02-01 — Sponsor introductory remarks on measure. (CR S741)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2005-02-23 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 02/17/05 with an amendment in the nature of a substitute and an amendment to the title. With written report No. 109-11.
+- 2005-02-23 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 02/17/05 with an amendment in the nature of a substitute and an amendment to the title. With written report No. 109-11.
+- 2005-02-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.
