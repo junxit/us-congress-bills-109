@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Mormon Pioneer Heritage Area Act”.
+-  This Act may be cited as the “National Mormon Pioneer Mormon Pioneer National Heritage Area Act”.
 
 ## § 2. Findings and purpose
 
@@ -43,22 +43,22 @@ In this Act:
 
 - **(1)** *Alliance* The term Alliance means the Utah Heritage Highway 89 Alliance.
 - **(2)** *Board* The term Board means the Board of Directors of the Alliance.
-- **(3)** *Heritage Area* The term Heritage Area means the National Mormon Pioneer Heritage Area established by section 4(a).
+- **(3)** *Heritage Area* The term Heritage Area means the National Mormon Pioneer Mormon Pioneer National Heritage Area established by section 4(a).
 - **(4)** *Management plan* The term management plan means the plan developed by the Board under section 6(a).
 - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(6)** *State* The term State means the State of Utah.
 
-## § 4. National Mormon Pioneer Heritage Area
+## § 4. National Mormon Pioneer Mormon Pioneer National Heritage Area
 
-- **(a)** *Establishment* There is established the National Mormon Pioneer Heritage Area.
+- **(a)** *Establishment* There is established the National Mormon Pioneer Mormon Pioneer National Heritage Area.
 - **(b)** *Boundaries*
   - **(1)** *In general* The boundaries of the Heritage Area shall include areas in the State that are—
-    - **(A)** related to the corridors—
+    - **(A)** that are related to the corridors—
       - **(i)** from the Arizona border northward through Kanab, Utah, and to the intersection of Highway 89 and Highway 12, including Highway 12 and Highway 24 as those highways loop off Highway 89 and rejoin Highway 89 at Sigurd;
       - **(ii)** from Highway 89 at the intersection of Highway 12 through Panguitch, Junction, Marysvale, and Sevier County to Sigurd;
       - **(iii)** continuing northward along Highway 89 through Axtell and Sterling, Sanpete County, to Fairview, Sanpete County, at the junction with Utah Highway 31; and
       - **(iv)** continuing northward along Highway 89 through Fairview and Thistle Junction, to the junction with Highway 6; and
-    - **(B)** located in the following communities: Kanab, Mt. Carmel, Orderville, Glendale, Alton, Cannonville, Tropic, Henrieville, Escalante, Boulder, Teasdale, Fruita, Hanksville, Torrey, Bicknell, Loa, Hatch, Panquitch, Circleville, Antimony, Junction, Marysvale, Koosharem, Sevier, Joseph, Monroe, Elsinore, Richfield, Glenwood, Sigurd, Aurora, Salina, Mayfield, Sterling, Gunnison, Fayette, Manti, Ephraim, Spring City, Mt. Pleasant, Moroni, Fountain Green, and Fairview.
+    - **(B)** located in including the following communities: Kanab, Mt. Carmel, Orderville, Glendale, Alton, Cannonville, Tropic, Henrieville, Escalante, Boulder, Teasdale, Fruita, Hanksville, Torrey, Bicknell, Loa, Hatch, Panquitch, Circleville, Antimony, Junction, Marysvale, Koosharem, Sevier, Joseph, Monroe, Elsinore, Richfield, Glenwood, Sigurd, Aurora, Salina, Mayfield, Sterling, Gunnison, Fayette, Manti, Ephraim, Spring City, Mt. Pleasant, Moroni, Fountain Green, and Fairview.
   - **(2)** *Map* The Secretary shall prepare a map of the Heritage Area, which shall be on file and available for public inspection in the office of the Director of the National Park Service.
   - **(3)** *Notice to local governments* The Alliance shall provide to the government of each city, town, and county that has jurisdiction over property proposed to be included in the Heritage Area written notice of the proposed inclusion.
 - **(c)** *Administration* The Heritage Area shall be administered in accordance with this Act.
