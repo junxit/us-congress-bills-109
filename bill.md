@@ -1,0 +1,55 @@
+---
+legis-num: H.R. 1077
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1077
+
+> To improve the access of investors to regulatory records with respect to securities brokers, dealers, and investment advisers.
+
+## § 1. Short title
+
+This Act may be cited as the “Realtime Investor Protection Act”.
+
+## § 2. Constitutional authority
+
+The constitutional authority on which this Act rests is the power of Congress to regulate commerce as enumerated in article I, section 8 of the United States Constitution.
+
+## § 3. Method of maintaining broker/dealer registration, disciplinary, and other data
+
+Subsection (i) of section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3(i)) is amended to read as follows:
+
+> - **(i)** *Obligation to maintain registration, disciplinary, and other data*
+>   - **(1)** *Maintenance of system to respond to inquiries* A registered securities association shall—
+>     - **(A)** establish and maintain a system for collecting and retaining registration information;
+>     - **(B)** establish and maintain a toll-free telephone listing, and a readily accessible electronic or other process, to receive and promptly respond to inquiries regarding—
+>       - **(i)** registration information on its members and their associated persons; and
+>       - **(ii)** registration information on the members and their associated persons of any registered national securities exchange that uses the system described in subparagraph (A) for the registration of its members and their associated persons; and
+>     - **(C)** adopt rules governing the process for making inquiries and the type, scope, and presentation of information to be provided in response to such inquiries in consultation with any registered national securities exchange providing information pursuant to subparagraph (B)(ii).
+>   - **(2)** *Recovery of costs* Such an association may charge persons making inquiries, other than individual investors, reasonable fees for responses to such inquiries.
+>   - **(3)** *Process for disputed information* Such an association shall adopt rules establishing an administrative process for disputing the accuracy of information provided in response to inquiries under this subsection in consultation with any registered national securities exchange providing information pursuant to paragraph (1)(B)(ii).
+>   - **(4)** *Limitation of liability* Such an association, or exchange reporting information to such an association, shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
+>   - **(5)** *Definition* For purposes of this subsection, the term registration information means the information reported in connection with the registration or licensing of brokers and dealers and their associated persons, including disciplinary actions, regulatory, judicial, and arbitration proceedings, and other information required by law, or exchange or association rule, and the source and status of such information.
+
+## § 4. Filing depositories for investment advisers
+
+- **(a)** *Amendment* Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4) is amended—
+  - **(1)** by striking “Every investment” and inserting the following:
+    > - **(a)** *In General* Every investment
+
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Filing depositories* The Commission may, by rule, require an investment adviser—
+    >   - **(1)** to file with the Commission any fee, application, report, or notice required to be filed by this title or the rules issued under this title through any entity designated by the Commission for that purpose; and
+    >   - **(2)** to pay the reasonable costs associated with such filing and the establishment and maintenance of the systems required by subsection (c).
+    > - **(c)** *Access to disciplinary and other information*
+    >   - **(1)** *Maintenance of system to respond to inquiries* The Commission shall require the entity designated by the Commission under subsection (b)(1) to establish and maintain a toll-free telephone listing, or a readily accessible electronic or other process, to receive and promptly respond to inquiries regarding registration information (including disciplinary actions, regulatory, judicial, and arbitration proceedings, and other information required by law or rule to be reported) involving investment advisers and persons associated with investment advisers.
+    >   - **(2)** *Recovery of costs* An entity designated by the Commission under subsection (b)(1) may charge persons making inquiries, other than individual investors, reasonable fees for responses to inquiries made under paragraph (1).
+    >   - **(3)** *Limitation on liability* An entity designated by the Commission under subsection (b)(1) shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
+
+- **(b)** *Conforming amendments*
+  - **(1)** Section 203A of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3a) is amended—
+    - **(A)** by striking subsection (d); and
+    - **(B)** by redesignating subsection (e) as subsection (d).
+  - **(2)** Section 306 of the National Securities Markets Improvement Act of 1996 (15 U.S.C. 80b–10, note; Public Law 104–290; 110 Stat. 3439) is repealed.
