@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 134
@@ -20,8 +20,16 @@ Redwood National Park Boundary Adjustment Act of 2005
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
 ## Actions
 
 - 2005-01-24 — Introduced in Senate
 - 2005-01-24 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S349)
 - 2005-01-24 — Sponsor introductory remarks on measure. (CR S349)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-03-09 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-23.
+- 2005-03-09 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-23.
+- 2005-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
