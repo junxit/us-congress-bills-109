@@ -43,7 +43,7 @@ For the purposes of this Act, the following definitions apply:
 ## § 4. Arabia Mountain National Heritage Area
 
 - **(a)** *Establishment* There is established the Arabia Mountain National Heritage Area in the State.
-- **(b)** *Boundaries* The heritage area shall consist of certain parcels of land in the counties of DeKalb, Rockdale, and Henry in the State, as generally depicted on the map entitled “The Preferred Concept” contained in the document entitled “Arabia Mountain National Heritage Area Feasibility Study”, dated February 28, 2001.
+- **(b)** *Boundaries* The heritage area shall consist of certain parcels of land in the counties of DeKalb, Rockdale, and Henry in the State, as generally depicted on the map entitled “The Preferred Concept” contained in the document entitled “Arabia Mountain National Heritage Area Feasibility Study”, dated February 28, 2001 on the map entitled “Arabia Mountain National Heritage Area”, numbered AMNHA–80,000, and dated October 2003.
 - **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(d)** *Management entity* The Arabia Mountain Heritage Area Alliance shall be the management entity for the heritage area.
 
