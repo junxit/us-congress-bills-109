@@ -49,4 +49,4 @@ In this Act:
 
 ## § 5. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this Act $1,000,000 for each fiscal year.
+There is authorized to be appropriated to carry out this Act $1,000,000 for each fiscal year for each of fiscal years 2006 through 2015.
