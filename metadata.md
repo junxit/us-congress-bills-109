@@ -1,7 +1,7 @@
 ---
 measure: S. 272
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 272
@@ -29,3 +29,7 @@ Caribbean National Forest Act of 2005
 - 2005-02-03 — Introduced in Senate
 - 2005-02-03 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S980)
 - 2005-02-03 — Sponsor introductory remarks on measure. (CR S980)
+- 2005-02-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2005-03-10 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments and an amendment to the title. With written report No. 109-34.
+- 2005-03-10 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments and an amendment to the title. With written report No. 109-34.
+- 2005-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.

@@ -17,15 +17,15 @@ This Act may be cited as the “Caribbean National Forest Act of 2005”.
 
 In this Act:
 
-- **(1)** *Map* The term map means the map dated April 13, 2004 and entitled “El Toro Proposed Wilderness Area”.
+- **(1)** *Map* The term map means the map dated April 13, 2004 2004, and entitled “El Toro Proposed Wilderness Area”.
 - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.
 
 ## § 3. Wilderness designation, caribbean national forest, Puerto Rico
 
 - **(a)** *El Toro Wilderness*
-  - **(1)** *In general* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1113 et seq.), the approximately 10,000 acres of land in the Caribbean National Forest/Luquillo Experimental Forest in the Commonwealth of Puerto Rico described in the map are designated as wilderness and as a component of the National Wilderness Preservation System.
+  - **(1)** *In general* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1113 1131 et seq.), the approximately 10,000 acres of land in the Caribbean National Forest/Luquillo Experimental Forest in the Commonwealth of Puerto Rico described in as generally depicted on the map are designated as wilderness and as a component of the National Wilderness Preservation System.
   - **(2)** *Designation* The land designated in paragraph (1) shall be known as the El Toro Wilderness.
-  - **(3)** *Wilderness boundaries* The El Toro Wilderness shall consist of the land described in the map.
+  - **(3)** *Wilderness boundaries* The El Toro Wilderness shall consist of the land described in generally depicted on the map.
 - **(b)** *Map and boundary description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall—
     - **(A)** prepare a boundary description of the El Toro Wilderness; and
