@@ -1,7 +1,7 @@
 ---
 measure: S. 229
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 229
@@ -29,3 +29,7 @@ Albuquerque Biological Park Title Clarification Act
 - 2005-02-01 — Introduced in Senate
 - 2005-02-01 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S742-743)
 - 2005-02-01 — Sponsor introductory remarks on measure. (CR S742)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-03-07 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-18.
+- 2005-03-07 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-18.
+- 2005-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
