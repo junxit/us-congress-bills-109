@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 537
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 537
+
+> To ensure the continuation of successful fisheries mitigation programs.
+
+## § 1. Short title
+
+This Act may be cited as the “National Fisheries Mitigation Coordination Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The operation of dams and other water diversion projects are for the benefit of the American public. The construction and operation of these Federal water resource development projects have had impacts on many water systems and their respective fish populations, resulting in the need to build and operate fish hatcheries to mitigate for aquatic resources affected by these projects.
+- **(2)** In accordance with the Fish and Wildlife Act of 1956 (16 U.S.C. 742(a)–754), the Fish and Wildlife Coordination Act (16 U.S.C. 661–667(e)), the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001–1009), and the National Environmental Policy Act (42 U.S.C. 4321–4347), the Service has established policy (501 FW 2) to seek to mitigate for fish, wildlife, and their habitats, and uses thereof, from the effects of land and water developments.
+- **(3)** The United States Fish and Wildlife Service currently operates nearly 40 fish hatcheries that are involved in mitigation fishery activities related to construction and operation of Federal water resource development projects.
+- **(4)** Mitigation fishery activities conducted by the Service at these facilities are highly valued by the State and Indian tribal partners, and the fishing community.
+- **(5)** Inconsistency in authorities, which now number over 200, to construct and operate Federal water resource development projects have led to myriad mechanisms for funding and conducting Federal mitigation fishery activities. In most cases Federal water project sponsors fund mitigation fishery costs. In some cases the Service expends its appropriations to offset mitigation fishery costs.
+- **(6)** The Service is the Federal agency through which a sponsor agency will negotiate to provide goods and services to augment fisheries to compensate for the impact of Federal water development projects on aquatic resources.
+- **(7)** The sponsor agency should bear the financial responsibility for mitigation fishery costs incurred by the Service.
+
+## § 3. Definitions
+
+For this Act, the following definitions apply:
+
+- **(1)** *Sponsor agency* The term sponsor agency means the United States Army Corps of Engineers, the Bureau of Reclamation, or the Tennessee Valley Authority.
+- **(2)** *Service* The term Service means the United States Fish and Wildlife Service.
+- **(3)** *Mitigation fisheries* The term mitigation fisheries means fisheries augmented by hatchery fish to compensate for the impacts of Federal water development projects on aquatic resources.
+- **(4)** *Mitigation fishery activities* The term mitigation fishery activities means rearing and stocking of native and nonnative fish to replace or maintain harvest levels lost as a result of Federal water resource development projects and includes project planning and evaluation.
+- **(5)** *Mitigation fishery costs* The term mitigation fishery costs means the expenditures necessary to operate, maintain, and rehabilitate facilities to conduct mitigation fishery activities, and include: personnel, transportation, utilities, contractual services, fish feed, supplies, equipment, routine maintenance, deferred maintenance, fish eggs, technical support, fish health, management and administration, planning, and evaluation.
+- **(6)** *Mitigation fishery facility* The term mitigation fishery facility means facilities owned and operated by the United States Fish and Wildlife Service through the National Fish Hatchery System for the purpose, either wholly or in part, of conducting mitigation fishery activities.
+- **(7)** *Fishery mitigation plan* The term fishery mitigation plan refers to a resource management plan developed between the United States Fish and Wildlife Service and one or more sponsor agencies, and in cooperation and coordination with affected States and Indian Tribes, that describes the long-term goals and annual targets for conducting mitigation fishery activities. A fishery mitigation plan shall be approved in advance by a sponsor agency and the Service.
+
+## § 4. Mitigation fishery costs
+
+Not later than October 1, 2007, and each October 1st thereafter, a sponsor agency shall pay to the Service the total amount of funds necessary to meet the mitigation fishery costs to meet objectives described in the fishery mitigation plan for a respective water development project. The funds to be obligated for this purpose shall be identified in advance by the Director of the United States Fish and Wildlife Service.
