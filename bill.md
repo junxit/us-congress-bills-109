@@ -1,0 +1,62 @@
+---
+legis-num: H.R. 1196
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1196
+
+> To improve the security clearance process along the United States-Mexico border, to increase the number of detention beds, and for other purposes.
+
+## § 1. Findings
+
+Congress finds the following:
+
+- **(1)** The United States must have adequate infrastructure and policies in place under the Department of Homeland Security to protect against potential terrorists attempting to enter the United States along the Southwest Border.
+- **(2)** According to top government officials, several Al Qaeda leaders believe operatives can pay their way into the country through Mexico and also believe illegal entry is more advantageous than legal entry for operational security reasons.
+- **(3)** Official border patrol records reveal a disturbing trend on the southern border indicating a growth in other than Mexicans (OTMs), many from countries of interest, crossing into the United States—between 2003 and 2004 the increase was at least 35 percent.
+- **(4)** Because of budget constraints, the U.S. Immigration and Customs Enforcement Office of Detention and Removal does not have sufficient bed space to detain all illegal immigrants from special interest countries therefore releasing them on personal recognizance.
+- **(5)** The Department of Homeland Security estimates that up to 90 percent of these immigrants do not appear for their immigration hearings.
+- **(6)** The Department of Homeland Security needs more personnel at the borders with the necessary security clearances and equipment to adequately screen and detain immigrants coming to the United States.
+- **(7)** The Secretary of Homeland Security should provide appropriate training for inspectors, and associated support staff, on an ongoing basis to utilize new technologies and to ensure that the proficiency levels of such personnel are acceptable to protect the borders of the United States.
+
+## § 2. Improvement in security clearance process along the United States-Mexico border and increase in detention beds
+
+- **(a)** *Improvement in security clearance process* The Secretary of Homeland Security shall—
+  - **(1)** expeditiously implement policies ensuring that personnel of the Department of Homeland Security along the United States-Mexico border have the security clearances required to access information necessary to adequately screen immigrants entering the United States at such border, including IDENT and IAFIS databases and databases used by the Department’s inspectors in secondary inspections;
+  - **(2)** develop the interagency agreements and information technology infrastructure necessary for border agents to adequately screen immigrants entering the United States at such border; and
+  - **(3)** explore information sharing programs with countries of interest to adequately screen immigrants entering our borders.
+- **(b)** *Increase in detention beds* Subject to the availability of appropriations, the Secretary of Homeland Security shall increase by the amount necessary the number of detention beds needed to detain all immigrants apprehended by U.S. Customs and Border Protection.
+- **(c)** *Sense of Congress* It is the sense of the Congress that the Office of Detention and Removal Operation should be placed under the operational control of the Commissioner of U.S. Customs and Border Protection, since the largest client of such office is the Border Patrol.
+
+## § 3. Study of personnel levels
+
+- **(a)** *In general* The Secretary of Homeland Security shall contract with an independent entity to undertake a study to determine the necessary level and allocation of personnel, including support staff, at United States ports of entry and border patrol sectors.
+- **(b)** *Items to be included* Such study shall take into account at least the following:
+  - **(1)** The overall mission of U.S. Customs and Border Protection.
+  - **(2)** Threat and vulnerability information pertaining to the Nation’s borders and ports of entry
+  - **(3)** The impact of new border security programs, policies and technologies, and the level of cross-training received by all staff.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees, as defined in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2)), a report on the study conducted under this section.
+
+## § 4. Ongoing training of border security personnel
+
+The Secretary of Homeland Security shall provide appropriate training for all border security personnel, and associated support staff on an ongoing basis to utilize new technologies and to ensure that the proficiency levels of such personnel are acceptable to protect the borders of the United States.
+
+## § 5. Prompt and proper enforcement
+
+- **(a)** *Sense of Congress* It is the sense of the Congress that—
+  - **(1)** prosecutors and immigration judges are critical for the prompt and proper enforcement of our immigration laws, and are an important part of a comprehensive strategy; and
+  - **(2)** an insufficient number of prosecutors and immigration judges currently exists to enforce the immigration laws of the United States.
+- **(b)** *Authorization* There are hereby authorized to be appropriated amounts necessary to provide for appropriate staff increases for judicial and prosecutorial offices, commensurate with other personnel increases directed in this Act.
+
+## § 6. Report on detention and removal operations
+
+- **(a)** *In general* The Secretary of Homeland Security shall submit to the appropriate congressional committees (as defined in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2))) a report on detention and removal operations, detailing the amount of additional detention space and resources required to detain all persons presenting a possible threat to homeland security.
+- **(b)** *Information to be included* The report shall include information on—
+  - **(1)** alternatives to detention, including electronic monitoring, telephone, and voice recognition programs for those on bond, and conducting deportation proceedings prior to prisoners’ release from Federal, State, and local prisons; and
+  - **(2)** countries to which removal is problematic.
+
+## § 7. Comprehensive border security strategy
+
+The Secretary of Homeland Security, in consultation with the heads of all other Federal agencies with border-related functions or with facilities or lands on or along the border, shall submit to the appropriate congressional committees (as defined in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101)) unclassified and classified versions of a unified, comprehensive strategy to secure the land borders of the United States. Such strategy shall be submitted not later than 6 months after the date of the enactment of this Act and shall include a description of the actions already taken to implement the strategy.
