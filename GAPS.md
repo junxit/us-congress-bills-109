@@ -98,7 +98,7 @@ The complete list of 598 is in [`GAPS-late-votes.tsv`](GAPS-late-votes.tsv),
 which is tab-separated so it can be grepped and diffed without a
 Markdown reader. The first few:
 
-| Measure | Vote | Vote |
+| Measure | Vote | When |
 |---|---|---|
 | `hconres-5` | House 109-1-40 | 2005-03-01, after the last version committed (2005-01-04) |
 | `hconres-6` | House 109-1-24 | 2005-02-09, after the last version committed (2005-01-04) |
