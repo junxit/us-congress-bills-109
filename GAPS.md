@@ -1,4 +1,4 @@
-# Measures without text — 109th Congress
+# What this repository does not hold — 109th Congress
 
 2,302 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
@@ -6,7 +6,7 @@ this repository.
 
 This is an upstream gap, not a build failure. It is heavily
 concentrated in the older Congresses: govinfo's coverage of bill text
-thins out before the 111th, and House organising resolutions -- electing
+thins out before the 111th, and House organizing resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
@@ -81,3 +81,72 @@ reader.
 | `H.Con.Res. 290` | Honoring the goals and ideals of National Nurse Practitioners Week. |
 | `H.Con.Res. 291` | Honoring the service of American Indians in the Armed Forces. |
 | `H.Con.Res. 292` | Expressing the sense of Congress that the United States Postal Service should issue a commemorative postage stamp honoring the late Rosa Parks. |
+
+## Roll-call votes taken after the last published text
+
+598 roll calls were taken later than the most recent
+dated text version of their measure, so there is no commit for them to
+sit on. Every record in this repository is the record *as of* the version
+it accompanies -- see the caveat in the README -- and a vote cannot be
+written onto text that predates it.
+
+This is a limit of the shape of this repository, not an upstream gap and
+not a build failure. The votes themselves are published; they are listed
+here with the address the chamber serves them from.
+
+The complete list of 598 is in [`GAPS-late-votes.tsv`](GAPS-late-votes.tsv),
+which is tab-separated so it can be grepped and diffed without a
+Markdown reader. The first few:
+
+| Measure | Vote | Vote |
+|---|---|---|
+| `hconres-5` | House 109-1-40 | 2005-03-01, after the last version committed (2005-01-04) |
+| `hconres-6` | House 109-1-24 | 2005-02-09, after the last version committed (2005-01-04) |
+| `hconres-16` | House 109-1-8 | 2005-01-25, after the last version committed (2005-01-06) |
+| `hconres-18` | House 109-1-89 | 2005-03-17, after the last version committed (2005-01-06) |
+| `hconres-25` | House 109-1-32 | 2005-02-15, after the last version committed (2005-01-25) |
+| `hconres-26` | House 109-1-25 | 2005-02-09, after the last version committed (2005-01-25) |
+| `hconres-30` | House 109-1-26 | 2005-02-09, after the last version committed (2005-01-26) |
+| `hconres-32` | House 109-1-84 | 2005-03-17, after the last version committed (2005-01-26) |
+| `hconres-34` | House 109-1-93 | 2005-04-05, after the last version committed (2005-01-26) |
+| `hconres-36` | House 109-1-16 | 2005-02-02, after the last version committed (2005-02-01) |
+| `hconres-44` | House 109-1-228 | 2005-06-07, after the last version committed (2005-02-02) |
+| `hconres-81` | House 109-1-137 | 2005-04-27, after the last version committed (2005-03-02) |
+| `hconres-98` | House 109-1-81 | 2005-03-16, after the last version committed (2005-03-15) |
+| `hconres-126` | House 109-1-113 | 2005-04-20, after the last version committed (2005-04-06) |
+| `hconres-127` | House 109-1-155 | 2005-05-04, after the last version committed (2005-04-12) |
+| `hconres-149` | House 109-1-202 | 2005-05-23, after the last version committed (2005-05-11) |
+| `hconres-155` | House 109-1-323 | 2005-06-27, after the last version committed (2005-05-17) |
+| `hconres-160` | House 109-1-292 | 2005-06-21, after the last version committed (2005-05-19) |
+| `hconres-168` | House 109-1-363 | 2005-07-11, after the last version committed (2005-05-26) |
+| `hconres-178` | House 109-1-508 | 2005-09-29, after the last version committed (2005-06-14) |
+| `hconres-181` | House 109-1-418 | 2005-07-25, after the last version committed (2005-06-17) |
+| `hconres-190` | House 109-2-42 | 2006-03-15, after the last version committed (2005-06-23) |
+| `hconres-191` | House 109-1-379 | 2005-07-14, after the last version committed (2005-06-24) |
+| `hconres-196` | House 109-1-614 | 2005-12-07, after the last version committed (2005-06-30) |
+| `hconres-209` | House 109-1-496 | 2005-09-27, after the last version committed (2005-07-14) |
+| `hconres-230` | House 109-1-593 | 2005-11-16, after the last version committed (2005-07-28) |
+| `hconres-245` | House 109-1-504 | 2005-09-29, after the last version committed (2005-09-15) |
+| `hconres-248` | House 109-1-520 | 2005-10-07, after the last version committed (2005-09-20) |
+| `hconres-260` | House 109-1-570 | 2005-11-07, after the last version committed (2005-10-06) |
+| `hconres-268` | House 109-1-594 | 2005-11-16, after the last version committed (2005-10-18) |
+| `hconres-269` | House 109-1-537 | 2005-10-25, after the last version committed (2005-10-20) |
+| `hconres-275` | House 109-1-671 | 2005-12-19, after the last version committed (2005-10-26) |
+| `hconres-284` | House 109-1-667 | 2005-12-19, after the last version committed (2005-10-27) |
+| `hconres-294` | House 109-1-647 | 2005-12-16, after the last version committed (2005-11-09) |
+| `hconres-312` | House 109-1-641 | 2005-12-15, after the last version committed (2005-12-08) |
+| `hconres-315` | House 109-1-638 | 2005-12-15, after the last version committed (2005-12-14) |
+| `hconres-322` | House 109-2-8 | 2006-02-14, after the last version committed (2005-12-16) |
+| `hconres-341` | House 109-2-12 | 2006-02-16, after the last version committed (2006-02-15) |
+| `hconres-359` | House 109-2-114 | 2006-05-03, after the last version committed (2006-03-16) |
+| `hjres-10` | House 109-1-293 | 2005-06-22, after the last version committed (2005-06-14) |
+| `hjres-10` | House 109-1-294 | 2005-06-22, after the last version committed (2005-06-14) |
+| `hjres-10` | House 109-1-295 | 2005-06-22, after the last version committed (2005-06-14) |
+| `hjres-10` | House 109-1-296 | 2005-06-22, after the last version committed (2005-06-14) |
+| `hjres-27` | House 109-1-239 | 2005-06-09, after the last version committed (2005-05-26) |
+| `hjres-52` | House 109-1-291 | 2005-06-21, after the last version committed (2005-05-26) |
+| `hjres-52` | Senate 109-1-191 | 2005-07-19, after the last version committed (2005-05-26) |
+| `hjres-59` | House 109-1-417 | 2005-07-25, after the last version committed (2005-07-14) |
+| `hjres-61` | House 109-1-479 | 2005-09-21, after the last version committed (2005-07-20) |
+| `hjres-65` | House 109-1-548 | 2005-10-27, after the last version committed (2005-09-29) |
+| `hjres-66` | House 109-1-494 | 2005-09-27, after the last version committed (2005-09-21) |
