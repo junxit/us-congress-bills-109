@@ -1,0 +1,35 @@
+---
+legis-num: S. 605
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 605
+
+> To amend the Internal Revenue Code of 1986 to restore the phaseout of personal exemptions and the overall limitation on itemized deductions, and to create a trust fund for the funding of education programs.
+
+## § 1. Short title
+
+This Act may be cited as the “Education Funding Act of 2005”.
+
+## § 2. Restoration of phaseout of personal exemptions
+
+- **(a)** *In general* Paragraph (3) of section 151(d) of the Internal Revenue Code of 1986 (relating to exemption amount) is amended by striking subparagraphs (E) and (F).
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2005.
+
+## § 3. Restoration of phaseout of overall limitation on itemized deductions
+
+- **(a)** *In general* Section 68 of the Internal Revenue Code of 1986 is amended by striking subsections (f) and (g).
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2005.
+
+## § 4. Dedication of revenues for education programs
+
+- **(a)** *Creation of trust fund* There is established in the Treasury of the United States a trust fund to be known as the “Education Trust Fund”, consisting of such amounts as may be appropriated or credited to the Education Trust Fund as provided in this section.
+- **(b)** *Transfers to Education Trust Fund*
+  - **(1)** *In general* There are hereby appropriated to the Education Trust Fund amounts equivalent to the sum of 50 percent of the net PEP revenues and 50 percent of the net Pease revenues received in the Treasury.
+  - **(2)** *Definitions*
+    - **(A)** *Net PEP revenues* For purposes of paragraph (1), the term net PEP revenues means the amount estimated by the Secretary of the Treasury based on the taxes received under chapter 1 of the Internal Revenue Code of 1986 which are attributable to the amendment made by section 2 of this Act.
+    - **(B)** *Net Pease revenues* For purposes of paragraph (1), the term net Pease revenues means the amount estimated by the Secretary of the Treasury based on the taxes received under chapter 1 of the Internal Revenue Code of 1986 which are attributable to the amendment made by section 3 of this Act.
+- **(c)** *Expenditures from trust fund* Amounts in the Education Trust Fund shall be available, as provided in appropriations Acts, only for programs administered by the Department of Education to the degree that funding for the specified programs are increased from the fiscal year 2005 level.
+- **(d)** *Other special rules* Rules similar to the rules of subchapter B of chapter 98 of the Internal Revenue Code of 1986 shall apply for purposes of this section.
