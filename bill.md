@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Buffalo Soldiers commemoration Act of 2005”.
+-  This Act may be cited as the “Buffalo Soldiers commemoration Commemoration Act of 2005”.
 
 ## § 2. Establishment of Buffalo Soldiers memorial
 
