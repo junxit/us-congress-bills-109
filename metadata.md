@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 136
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 136
@@ -16,7 +16,7 @@ Directing the Attorney General and the Secretary of Homeland Security to transmi
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (28)
+## Cosponsors (33)
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
@@ -46,6 +46,11 @@ Directing the Attorney General and the Secretary of Homeland Security to transmi
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Olver, John W. [D-MA-1] (O000085)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Sanders, Bernard [I-VT-At Large] (S000033)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
 
 ## Committees (1)
 
@@ -57,3 +62,8 @@ Directing the Attorney General and the Secretary of Homeland Security to transmi
 - 2005-03-03 — Introduced in House
 - 2005-03-03 — Referred to the House Committee on the Judiciary.
 - 2005-03-03 — Sponsor introductory remarks on measure. (CR E354-355)
+- 2005-03-16 — Committee Consideration and Mark-up Session Held.
+- 2005-03-16 — Ordered to be Reported Adversely by the Yeas and Nays: 21 - 10.
+- 2005-04-05 — Placed on the House Calendar, Calendar No. 18.
+- 2005-04-05 — Reported adversely by the Committee on Judiciary. H. Rept. 109-30.
+- 2005-04-05 — Reported adversely by the Committee on Judiciary. H. Rept. 109-30.
