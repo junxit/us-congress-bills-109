@@ -1,7 +1,7 @@
 ---
 measure: S. 306
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 306
@@ -16,7 +16,7 @@ Genetic Information Nondiscrimination Act of 2005
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Frist, William H. [R-TN] (F000439)
 - Sen. Gregg, Judd [R-NH] (G000445)
@@ -32,6 +32,7 @@ Genetic Information Nondiscrimination Act of 2005
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. DeWine, Mike [R-OH] (D000294)
 
 ## Committees (1)
 
@@ -42,3 +43,7 @@ Genetic Information Nondiscrimination Act of 2005
 - 2005-02-07 — Introduced in Senate
 - 2005-02-07 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
 - 2005-02-07 — Sponsor introductory remarks on measure. (CR S1056-1057)
+- 2005-02-09 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2005-02-10 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.
+- 2005-02-10 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.
+- 2005-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
