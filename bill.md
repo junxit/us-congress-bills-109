@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Rio Grande Natural Area Act”.
+This Act may be cited as the “ Rio Grande Natural Area Act ”.
 
 ## § 2. Definitions
 
