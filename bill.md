@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 344
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 344
+
+> To establish a pilot program of Afghanistan scholarships for undergraduate and graduate level public policy internships in the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Afghanistan Education Enhancement Act of 2005”.
+
+## § 2. Afghanistan scholarship program for public policy internships
+
+- **(a)** *Pilot program established* As part of the educational and cultural exchange programs of the Department of State, the Secretary of State shall establish a pilot program for the fiscal years 2006, 2007, and 2008, of scholarships for undergraduate and graduate students from Aghanistan for public policy internships in the United States. Subject to the availability of appropriations, for each fiscal year 20 students shall participate in the program established under this section.
+- **(b)** *General provisions*
+  - **(1)** *In general* Except as otherwise provided in this section, the program established pursuant to subsection (a) shall be carried out under applicable provisions of the United States Information and Educational Exchange Act of 1948 and the Mutual Educational and Cultural Exchange Act of 1961.
+  - **(2)** *Scholarship eligibility requirements* In addition to such other requirements as may be established by the Secretary of State, a scholarship recipient under this section—
+    - **(A)** shall be proficient in the English language;
+    - **(B)** shall be a student at an undergraduate or graduate school level at an accredited institution of higher education with a record of outstanding academic achievement and demonstrated intellectual abilities; and
+    - **(C)** may not have received an academic scholarship or grant from the United States Government in the 3 years preceding the award of a scholarship under this section.
+  - **(3)** *Internships* Internships under this section shall be for periods of not more than 6 months.
+- **(c)** *Authorization of appropriations* In addition to such amounts as are otherwise authorized to be appropriated for the Department of State for educational and cultural exchange programs, there are authorized to be appropriated for each of the fiscal years 2006, 2007, and 2008, $250,000 to carry out this Act.
