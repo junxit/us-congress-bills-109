@@ -18,7 +18,7 @@ This Act may be cited as the “Uintah Research and Curatorial Center Act”.
 In this Act:
 
 - **(1)** *Center* The term Center means the Uintah Research and Curatorial Center.
-- **(2)** *Map* The term map means the map entitled “Proposed Location of the Uintah Research and Curatorial Center”, numbered 122/80,080, and dated May 2004.
+- **(2)** *Map* The term map means the map entitled “Proposed Location of the Uintah Uinta Research and Curatorial Center”, numbered 122/80,080, and dated May 2004.
 - **(3)** *Monument* The term Monument means the Dinosaur National Monument in the States of Colorado and Utah.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
