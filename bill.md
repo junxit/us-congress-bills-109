@@ -1,0 +1,57 @@
+---
+legis-num: S. 305
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 305
+
+> To authorize the Secretary of the Interior to recruit volunteers to assist with or facilitate the activities of various agencies and offices of the Department of the Interior.
+
+## § 1. Short title
+
+This Act may be cited as the “Department of the Interior Volunteer Recruitment Act of 2005”.
+
+## § 2. Purpose
+
+The purpose of this Act is to authorize the Secretary of the Interior to recruit and use volunteers to assist with or facilitate the programs of the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary.
+
+## § 3. Volunteer authority
+
+- **(a)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) may, without regard to the civil service laws (including regulations), recruit, train, and accept the services of individuals, contributed without compensation as volunteers, to assist with or facilitate the activities administered by the Secretary through the Bureau of Indian Affairs, the United States Geological Survey, the Bureau of Reclamation, and the Office of the Secretary.
+- **(b)** *Restrictions on activities of volunteers*
+  - **(1)** *In general* In accepting the services of volunteers, the Secretary shall not permit the use of volunteers—
+    - **(A)** in law enforcement;
+    - **(B)** in regulatory and enforcement work;
+    - **(C)** in policymaking processes; or
+    - **(D)** to displace any employee.
+  - **(2)** *Private property* No volunteer services authorized by this Act may be conducted on private property unless the officer or employee supervising the volunteer obtains from the property owner appropriate consent to enter the property.
+  - **(3)** *Hazardous duty* The Secretary may accept the services of a volunteer in hazardous duty only if the Secretary determines that the volunteer is skilled in performing hazardous duty activities.
+  - **(4)** *Supervision* The Secretary shall ensure that an appropriate officer or employee of the United States provides adequate and appropriate supervision of each individual that volunteers under this Act.
+- **(c)** *Provision of services and costs* The Secretary may provide for services and costs incidental to the use of volunteers under this Act, including—
+  - **(1)** transportation;
+  - **(2)** supplies;
+  - **(3)** uniforms;
+  - **(4)** lodging;
+  - **(5)** without regard to the place of residence of the volunteers, subsistence;
+  - **(6)** recruiting;
+  - **(7)** training;
+  - **(8)** supervision; and
+  - **(9)** awards and recognition, including nominal cash awards.
+- **(d)** *Federal employment status of volunteers*
+  - **(1)** *In general* Except as otherwise provided in this subsection, a volunteer under this Act shall not be—
+    - **(A)** considered to be a Federal employee; or
+    - **(B)** subject to any provision of law relating to Federal employment, including provisions relating to—
+      - **(i)** hours of work;
+      - **(ii)** rates of compensation;
+      - **(iii)** leave;
+      - **(iv)** unemployment compensation; and
+      - **(v)** Federal employee benefits.
+  - **(2)** *Liability* Volunteers under this Act shall be considered to be employees of the United States for the purposes of—
+    - **(A)** chapter 171 title 28, United States Code;
+    - **(B)** subchapter I of chapter 81 of title 5, United States Code; and
+    - **(C)** claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, which shall be subject to section 3721 of title 31, United States Code.
+  - **(3)** *Conflicts of interest*
+    - **(A)** *In general* Volunteers under this Act shall be subject to chapter 11 of title 18, United States Code, unless the Secretary, with the concurrence of the Director of the Office of Government Ethics, determines that the provisions of that chapter, other than section 201, shall not apply to the actions of a class of volunteers who carry out only those duties or functions specified in the determination.
+    - **(B)** *Publication of determination* The Secretary shall publish in the Federal Register any determinations made under subparagraph (A).
