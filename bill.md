@@ -1,13 +1,11 @@
 ---
 legis-num: S. 156
-congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: 
+session: 
+chamber: 
 ---
 
 # S. 156
-
-> To designate the Ojito Wilderness Study Area as wilderness, to take certain land into trust for the Pueblo of Zia, and for other purposes.
 
 ## § 1. Short title
 
@@ -24,16 +22,16 @@ In this Act:
 
 ## § 3. Designation of the Ojito Wilderness
 
-- **(a)** *In general* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), there is hereby designated as wilderness, and, therefore, as a component of the National Wilderness Preservation System, certain land in the Albuquerque District-Bureau of Land Management, New Mexico, which comprise approximately 11,183 acres, as generally depicted on the map, and which shall be known as the “Ojito Wilderness”.
+- **(a)** *In general* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), there is hereby designated as wilderness, and, therefore, as a component of the National Wilderness Preservation System, certain land in the Albuquerque District-Bureau of Land Management, New Mexico, which comprise comprises approximately 11,183 acres, as generally depicted on the map, and which shall be known as the “Ojito Wilderness”.
 - **(b)** *Map and legal description* The map and a legal description of the wilderness area designated by this Act shall—
   - **(1)** be filed by the Secretary with the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives as soon as practicable after the date of enactment of this Act;
   - **(2)** have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the legal description and map; and
   - **(3)** be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
-- **(c)** *Management of Wilderness* Subject to valid existing rights, the wilderness area designated by this Act shall be managed by the Secretary in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and this Act, except that, with respect to the wilderness area designated by this Act, any reference in the Wilderness Act to the effective date of the Wilderness Act shall be deemed to be a reference to the date of enactment of this Act.
+- **(c)** *Management of wilderness* Subject to valid existing rights, the wilderness area designated by this Act shall be managed by the Secretary in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and this Act, except that, with respect to the wilderness area designated by this Act, any reference in the Wilderness Act to the effective date of the Wilderness Act shall be deemed to be a reference to the date of enactment of this Act.
 - **(d)** *Management of newly Acquired land* If acquired by the United States, the following land shall become part of the wilderness area designated by this Act and shall be managed in accordance with this Act and other applicable law:
   - **(1)** Section 12 of township 15 north, range 01 west, New Mexico Principal Meridian.
   - **(2)** Any land within the boundaries of the wilderness area designated by this Act.
-- **(e)** *Management of Lands to be Added* The lands generally depicted on the map as “Lands to be Added” shall become part of the wilderness area designated by this Act if the United States acquires, or alternative adequate access is available to, section 12 of township 15 north, range 01 west.
+- **(e)** *Management of Lands to be Added* The lands generally depicted on the map as “Lands to be Added” shall become part of the wilderness area designated by this Act if the United States acquires, or alternative adequate access is available to, section 12 of township 15 north, range 01 west, New Mexico Principal Meridian.
 - **(f)** *Release* The Congress hereby finds and directs that the lands generally depicted on the map as “Lands to be Released” have been adequately studied for wilderness designation pursuant to section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1782) and no longer are subject to the requirement of section 603(c) of such Act (43 U.S.C. 1782(c)) pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 - **(g)** *Grazing* Grazing of livestock in the wilderness area designated by this Act, where established before the date of enactment of this Act, shall be administered in accordance with the provisions of section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)) and the guidelines set forth in Appendix A of the Report of the Committee on Interior and Insular Affairs to accompany H.R. 2570 of the One Hundred First Congress (H. Rept. 101–405).
 - **(h)** *Fish and wildlife* As provided in section 4(d)(7) of the Wilderness Act (16 U.S.C. 1133(d)(7)), nothing in this section shall be construed as affecting the jurisdiction or responsibilities of the State with respect to fish and wildlife in the State.
@@ -69,7 +67,7 @@ In this Act:
   - **(3)** *Availability* Any amounts paid under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition from willing sellers of land or interests in land in the State.
 - **(d)** *Public access*
   - **(1)** *In general* Subject to paragraph (2), the declaration of trust and conveyance under subsection (a) shall be subject to the continuing right of the public to access the land for recreational, scenic, scientific, educational, paleontological, and conservation uses, subject to any regulations for land management and the preservation, protection, and enjoyment of the natural characteristics of the land that are adopted by the Pueblo and approved by the Secretary: Provided, That the Secretary shall ensure that the rights provided for in this paragraph are protected and that a process for resolving any complaints by an aggrieved party is established.
-  - **(2)** *Conditions* Except as provided in subsection (f)—
+  - **(2)** *Conditions* Except as provided in subsection (f) subsection (e)—
     - **(A)** the land conveyed under subsection (a) shall be maintained as open space and the natural characteristics of the land shall be preserved in perpetuity; and
     - **(B)** the use of motorized vehicles (except on existing roads or as is necessary for the maintenance and repair of facilities used in connection with grazing operations), mineral extraction, housing, gaming, and other commercial enterprises shall be prohibited within the boundaries of the land conveyed under subsection (a).
 - **(e)** *Rights of way*
