@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-177 amendatory instructions. 54 executed, 123 stated and not applied.
+180 amendatory instructions. 56 executed, 124 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -152,6 +152,15 @@ to guess them.
 
 ### 20 U.S.C. § 6311
 
+> by striking “or its recognized equivalent,” and inserting “, General Education Development credential (GED), or other State-recognized equivalent (including recognized alternative standards for individuals with disabilities), or”; and
+
+| | |
+|---|---|
+| Removed | `or its recognized equivalent,` |
+| Inserted | `, General Education Development credential (GED), or other State-recognized equivalent (including recognized alternative standards for individuals with disabilities), or` |
+
+### 20 U.S.C. § 6311
+
 > in clause (v) (as so redesignated), by striking “training and employment” and inserting “fields”;
 
 | | |
@@ -188,11 +197,20 @@ to guess them.
 
 ### 20 U.S.C. § 2323
 
-> in clause (vii), by striking “under clause (iii) or (iv)” and inserting “under clause (iii) or (v)”.
+> by striking “clause (vi)(II)” and inserting “clause (vi)”; and
 
 | | |
 |---|---|
-| Removed | `under clause (iii) or (iv)` |
+| Removed | `clause (vi)(II)` |
+| Inserted | `clause (vi)` |
+
+### 20 U.S.C. § 2323
+
+> by striking “under clause (iii) or (vi)” and inserting “under clause (iii) or (v)”.
+
+| | |
+|---|---|
+| Removed | `under clause (iii) or (vi)` |
 | Inserted | `under clause (iii) or (v)` |
 
 ### 20 U.S.C. § 6311
@@ -233,7 +251,7 @@ to guess them.
 
 ### 20 U.S.C. § 2324
 
-> in subclause (I), by striking “and tech-prep students” and inserting “and students participating in the activities described in section 135(b)(3)” ;
+> in subclause (I), by striking “and tech-prep students” and inserting “and students participating in the activities described in section 135(b)(3)”;
 
 | | |
 |---|---|
@@ -503,12 +521,12 @@ to guess them.
 
 ### 20 U.S.C. § 2355
 
-> in paragraph (8), by striking “aides” and inserting “aids”;
+> in paragraph (8), by striking “aides” and inserting “aids and publications”;
 
 | | |
 |---|---|
 | Removed | `aides` |
-| Inserted | `aids` |
+| Inserted | `aids and publications` |
 
 ## Stated, not applied
 
@@ -526,7 +544,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 2302` | insert | by inserting “rigorous and challenging” after “required”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 2302` | insert | by inserting “current and” after “technology, and other”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 2302` | redesignate | in paragraph (19) (as so redesignated), by striking “the Republic of the Marshall Islands, the Federated States of Micronesia,”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 780137` | redesignate | by inserting after paragraph (21) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | redesignate | by inserting after paragraph (21) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2302` | strike | in subparagraph (E), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 2302` | strike | by striking “individuals with other barriers to educational achievement, including”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 2302` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -547,7 +565,6 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6311` | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | insert | in the subparagraph heading, by inserting “for secondary students” after “performance”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | insert | by inserting “of secondary students that are, to the extent practicable, valid and reliable and” after “indicators of performance”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6311` | insert | by inserting “under State law (including recognized alternative standards for individuals with disabilities)” after “recognized equivalent” ; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 6311` | strike | by striking “, or a postsecondary degree or credential”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6311` | amend | by amending clause (iii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6311` | redesignate | by redesignating clause (iv) as clause (v) and inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -591,7 +608,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7801` | insert | in paragraph (11), by inserting “and technology” after “equipment”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7801` | redesignate | by striking paragraph (19) and redesignating paragraphs (12) through (18) as paragraphs (13) through (19), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | insert | by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7801` | redesignate | by redesignating paragraphs (20) and (21) as paragraphs (22) and (23), respectively, and inserting after paragraph (18) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | redesignate | by redesignating paragraphs (20) and (21) as paragraphs (22) and (23), respectively, and inserting after paragraph (19) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2342` | redesignate | by striking subsections (d) and (f) and redesignating subsection (e) as subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2343` | amend | Section 123 (20 U.S.C. 2343) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | insert | by inserting “, and the required math and science education,” after “use of technology in vocational and technical education”; and | the bill quotes the text inserted but describes where it goes |
@@ -619,7 +636,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7801` | redesignate | in subparagraph (D) (as so redesignated), by inserting “rigorous and” after “taught to the same”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 2354` | redesignate | by redesignating paragraphs (4) through (10) as paragraphs (5) through (11), respectively, and inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2354` | insert | by inserting “academic and vocational and technical” after “students,”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 2354` | insert | by inserting “(including the eligible recipients that offer elements of the model sequence of courses)” after “such individuals and entities” ; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 2354` | insert | by inserting “(including the eligible recipients that offer elements of the model sequence of courses)” after “such individuals and entities”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 2354` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 2354` | insert | in subparagraph (B), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 2354` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -637,7 +654,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 2355` | redesignate | by amending paragraph (16) (as so redesignated) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2355` | redesignate | by inserting after paragraph (16) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2071` | repeal | Title II (20 U.S.C. 2071 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 2391` | redesignate | Title III of the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2391 et seq.) is amended by redesignating such title as title II of such Act. Such title is further amended by redesignating sections 311 through … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2391` | strike | by striking section 318; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2391` | redesignate | by redesignating such title as title II of such Act; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2391` | redesignate | by redesignating sections 311 through 317 as section 211 through 217 and sections 321 through 325 as sections 221 through 225, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2391` | strike | by striking the items relating to title III; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2391` | amend | by amending the items relating to title II to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2391` | redesignate | Section 211(b) (20 U.S.C. 2391(b)) (as so redesignated) is amended by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

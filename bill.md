@@ -37,7 +37,7 @@ Wherever in this Act an amendment is expressed in terms of an amendment to or re
     - **(C)** by inserting “current and” after “technology, and other”;
   - **(8)** in paragraph (19) (as so redesignated), by striking “the Republic of the Marshall Islands, the Federated States of Micronesia,”;
   - **(9)** by inserting after paragraph (21) (as so redesignated) the following:
-    > - **(22)** *Scientifically based research* The term scientifically based research has the meaning given that term in section 9101(37) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 780137).
+    > - **(22)** *Scientifically based research* The term scientifically based research has the meaning given that term in section 9101(37) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(37)).
 
   - **(10)** in paragraph (25) (as so redesignated)—
     - **(A)** in subparagraph (C), by striking “training and employment” and inserting “fields”;
@@ -59,7 +59,7 @@ Wherever in this Act an amendment is expressed in terms of an amendment to or re
     > - **(A)** offer a sequence of courses that—
     >   - **(i)** provides individuals with the rigorous and challenging academic and technical knowledge and skills the individuals need to prepare for further education and for careers (other than careers requiring a master’s or doctoral degree) in current or emerging employment sectors;
     >   - **(ii)** may include the provision of skills or courses necessary to enroll in a sequence of courses that meet the requirements of this subparagraph; and
-    >   - **(iii)** provides, at the postsecondary level, for a 1-year certificate, an associate degree, or industry recognized credential; and
+    >   - **(iii)** provides, at the postsecondary level, for a 1-year certificate, an associate degree, or industry-recognized credential; and
 
 ## § 4. Transition provisions
 
@@ -84,6 +84,7 @@ Section 8 (20 U.S.C. 2307) is amended to read as follows:
   > - **(a)** *Local control* Nothing in this Act shall be construed to authorize an officer or employee of the Federal government to mandate, direct, or control a State, local educational agency, or school’s curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this Act.
   > - **(b)** *No preclusion of other assistance* Any State that declines to submit an application to the Secretary for assistance under this Act shall not be precluded from applying for assistance under any other program administered by the Secretary.
   > - **(c)** *Prohibition on requiring Federal approval or certification of standards* Notwithstanding any other provision of Federal law, no State shall be required to have academic and vocational and technical content or student academic and vocational and technical achievement standards approved or certified by the Federal government, in order to receive assistance under this Act.
+  > - **(d)** *Rule of construction* Nothing in this section shall be construed to affect the requirements under section 113.
 
 - **(b)** *Table of contents amendment* The table of contents in section 1(b) is amended by inserting after the item relating to section 8 the following:
 
@@ -137,10 +138,10 @@ Section 8 (20 U.S.C. 2307) is amended to read as follows:
       - **(ii)** by inserting “of secondary students that are, to the extent practicable, valid and reliable and” after “indicators of performance”;
       - **(iii)** in clause (i), by striking “State established academic,” and inserting “academic content and achievement standards, as established by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)),”;
       - **(iv)** in clause (ii)—
-        - **(I)** by inserting “under State law (including recognized alternative standards for individuals with disabilities)” after “recognized equivalent” ; and
+        - **(I)** by striking “or its recognized equivalent,” and inserting “, General Education Development credential (GED), or other State-recognized equivalent (including recognized alternative standards for individuals with disabilities), or”; and
         - **(II)** by striking “, or a postsecondary degree or credential”;
       - **(v)** by amending clause (iii) to read as follows:
-        > - **(iii)** Student graduation rates (as described in section 111(b)(2)(C)(vi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(vi))).
+        > - **(iii)** Student graduation rates (as described in section 1111(b)(2)(C)(vi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(vi))).
 
       - **(vi)** by redesignating clause (iv) as clause (v) and inserting after clause (iii) the following:
         > - **(iv)** Placement in postsecondary education or advanced training, placement in military service, or placement in employment.
@@ -170,7 +171,9 @@ Section 8 (20 U.S.C. 2307) is amended to read as follows:
         >   - **(III)** *Agreements incorporated into State plan* The State adjusted levels of performance agreed to under this clause shall be considered the State adjusted levels of performance for the State for such years and shall be incorporated into the State plan.
 
       - **(iii)** in clause (vi)(II), by inserting “and substantial” after “continuous”; and
-      - **(iv)** in clause (vii), by striking “under clause (iii) or (iv)” and inserting “under clause (iii) or (v)”.
+      - **(iv)** in clause (vii)—
+        - **(I)** by striking “clause (vi)(II)” and inserting “clause (vi)”; and
+        - **(II)** by striking “under clause (iii) or (vi)” and inserting “under clause (iii) or (v)”.
 - **(c)** *Local levels of performance* Section 113(b) is further amended by adding at the end the following:
   > - **(4)** *Local levels of performance*
   >   - **(A)** *Local adjusted levels of performance for core indicators of performance*
@@ -186,12 +189,12 @@ Section 8 (20 U.S.C. 2307) is amended to read as follows:
   >     - **(v)** *Factors* The agreement described in clause (iii) or (iv) shall take into account—
   >       - **(I)** how the levels of performance involved compare with the local adjusted levels of performance established for other eligible recipients taking into account factors including the characteristics of participants when the participants entered the program and the services or instruction to be provided; and
   >       - **(II)** the extent to which such levels of performance promote continuous and substantial improvement on the indicators of performance by such eligible recipient.
-  >     - **(vi)** *Revisions* If unanticipated circumstances arise with respect to an eligible recipient resulting in a significant change in the factors described in clause (v)(II), the eligible recipient may request that the local adjusted levels of performance agreed to under clause (iii) or (iv) be revised. The eligible agency shall issue objective criteria and methods for making such revisions.
+  >     - **(vi)** *Revisions* If unanticipated circumstances arise with respect to an eligible recipient resulting in a significant change in the factors described in clause (v), the eligible recipient may request that the local adjusted levels of performance agreed to under clause (iii) or (iv) be revised. The eligible agency shall issue objective criteria and methods for making such revisions.
   >   - **(B)** *Levels of performance for additional indicators* Each eligible recipient may identify in the local plan, local levels of performance for any additional indicators of performance. Such levels shall be considered to be the local levels of performance for purposes of this title.
   >   - **(C)** *Local report*
   >     - **(i)** *Content of report* Each eligible recipient that receives an allotment under section 111 shall annually prepare and submit to the eligible agency a report regarding—
   >       - **(I)** the progress of such recipient in achieving the local adjusted levels of performance on the core indicators of performance; and
-  >       - **(II)** in the case of an eligible recipient that receives funds described in section 112(a) for activities described in section 135(b)(3), the progress in achieving the local adjusted levels of performance on the core indicators of performance with respect to tech prep program participants.
+  >       - **(II)** in the case of an eligible recipient that receives funds described in section 112(a) for activities described in section 135(b)(3), the progress in achieving the local adjusted levels of performance on the core indicators of performance with respect to tech-prep program participants.
   >     - **(ii)** *Data* Each eligible recipient shall—
   >       - **(I)** disaggregate data for each of the indicators of performance under section 113(b)(2) for the categories of students enumerated under section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 that are served under this Act; and
   >       - **(II)** identify and quantify any disparities or gaps in performance between any such category of students and the performance of all students served by the eligible recipient under the Act.
@@ -224,7 +227,7 @@ Section 8 (20 U.S.C. 2307) is amended to read as follows:
       - **(iii)** in clause (i) (as so redesignated), by striking “, and academic, curricula in vocational and technical education programs,” and inserting “education (such as meeting State established teacher certification or licensing requirements)”; and
       - **(iv)** in clause (ii) (as so redesignated)—
         - **(I)** by striking “and employment outcomes” and all that follows through “including analyses of” and inserting “and vocational and technical education achievement and employment outcomes of vocational and technical education students, including analyses of”;
-        - **(II)** in subclause (I), by striking “and tech-prep students” and inserting “and students participating in the activities described in section 135(b)(3)” ;
+        - **(II)** in subclause (I), by striking “and tech-prep students” and inserting “and students participating in the activities described in section 135(b)(3)”;
         - **(III)** in subclause (II), by striking “academic, and vocational and technical, education” and inserting “rigorous and challenging academic and vocational and technical education, including a review of the effect of integrated rigorous and challenging academic and vocational and technical education on the achievement of students”; and
         - **(IV)** in subclause (III), by inserting “, particularly those in which math and science skills are critical,” after “high-skill careers”; and
     - **(C)** in subparagraph (C)—
@@ -331,7 +334,7 @@ Section 122 (20 U.S.C. 2342) is amended—
     - **(i)** by redesignating subparagraphs (A) through (D) as subparagraphs (B) through (E), respectively, and inserting before such subparagraphs (as so redesignated) the following:
       > - **(A)** the development of model sequences of courses for vocational and technical content areas that—
       >   - **(i)** incorporate both secondary and postsecondary education elements;
-      >   - **(ii)** include rigorous and challenging academic content and vocational and technical content in a coordinated, nonduplicative progression of courses;
+      >   - **(ii)** include rigorous and challenging academic content and vocational and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare sudents to succeed in postsecondary education;
       >   - **(iii)** lead to a postsecondary 1-year certificate, associate or baccalaureate degree, or a proficiency credential in conjunction with a secondary school diploma; and
       >   - **(iv)** may be adopted by local educational agencies and postsecondary institutions to be offered as an option to students (and their parents as appropriate), when choosing future coursework;
 
@@ -366,9 +369,9 @@ Section 122 (20 U.S.C. 2342) is amended—
     > - **(12)** describes how the eligible agency will ensure that any entity in the State that purchases equipment with funds under this Act will dispose of that equipment in such a manner as to ensure that any personally identifiable information contained in that equipment will be totally destroyed prior to, or as part of, the disposition;
 
   - **(H)** in paragraph (18) (as so redesignated), by striking “training and employment” and inserting “fields”; and
-  - **(I)** by redesignating paragraphs (20) and (21) as paragraphs (22) and (23), respectively, and inserting after paragraph (18) the following:
+  - **(I)** by redesignating paragraphs (20) and (21) as paragraphs (22) and (23), respectively, and inserting after paragraph (19) (as so redesignated) the following:
     > - **(20)** describes how the eligible agency will award grants, on a competitive basis or on the basis of a formula determined by the eligible agency, using funds described in section 112 (a) (1) for activities described in section 135(b)(3);
-    > - **(21)** describes how the eligible agency will carry out measurable, sustainable, and coordinated tech-prep activities in the State (as described in section 135(b)(3)), with funds allocated under section 112(a), that are developed in consultation with the entities described in subsection (b)(1) and that effectively prepare students for post-secondary education or employment in high demand occupations through a seamless program of study consisting of appropriate advanced academic and technical courses that include a minimum of 2 years of secondary school preceding graduation and a minimum of 2 years of higher education or an apprenticeship program of at least 2 years following secondary instruction;
+    > - **(21)** describes how the eligible agency will carry out measurable, sustainable, and coordinated tech-prep activities in the State (as described in section 135(b)(3)), with funds allocated under section 112(a), that are developed in consultation with the entities described in subsection (b)(1) and that effectively prepare students for post-secondary education or employment in high-demand occupations through a seamless program of study consisting of appropriate advanced academic and technical courses that include a minimum of 2 years of secondary school preceding graduation and a minimum of 2 years of higher education or an apprenticeship program of at least 2 years following secondary instruction;
 
 - **(4)** by striking subsections (d) and (f) and redesignating subsection (e) as subsection (d).
 
@@ -382,7 +385,7 @@ Section 123 (20 U.S.C. 2343) is amended to read as follows:
 >   - **(1)** *Plan* If a State fails to meet the agreed upon State adjusted levels of performance required under section 113(b)(3), the eligible agency shall develop and implement a program improvement plan (with special consideration to performance gaps identified under section 113(c)(2)) in consultation with the appropriate agencies, individuals, and organizations for the first program year succeeding the program year in which the eligible agency failed to meet the State adjusted levels of performance, in order to avoid a sanction under paragraph (3).
 >   - **(2)** *Technical assistance* If the Secretary determines that an eligible agency is not properly implementing the eligible agency’s responsibilities under section 122, or is not making substantial progress in meeting the purposes of this Act, based on the State’s adjusted levels of performance, the Secretary shall work with the eligible agency to implement improvement activities consistent with the requirements of this Act.
 >   - **(3)** *Subsequent action*
->     - **(A)** *In general* If an eligible agency fails to meet the State adjusted levels of performance and the purposes of this Act, has not implemented an improvement plan as described in paragraph (1), has shown no improvement within 1 year after implementing an improvement plan as described in paragraph (1), or has failed to meet the State adjusted levels of performance for 2 or more consecutive years, the Secretary may, after notice and opportunity for a hearing, withhold from the eligible agency all, or a portion of, the eligible agency’s allotment under this title.
+>     - **(A)** *In general* If an eligible agency fails to meet the State adjusted levels of performance and the purposes of this Act, has not implemented an improvement plan as described in paragraph (1), has shown no improvement within 1 year after implementing an improvement plan as described in paragraph (1), or has failed to meet the State adjusted levels of performance and the purposes of this Act for 2 or more consecutive years, the Secretary may, after notice and opportunity for a hearing, withhold from the eligible agency all, or a portion of, the eligible agency’s allotment under this title.
 >     - **(B)** *Waiver for exceptional circumstances* The Secretary may waive the sanction in subparagraph (A) due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
 >   - **(4)** *Funds resulting from reduced allotments*
 >     - **(A)** *In general* The Secretary shall use funds withheld under paragraph (3) for a State served by an eligible agency, to provide (through alternative arrangements) services and activities within the State to meet the purposes of this Act.
@@ -397,7 +400,7 @@ Section 123 (20 U.S.C. 2343) is amended to read as follows:
 >     - **(B)** *Consultation* The eligible agency shall conduct the activities described in paragraph (2) in consultation with teachers, parents, other school staff, appropriate agencies, and other appropriate individuals and organizations.
 >   - **(3)** *Technical assistance* If the eligible agency determines that an eligible recipient is not properly implementing the eligible recipient’s responsibilities under section 134, or is not making substantial progress in meeting the purpose of this Act, based on the local adjusted levels of performance, the eligible agency shall provide technical assistance to the eligible recipient to assist such recipient in carrying out the improvement activities consistent with the requirements of this Act.
 >   - **(4)** *Subsequent action*
->     - **(A)** *In general* If an eligible recipient fails to meet the local adjusted levels of performance as described in section 113(b)(4) and the purposes of this Act, has not implemented an improvement plan as described in paragraph (2), has shown no improvement within 1 year after implementing an improvement plan as described in paragraph (2), or has failed to meet the local adjusted levels of performance for 2 or more consecutive years, the eligible agency may, after notice and opportunity for a hearing, withhold from the eligible recipient all, or a portion of, the eligible recipient’s allotment under this title.
+>     - **(A)** *In general* If an eligible recipient fails to meet the local adjusted levels of performance as described in section 113(b)(4) and the purposes of this Act, has not implemented an improvement plan as described in paragraph (2), has shown no improvement within 1 year after implementing an improvement plan as described in paragraph (2), or has failed to meet the local adjusted levels of performance and the purposes of this Act for 2 or more consecutive years, the eligible agency may, after notice and opportunity for a hearing, withhold from the eligible recipient all, or a portion of, the eligible recipient’s allotment under this title.
 >     - **(B)** *Waiver for exceptional circumstances* The eligible agency may waive the sanction under this paragraph due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
 >   - **(5)** *Funds resulting from reduced allotments* The eligible agency shall use funds withheld under paragraph (4) to continue to provide (through alternative arrangements) services and activities in the area served by such recipient to meet the purpose of this Act.
 
@@ -428,7 +431,7 @@ Section 124 (20 U.S.C. 2344) is amended—
       >   - **(ii)** meet teacher certification or licensing requirements, especially in core academic subjects as defined in section 9101(11) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(11));
       >   - **(iii)** effectively develop integrated rigorous and challenging academic and vocational and technical education curriculum;
       >   - **(iv)** develop a high level of academic and industry knowledge and skills necessary to provide effective instruction in vocational and technical education; and
-      >   - **(v)** effectively use applied learning that contributes to the academic and vocational and technical knowledge of the student;
+      >   - **(v)** effectively use applied learning that contributes to the academic and vocational and technical knowledge of the student; and
 
   - **(D)** in paragraph (4), by striking “integration of academics” and all that follows through “core academic,” and inserting “provision of rigorous and challenging academics that are integrated with vocational and technical education to ensure achievement in the core academic subjects (as defined in section 9101(11) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(11))),”;
   - **(E)** in paragraph (5), by striking “training and employment” and inserting “fields”;
@@ -447,7 +450,7 @@ Section 124 (20 U.S.C. 2344) is amended—
     >   - **(B)** eligible recipients effectively developing connections between secondary education and postsecondary education and training;
     >   - **(C)** the adoption and integration of rigorous and challenging academic and technical coursework;
     >   - **(D)** an eligible recipient’s progress in having special populations participating in vocational and technical education programs meet local adjusted levels of performance; or
-    >   - **(E)** other factors relating to the performance of the eligible recipient under this Act as the eligible agency determines are appropriate.
+    >   - **(E)** other factors relating to the performance of the eligible recipient under this Act as the eligible agency determines are appropriate;
     > - **(11)** providing for activities to support entrepreneurship education and training;
 
 ## § 15. Distribution of funds to secondary school programs
@@ -484,7 +487,7 @@ Section 134(b) (20 U.S.C. 2354(b)) is amended—
 
 - **(4)** in paragraph (5) (as so redesignated)—
   - **(A)** by inserting “academic and vocational and technical” after “students,”; and
-  - **(B)** by inserting “(including the eligible recipients that offer elements of the model sequence of courses)” after “such individuals and entities” ; and
+  - **(B)** by inserting “(including the eligible recipients that offer elements of the model sequence of courses)” after “such individuals and entities”; and
 - **(5)** in paragraph (8) (as so redesignated)—
   - **(A)** in subparagraph (A), by striking “; and” and inserting a semicolon;
   - **(B)** in subparagraph (B), by inserting “and” after the semicolon; and
@@ -511,7 +514,7 @@ Section 135 (20 U.S.C. 2355) is amended—
     >   - **(B)** consist of a minimum of 2 years of secondary school preceding graduation and a minimum of 2 years of higher education, or an apprenticeship program of at least 2 years, following secondary instruction;
     >   - **(C)** meet academic standards developed by the State, including standards developed under section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311) for secondary students, and support proficiency in mathematics, science, reading, writing, communications, and technologies;
     >   - **(D)** are comprised of model sequences of courses that integrate rigorous and challenging academics and vocational and technical education;
-    >   - **(E)** provide technical preparation in a career field such as engineering technology; applied science; a mechanical, industrial, or practical art or trade; agriculture; health occupations; business; applied economics; advanced manufacturing; or other high-demand occupations as determined by the State;
+    >   - **(E)** provide technical preparation in a career field such as engineering technology; applied science; a mechanical, industrial, or practical art or trade; agriculture; health occupations; business; applied economics; advanced manufacturing; or other high-skill, high-wage, high-demand occupations as determined by the State;
     >   - **(F)** use, if appropriate and available, work-based or worksite learning in conjunction with academic and vocational and technical education;
     >   - **(G)** use educational technology and distance learning, as appropriate, to involve all the consortium partners more fully in the development and operation of programs;
     >   - **(H)** facilitate and promote close working relationships among eligible recipients to ensure that programs within a geographic area are closely integrated with tech-prep program activities;
@@ -539,13 +542,13 @@ Section 135 (20 U.S.C. 2355) is amended—
 - **(2)** in subsection (c)—
   - **(A)** in paragraph (2), by inserting “, regarding the range of postsecondary options available, including for adult students who are changing careers or updating skills” before the semicolon;
   - **(B)** in paragraph (5), by inserting “, including the establishment and operation of special arrangements with industry partners that allow qualified industry professionals to serve as faculty in postsecondary programs” before the semicolon;
-  - **(C)** in paragraph (8), by striking “aides” and inserting “aids”;
+  - **(C)** in paragraph (8), by striking “aides” and inserting “aids and publications”;
   - **(D)** in paragraph (9), by inserting “that address the integration of academic and vocational and technical education and” after “teacher preparation programs”;
   - **(E)** by redesignating paragraphs (10) through (14) as paragraphs (12) through (16), and paragraph (15) as paragraph (19), respectively, and inserting after paragraph (9) the following:
     > - **(10)** to develop and expand postsecondary program offerings that are accessible by students, including the use of distance education;
     > - **(11)** to provide activities to support entrepreneurship education and training;
 
-  - **(F)** in paragraph (12) (as so redesignated), by inserting “, including development of new proposed model sequences of courses for consideration by the eligible agency and courses that prepare individuals academically and technically for current and emerging occupations that are in demand” before the semicolon;
+  - **(F)** in paragraph (12) (as so redesignated), by inserting “, including development of new proposed model sequences of courses for consideration by the eligible agency and courses that prepare individuals academically and technically for current and emerging occupations that are in demand, and dual enrollment opportunities by which secondary vocational and technical education students could obtain postsecondary credit to count towards an associate or baccalaureate degree” before the semicolon;
   - **(G)** by amending paragraph (16) (as so redesignated) to read as follows:
     > - **(16)** to support training in nontraditional fields;
 
@@ -560,15 +563,18 @@ Title II (20 U.S.C. 2071 et seq.) is repealed.
 ## § 20. General provisions
 
 - **(a)** *Redesignation of title III*
-  - **(1)** *Redesignation* Title III of the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2391 et seq.) is amended by redesignating such title as title II of such Act. Such title is further amended by redesignating sections 311 through 318 as section 211 through 218, respectively, and sections 321 through 325 as sections 221 through 225, respectively.
-  - **(2)** *Table of contents amendment* The table of contents of the Carl D. Perkins Vocational and Technical Education Act of 1998 is amended—
+  - **(1)** *Redesignation* Title III (20 U.S.C. 2391 et seq.) is amended—
+    - **(A)** by striking section 318;
+    - **(B)** by redesignating such title as title II of such Act; and
+    - **(C)** by redesignating sections 311 through 317 as section 211 through 217 and sections 321 through 325 as sections 221 through 225, respectively.
+  - **(2)** *Table of contents amendment* The table of contents in section 1(b) is amended—
     - **(A)** by striking the items relating to title III; and
     - **(B)** by amending the items relating to title II to read as follows:
 - **(b)** *Fiscal requirements* Section 211(b) (20 U.S.C. 2391(b)) (as so redesignated) is amended by inserting after paragraph (2) the following:
   > - **(3)** *Definition* For purposes of this subsection, the term preceding fiscal year means the Federal fiscal year or the 12-month fiscal period used by a State for official reporting purposes, prior to the beginning of the Federal fiscal year in which funds are available for obligation by the Secretary.
 
-- **(c)** *Participation of private school children* Section 217 (as so redesignated) is amended to read as follows:
-  > ## § 217. Participation of private school children
+- **(c)** *Participation of private school children and personnel* Section 217 (as so redesignated) is amended to read as follows:
+  > ## § 217. Participation of private school children and personnel
   >
   > - **(a)** *Participation on equitable basis*
   >   - **(1)** *In general* To the extent consistent with the number of children in the school district of a local educational agency that is eligible to receive funds under this Act, or that serves the area in which a program assisted under this Act is located, who are enrolled in private nonprofit elementary schools and secondary schools, or, with respect to instructional or personnel training programs funded by an eligible agency, the local educational agency, after consultation with appropriate private school officials—
@@ -577,7 +583,7 @@ Title II (20 U.S.C. 2071 et seq.) is repealed.
   >   - **(2)** *Application of requirements* The requirements of this section relating to the participation of children, teachers, and other personnel serving such children shall apply to programs carried out under this Act by an eligible agency or local educational agency, whether directly or through grants to, or contracts with, other public or private agencies, institutions, or organizations.
   > - **(b)** *Equal expenditures*
   >   - **(1)** *In general* Expenditures for programs under subsection (a) shall be equal (consistent with the number of children to be served) to expenditures for programs under this Act for children enrolled in the public schools of the local educational agency.
-  >   - **(2)** *Concentrated programs* When funds available to a local educational agency under this Act are used to concentrate programs on a particular group, attendance area, or grade or age level, the local educational agency shall, after consultation with the appropriate private school officials, assure the equitable participation in both the purposes and benefits of such programs for children enrolled in private schools who are included within the group, attendance area, or grade or age level selected for such concentration shall, taking into account the needs of the individual children and other factors that relate to the expenditures referred to in paragraph (1).
+  >   - **(2)** *Concentrated programs* When funds available to a local educational agency under this Act are used to concentrate programs on a particular group, attendance area, or grade or age level, the local educational agency shall, after consultation with the appropriate private school officials, assure the equitable participation in both the purposes and benefits of such programs for children enrolled in private schools who are included within the group, attendance area, or grade or age level selected for such concentration, taking into account the needs of the individual children and other factors that relate to the expenditures referred to in paragraph (1).
   > - **(c)** *Administrative requirements*
   >   - **(1)** *Funds, materials and equipment*
   >     - **(A)** *Funds* The control of funds expended under this section shall be administered by a public agency.
