@@ -28,7 +28,7 @@ The Congress finds that—
 
 As used in this Act—
 
-- **(1)** the term heritage area means the Northern Rio Grande Heritage Area; and
+- **(1)** the term heritage area means the Northern Rio Grande National Heritage Area; and
 - **(2)** the term Secretary means the Secretary of the Interior.
 
 ## § 4. Northern Rio Grande National Heritage Area
@@ -50,7 +50,7 @@ As used in this Act—
     - **(C)** include an inventory of the cultural, historical, archaeological, natural, and recreational resources of the heritage area;
     - **(D)** provide recommendations for educational and interpretive programs to inform the public about the resources of the heritage area; and
     - **(E)** include an analysis of ways in which local, State, Federal, and tribal programs may best be coordinated to promote the purposes of this Act.
-  - **(4)** If the management entity fails to submit a management plan to the secretary as provided in paragraph (1), the heritage area shall no longer be eligible to receive Federal funding under this Act until such time as a plan is submitted to the Secretary.
+  - **(4)** If the management entity fails to submit a management plan to the secretary Secretary as provided in paragraph (1), the heritage area shall no longer be eligible to receive Federal funding under this Act until such time as a plan is submitted to the Secretary.
   - **(5)** The Secretary shall approve or disapprove the management plan within 90 days after the date of submission. If the Secretary disapproves the management plan, the Secretary shall advise the management entity in writing of the reasons therefore and shall make recommendations for revisions to the plan.
   - **(6)** The management entity shall periodically review the management plan and submit to the Secretary any recommendations for proposed revisions to the management plan. Any major revisions to the management plan must be approved by the Secretary.
 - **(b)** *Authority* The management entity may make grants and provide technical assistance to tribal and local governments, and other public and private entities to carry out the management plan.

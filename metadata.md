@@ -1,7 +1,7 @@
 ---
 measure: S. 63
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 63
@@ -29,3 +29,7 @@ Northern Rio Grande National Heritage Area Act
 - 2005-01-24 — Introduced in Senate
 - 2005-01-24 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S243-244)
 - 2005-01-24 — Sponsor introductory remarks on measure. (CR S243)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2005-02-16 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-1.
+- 2005-02-16 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-1.
+- 2005-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.
