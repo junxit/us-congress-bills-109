@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Northern California Coastal Wild Heritage Wilderness Act”.
+This Act may be cited as the “ Northern California Coastal Wild Heritage Wilderness Act ”.
 
 ## § 2. Definition of Secretary
 
@@ -24,16 +24,16 @@ In this Act, the term “Secretary” means—
 
 In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following areas in the State of California are designated as wilderness areas and as components of the National Wilderness Preservation System:
 
-- **(1)** *Snow Mountain Wilderness addition*
+- **(1)** *Snow mountain wilderness addition*
   - **(A)** *In general* Certain land in the Mendocino National Forest, comprising approximately 23,312 acres, as generally depicted on the maps described in subparagraph (B), is incorporated in and shall considered to be a part of the “Snow Mountain Wilderness”, as designated by section 101(a)(31) of the California Wilderness Act of 1984 (16 U.S.C. 1132 note; Public Law 98–425).
   - **(B)** *Description of maps* The maps referred to in subparagraph (A) are—
     - **(i)** the map entitled “Skeleton Glade Unit, Snow Mountain Proposed Wilderness Addition, Mendocino National Forest” and dated September 17, 2004; and
     - **(ii)** the map entitled “Bear Creek/Deafy Glade Unit, Snow Mountain Wilderness Addition, Mendocino National Forest” and dated September 17, 2004.
-- **(2)** *Sanhedrin Wilderness* Certain land in the Mendocino National Forest, comprising approximately 10,571 acres, as generally depicted on the map entitled “Sanhedrin Proposed Wilderness, Mendocino National Forest” and dated September 17, 2004, which shall be known as the “Sanhedrin Wilderness”.
-- **(3)** *Yuki Wilderness* Certain land in the Mendocino National Forest and certain land administered by the Bureau of Land Management in Lake and Mendocino Counties, California, together comprising approximately 54,087 acres, as generally depicted on the map entitled “Yuki Proposed Wilderness” and dated October 28, 2004, which shall be known as the “Yuki Wilderness”.
-- **(4)** *Yolla Bolly-Middle Eel Wilderness addition* Certain land in the Mendocino National Forest and certain land administered by the Bureau of Land Management in Mendocino County, California, together comprising approximately 25,806 acres, as generally depicted on the map entitled “Middle Fork Eel, Smokehouse and Big Butte Units, Yolla Bolly-Middle Eel Proposed Wilderness Addition” and dated October 28, 2004, is incorporated in and shall considered to be a part of the Yolla Bolly-Middle Eel Wilderness, as designated by section 3 of the Wilderness Act (16 U.S.C. 1132).
-- **(5)** *Mad River Buttes Wilderness* Certain land in the Six Rivers National Forest, comprising approximately 6,494 acres, as generally depicted on the map entitled “Mad River Buttes, Mad River Proposed Wilderness” and dated September 17, 2004, which shall be known as the “Mad River Buttes Wilderness”.
-- **(6)** *Siskiyou Wilderness addition*
+- **(2)** *Sanhedrin wilderness* Certain land in the Mendocino National Forest, comprising approximately 10,571 acres, as generally depicted on the map entitled “Sanhedrin Proposed Wilderness, Mendocino National Forest” and dated September 17, 2004, which shall be known as the “Sanhedrin Wilderness”.
+- **(3)** *Yuki wilderness* Certain land in the Mendocino National Forest and certain land administered by the Bureau of Land Management in Lake and Mendocino Counties, California, together comprising approximately 54,087 acres, as generally depicted on the map entitled “Yuki Proposed Wilderness” and dated October 28, 2004, which shall be known as the “Yuki Wilderness”.
+- **(4)** *Yolla bolly-middle eel wilderness addition* Certain land in the Mendocino National Forest and certain land administered by the Bureau of Land Management in Mendocino County, California, together comprising approximately 25,806 acres, as generally depicted on the map entitled “Middle Fork Eel, Smokehouse and Big Butte Units, Yolla Bolly-Middle Eel Proposed Wilderness Addition” and dated October 28, 2004, is incorporated in and shall considered to be a part of the Yolla Bolly-Middle Eel Wilderness, as designated by section 3 of the Wilderness Act (16 U.S.C. 1132).
+- **(5)** *Mad river buttes wilderness* Certain land in the Six Rivers National Forest, comprising approximately 6,494 acres, as generally depicted on the map entitled “Mad River Buttes, Mad River Proposed Wilderness” and dated September 17, 2004, which shall be known as the “Mad River Buttes Wilderness”.
+- **(6)** *Siskiyou wilderness addition*
   - **(A)** *In general* Certain land in the Six Rivers National Forest, comprising approximately 48,754 acres, as generally depicted on the maps described in subparagraph (B), is incorporated in and shall be considered to be a part of the Siskiyou Wilderness, as designated by section 101(a)(30) of the California Wilderness Act of 1984 (16 U.S.C. 1132 note; Public Law 98–425).
   - **(B)** *Description of maps* The maps referred to in subparagraph (A) are—
     - **(i)** the map entitled “Bear Basin Butte Unit, Siskiyou Proposed Wilderness Additions, Six Rivers National Forest” and dated October 28, 2004;
@@ -41,19 +41,19 @@ In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following ar
     - **(iii)** the map entitled “Blue Ridge Unit, Siskiyou Proposed Wilderness Addition, Six Rivers National Forest” and dated September 17, 2004;
     - **(iv)** the map entitled “Broken Rib Unit, Siskiyou Proposed Wilderness Addition, Six Rivers National Forest” and dated September 17, 2004; and
     - **(v)** the map entitled “Wooly Bear Unit, Siskiyou Proposed Wilderness Addition, Six Rivers National Forest” and dated September 27, 2004.
-- **(7)** *Mount Lassic Wilderness* Certain land in the Six Rivers National Forest, comprising approximately 7,279 acres, as generally depicted on the map entitled “Mt. Lassic Proposed Wilderness” and dated September 17, 2004, which shall be known as the “Mount Lassic Wilderness”.
-- **(8)** *Trinity Alps Wilderness addition*
+- **(7)** *Mount lassic wilderness* Certain land in the Six Rivers National Forest, comprising approximately 7,279 acres, as generally depicted on the map entitled “Mt. Lassic Proposed Wilderness” and dated September 17, 2004, which shall be known as the “Mount Lassic Wilderness”.
+- **(8)** *Trinity alps wilderness addition*
   - **(A)** *In general* Certain land in the Six Rivers National Forest, comprising approximately 28,805 acres, as generally depicted on the maps described in subparagraph (B) and which is incorporated in and shall be considered to be a part of the Trinity Alps Wilderness as designated by section 101(a)(34) of the California Wilderness Act of 1984 (16 U.S.C. 1132 note; Public Law 98–425).
   - **(B)** *Description of maps* The maps referred to in subparagraph (A) are—
     - **(i)** the map entitled “Orleans Mountain Unit (Boise Creek), Trinity Alps Proposed Wilderness Addition, Six Rivers National Forest”, and dated October 28, 2004;
     - **(ii)** the map entitled “East Fork Unit, Trinity Alps Proposed Wilderness Addition, Six Rivers National Forest” and dated September 17, 2004;
     - **(iii)** the map entitled “Horse Linto Unit, Trinity Alps Proposed Wilderness Addition, Six Rivers National Forest” and dated September 17, 2004; and
     - **(iv)** the map entitled “Red Cap Unit, Trinity Alps Proposed Wilderness Addition, Six Rivers National Forest” and dated September 17, 2004.
-- **(9)** *Underwood Wilderness* Certain land in the Six Rivers National Forest, comprising approximately 2,977 acres, as generally depicted on the map entitled “Underwood Proposed Wilderness, Six Rivers National Forest” and dated September 17, 2004, which shall be known as the “Underwood Wilderness”.
-- **(10)** *Cache Creek Wilderness* Certain land administered by the Bureau of Land Management in Lake County, California, comprising approximately 30,870 acres, as generally depicted on the map entitled “Cache Creek Wilderness Area” and dated September 27, 2004, which shall be known as the “Cache Creek Wilderness”.
-- **(11)** *Cedar Roughs Wilderness* Certain land administered by the Bureau of Land Management in Napa County, California, comprising approximately 6,350 acres, as generally depicted on the map entitled “Cedar Roughs Wilderness Area” and dated September 27, 2004, which shall be known as the “Cedar Roughs Wilderness”.
-- **(12)** *South Fork Eel River Wilderness* Certain land administered by the Bureau of Land Management in Mendocino County, California, comprising approximately 12,915 acres, as generally depicted on the map entitled “South Fork Eel River Wilderness Area and Elkhorn Ridge Potential Wilderness” and dated September 27, 2004, which shall be known as the “South Fork Eel River Wilderness”.
-- **(13)** *King Range Wilderness*
+- **(9)** *Underwood wilderness* Certain land in the Six Rivers National Forest, comprising approximately 2,977 acres, as generally depicted on the map entitled “Underwood Proposed Wilderness, Six Rivers National Forest” and dated September 17, 2004, which shall be known as the “Underwood Wilderness”.
+- **(10)** *Cache creek wilderness* Certain land administered by the Bureau of Land Management in Lake County, California, comprising approximately 30,870 acres, as generally depicted on the map entitled “Cache Creek Wilderness Area” and dated September 27, 2004, which shall be known as the “Cache Creek Wilderness”.
+- **(11)** *Cedar roughs wilderness* Certain land administered by the Bureau of Land Management in Napa County, California, comprising approximately 6,350 acres, as generally depicted on the map entitled “Cedar Roughs Wilderness Area” and dated September 27, 2004, which shall be known as the “Cedar Roughs Wilderness”.
+- **(12)** *South fork eel river wilderness* Certain land administered by the Bureau of Land Management in Mendocino County, California, comprising approximately 12,915 acres, as generally depicted on the map entitled “South Fork Eel River Wilderness Area and Elkhorn Ridge Potential Wilderness” and dated September 27, 2004, which shall be known as the “South Fork Eel River Wilderness”.
+- **(13)** *King range wilderness*
   - **(A)** *In general* Certain land administered by the Bureau of Land Management in Humboldt and Mendocino Counties, California, comprising approximately 42,585 acres, as generally depicted on the map entitled “King Range Wilderness”, and dated November 12, 2004, which shall be known as the “King Range Wilderness”.
   - **(B)** *Applicable law* With respect to the wilderness designated by subparagraph (A), in the case of a conflict between this Act and Public Law 91–476 (16 U.S.C. 460y et seq.), the more restrictive provision shall control.
 - **(14)** *Rocks and islands*
@@ -87,7 +87,7 @@ In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following ar
   - **(2)** *Review* Not later than 1 year after the date of enactment of this Act, the Secretary shall review existing policies applicable to the wilderness areas designated by this Act to ensure that authorized approval procedures for any fire management measures allow a timely and efficient response to fire emergencies in the wilderness areas.
 - **(f)** *Access to private property*
   - **(1)** *In general* The Secretary shall provide any owner of private property within the boundary of a wilderness area designated by this Act adequate access to such property to ensure the reasonable use and enjoyment of the property by the owner.
-  - **(2)** *King Range Wilderness*
+  - **(2)** *King range wilderness*
     - **(A)** *In general* Subject to subparagraph (B), within the wilderness designated by section 3(13), the access route depicted on the map for private landowners shall also be available for invitees of the private landowners.
     - **(B)** *Limitation* Nothing in subparagraph (A) requires the Secretary to provide any access to the landowners or invitees beyond the access that would be available if the wilderness had not been designated.
 - **(g)** *Snow sensors and stream gauges* If the Secretary determines that hydrologic, meteorologic, or climatological instrumentation is appropriate to further the scientific, educational, and conservation purposes of the wilderness areas designated by this Act, nothing in this Act prevents the installation and maintenance of the instrumentation within the wilderness areas.
@@ -141,9 +141,10 @@ In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following ar
 ## § 7. Wild and scenic river designation
 
 - **(a)** *Designation of Black Butte River, California* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
-  > - **(167)** *Black Butte River, California* The following segments of the Black Butte River in the State of California, to be administered by the Secretary of Agriculture:
+  > - **(167)** *Black butte river, california* The following segments of the Black Butte River in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 16 miles of Black Butte River, from the Mendocino County Line to its confluence with Jumpoff Creek, as a wild river.
-  >   - **(B)** The 3.5 miles of Black Butte River from its confluence with Jumpoff Creek to its confluence with Middle Eel River, as a scenic river.
+  >   - **(B)** The 3.5 miles of Black Butte River from its confluence with Jumpoff Creek to its conflu
+  >   - **(C)** ence with Middle Eel River, as a scenic river.
   >   - **(C)** The 1.5 miles of Cold Creek from the Mendocino County Line to its confluence with Black Butte River, as a wild river.
 
 - **(b)** *Plan; report*
