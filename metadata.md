@@ -1,7 +1,7 @@
 ---
 measure: S. 243
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 243
@@ -25,3 +25,7 @@ National Heritage Areas Partnership Act
 - 2005-02-01 — Introduced in Senate
 - 2005-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2005-02-01 — Sponsor introductory remarks on measure. (CR S750)
+- 2005-02-09 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-03-09 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-26.
+- 2005-03-09 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-26.
+- 2005-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
