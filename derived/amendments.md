@@ -1,7 +1,7 @@
 ---
 measure: H.R. 683
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 2 executed, 5 stated and not applied.
+9 amendatory instructions. 2 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 15 U.S.C. § 1063
 
-> Section 13(a) of the Trademark Act of 1946 (15 U.S.C. 1063(a)) is amended in the first sentence by striking “as a result of dilution” and inserting “the registration of any mark which, when used as a designation of source for the applicant’s goods or services, would be likely to cause dilution by blurring or tarnishment”.
+> Section 13(a) of the Trademark Act of 1946 (15 U.S.C. 1063(a)) is amended in the first sentence by striking “as a result of dilution” and inserting “the registration of any mark which would be likely to cause dilution by blurring or dilution by tarnishment”.
 
 | | |
 |---|---|
 | Removed | `as a result of dilution` |
-| Inserted | `the registration of any mark which, when used as a designation of source for the applicant’s goods or services, would be likely to cause dilution by blurring or tarnishment` |
+| Inserted | `the registration of any mark which would be likely to cause dilution by blurring or dilution by tarnishment` |
 
 ## Stated, not applied
 
@@ -53,6 +53,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 1125` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1052` | strike | by striking the last two sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1052` | add-at-end | by adding at the end the following: “A mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 43(c), may be refused registration only pursuant to a proceeding brought under section 13. A registr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1064` | strike | by striking “, including as a result of dilution under section 43(c),”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1064` | insert | by inserting “(A) for which the constructive use date is after the date on which the petitioner’s mark became famous and which would be likely to cause dilution by blurring or dilution by tarnishment under section 43(c), or (B) on ground… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1092` | amend | The second sentence of section 24 of the Trademark Act of 1946 (15 U.S.C. 1092) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1127` | strike | Section 45 of the Trademark Act of 1946 (15 U.S.C. 1127) is amended by striking the definition relating to “dilution”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
