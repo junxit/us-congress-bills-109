@@ -1,7 +1,7 @@
 ---
 measure: H.R. 185
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 185
@@ -16,9 +16,10 @@ Program Assessment and Results Act
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Davis, Tom [R-VA-11] (D000136)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Program Assessment and Results Act
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Referred to the House Committee on Government Reform.
 - 2005-01-04 — Sponsor introductory remarks on measure. (CR E15)
+- 2005-03-10 — Committee Consideration and Mark-up Session Held.
+- 2005-03-10 — Ordered to be Reported by the Yeas and Nays: 19 - 14.
+- 2005-03-17 — Placed on the Union Calendar, Calendar No. 12.
+- 2005-03-17 — Reported by the Committee on Government Reform. H. Rept. 109-26.
+- 2005-03-17 — Reported by the Committee on Government Reform. H. Rept. 109-26.
