@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 134
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 134
@@ -26,3 +26,8 @@ Requesting the President to transmit to the House of Representatives certain inf
 - 2005-03-02 — Introduced in House
 - 2005-03-02 — Referred to the House Committee on Education and the Workforce.
 - 2005-03-02 — Sponsor introductory remarks on measure. (CR E335)
+- 2005-04-06 — Committee Consideration and Mark-up Session Held.
+- 2005-04-06 — Ordered to be Reported Unfavorably by Unanimous Consent.
+- 2005-04-12 — Placed on the House Calendar, Calendar No. 19.
+- 2005-04-12 — Reported adversely by the Committee on Education and the Workforce. H. Rept. 109-34.
+- 2005-04-12 — Reported adversely by the Committee on Education and the Workforce. H. Rept. 109-34.
