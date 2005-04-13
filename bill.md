@@ -27,7 +27,7 @@ The Congress finds the following:
 
 ## § 3. Prohibition on future sales of periodic payment plans
 
-- **(a)** *Amendment* Section 27 of the Investment Company Act of 1940 (15 U.S.C. 80a-27) is amended by adding at the end the following new subsection:
+- **(a)** *Amendment* Section 27 of the Investment Company Act of 1940 (15 U.S.C. 80a–27) is amended by adding at the end the following new subsection:
   > - **(j)** *Termination of sales*
   >   - **(1)** *Termination* Effective 30 days after the date of enactment of the Military Personnel Financial Services Protection Act, it shall be unlawful, subject to subsection (i)—
   >     - **(A)** for any registered investment company to issue any periodic payment plan certificate; or
@@ -58,7 +58,7 @@ Subsection (i) of section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 
 
 ## § 5. Filing depositories for investment advisers
 
-- **(a)** *Amendment* Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-4) is amended—
+- **(a)** *Amendment* Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4) is amended—
   - **(1)** by striking “Every investment” and inserting the following:
     > - **(a)** *In general* Every investment
 
