@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 525
@@ -16,7 +16,7 @@ Small Business Health Fairness Act of 2005
 
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Cosponsors (53)
+## Cosponsors (137)
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Boehner, John A. [R-OH-8] (B000589)
@@ -71,6 +71,90 @@ Small Business Health Fairness Act of 2005
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
 - Rep. Case, Ed [D-HI-2] (C001055)
+- Rep. Doolittle, John T. [R-CA-4] (D000429)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Northup, Anne M. [R-KY-3] (N000143)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Shaw, E. Clay, Jr. [R-FL-22] (S000303)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Hyde, Henry J. [R-IL-6] (H001022)
+- Rep. Keller, Ric [R-FL-8] (K000361)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Hostettler, John N. [R-IN-8] (H000807)
+- Rep. Sodrel, Michael E. [R-IN-9] (S001160)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Hefley, Joel [R-CO-5] (H000444)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Everett, Terry [R-AL-2] (E000268)
+- Rep. Thomas, William M. [R-CA-22] (T000188)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Kolbe, Jim [R-AZ-8] (K000306)
+- Rep. Oxley, Michael G. [R-OH-4] (O000163)
+- Rep. Chocola, Chris [R-IN-2] (C001052)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Hart, Melissa A. [R-PA-4] (H001033)
+- Rep. DeLay, Tom [R-TX-22] (D000217)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Hobson, David L. [R-OH-7] (H000666)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Beauprez, Bob [R-CO-7] (B001240)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Cannon, Chris [R-UT-3] (C000116)
+- Rep. Wicker, Roger F. [R-MS-1] (W000437)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Gutknecht, Gil [R-MN-1] (G000536)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
 ## Committees (1)
 
@@ -82,3 +166,9 @@ Small Business Health Fairness Act of 2005
 - 2005-02-02 — Introduced in House
 - 2005-02-02 — Referred to the House Committee on Education and the Workforce.
 - 2005-02-02 — Sponsor introductory remarks on measure. (CR E150)
+- 2005-03-15 — Sponsor introductory remarks on measure. (CR H1427)
+- 2005-03-16 — Committee Consideration and Mark-up Session Held.
+- 2005-03-16 — Ordered to be Reported by the Yeas and Nays: 25 - 22.
+- 2005-04-13 — Placed on the Union Calendar, Calendar No. 22.
+- 2005-04-13 — Reported by the Committee on Education and the Workforce. H. Rept. 109-41.
+- 2005-04-13 — Reported by the Committee on Education and the Workforce. H. Rept. 109-41.
