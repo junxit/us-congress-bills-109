@@ -1,7 +1,7 @@
 ---
 measure: H.R. 458
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 80a-27` | add-at-end | Section 27 of the Investment Company Act of 1940 (15 U.S.C. 80a-27) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-27` | add-at-end | Section 27 of the Investment Company Act of 1940 (15 U.S.C. 80a–27) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78o-3` | amend | Subsection (i) of section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80b-4` | replace | by striking “Every investment” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 80b-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
