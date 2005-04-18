@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-72 amendatory instructions. 24 executed, 48 stated and not applied.
+73 amendatory instructions. 24 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -256,8 +256,9 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 168` | insert | The table contained in section 168(g)(3)(B) is amended by inserting after the item relating to subparagraph (E)(vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | insert | The table contained in section 168(g)(3)(B) is amended by inserting after the item relating to subparagraph (E)(vii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 169` | add-at-end | Subsection (d) of section 169 (relating to definitions) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 169` | amend | Subparagraph (B) of section 169(d)(4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | redesignate | The Internal Revenue Code of 1986 is amended by redesignating section 29 as section 45J and by moving section 45J (as so redesignated) from subpart B of part IV of subchapter A of chapter 1 to the end of subpart D of part IV of subchapte… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45` | insert | by inserting “(or under section 29, as in effect on the day before the date of enactment of this parenthetical, for any prior taxable year)” before the period at the end thereof. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 45` | insert | by inserting “(or under section 29, as in effect on the day before the date of enactment of the Enhanced Energy Infrastructure and Technology Tax Act of 2005, for any prior taxable year)” before the period at the end thereof. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 30` | redesignate | Section 45J(b), as so redesignated, is amended by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 53` | strike | Section 53(d)(1)(B)(iii) is amended by striking “under section 29” and all that follows through “or not allowed”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 55` | strike | Section 55(c)(3) is amended by striking “29(b)(6),”. | the bill quotes the text struck but describes what replaces it |
@@ -280,7 +281,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 48` | amend | Subparagraph (A) of section 48(a)(2) (relating to energy percentage) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | redesignate | by redesignating subsection (b) as paragraph (5) of subsection (a), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 48` | insert | Section 48(a)(1) is amended by inserting “except as provided in subsection (b)(2),” before “the energy”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 48` | insert | Section 48(a)(1) is amended by inserting “except as provided in subsection (b)(2),” before “the energy” the first place it appears. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 4081` | add-at-end | Paragraph (2) of section 4081(a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6427` | redesignate | Section 6427 is amended by redesignating subsections (m) through (p) as subsections (n) through (q), respectively, and by inserting after subsection (l) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6427` | insert | Section 4081 (relating to imposition of tax) is amended by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
