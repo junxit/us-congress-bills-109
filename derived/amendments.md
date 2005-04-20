@@ -1,0 +1,40 @@
+---
+measure: S. 859
+congress: 109
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 859 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+7 amendatory instructions. 0 executed, 7 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | insert | Subpart D of part IV of subchapter A of chapter 1 is amended by inserting after section 42 the following new section: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 38(b) (relating to current year business credit) is amended by redesignating paragraphs (6) through (19) as paragraphs (7) through (20), respectively, and by inserting after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 55(c)(1) is amended by inserting “or subsection (h) or (i) of section 42A” after “section 42”. | the bill names no machine-readable US Code section |
+| — | insert | Subsections (i)(3)(D), (i)(6)(B)(i), and (k)(1) of section 469 are each amended by inserting “or 42A” after “section 42”. | the bill names no machine-readable US Code section |
+| — | redesignate | Section 772(a) is amended by striking “and” at the end of paragraph (10), by redesignating paragraph (11) as paragraph (12), and by inserting after paragraph (10) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 774(b)(4) is amended by inserting “, 42A(h),” after “section 42(j)”. | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 42 the following: | the bill names no machine-readable US Code section |
