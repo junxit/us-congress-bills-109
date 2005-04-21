@@ -21,7 +21,11 @@ Title 18, United States Code, is amended by inserting after chapter 117 the foll
 
 Title 18, United States Code, is amended by inserting after chapter 117A the following:
 
-## § 4. Severability and effective date
+## § 4. Clerical amendment
+
+The table of chapters at the beginning of part I of title 18, United States Code, is amended by inserting after the item relating to chapter 117 the following new items:
+
+## § 5. Severability and effective date
 
 - **(a)** The provisions of this Act shall be severable. If any provision of this Act, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of the Act not so adjudicated.
 - **(b)** The provisions of this Act shall take effect upon enactment.
