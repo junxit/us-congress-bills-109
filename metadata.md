@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 748
@@ -16,7 +16,7 @@ Child Interstate Abortion Notification Act
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (105)
+## Cosponsors (129)
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Shimkus, John [R-IL-19] (S000364)
@@ -123,6 +123,30 @@ Child Interstate Abortion Notification Act
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Gutknecht, Gil [R-MN-1] (G000536)
 - Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Everett, Terry [R-AL-2] (E000268)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Bonilla, Henry [R-TX-23] (B000617)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Norwood, Charles W. [R-GA-9] (N000159)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Shadegg, John B. [R-AZ-3] (S000275)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Deal, Nathan [R-GA-10] (D000168)
+- Rep. Schwarz, John J.H. "Joe" [R-MI-7] (S001161)
 
 ## Committees (1)
 
@@ -133,3 +157,14 @@ Child Interstate Abortion Notification Act
 - 2005-02-10 — Introduced in House
 - 2005-02-10 — Introduced in House
 - 2005-02-10 — Referred to the House Committee on the Judiciary.
+- 2005-03-01 — Referred to the Subcommittee on the Constitution.
+- 2005-03-03 — Subcommittee Hearings Held.
+- 2005-03-17 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2005-03-17 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-04-12 — Sponsor introductory remarks on measure. (CR H1872-1873)
+- 2005-04-13 — Committee Consideration and Mark-up Session Held.
+- 2005-04-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 13.
+- 2005-04-13 — Sponsor introductory remarks on measure. (CR H1900, H1943)
+- 2005-04-21 — Placed on the Union Calendar, Calendar No. 30.
+- 2005-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-51.
+- 2005-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-51.

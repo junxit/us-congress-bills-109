@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Title 18, United States Code, is amended by inserting after chapter 117 the following: | the bill names no machine-readable US Code section |
 | — | insert | Title 18, United States Code, is amended by inserting after chapter 117A the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters at the beginning of part I of title 18, United States Code, is amended by inserting after the item relating to chapter 117 the following new items: | the bill names no machine-readable US Code section |
