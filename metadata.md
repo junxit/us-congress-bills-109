@@ -1,7 +1,7 @@
 ---
 measure: S. 629
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 629
@@ -16,9 +16,10 @@ Railroad Carriers and Mass Transportation Protection Act of 2005
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Railroad Carriers and Mass Transportation Protection Act of 2005
 
 - 2005-03-15 — Introduced in Senate
 - 2005-03-15 — Read twice and referred to the Committee on the Judiciary.
+- 2005-04-21 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2005-04-25 — Committee on the Judiciary. Reported by Senator Specter with amendments. Without written report.
+- 2005-04-25 — Committee on the Judiciary. Reported by Senator Specter with amendments. Without written report.
+- 2005-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.
