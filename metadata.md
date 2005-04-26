@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 210
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 210
@@ -33,3 +33,8 @@ Supporting the goals of World Intellectual Property Day, and recognizing the imp
 - 2005-04-12 — Introduced in House
 - 2005-04-12 — Introduced in House
 - 2005-04-12 — Referred to the House Committee on the Judiciary.
+- 2005-04-20 — Committee Consideration and Mark-up Session Held.
+- 2005-04-20 — Ordered to be Reported by Voice Vote.
+- 2005-04-26 — Placed on the House Calendar, Calendar No. 24.
+- 2005-04-26 — Reported by the Committee on Judiciary. H. Rept. 109-53.
+- 2005-04-26 — Reported by the Committee on Judiciary. H. Rept. 109-53.
