@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1036
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1036
@@ -30,3 +30,10 @@ Copyright Royalty Judges Program Technical Corrections Act
 - 2005-03-02 — Introduced in House
 - 2005-03-02 — Referred to the House Committee on the Judiciary.
 - 2005-03-02 — Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.
+- 2005-03-03 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2005-03-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-03-09 — Committee Consideration and Mark-up Session Held.
+- 2005-03-09 — Ordered to be Reported by Voice Vote.
+- 2005-04-28 — Placed on the Union Calendar, Calendar No. 31.
+- 2005-04-28 — Reported by the Committee on Judiciary. H. Rept. 109-64.
+- 2005-04-28 — Reported by the Committee on Judiciary. H. Rept. 109-64.
