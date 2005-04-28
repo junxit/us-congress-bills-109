@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1544
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1544
@@ -16,7 +16,7 @@ Faster and Smarter Funding for First Responders Act of 2005
 
 - Rep. Cox, Christopher [R-CA-48] (C000830)
 
-## Cosponsors (33)
+## Cosponsors (40)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
@@ -51,6 +51,13 @@ Faster and Smarter Funding for First Responders Act of 2005
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Owens, Major R. [D-NY-11] (O000159)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
 
 ## Committees (1)
 
@@ -62,3 +69,10 @@ Faster and Smarter Funding for First Responders Act of 2005
 - 2005-04-12 — Introduced in House
 - 2005-04-12 — Referred to the House Committee on Homeland Security.
 - 2005-04-12 — Referred to the Subcommittee on Emergency Preparedness, Science, and Technology.
+- 2005-04-19 — Forwarded by Subcommittee to Full Committee by Unanimous Consent.
+- 2005-04-19 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-04-21 — Committee Consideration and Mark-up Session Held.
+- 2005-04-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-04-28 — Placed on the Union Calendar, Calendar No. 32.
+- 2005-04-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 109-65.
+- 2005-04-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 109-65.
