@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1279
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-47 amendatory instructions. 14 executed, 33 stated and not applied.
+50 amendatory instructions. 14 executed, 36 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,16 +35,16 @@ to guess them.
 
 ### 18 U.S.C. § 1952
 
-> by striking “travels” and all that follows through “intent to” and inserting “in or affecting interstate or foreign commerce”;
+> by striking “travels” and all that follows through “intent to” and inserting “, in or affecting interstate or foreign commerce”;
 
 | | |
 |---|---|
 | Removed | `travels” and all that follows through “intent to` |
-| Inserted | `in or affecting interstate or foreign commerce` |
+| Inserted | `, in or affecting interstate or foreign commerce` |
 
 ### 18 U.S.C. § 1952
 
-> by striking “ (1) distribute” and inserting “(A) distributes”;
+> by striking “(1) distribute” and inserting “(A) distributes”;
 
 | | |
 |---|---|
@@ -71,7 +71,7 @@ to guess them.
 
 ### 18 U.S.C. § 2119
 
-> by striking “15” and inserting “20”; and
+> by striking “15” and inserting “20” in paragraph (1); and
 
 | | |
 |---|---|
@@ -80,7 +80,7 @@ to guess them.
 
 ### 18 U.S.C. § 2119
 
-> by striking “or imprisoned not more than 25 years, or both” and inserting “and imprisoned not less than 10 years nor more than 30 years”.
+> by striking “or imprisoned not more than 25 years, or both” and inserting “and imprisoned not less than 10 years nor more than 30 years” in paragraph (2).
 
 | | |
 |---|---|
@@ -143,12 +143,12 @@ to guess them.
 
 ### 18 U.S.C. § 5032
 
-> by striking “However, a juvenile” and all that follows through “criminal prosecution.” at the end of the paragraph and inserting “The Attorney General may prosecute as an adult a juvenile who is alleged to have committed an act after that juvenile’s 16th birthday which if committed by an adult would be a crime of violence that is a felony, an offense described in subsection (d), (i), (j), (k), (o), (p), (q), (u), or (x) of section 922 (relating to unlawful acts), or subsection (b), (c), (g), (h), (k), (l), (m), or (n) of section 924 (relating to penalties), section 930 (relating to possession of firearms and dangerous weapons in Federal facilities), or section 931 (relating to purchase, ownership, or possesion of body armor by violent felons). The decision whether or not to prosecute a juvenile as an adult under the immediately preceding sentence is not subject to judicial review in any court. In a prosecution under that sentence, the juvenile may be prosecuted and convicted as an adult for any other offense which is properly joined under the Federal Rules of Criminal Procedure, and may also be convicted as an adult of any lesser included offense.”.
+> by striking “However, a juvenile” and all that follows through “criminal prosecution.” at the end of the paragraph and inserting “The Attorney General may prosecute as an adult a juvenile who is alleged to have committed an act after that juvenile’s 16th birthday which if committed by an adult would be a crime of violence that is a felony, an offense described in subsection (d), (i), (j), (k), (o), (p), (q), (u), or (x) of section 922 (relating to unlawful acts), or subsection (b), (c), (g), (h), (k), (l), (m), or (n) of section 924 (relating to penalties), section 930 (relating to possession of firearms and dangerous weapons in Federal facilities), or section 931 (relating to purchase, ownership, or possession of body armor by violent felons). The decision whether or not to prosecute a juvenile as an adult under the immediately preceding sentence is not subject to judicial review in any court. In a prosecution under that sentence, the juvenile may be prosecuted and convicted as an adult for any other offense which is properly joined under the Federal Rules of Criminal Procedure, and may also be convicted as an adult of any lesser included offense.”.
 
 | | |
 |---|---|
 | Removed | `However, a juvenile” and all that follows through “criminal prosecution.` |
-| Inserted | `The Attorney General may prosecute as an adult a juvenile who is alleged to have committed an act after that juvenile’s 16th birthday which if committed by an adult would be a crime of violence that is a felony, an offense described in subsection (d), (i), (j), (k), (o), (p), (q), (u), or (x) of section 922 (relating to unlawful acts), or subsection (b), (c), (g), (h), (k), (l), (m), or (n) of section 924 (relating to penalties), section 930 (relating to possession of firearms and dangerous weapons in Federal facilities), or section 931 (relating to purchase, ownership, or possesion of body armor by violent felons). The decision whether or not to prosecute a juvenile as an adult under the immediately preceding sentence is not subject to judicial review in any court. In a prosecution under that sentence, the juvenile may be prosecuted and convicted as an adult for any other offense which is properly joined under the Federal Rules of Criminal Procedure, and may also be convicted as an adult of any lesser included offense.` |
+| Inserted | `The Attorney General may prosecute as an adult a juvenile who is alleged to have committed an act after that juvenile’s 16th birthday which if committed by an adult would be a crime of violence that is a felony, an offense described in subsection (d), (i), (j), (k), (o), (p), (q), (u), or (x) of section 922 (relating to unlawful acts), or subsection (b), (c), (g), (h), (k), (l), (m), or (n) of section 924 (relating to penalties), section 930 (relating to possession of firearms and dangerous weapons in Federal facilities), or section 931 (relating to purchase, ownership, or possession of body armor by violent felons). The decision whether or not to prosecute a juvenile as an adult under the immediately preceding sentence is not subject to judicial review in any court. In a prosecution under that sentence, the juvenile may be prosecuted and convicted as an adult for any other offense which is properly joined under the Federal Rules of Criminal Procedure, and may also be convicted as an adult of any lesser included offense.` |
 
 ## Stated, not applied
 
@@ -160,29 +160,32 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 853` | amend | Chapter 26 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “, section 521 (relating to criminal street gang prosecutions)” before “, section 541”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1952` | insert | by inserting “(1)” after “(a)”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1952` | replace | by striking “and thereafter” and all that follows through the end of the subsection and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 1952` | amend | The item relating to section 1952 in the table of sections at the beginning of chapter 95 of title 18, United States Code. is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2119` | strike | by striking “, with the intent to cause death or serious bodily harm”; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 2119` | insert | by inserting “or conspires” after “attempts”; | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 924` | amend | Section 924(g) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1952` | amend | The item relating to section 1952 in the table of sections at the beginning of chapter 95 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2119` | strike | by striking “, with the intent to cause death or serious bodily harm” in the matter preceding paragraph (1); | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 2119` | insert | by inserting “or conspires” after “attempts” in the matter preceding paragraph (1); | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 924` | amend | Section 924(h) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3582` | insert | by inserting “section 521 (criminal street gang prosecutions), in” after “felony set forth in”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 3582` | insert | by inserting “a criminal street gang or” before “an illegal enterprise”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1958` | replace | by striking the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1958` | insert | by inserting “or other crime of violence, punishable by imprisonment for more than one year,” after “intent that a murder”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1958` | replace | by striking “shall be fined” the first place it appears and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1958` | insert | in subsection (a), by inserting “or other crime of violence, punishable by imprisonment for more than one year,” after “intent that a murder”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1958` | replace | in subsection (a), by striking “shall be fined” the first place it appears and all that follows through the end of such subsection and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1958` | amend | The item relating to section 1958 in the table of sections at the beginning of chapter 95 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1959` | amend | Section 1959(a) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1959` | add-at-end | Section 1959 of title 18, United States Code, is amended by adding at the end the following: — | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 841` | add-at-end | Part D of the Controlled Substances Act (21 U.S.C. 841 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 841` | insert | The table of contents for the Controlled Substances Act is amended by inserting after the item relating to section 423, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Part I of chapter 51 of title 18, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 841` | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 is amended by inserting after the item relating to section 423, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 51 of title 18, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 51 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 1961` | insert | in subparagraph (A), by inserting “, or would have been so chargeable if the act or threat had not been committed in Indian country (as defined in section 1151) or in any other area of exclusive Federal jurisdiction,” after “chargeable u… | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1961` | insert | in subparagraph (B), by inserting “section 1123 (relating to interstate murder),” after “section 1084 (relating to the transmission of wagering information),”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 3142` | insert | by inserting “an offense under section 922(g)(1) where the underlying conviction is a drug trafficking crime (as defined in section 924(c)) or a crime of violence,” after “that the person committed”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 3142` | insert | by inserting “or” before “the Maritime”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1961` | insert | in subparagraph (B), by inserting “section 1123 (relating to interstate murder),” after “section 1084 (relating to the transmission of gambling information),”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 3142` | insert | in subsection (e), in the matter following paragraph (3), by inserting “an offense under subsection (g)(1) (where the underlying conviction is a drug trafficking crime (as defined in section 924(c))), (g)(2), (g)(4), (g)(5), (g)(8), or (… | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 3142` | amend | in subsection (g), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3235` | amend | Section 3235 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Chapter 214 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 214 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 213 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 213 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 16` | amend | Section 16(b) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Rule 804(b)(6) of the Federal Rules of Evidence is amended to read as follows: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 924` | replace | by striking clauses (ii) and (iii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
