@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1037
@@ -30,3 +30,10 @@ To make technical corrections to title 17, United States Code.
 - 2005-03-02 — Introduced in House
 - 2005-03-02 — Referred to the House Committee on the Judiciary.
 - 2005-03-02 — Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.
+- 2005-03-03 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2005-03-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-03-09 — Committee Consideration and Mark-up Session Held.
+- 2005-03-09 — Ordered to be Reported by Voice Vote.
+- 2005-05-10 — Placed on the Union Calendar, Calendar No. 36.
+- 2005-05-10 — Reported by the Committee on Judiciary. H. Rept. 109-75.
+- 2005-05-10 — Reported by the Committee on Judiciary. H. Rept. 109-75.

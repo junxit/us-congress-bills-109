@@ -25,7 +25,7 @@ Section 119 of title 17, United States Code, is amended as follows:
 - **(3)** Subsection (a)(3) is amended—
   - **(A)** in subparagraph (A), by striking “Commission, to be” and all that follows through the end and inserting “Commission to be significantly viewed, as defined in section 76.5 of title 47, Code of Federal Regulations, as in effect on April 15, 1976.”; and
   - **(B)** in subparagraph (C)(i) in the last sentence, by inserting “otherwise” after “specifically stated”.
-- **(4)** Subsection (a)(4)(E) in amended to read as follows:
+- **(4)** Subsection (a)(4)(E) is amended to read as follows:
   > - **(E)** *Other provisions not affected* Subparagraphs (A), (B), and (C) shall not affect the applicability of the statutory license to secondary transmissions authorized under paragraphs (3) and (12).
 
 - **(5)** Subsection (a)(4)(F) is amended—
