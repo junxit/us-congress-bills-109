@@ -1,0 +1,37 @@
+---
+legis-num: S. 1032
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1032
+
+> To improve seaport security.
+
+## § 1. Short title
+
+This Act may be cited as the “United States Seaport Multiyear Security Enhancement Act”.
+
+## § 2. Seaport security improvement projects
+
+- **(a)** *Grant authority* Subject to the requirements of this section, the Transportation Security Administration may make grants to seaports to enhance security.
+- **(b)** *Applications* A seaport seeking a grant under this section shall submit to the Administration an application in such form and containing such information as the Administration prescribes.
+- **(c)** *Grant awards*
+  - **(1)** *In general* The Administration, after consultation with the Secretary of Transportation, may approve an application of a seaport for a grant under this section only if the Administration determines that the project will improve security at a seaport or improve the efficiency of the seaport without lessening security.
+  - **(2)** *Priority* The Administration shall give priority in awarding grants under this section to seaports that the Administration considers will impact or enhance the Nation’s seaport security.
+- **(d)** *Matching requirements*
+  - **(1)** *75-percent Federal funding* Except as provided in paragraph (2), Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
+  - **(2)** *Exceptions*
+    - **(A)** *Small projects* A seaport with a project under subsection (a) that costs less than $25,000 shall not be required to match Federal funds.
+    - **(B)** *Higher level of support required* If the Administration determines that a proposed project merits support and cannot be undertaken without a higher rate of Federal support, the Administration may approve grants under this section with a matching requirement other than that specified in paragraph (1).
+- **(e)** *Letters of intent*
+  - **(1)** *Issuance* The Administration may issue a letter of intent to a seaport committing to obligate from future budget authority an amount, not more than the Federal Government’s share of the project’s cost, for a seaport security improvement project (including interest costs and costs of formulating the project).
+  - **(2)** *Schedule* A letter of intent under this subsection shall establish a schedule under which the Administration will reimburse the seaport for the Government’s share of the project’s costs, as amounts become available, if the seaport, after the Administration issues the letter, carries out the project without receiving amounts under this section.
+  - **(3)** *Notice to Administration* A seaport that has been issued a letter of intent under this subsection shall notify the Administration of the seaport’s intent to carry out a project before the project begins.
+  - **(4)** *Notice to Congress* The Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science, and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
+  - **(5)** *Limitations* A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriations laws.
+  - **(6)** *Statutory construction* Nothing in this subsection shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
+- **(f)** *Application of additional requirements* The Administration may require as a condition for issuance of a letter of intent such reasonable administrative requirements as necessary to carry out the provisions of this Act.
+- **(g)** *Notification to committee* The Administration shall notify the appropriate committees of Congress when a grant is made under this section.
+- **(h)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $800,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
