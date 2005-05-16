@@ -15,11 +15,29 @@ This Act may be cited as the “Business Checking Freedom Act of 2005”.
 
 ## § 2. Interest-bearing transaction accounts authorized for all businesses
 
-Section 2 of Public Law 93–100 (12 U.S.C. 1832) is amended—
+- **(a)** *Daily transfers allowed into demand deposit accounts* Section 2 of Public Law 93–100 (12 U.S.C. 1832) is amended—
+  - **(1)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
+  - **(2)** by inserting after subsection (a) the following:
+    > - **(b)** *Transfers* Notwithstanding any other provision of law, any depository institution, other than a nonqualified industrial loan company, may permit the owner of any deposit or account which is a deposit or account on which interest or dividends are paid and is not a deposit or account described in subsection (a)(2) to make up to 24 transfers per month (or such greater number as the Board of Governors of the Federal Reserve System may determine by rule or order), for any purpose, to another account of the owner in the same institution. An account offered pursuant to this subsection shall be considered a transaction account for purposes of section 19 of the Federal Reserve Act unless the Board of Governors of the Federal Reserve System determines otherwise.
 
-- **(1)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
-- **(2)** by inserting after subsection (a) the following:
-  > - **(b)** Notwithstanding any other provision of law, any depository institution may permit the owner of any deposit or account which is a deposit or account on which interest or dividends are paid and is not a deposit or account described in subsection (a)(2) to make up to 24 transfers per month (or such greater number as the Board of Governors of the Federal Reserve System may determine by rule or order), for any purpose, to another account of the owner in the same institution. An account offered pursuant to this subsection shall be considered a transaction account for purposes of section 19 of the Federal Reserve Act unless the Board of Governors of the Federal Reserve System determines otherwise.
+  - **(3)** by adding at the end of subsection (a) the following new paragraph:
+    > - **(3)** *Nonqualified industrial loan companies*
+    >   - **(A)** *Definition* For purposes of this section, the term “nonqualified industrial loan company” means any industrial loan company, industrial bank, or other institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 that is determined by an appropriate State bank supervisor (as defined in section 3 of the Federal Deposit Insurance Act) to be controlled, directly or indirectly, by a commercial firm.
+    >   - **(B)** *Commercial firm defined* For purposes of this paragraph, the term commercial firm means any entity at least 15 percent of the annual gross revenues of which on a consolidated basis, including all affiliates of the entity, were derived from engaging, on an on-going basis, in activities that are not financial in nature or incidental to a financial activity during at least 3 of the prior 4 calendar quarters.
+    >   - **(C)** *Grandfathered institutions* The term “nonqualified industrial loan company” does not include any industrial loan company, industrial bank, or other institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956—
+    >     - **(i)** which became an insured depository institution before October 1, 2003, or pursuant to an application for deposit insurance which was approved by the Federal Deposit Insurance Corporation before such date; and
+    >     - **(ii)** with respect to which there is no change in control, directly or indirectly, of the company, bank, or institution after September 30, 2003, that requires an application under section 7(j) or 18(c) of the Federal Deposit Insurance Act, section 3 of the Bank Holding Company Act of 1956, or section 10 of the Home Owners' Loan Act.
+
+- **(b)** *Interest on business now accounts*
+  - **(1)** *In general* Section 2(a) of Public Law 93–100 (12 U.S.C. 1832(a)) is amended—
+    - **(A)** by striking paragraph (2) and inserting the following new paragraph:
+      > - **(2)** *Payment of interest on certain now accounts* An industrial loan company, industrial bank, or other institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 may not pay interest on any deposit or account of a corporation from which funds may be withdrawn by negotiable instrument for payment to third parties, unless the appropriate State bank supervisor (as defined in section 3 of the Federal Deposit Insurance Act) of such company, bank, or institution determines that such company, bank, or institution is not a nonqualified industrial loan company.
+
+    - **(B)** by adding at the end the following new paragraph:
+      > - **(4)** *Rule of construction relating to demand deposits* No provision of this section may be construed as conferring the authority to offer demand deposit accounts to any institution that is prohibited by law from offering demand deposit accounts.
+
+  - **(2)** *Technical and conforming amendment* Section 2(b) of Public Law 93–100 (12 U.S.C. 1832(b)) (as added by subsection (a)(2) of this section) is amended by striking “and is not a deposit or account described in subsection (a)(2)”.
+  - **(3)** *Effective date* The amendments made by this subsection shall take effect at the end of the 2-year period beginning on the date of the enactment of this Act.
 
 ## § 3. Interest-bearing transaction accounts authorized
 
@@ -67,8 +85,9 @@ Section 2 of Public Law 93–100 (12 U.S.C. 1832) is amended—
       >     - **(G)** Stop payment order fees.
       >     - **(H)** Nonsufficient fund fees.
       >     - **(I)** Overdraft fees.
-      >     - **(J)** Deposit items returned fees.
-      >     - **(K)** Availability of no-cost or low-cost accounts for consumers who maintain low balances.
+      >     - **(J)** Fees imposed in connection with bounced-check protection and overdraft protection programs.
+      >     - **(K)** Deposit items returned fees.
+      >     - **(L)** Availability of no-cost or low-cost accounts for consumers who maintain low balances.
       >   - **(2)** *Negotiable order of withdrawal accounts and savings accounts* Data on negotiable order of withdrawal accounts and savings accounts shall include, at a minimum, the following:
       >     - **(A)** Monthly and annual fees and minimum balances to avoid such fees.
       >     - **(B)** Minimum opening balances.
@@ -137,4 +156,4 @@ In the case of an escrow account maintained at a depository institution in conne
 
 - **(1)** the absorption, by the depository institution, of expenses incidental to providing a normal banking service with respect to such escrow account;
 - **(2)** the forbearance, by the depository institution, from charging a fee for providing any such banking function; and
-- **(3)** any benefit which may accrue to the holder or the beneficiary of such escrow account as a result of an action of the depository institution described in subparagraph (1) or (2) or similar in nature to such action,
+- **(3)** any benefit which may accrue to the holder or the beneficiary of such escrow account as a result of an action of the depository institution described in subparagraph (1) or (2) or similar in nature to such action, including any benefits which have been so determined by the appropriate Federal regulator,
