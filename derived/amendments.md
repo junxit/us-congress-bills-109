@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1224
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 4 executed, 12 stated and not applied.
+20 amendatory instructions. 4 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,8 +69,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1832` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1832` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1832` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1832` | add-at-end | by adding at the end of subsection (a) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1832` | replace | by striking paragraph (2) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1832` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1832` | strike | Section 2(b) of Public Law 93–100 (12 U.S.C. 1832(b)) (as added by subsection (a)(2) of this section) is amended by striking “and is not a deposit or account described in subsection (a)(2)”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 371a` | amend | Section 19(i) of the Federal Reserve Act (12 U.S.C. 371a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1828` | amend | Section 18(g) of the Federal Deposit Insurance Act (12 U.S.C. 1828(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 461` | add-at-end | Section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
