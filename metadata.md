@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1215
@@ -16,7 +16,7 @@ Green Chemistry Research and Development Act of 2005
 
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Marshall, Jim [D-GA-3] (M001146)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
@@ -26,6 +26,8 @@ Green Chemistry Research and Development Act of 2005
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 - Rep. Simmons, Rob [R-CT-2] (S001152)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
 
 ## Committees (1)
 
@@ -37,3 +39,9 @@ Green Chemistry Research and Development Act of 2005
 - 2005-03-10 — Introduced in House
 - 2005-03-10 — Referred to the House Committee on Science.
 - 2005-03-10 — Sponsor introductory remarks on measure. (CR E407-408)
+- 2005-03-11 — Committee Hearings Held.
+- 2005-04-13 — Committee Consideration and Mark-up Session Held.
+- 2005-04-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-05-16 — Placed on the Union Calendar, Calendar No. 42.
+- 2005-05-16 — Reported (Amended) by the Committee on Science. H. Rept. 109-82.
+- 2005-05-16 — Reported (Amended) by the Committee on Science. H. Rept. 109-82.

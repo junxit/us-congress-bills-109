@@ -82,7 +82,28 @@ Section 25(a) of the National Institute of Standards and Technology Act (15 U.S.
   - **(2)** recommend research areas and priorities and public policy options that would help to overcome identified barriers to commercialization.
 - **(c)** *Report* The Director shall submit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings and recommendations of the study within 18 months after the date of enactment of this Act.
 
-## § 7. Authorization of appropriations
+## § 7. Partnerships in green chemistry
+
+- **(a)** *Program authorized*
+  - **(1)** The agencies participating in the Program shall carry out a joint, coordinated program to award grants to institutions of higher education to establish partnerships with companies in the chemical industry to retrain chemists and chemical engineers in the use of green chemistry concepts and strategies.
+  - **(2)** Grants shall be awarded under this section on a competitive, merit-reviewed basis and shall require cost sharing from non-Federal sources by members of the partnerships.
+  - **(3)** In order to be eligible to receive a grant under this section, an institution of higher education shall enter into a partnership with two or more companies in the chemical industry. Such partnerships may also include other institutions of higher education and professional associations.
+  - **(4)** Grants awarded under this section shall be used for activities to provide retraining for chemists or chemical engineers in green chemistry, including—
+    - **(A)** the development of curricular materials and the designing of undergraduate and graduate level courses; and
+    - **(B)** publicizing the availability of professional development courses of study in green chemistry and recruiting graduate scientists and engineers to pursue such courses.
+- **(b)** *Selection process*
+  - **(1)** An institution of higher education seeking funding under this section shall submit an application at such time, in such manner, and containing such information as shall be specified by the Interagency Working Group and published in a proposal solicitation for the Program. The application shall include at a minimum—
+    - **(A)** a description of the partnership and the role each member will play in implementing the proposal;
+    - **(B)** a description of the courses of study that will be provided;
+    - **(C)** a description of the number and size of stipends, if offered;
+    - **(D)** a description of the source and amount of cost sharing to be provided; and
+    - **(E)** a description of the manner in which the partnership will be continued after assistance under this section ends.
+  - **(2)** The evaluation of the applications submitted under paragraph (1) shall be carried out in accordance with procedures developed by the Interagency Working Group and shall consider, at a minimum—
+    - **(A)** the ability of the partnership to carry out effectively the proposed activities;
+    - **(B)** the degree to which such activities are likely to prepare chemists and chemical engineers sufficiently to be competent to apply green chemistry concepts and strategies in their work; and
+    - **(C)** the amount of cost sharing to be provided.
+
+## § 8. Authorization of appropriations
 
 - **(a)** *National Science Foundation*
   - **(1)** From sums otherwise authorized to be appropriated by the National Science Foundation Authorization Act of 2002, there are authorized to be appropriated to the National Science Foundation for carrying out this Act—
