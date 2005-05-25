@@ -1,7 +1,7 @@
 ---
 measure: S. 494
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 494
@@ -16,7 +16,7 @@ Federal Employee Protection of Disclosures Act
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -31,6 +31,7 @@ Federal Employee Protection of Disclosures Act
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Chafee, Lincoln [R-RI] (C001040)
 
 ## Committees (1)
 
@@ -41,3 +42,8 @@ Federal Employee Protection of Disclosures Act
 - 2005-03-02 — Introduced in Senate
 - 2005-03-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S1936-1938)
 - 2005-03-02 — Sponsor introductory remarks on measure. (CR S1935-1936)
+- 2005-03-09 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce,  and the District of Columbia.
+- 2005-04-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2005-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-72.
+- 2005-05-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-72.
+- 2005-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
