@@ -1,0 +1,51 @@
+---
+legis-num: H.R. 2731
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2731
+
+> To limit the liability of hospitals and emergency departments for noneconomic and punitive damages when providing uncompensated care, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Care Liability Relief Act”.
+
+## § 2. Constitutional authority
+
+The constitutional authority upon which this Act rests is the power of Congress to provide for the general welfare, to regulate commerce, and to make all laws which shall be necessary and proper, as enumerated in section 8 of article I of the Constitution of the United States.
+
+## § 3. Limitations on noneconomic and punitive damages when providing uncompensated care
+
+- **(a)** *In general* Whenever items or services are furnished under section 1867 of the Social Security Act (42 U.S.C. 1395dd) to an uninsured individual for purposes of complying with such section, the liability of an emergency care provider for an injury arising out of the furnishing of such items or services shall be subject to the following limitations:
+  - **(1)** *Noneconomic damages* With respect to noneconomic damages, the aggregate such liability for all such providers may not exceed $250,000 or two times the amount of economic damages, whichever is greater.
+  - **(2)** *Punitive damages* With respect to punitive damages, the aggregate such liability for all such providers may not exceed $250,000 or three times the amount of economic damages, whichever is greater.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Emergency care provider* The term emergency care provider means an emergency care entity or an officer, governing board member, employee, or contractor of such an entity.
+  - **(2)** *Emergency care entity* The term emergency care entity means—
+    - **(A)** a hospital or an emergency department to which section 1867 of the Social Security Act (42 U.S.C. 1395dd) applies; and
+    - **(B)** a physician or physician group that is employed by, or under contract with, such hospital or department to furnish items and services to individuals under such section.
+  - **(3)** *Uninsured individual* The term uninsured individual means an individual who, at the time the items or services described in subsection (a) are furnished—
+    - **(A)** does not have coverage under—
+      - **(i)** a group health plan (as defined in section 2791(a)(1) of the Public Health Service Act (42 U.S.C. 300gg–91(a)(1)));
+      - **(ii)** part A (42 U.S.C. 1395c et seq.) or B (42 U.S.C. 1395j et seq.) of title XVIII of the Social Security Act; or
+      - **(iii)** a State plan under title XIX (42 U.S.C. 1396 et seq.) of the Social Security Act; and
+    - **(B)** does not have health insurance coverage (as defined in section 2791(b)(1) of the Public Health Service Act (42 U.S.C. 300gg–91(b)(1)) from any other source.
+
+## § 4. Awards of attorney fees and costs in an action involving uncompensated care
+
+- **(a)** *In general* In any action in any State or Federal court in which liability or damages described in section 3(a) is contested, the court (or the jury, if the matter is tried before a jury) may award to each prevailing party a reasonable attorney’s fee and other reasonable costs relating to the prosecution of the action, subject to the other provisions of this section.
+- **(b)** *Persons liable* Liability for each award under subsection (a) shall be borne by one or more of the following persons, as allocated by the court or jury:
+  - **(1)** A nonprevailing party personally.
+  - **(2)** An attorney or law firm representing a nonprevailing party, but only if such representation was on a contingent-fee basis.
+- **(c)** *Factors considered* In exercising its discretion under subsections (a) and (b), the court or jury shall consider, and may conduct a separate evidentiary hearing on, the following factors:
+  - **(1)** The validity or reasonableness, or both, of the claim of the nonprevailing party.
+  - **(2)** The reasonableness of the conduct of the litigation by the attorney or law firm representing the nonprevailing party, including consideration of any offer of settlement by the prevailing party.
+  - **(3)** The reasonableness of the conduct of the litigation by the attorney or law firm representing the prevailing party, including consideration of any offer of settlement by the nonprevailing party.
+  - **(4)** The financial resources of the nonprevailing party and the extent to which the nonprevailing party would have been unfairly discouraged from pursuing a reasonable and legitimate claim for injuries by such an award.
+
+## § 5. Jury in an action involving uncompensated care to consider effect of damages on health care liability insurance
+
+In any action in any State or Federal court in which liability or damages described in section 3(a) is contested, the court shall instruct the jury that in considering the amount of damages (whether compensatory or punitive) to award against a defendant that has been found liable, the jury must consider the effect of the amount awarded on the price and availability of health care liability insurance.
