@@ -1,7 +1,7 @@
 ---
 measure: H.R. 481
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 481
@@ -29,3 +29,11 @@ Sand Creek Massacre National Historic Site Trust Act of 2005
 - 2005-02-01 — Introduced in House
 - 2005-02-01 — Introduced in House
 - 2005-02-01 — Referred to the House Committee on Resources.
+- 2005-02-10 — Referred to the Subcommittee on National Parks.
+- 2005-04-14 — Subcommittee Hearings Held.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2005-05-18 — Subcommittee on National Parks Discharged.
+- 2005-06-08 — Placed on the Union Calendar, Calendar No. 59.
+- 2005-06-08 — Reported (Amended) by the Committee on Resources. H. Rept. 109-107.
+- 2005-06-08 — Reported (Amended) by the Committee on Resources. H. Rept. 109-107.
