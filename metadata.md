@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2362
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2362
@@ -29,3 +29,8 @@ National Geologic Mapping Reauthorization Act of 2005
 - 2005-05-16 — Introduced in House
 - 2005-05-16 — Introduced in House
 - 2005-05-16 — Referred to the House Committee on Resources.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported by Unanimous Consent.
+- 2005-06-08 — Placed on the Union Calendar, Calendar No. 65.
+- 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-113.
+- 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-113.
