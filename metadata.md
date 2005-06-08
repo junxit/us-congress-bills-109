@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1084
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1084
@@ -29,3 +29,11 @@ To authorize the establishment at Antietam National Battlefield of a memorial to
 - 2005-03-03 — Introduced in House
 - 2005-03-03 — Introduced in House
 - 2005-03-03 — Referred to the House Committee on Resources.
+- 2005-03-15 — Referred to the Subcommittee on National Parks.
+- 2005-05-12 — Subcommittee Hearings Held.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported by Unanimous Consent.
+- 2005-05-18 — Subcommittee on National Parks Discharged.
+- 2005-06-08 — Placed on the Union Calendar, Calendar No. 63.
+- 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-111.
+- 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-111.
