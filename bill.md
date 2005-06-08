@@ -24,3 +24,7 @@ Section 4(i) of the National Fish and Wildlife Foundation Establishment Act (16 
 ## § 4. Clarification of authority to use Federal funds to match contributions made to recipients of National Fish and Wildlife Foundation grants
 
 Section 10(a)(3) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3709(a)(3)) is amended by inserting “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
+
+## § 5. Repeal
+
+Effective September 30, 2015, the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3701 et seq.) is hereby repealed.
