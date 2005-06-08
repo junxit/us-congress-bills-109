@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 175
-congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 175
@@ -28,10 +28,10 @@ That Congress—
 - **(1)** recognizes and honors African descendants in the Americas for their contributions to the economic, social, and cultural fabric of the countries in the Americas, particularly in Latin American and Caribbean societies;
 - **(2)** recognizes that as a result of their skin color and ancestry, African descendants in the Americas have wrongfully experienced economic, social, and political injustices;
 - **(3)** urges the President to take appropriate measures to encourage the celebration and remembrance of the achievements of African descendants in the Americas and a resolution of injustices suffered by African descendants in the Americas;
-- **(4)** encourages the United States and the international community to work to ensure that extreme poverty is eradicated, universal education is achieved, quality healthcare is made available, sustainable environmental resources, including land where applicable, is provided, and equal access to justice and representation under the law is granted in Afro-descendant communities in Latin America and the Caribbean; and
+- **(4)** encourages the United States and the international community to work to ensure that extreme poverty is eradicated, universal education is achieved, quality healthcare is made available, and equal access to justice and representation under the law is granted in Afro-descendant communities in Latin America and the Caribbean; and
 - **(5)** encourages the United States and the international community to achieve these goals in Latin America and the Caribbean by—
   - **(A)** promoting research that focuses on identifying and eradicating racial disparities in economic, political, and social spheres;
-  - **(B)** promoting, funding, and creating development programs that focus on Afro-descendant communities;
+  - **(B)** promoting programs that focus on Afro-descendant communities;
   - **(C)** providing technical support and training to Afro-descendant advocacy groups that work to uphold basic human rights in the region;
   - **(D)** promoting the creation of an international working group that focuses on problems of communities of Afro-descendants in the Americas; and
   - **(E)** promoting trade and other bilateral and multilateral agreements that take into account the needs of Afro-descendant communities.
