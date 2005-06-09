@@ -1,7 +1,7 @@
 ---
 measure: S. 1140
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1140
@@ -28,3 +28,7 @@ A bill to designate the State Route 1 Bridge in the State of Delaware as the "Se
 
 - 2005-05-26 — Introduced in Senate
 - 2005-05-26 — Read twice and referred to the Committee on Environment and Public Works.
+- 2005-06-08 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2005-06-09 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2005-06-09 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2005-06-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.

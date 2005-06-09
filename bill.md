@@ -11,8 +11,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Designation of Senator William V. Roth, Jr. Bridge
 
--  The State Route 1 Bridge over the Chesapeake and Delaware Canal in the State of Delaware is designated as the “Senator William V. Roth, Jr. Bridge”.
+The State Route 1 Bridge over the Chesapeake and Delaware Canal in the State of Delaware is designated as the “Senator William V. Roth, Jr. Bridge”.
 
 ## § 2. References
 
--  Any reference in a law (including regulations), map, document, paper, or other record of the United States to the bridge described in section 1 shall be considered to be a reference to the Senator William V. Roth, Jr. Bridge.
+Any reference in a law (including regulations), map, document, paper, or other record of the United States to the bridge described in section 1 shall be considered to be a reference to the Senator William V. Roth, Jr. Bridge.
