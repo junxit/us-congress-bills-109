@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2745
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2745
@@ -29,3 +29,8 @@ Henry J. Hyde United Nations Reform Act of 2005
 - 2005-06-07 — Introduced in House
 - 2005-06-07 — Introduced in House
 - 2005-06-07 — Referred to the House Committee on International Relations.
+- 2005-06-08 — Committee Consideration and Mark-up Session Held.
+- 2005-06-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 23.
+- 2005-06-10 — Placed on the Union Calendar, Calendar No. 68.
+- 2005-06-10 — Reported (Amended) by the Committee on International Relations. H. Rept. 109-120.
+- 2005-06-10 — Reported (Amended) by the Committee on International Relations. H. Rept. 109-120.
