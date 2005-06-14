@@ -11,35 +11,48 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Personal Responsibility in Food Consumption Act”.
+This Act may be cited as the “Personal Responsibility in Food Consumption Act of 2005”.
 
-## § 2. Purpose
+## § 2. Findings; purpose
 
-The purpose of this Act is to allow Congress, State legislatures, and regulatory agencies to determine appropriate laws, rules, and regulations to address the problems of weight gain, obesity, and health conditions associated with weight gain or obesity.
+- **(a)** *Findings* Congress finds that—
+  - **(1)** the food and beverage industries are a significant part of our national economy;
+  - **(2)** the activities of manufacturers and sellers of foods and beverages substantially affect interstate and foreign commerce;
+  - **(3)** a person's weight gain, obesity, or a health condition associated with a person's weight gain or obesity is based on a multitude of factors, including genetic factors and the lifestyle and physical fitness decisions of individuals, such that a person's weight gain, obesity, or a health condition associated with a person's weight gain or obesity cannot be attributed to the consumption of any specific food or beverage; and
+  - **(4)** because fostering a culture of acceptance of personal responsibility is one of the most important ways to promote a healthier society, lawsuits seeking to blame individual food and beverage providers for a person's weight gain, obesity, or a health condition associated with a person's weight gain or obesity are not only legally frivolous and economically damaging, but also harmful to a healthy America.
+- **(b)** *Purpose* The purpose of this Act is to allow Congress and regulatory agencies to determine appropriate laws, rules, and regulations to address the problems of weight gain, obesity, and health conditions associated with weight gain or obesity.
 
 ## § 3. Preservation of separation of powers
 
 - **(a)** *In general* A qualified civil liability action may not be brought in any Federal or State court.
-- **(b)** *Dismissal of pending actions* A qualified civil liability action that is pending on the date of the enactment of this Act shall be dismissed immediately by the court in which the action was brought or is currently pending.
+- **(b)** *Dismissal of Pending Actions* A qualified civil liability action that is pending on the date of the enactment of this Act shall be dismissed immediately by the court in which the action was brought or is currently pending.
 - **(c)** *Discovery*
-  - **(1)** *Stay* In any action of the type described in clause (i) or (ii) of section 4(5)(B), all discovery and other proceedings shall be stayed during the pendency of any motion to dismiss unless the court finds upon motion of any party that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
-  - **(2)** *Responsibility of parties* During the pendency of any stay of discovery under paragraph (1), unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under applicable Federal or State rules of civil procedure, as the case may be. A party aggrieved by the willful failure of an opposing party to comply with this paragraph may apply to the court for an order awarding appropriate sanctions.
-- **(d)** *Pleadings* In any action of the type described in section 4(5)(B)(i), the complaint initiating such action shall state with particularity the Federal and State statutes that were allegedly violated and the facts that are alleged to have proximately caused the injury claimed.
+  - **(1)** *Stay* In any action that is allegedly of the type described in section 4(5)(B) seeking to impose liability of any kind based on accumulative acts of consumption of a qualified product, the obligation of any party or non-party to make disclosures of any kind under any applicable rule or order, or to respond to discovery requests of any kind, as well as all proceedings unrelated to a motion to dismiss, shall be stayed prior to the time for filing a motion to dismiss and during the pendency of any such motion, unless the court finds upon motion of any party that a response to a particularized discovery request is necessary to preserve evidence or to prevent undue prejudice to that party.
+  - **(2)** *Responsibility of parties* During the pendency of any stay of discovery under paragraph (1), the responsibilities of the parties with regard to the treatment of all documents, data compilations (including electronically recorded or stored data), and tangible objects shall be governed by applicable Federal or State rules of civil procedure. A party aggrieved by the failure of an opposing party to comply with this paragraph shall have the applicable remedies made available by such applicable rules, provided that no remedy shall be afforded that conflicts with the terms of paragraph (1).
+- **(d)** *Pleadings* In any action that is allegedly of the type described in section 4(5)(B) seeking to impose liability of any kind based on accumulative acts of consumption of a qualified product, the complaint initiating such action shall state with particularity—
+  - **(1)** each element of the cause of action;
+  - **(2)** the Federal and State statutes or other laws that were allegedly violated;
+  - **(3)** the specific facts alleged to constitute the claimed violation of law; and
+  - **(4)** the specific facts alleged to have caused the claimed injury.
+- **(e)** *Rule of Construction* No provision of this Act shall be construed to create a public or private cause of action or remedy.
 
 ## § 4. Definitions
 
 In this Act:
 
-- **(1)** *Engaged in the business* The term “engaged in the business” means a person who manufactures, markets, distributes, advertises, or sells a qualified product in the person’s regular course of trade or business.
-- **(2)** *Manufacturer* The term “manufacturer” means, with respect to a qualified product, a person who is lawfully engaged in the business of manufacturing the product in interstate or foreign commerce.
-- **(3)** *Person* The term “person” means any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other entity, including any governmental entity.
-- **(4)** *Qualified product* The term “qualified product” means a food (as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(f))).
+- **(1)** *Engaged in the business* The term engaged in the business means a person who manufactures, markets, distributes, advertises, or sells a qualified product in the person's regular course of trade or business.
+- **(2)** *Manufacturer* The term manufacturer means, with respect to a qualified product, a person who is lawfully engaged in the business of manufacturing the product.
+- **(3)** *Person* The term person means any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other entity, including any governmental entity.
+- **(4)** *Qualified product* The term qualified product means a food (as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(f))).
 - **(5)** *Qualified civil liability action*
-  - **(A)** Subject to subparagraphs (B) and (C), the term “qualified civil liability action” means a civil action brought by any person against a manufacturer or seller of a qualified product, or a trade association, for damages, penalties, declaratory judgment, injunctive or declaratory relief, restitution, or other relief arising out of, related to, or resulting in injury or potential injury resulting from a person’s consumption of a qualified product and weight gain, obesity, or any health condition that is associated with a person’s weight gain or obesity, including an action brought by a person other than the person on whose weight gain, obesity, or health condition the action is based, and any derivative action brought by or on behalf of any person or any representative, spouse, parent, child, or other relative of any person.
-  - **(B)** Such term shall not include—
-    - **(i)** an action in which a manufacturer or seller of a qualified product knowingly and willfully violated a Federal or State statute applicable to the manufacturing, marketing, distribution, advertisement, labeling, or sale of the product, and the violation was a proximate cause of injury related to a person’s weight gain, obesity, or any health condition associated with a person’s weight gain or obesity; or
-    - **(ii)** an action for breach of express contract or express warranty in connection with the purchase of a qualified product.
-  - **(C)** Such term shall not be construed to include an action brought under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) or the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
-- **(6)** *Seller* The term “seller” means, with respect to a qualified product, a person lawfully engaged in the business of marketing, distributing, advertising, or selling a qualified product in interstate or foreign commerce.
-- **(7)** *State* The term “State” includes each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States, and any political subdivision of any such place.
-- **(8)** *Trade association* The term “trade association” means any association or business organization (whether or not incorporated under Federal or State law) that is not operated for profit, and 2 or more members of which are manufacturers, marketers, distributors, advertisers, or sellers of a qualified product.
+  - **(A)** *In general* Subject to subparagraph (B), the term “qualified civil liability action” means a civil action brought by any person against a manufacturer, marketer, distributor, advertiser, or seller of a qualified product, or a trade association, for damages, penalties, declaratory judgment, injunctive or declaratory relief, restitution, or other relief arising out of, or related to a person's accumulated acts of consumption of a qualified product and weight gain, obesity, or a health condition that is associated with a person's weight gain or obesity, including an action brought by a person other than the person on whose weight gain, obesity, or health condition the action is based, and any derivative action brought by or on behalf of any person or any representative, spouse, parent, child, or other relative of that person.
+  - **(B)** *Exception* A qualified civil liability action shall not include—
+    - **(i)** an action based on allegations of breach of express contract or express warranty, provided that the grounds for recovery being alleged in such action are unrelated to a person's weight gain, obesity, or a health condition associated with a person's weight gain or obesity;
+    - **(ii)** an action based on allegations that—
+      - **(I)** a manufacturer or seller of a qualified product knowingly violated a Federal or State statute applicable to the marketing, advertisement, or labeling of the qualified product with intent for a person to rely on that violation;
+      - **(II)** such person individually and justifiably relied on that violation; and
+      - **(III)** such reliance was the proximate cause of injury related to that person’s weight gain, obesity, or a health condition associated with that person’s weight gain or obesity; or
+    - **(iii)** an action brought by the Federal Trade Commission under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) or by the Federal Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
+- **(6)** *Seller* The term seller means, with respect to a qualified product, a person lawfully engaged in the business of marketing, distributing, advertising, or selling a qualified product.
+- **(7)** *State* The term State includes each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States, and any political subdivision of any such place.
+- **(8)** *Trade association* The term trade association means any association or business organization (whether or not incorporated under Federal or State law) that is not operated for profit, and 2 or more members of which are manufacturers, marketers, distributors, advertisers, or sellers of a qualified product.
