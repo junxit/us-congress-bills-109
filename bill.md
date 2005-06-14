@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(B)** To increase public awareness of regulations and other requirements regarding the use of the public lands.
   >   - **(2)** *Treatment of excess funds* Moneys referred to in paragraph (1) that the Secretary determines are excess to the amounts necessary to carry out the purposes specified in such paragraph shall be transferred to the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).
 
-- **(b)** *National Park System lands* Section 3 of the Act of August 25, 1916 (popularly known as the National Park Service Organic Act; 16 U.S.C. 3), is amended—
+- **(b)** *National Park System lands* Section 3 of the National Park Service Organic Act (16 U.S.C. 3), is amended—
   - **(1)** by striking “That the Secretary” the first place it appears and inserting “(a) Regulations for use and management of national park system; enforcement.—The Secretary”;
   - **(2)** by striking “He may also” the first place it appears and inserting the following:
     > - **(b)** *Special management authorities* The Secretary of the Interior may
@@ -48,14 +48,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(B)** To increase public awareness of rules, regulations, and other requirements regarding the use of System lands.
   > - **(4)** *Treatment of excess funds* Moneys referred to in paragraph (3) that the Secretary determines are excess to the amounts necessary to carry out the purposes specified in such paragraph shall be transferred to the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).
 
-- **(d)** *National Forest System lands* Section 7 of the Act of June 20, 1958 (16 U.S.C. 579c), is amended—
-  - **(1)** by inserting “(a) Treatment of certain moneys received on behalf of forest service.—” before “Any funds”;
-  - **(2)** by striking “contract or (2)” and inserting “contract, (2)”;
-  - **(3)** by inserting after “improvements,” the following: “or (3) as a result of a fine imposed under section 3571 of title 18, United States Code, for a violation of a rule or regulation prescribed by the Secretary of Agriculture with respect to such lands,”;
-  - **(4)** by striking “to cover” and all that follows through the end of the section and inserting the following: “for the purposes specified in subsection (b).”; and
-  - **(5)** by adding at the end the following new subsection:
-    > - **(b)** *Authorized use*
-    >   - **(1)** *In general* The moneys referred to in subsection (a) shall be available to the Secretary of Agriculture for the following purposes:
-    >     - **(A)** To cover the cost to the United States of any improvement, protection, or rehabilitation work on National Forest System lands rendered necessary by the action which led to the fine, forfeiture, judgment, compromise, or settlement or by similar actions.
+- **(d)** *National Forest System lands* The eleventh undesignated paragraph under the heading “surveying the public lands” of the Act of June 4, 1897 (16 U.S.C. 551), is amended——
+  - **(1)** by inserting before the first sentence the following:
+    > ## § 551. Protection of National Forest System lands; regulations
+    >
+    > - **(a)** *Regulations for use and protection of National Forest System*
+
+  - **(2)** by striking “destruction; and any violation” and inserting the following:
+    > destruction.
+    > - **(b)** *Violations; penalties* Any violation
+
+  - **(3)** by adding at the end the following new subsection:
+    > - **(c)** *Use of collected fines*
+    >   - **(1)** *Availability and authorized use* Any moneys received by the United States as a result of a collateral payment in lieu of appearance or a fine imposed under section 3571 of title 18, United States Code, for a violation of a regulation issued under subsection (a) shall be available to the Secretary of Agriculture, without further appropriation and until expended, for the following purposes:
+    >     - **(A)** To cover the cost to the United States of any improvement, protection, or rehabilitation work on National Forest System lands rendered necessary by the action which led to the fine or payment.
     >     - **(B)** To increase public awareness of rules, regulations, and other requirements regarding the use of such lands.
-    >   - **(2)** *Treatment of excess funds* Moneys referred to in subsection (a) that the Secretary determines are excess to the amounts necessary to carry out the purposes specified in paragraph (1) shall be transferred to the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).
+    >   - **(2)** *Treatment of excess funds* Moneys referred to in paragraph (1) that the Secretary of Agriculture determines are excess to the amounts necessary to carry out the purposes specified in such paragraph shall be transferred to the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).
