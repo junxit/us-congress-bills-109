@@ -1,0 +1,115 @@
+---
+legis-num: H.R. 2875
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2875
+
+> To amend the Public Lands Corps Act of 1993 to provide for the conduct of projects that protect forests, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Public Lands Corps Healthy Forests Restoration Act of 2005”.
+
+## § 2. Amendments to the Public Lands Corps Act of 1993
+
+- **(a)** *Definitions* Section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722) is amended—
+  - **(1)** by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (13), respectively;
+  - **(2)** by inserting after paragraph (7) the following:
+    > - **(8)** *Priority project* The term “priority project” means an appropriate conservation project conducted on eligible service lands to further 1 or more of the purposes of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501 et seq.), as follows:
+    >   - **(A)** To reduce wildfire risk to a community, municipal water supply, or other at-risk Federal land.
+    >   - **(B)** To protect a watershed or address a threat to forest and rangeland health, including catastrophic wildfire.
+    >   - **(C)** To address the impact of insect or disease infestations or other damaging agents on forest and rangeland health.
+    >   - **(D)** To protect, restore, or enhance forest ecosystem components to—
+    >     - **(i)** promote the recovery of threatened or endangered species;
+    >     - **(ii)** improve biological diversity; or
+    >     - **(iii)** enhance productivity and carbon sequestration.
+
+  - **(3)** by inserting after paragraph (11) (as redesignated by paragraph (1)) the following:
+    > - **(12)** *Secretary* The term “Secretary” means—
+    >   - **(A)** with respect to National Forest System land, the Secretary of Agriculture; and
+    >   - **(B)** with respect to Indian lands, Hawaiian home lands, or land administered by the Department of the Interior, the Secretary of the Interior.
+
+- **(b)** *Qualified youth or conservation corps* Section 204(c) of the Public Lands Corps Act of 1993 (16 U.S.C. 1723(c)) is amended—
+  - **(1)** by striking “The Secretary of the Interior and the Secretary of Agriculture are” and inserting the following:
+    > - **(1)** *In general* The Secretary is
+
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Preference*
+    >   - **(A)** *In general* For purposes of entering into contracts and cooperative agreements under paragraph (1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
+    >   - **(B)** *Priority projects* In carrying out priority projects in a specific area, the Secretary shall, to the maximum extent practicable, give preference to qualified youth or conservation corps located in that specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged.
+
+- **(c)** *Conservation projects* Section 204(d) of the Public Lands Corps Act of 1993 (16 U.S.C. 1723(d)) is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “The Secretary of the Interior and the Secretary of Agriculture may each” and inserting the following:
+      > - **(1)** *In general* The Secretary may
+
+    - **(B)** by striking “such Secretary” and inserting “the Secretary”;
+  - **(2)** in the second sentence, by striking “Appropriate conservation” and inserting the following:
+    > - **(2)** *Projects on indian lands* Appropriate conservation
+
+  - **(3)** by striking the third sentence and inserting the following:
+    > - **(3)** *Disaster prevention or relief projects* The Secretary may authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private land as part of a Federal disaster prevention or relief effort.
+
+- **(d)** *Conservation centers and program support* Section 205 of the Public Lands Corps Act of 1993 (16 U.S.C. 1724) is amended—
+  - **(1)** by striking the heading and inserting the following:
+    > ## § 205. Conservation centers and program support
+
+  - **(2)** by striking subsection (a) and inserting the following:
+    > - **(a)** *Establishment and use*
+    >   - **(1)** *In general* The Secretary may establish and use conservation centers owned and operated by the Secretary for—
+    >     - **(A)** use by the Public Lands Corps; and
+    >     - **(B)** the conduct of appropriate conservation projects under this title.
+    >   - **(2)** *Assistance for conservation centers* The Secretary may provide to a conservation center established under paragraph (1) any services, facilities, equipment, and supplies that the Secretary determines to be necessary for the conservation center.
+    >   - **(3)** *Standards for conservation centers* The Secretary shall—
+    >     - **(A)** establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under paragraph (1); and
+    >     - **(B)** ensure that the standards established under subparagraph (A) are enforced.
+    >   - **(4)** *Management* As the Secretary determines to be appropriate, the Secretary may enter into a contract or other appropriate arrangement with a State or local government agency or private organization to provide for the management of a conservation center.
+
+  - **(3)** by adding at the end the following:
+    > - **(d)** *Assistance* The Secretary may provide any services, facilities, equipment, supplies, technical assistance, oversight, monitoring, or evaluations that are appropriate to carry out this title.
+
+- **(e)** *Living allowances and terms of service* Section 207 of the Public Lands Corps Act of 1993 (16 U.S.C. 1726) is amended—
+  - **(1)** by striking subsection (a) and inserting the following:
+    > - **(a)** *Living allowances* The Secretary shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount established by the Secretary.
+
+  - **(2)** by adding at the end the following:
+    > - **(c)** *Hiring* The Secretary may—
+    >   - **(1)** grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
+    >   - **(2)** provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 120 days after the date on which the member's service with the Public Lands Corps is complete.
+
+- **(f)** *Funding* The Public Lands Corps Act of 1993 is amended—
+  - **(1)** in section 210 (16 U.S.C. 1729), by adding at the end the following:
+    > - **(c)** *Other funds* Amounts appropriated pursuant to the authorization of appropriations under section 211 are in addition to amounts allocated to the Public Lands Corps through other Federal programs or projects.
+
+  - **(2)** by inserting after section 210 the following:
+    > ## § 211. Authorization of appropriations
+    >
+    > - **(a)** *In general* There is authorized to be appropriated to carry out this title $15,000,000 for each fiscal year, of which $10,000,000 is authorized to carry out priority projects.
+    > - **(b)** *Availability of funds* Notwithstanding any other provision of law, amounts appropriated for any fiscal year to carry out this title shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts are appropriated.
+
+- **(g)** *Conforming amendments* The Public Lands Corps Act of 1993 is amended—
+  - **(1)** in section 204 (16 U.S.C. 1723)—
+    - **(A)** in subsection (b)—
+      - **(i)** in the first sentence, by striking “Secretary of the Interior or the Secretary of Agriculture” and inserting “Secretary”;
+      - **(ii)** in the third sentence, by striking “Secretaries” and inserting “Secretary”; and
+      - **(iii)** in the fourth sentence, by striking “Secretaries” and inserting “Secretary”; and
+    - **(B)** in subsection (e), by striking “Secretary of the Interior and the Secretary of Agriculture” and inserting “Secretary”;
+  - **(2)** in section 205 (16 U.S.C. 1724)—
+    - **(A)** in subsection (b), by striking “Secretary of the Interior and the Secretary of Agriculture” and inserting “Secretary”; and
+    - **(B)** in subsection (c), by striking “Secretary of the Interior and the Secretary of Agriculture” and inserting “Secretary”;
+  - **(3)** in section 206 (16 U.S.C. 1725)—
+    - **(A)** in subsection (a)—
+      - **(i)** in the first sentence—
+        - **(I)** by striking “Secretary of the Interior and the Secretary of Agriculture are each” and inserting “Secretary is”; and
+        - **(II)** by striking “such Secretary” and inserting “the Secretary”;
+      - **(ii)** in the third sentence, by striking “Secretaries” and inserting “Secretary”; and
+      - **(iii)** in the fourth sentence, by striking “Secretaries” and inserting “Secretary”; and
+    - **(B)** in the first sentence of subsection (b), by striking “Secretary of the Interior or the Secretary of Agriculture” and inserting “the Secretary”; and
+  - **(4)** in section 210 (16 U.S.C. 1729)—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (1), by striking “Secretary of the Interior and the Secretary of Agriculture are each” and inserting “Secretary is”; and
+      - **(ii)** in paragraph (2), by striking “Secretary of the Interior and the Secretary of Agriculture are each” and inserting “Secretary is”; and
+    - **(B)** in subsection (b), by striking “Secretary of the Interior and the Secretary of Agriculture” and inserting “Secretary”.
