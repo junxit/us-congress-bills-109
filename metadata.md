@@ -1,7 +1,7 @@
 ---
 measure: H.R. 38
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 38
@@ -25,3 +25,11 @@ Upper White Salmon Wild and Scenic Rivers Act
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Referred to the House Committee on Resources.
+- 2005-02-03 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-05-11 — Subcommittee Hearings Held.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported by Unanimous Consent.
+- 2005-05-18 — Subcommittee on Forests and Forest Health Discharged.
+- 2005-06-14 — Placed on the Union Calendar, Calendar No. 71.
+- 2005-06-14 — Reported by the Committee on Resources. H. Rept. 109-125.
+- 2005-06-14 — Reported by the Committee on Resources. H. Rept. 109-125.
