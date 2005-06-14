@@ -1,7 +1,7 @@
 ---
 measure: H.R. 420
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 420
@@ -16,7 +16,7 @@ Lawsuit Abuse Reduction Act of 2005
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (38)
+## Cosponsors (57)
 
 - Rep. DeLay, Tom [R-TX-22] (D000217)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
@@ -56,6 +56,25 @@ Lawsuit Abuse Reduction Act of 2005
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 - Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Cox, Christopher [R-CA-48] (C000830)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Gutknecht, Gil [R-MN-1] (G000536)
+- Rep. Ney, Robert W. [R-OH-18] (N000081)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
 
 ## Committees (1)
 
@@ -66,3 +85,11 @@ Lawsuit Abuse Reduction Act of 2005
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on the Judiciary.
+- 2005-02-16 — Sponsor introductory remarks on measure. (CR H633-634)
+- 2005-03-02 — Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.
+- 2005-05-20 — Subcommittee on Courts, the Internet, and Intellectual Property Discharged.
+- 2005-05-25 — Committee Consideration and Mark-up Session Held.
+- 2005-05-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 11.
+- 2005-06-14 — Placed on the Union Calendar, Calendar No. 69.
+- 2005-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-123.
+- 2005-06-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-123.
