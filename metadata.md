@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 394
@@ -25,3 +25,10 @@ To direct the Secretary of the Interior to conduct a boundary study to evaluate 
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Resources.
+- 2005-02-10 — Referred to the Subcommittee on National Parks.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2005-05-18 — Subcommittee on National Parks Discharged.
+- 2005-06-16 — Placed on the Union Calendar, Calendar No. 77.
+- 2005-06-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-135.
+- 2005-06-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-135.
