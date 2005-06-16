@@ -22,19 +22,7 @@ The Ports and Waterways Safety Act (33 U.S.C. 1221 et seq.) is amended by adding
 > - **(a)** *Requirement* As soon as a person has knowledge of any release from a vessel or facility into the navigable waters of the United States of any object that creates an obstruction prohibited under section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriations Act of 1899 (chapter 425; 33 U.S.C. 403), such person shall notify the Secretary and the Secretary of the Army of such release.
 > - **(b)** *Restriction on use of notification* Any notification provided by an individual in accordance with subsection (a) shall not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.
 
-## § 3. Sense of Congress regarding the detection of submerged obstructions
-
-It is the sense of the Congress that the Secretary of the Army should—
-
-- **(1)** place a high priority on enhancing the Army Corps of Engineers’ capabilities to detect submerged obstructions in the navigable waterways of the United States through the use of advanced sonar and other technologies; and
-- **(2)** enter into contracts and agreements with other Federal agencies, State governments, local governments, and private entities to accomplish such enhancements.
-
-## § 4. Authority to remove obstructions in Delaware River
-
-- **(a)** *In general* The Secretary of the Army, acting through the Chief of Engineers, may remove from the tidal waters of the Delaware River any object that creates an obstruction prohibited under section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriations Act of 1899 (chapter 425; 33 U.S.C. 403).
-- **(b)** *Authorization of Appropriations* There is authorized to be appropriated to the Secretary $5,000,000 for each of fiscal years 2006, 2007, and 2008 to carry out activities authorized in this section.
-
-## § 5. Limits on liability
+## § 3. Limits on liability
 
 - **(a)** *Adjustment of liability limits*
   - **(1)** *Tank vessels* Section 1004(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) is amended—
@@ -56,11 +44,11 @@ It is the sense of the Congress that the Secretary of the Army should—
 - **(b)** *Adjustment to reflect consumer price index* Section 1004(d)(4) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(d)(4)) is amended to read as follows:
   > - **(4)** *Adjustment to reflect consumer price index* The President shall, by regulations issued no later than 3 years after the date of the enactment of the Delaware River Protection Act of 2005 and no less than every 3 years thereafter, adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-## § 6. Requirement to update Philadelphia Area Contingency Plan
+## § 4. Requirement to update Philadelphia Area Contingency Plan
 
 The Philadelphia Area Committee established under section 311(j)(4) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(4)) shall, by not later than 12 months after the date of the enactment of this Act and not less than annually thereafter, review and revise the Philadelphia Area Contingency Plan to include available data and biological information on environmentally sensitive areas of the Delaware River and Delaware Bay that has been collected by Federal and State surveys.
 
-## § 7. Submerged oil removal
+## § 5. Submerged oil removal
 
 - **(a)** *Amendments* Title VII of the Oil Pollution Act of 1990 is amended—
   - **(1)** in section 7001(c)(4)(B) (33 U.S.C. 2761(c)(4)(B)) by striking “RIVERA,” and inserting “RIVERA and the T/V ATHOS I;”; and
@@ -68,18 +56,19 @@ The Philadelphia Area Committee established under section 311(j)(4) of the Feder
     > ## § 7002. Submerged oil program
     >
     > - **(a)** *Program*
-    >   - **(1)** *Establishment* The Undersecretary of Commerce for Oceans and Atmosphere, in conjunction with the Commandant of the Coast Guard, shall establish a program to monitor and evaluate the environmental effects of submerged oil. Such program shall include the following elements:
+    >   - **(1)** *Establishment* The Undersecretary of Commerce for Oceans and Atmosphere, in conjunction with the Commandant of the Coast Guard, shall establish a program to detect, monitor, and evaluate the environmental effects of submerged oil. Such program shall include the following elements:
     >     - **(A)** The development of methods to remove, disperse or otherwise diminish the persistence of submerged oil.
     >     - **(B)** The development of improved models and capacities for predicting the environmental fate, transport, and effects of submerged oil.
+    >     - **(C)** The development of techniques to detect and monitor submerged oil.
     >   - **(2)** *Report* The Secretary of Commerce shall, no later than 3 years after the date of the enactment of the Delaware River Protection Act of 2005, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate a report on the activities carried out under this subsection and activities proposed to be carried out under this subsection.
     >   - **(3)** *Funding* There is authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
     > - **(b)** *Demonstration project*
-    >   - **(1)** *Removal of submerged oil* The Commandant of the Coast Guard, in conjunction with the Undersecretary of Commerce for Oceans and Atmosphere, shall conduct a demonstration project in the Delaware River for the purpose of developing and demonstrating technologies and management practices to remove submerged oil.
-    >   - **(2)** *Funding* There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 and 2007 to carry out this subsection.
+    >   - **(1)** *Removal of submerged oil* The Commandant of the Coast Guard, in conjunction with the Undersecretary of Commerce for Oceans and Atmosphere, shall conduct a demonstration project for the purpose of developing and demonstrating technologies and management practices to remove submerged oil from the Delaware River and other navigable waters.
+    >   - **(2)** *Funding* There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
 
 - **(b)** *Clerical amendment* The table of sections in section 2 of such Act is amended by inserting after the item relating to section 7001 the following:
 
-## § 8. Delaware River and Bay Oil Spill Advisory Committee
+## § 6. Delaware River and Bay Oil Spill Advisory Committee
 
 - **(a)** *Establishment* There is established the Delaware River and Bay Oil Spill Advisory Committee (in this section referred to as the “Committee”).
 - **(b)** *Functions*
@@ -106,11 +95,11 @@ The Philadelphia Area Committee established under section 311(j)(4) of the Feder
   - **(2)** *Expenses* While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem, in lieu of subsistence, as authorized by section 5703 of title 5, United States Code.
 - **(g)** *Termination* The Committee shall terminate one year after the completion of the appointment of the members of the Committee.
 
-## § 9. Maritime fire and safety activities
+## § 7. Maritime fire and safety activities
 
 The Maritime Transportation Security Act of 2002 (Public Law 107–295) is amended—
 
 - **(1)** in section 407—
-  - **(A)** in the heading by striking “Lower Columbia River ”; and
+  - **(A)** in the heading by striking “Lower Columbia River”; and
   - **(B)** by striking “$987,400” and inserting “$1,500,000”; and
-- **(2)** in the table of contents in section 1(a) by striking the item relating to section 407 and inserting the following:
+- **(2)** in the table of contents in section 1(b) by striking the item relating to section 407 and inserting the following:

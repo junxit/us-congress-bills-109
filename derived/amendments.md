@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1412
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -66,6 +66,6 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2704` | amend | Section 1004(d)(4) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(d)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2761` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2761` | insert | The table of sections in section 2 of such Act is amended by inserting after the item relating to section 7001 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in the heading by striking “Lower Columbia River ”; and | the bill names no machine-readable US Code section |
+| — | strike | in the heading by striking “Lower Columbia River”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$987,400” and inserting “$1,500,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in the table of contents in section 1(a) by striking the item relating to section 407 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the table of contents in section 1(b) by striking the item relating to section 407 and inserting the following: | the bill names no machine-readable US Code section |
