@@ -19,7 +19,7 @@ The Congress finds the following:
 
 - **(1)** September 2007, marks the 50th anniversary of the desegregation of Little Rock Central High School in Little Rock, Arkansas.
 - **(2)** In 1957, Little Rock Central High was the site of the first major national test for the implementation of the historic decision of the United States Supreme Court in Brown, et al. v. Board of Education of Topeka, et al., 347 U.S. 483 (1954).
-- **(3)** The courage of the “Little Rock Nine” (Ernest Green, Elizabeth Eckford, Melba Pattilo, Jefferson Thomas, Carlotta Walls, Terrence Roberts, Gloria Ray, Thelma Mothershed and Minnie Jean Brown) who stood in the face of violence, was influential to the Civil Rights movement and changed American history by providing an example on which to build greater equality.
+- **(3)** The courage of the “Little Rock Nine” (Ernest Green, Elizabeth Eckford, Melba Pattillo, Jefferson Thomas, Carlotta Walls, Terrence Roberts, Gloria Ray, Thelma Mothershed, and Minnijean Brown) who stood in the face of violence, was influential to the Civil Rights movement and changed American history by providing an example on which to build greater equality.
 - **(4)** The desegregation of Little Rock Central High by the 9 African American students was recognized by Dr. Martin Luther King, Jr. as such a significant event in the struggle for civil rights that in May 1958, he attended the graduation of the first African American from Little Rock Central High School.
 - **(5)** A commemorative coin will bring national and international attention to the lasting legacy of this important event.
 
@@ -60,8 +60,7 @@ The Congress finds the following:
 ## § 7. Surcharges
 
 - **(a)** *Surcharge required* All sales shall include a surcharge of $10 per coin.
-- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges which are received by the Secretary from the sale of coins issued under this Act shall be equally divided and promptly paid by the Secretary to—
-  - **(1)** the Jefferson National Parks Association for the purpose of providing support for programs and other developmental activities at the Little Rock Central High National Historic Site and support for the ongoing mission of the Little Rock Central High National Historic Site; and
-  - **(2)** the Secretary of the Interior for site improvements at the Little Rock Central High National Historic Site, including the establishment of cooperative agreements to preserve and restore the historic character of the vicinity in the historic site’s boundaries.
-- **(c)** *Audits* The Jefferson National Parks Association shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code.
-- **(d)** *Supplemental funds* The surcharges provided to the Secretary of the Interior under this section are intended by the Congress to supplement amounts provided to such Secretary in appropriation Acts for the Little Rock Central High National Historic Site and are not intended to be a substitute for such appropriated amounts.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges which are received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Secretary of the Interior for the protection, preservation, and interpretation of resources and stories associated with Little Rock Central High School National Historic Site, including the following:
+  - **(1)** Site improvements at Little Rock Central High School National Historic Site.
+  - **(2)** Development of interpretive and education programs and historic preservation projects.
+  - **(3)** Establishment of cooperative agreements to preserve or restore the historic character of the Park Street and Daisy L. Gatson Bates Drive corridors adjacent to the site.
