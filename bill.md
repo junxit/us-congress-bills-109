@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 3031
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3031
+
+> To require the advance disclosure to shareholders of certain executive pension plans.
+
+## § 1. Short title
+
+This Act may be cited as the “Corporate Advance Disclosure Act of 2005”.
+
+## § 2. Advance disclosure for creation or increase in Non-Qualified pension plans
+
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following new subsection:
+
+> - **(m)** *Advance disclosure for creation or increase in Non-Qualified pension plans*
+>   - **(1)** *Disclosure required* Any issuer that creates, substantially increases, or funds any non-qualified pension plan for which any director or executive officer of the issuer is the beneficiary shall provide not less than 60 days notice in advance of such action by filing, in accordance with such rules as the Commission shall prescribe, such information as the Commission may require. Such rules shall require that the disclosure separately state each creation, increase, or funding with respect to each such director or officer.
+>   - **(2)** *Definitions* For purposes of this subsection:
+>     - **(A)** *Director or executive officer* The Commission shall define the term director or executive officer by rule.
+>     - **(B)** *Non-Qualified pension plan* The term non-qualified pension plan means—
+>       - **(i)** an excess benefit plan;
+>       - **(ii)** a top-hat plan; or
+>       - **(iii)** any other benefit plan that the Commission determines by rule, consistent with the protection of investors and the public interest, to treat as a non-qualified pension plan.
+>     - **(C)** *Excess benefit plan* The term excess benefit plan has the meaning provided such term by section 3(36) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(36)).
+>     - **(D)** *Top-hat plan* The term top-hat plan means any pension plan (as such term is defined in section 3(2) of such Act), or any separable part of a pension plan, that is—
+>       - **(i)** maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees; and
+>       - **(ii)** unfunded.
+>     - **(E)** *Unfunded* A plan shall be considered to be “unfunded” if its benefits must be paid as needed solely—
+>       - **(i)** from the employer’s general assets, rather than from a separate trust or account that has been set aside to hold the funds in question;
+>       - **(ii)** through insurance contracts the premiums for which are paid directly by the employer from its general assets; or
+>       - **(iii)** through both the assets described in subparagraph (B) and the contracts described in subparagraph (C).
+>     - **(F)** *Substantially increase; funding* The Commission shall, by rule, define the terms substantially increase and to fund. Such rules may provide that an action may be treated as within either such term even if there is not a “constructive receipt” by the officer or director.
