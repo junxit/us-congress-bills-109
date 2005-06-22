@@ -48,7 +48,7 @@ In this Act:
 - **(3)** *Habitat establishment* The term habitat establishment means the manipulation of physical, chemical, or biological characteristics of a project site to create and maintain habitat that did not previously exist on the project site, including construction of—
   - **(A)** shallow water impoundments on non-hydric soils; and
   - **(B)** side channel spawning and rearing habitat.
-- **(4)** *Habitat improvement* The term habitat improvement means restoring or artificially providing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
+- **(4)** *Habitat improvement* The term habitat improvement means restoring or artificially providing, enhancing, or establishing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
 - **(5)** *Habitat restoration*
   - **(A)** *In general* The term habitat restoration means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
   - **(B)** *Inclusions* The term habitat restoration includes—
@@ -62,7 +62,7 @@ In this Act:
       - **(II)** the placement of streambank or instream habitat diversity structures in streams that cannot be restored to original conditions or profile; and
     - **(iii)** removal of a disturbing or degrading element to enable the native habitat to reestablish or become fully functional.
 - **(6)** *Private land*
-  - **(A)** *In general* The term “private land” means any land that is not owned by the Federal Government, a State, or a political subdivision of a State.
+  - **(A)** *In general* The term “private land” means any land that is not owned by the Federal Government, a State, or a political subdivision of a Stateor a State.
   - **(B)** *Inclusions* The term “private land” includes tribal land and Hawaiian homeland.
 - **(7)** *Project* The term “project” means a project carried out under the Partners for Fish and Wildlife Program established by section 4.
 - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
@@ -70,6 +70,13 @@ In this Act:
 ## § 4. Partners for fish and wildlife program
 
 -  The Secretary shall carry out the Partners for Fish and Wildlife Program within the United States Fish and Wildlife Service to provide technical and financial assistance to private landowners for the conduct of voluntary projects to benefit Federal trust species by promoting habitat improvement, habitat restoration, habitat enhancement, and habitat establishment.
+
+## § 4. Partners for fish and wildlife program
+
+The Secretary shall carry out the Partners for Fish and Wildlife Program within the United States Fish and Wildlife Service to provide—
+
+- **(1)** technical and financial assistance to private landowners for the conduct of voluntary projects to benefit Federal trust species by promoting habitat improvement, habitat restoration, habitat enhancement, and habitat establishment; and
+- **(2)** technical assistance to other public and private entities regarding fish and wildlife habitat restoration on private land.
 
 ## § 5. Authorization of appropriations
 
