@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2864
@@ -31,3 +31,11 @@ Water Resources Development Act of 2006
 - 2005-06-13 — Introduced in House
 - 2005-06-13 — Introduced in House
 - 2005-06-13 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-06-14 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-06-16 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2005-06-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-06-22 — Committee Consideration and Mark-up Session Held.
+- 2005-06-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-06-24 — Placed on the Union Calendar, Calendar No. 94.
+- 2005-06-24 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-154.
+- 2005-06-24 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-154.

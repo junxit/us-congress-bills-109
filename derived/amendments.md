@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-251 amendatory instructions. 34 executed, 217 stated and not applied.
+254 amendatory instructions. 34 executed, 220 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -356,7 +356,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2326` | replace | Section 204 of the Water Resources Development Act of 1992 (33 U.S.C. 2326) is amended by striking subsections (c) through (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 426j` | repeal | Section 145 of the Water Resources Development Act of 1976 (33 U.S.C. 426j) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2310` | amend | Section 1156 of the Water Resources Development Act of 1986 (33 U.S.C. 2310; 100 Stat. 4256) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in subsection (a)(1) by striking “During fiscal years 1999 through 2002, the” and inserting “The”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “During fiscal years 1999 through 2002, the” and inserting “The”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$34,000,000” and inserting “$42,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(3) by striking “September 30, 2005” and inserting “expended”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 2267a` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2267a` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -374,8 +375,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at end of paragraph (18); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (19) and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `33 U.S.C. § 2283` | add-at-end | Section 906(a) of the Water Resources Development Act of 1986 (33 U.S.C. 2283(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2283` | add-at-end | Section 906(d) of such Act (33 U.S.C. 2283(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2283` | add-at-end | Section 906(d) of the Water Resources Development Act of 1986 (33 U.S.C. 2283(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460d` | insert | by inserting “federally-recognized Indian tribes and” before “Federal” the first place it appears; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 460d` | insert | by inserting “Indian tribes or” after “considerations, to such”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 460d` | insert | by inserting “federally-recognized Indian tribe” after “That in any such lease or license to a”. | the bill quotes the text inserted but describes where it goes |
@@ -389,7 +389,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2282` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282` | redesignate | in subsection (d) (as so redesignated) by inserting “Indian tribes.—” before “For purposes of”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 2282` | redesignate | in subsection (e) (as so redesignated) by inserting “Standard and uniform procedures and practices.—”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2282` | redesignate | in subsection (e) (as so redesignated) by inserting “Standard and uniform procedures and practices.—” before “The Secretary shall” . | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Section 128 of Public Law 108–137 (117 Stat. 1838) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 310 of the Water Resources Development Act of 1999 (113 Stat. 301) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 325 of the Water Resources Development Act of 1992 (106 Stat. 4849) is repealed. | the bill names no machine-readable US Code section |
@@ -441,11 +441,13 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Sections 512 and 514 of the Water Resources Development Act of 2000 (114 Stat. 2650) are each amended by adding at the end the following: “All planning, study, design, and construction on the project shall be carried out by the office of… | the bill names no machine-readable US Code section |
 | — | replace | by striking “$25,000,000” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 109(e)(2) of division B of the Miscellaneous Appropriations Act, 2001 (enacted into law by Public Law 106–554) (114 Stat. 2763A–222) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “$25,000,000” and inserting “$28,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$7,000,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 109(e)(2) of the Miscellaneous Appropriations Act, 2001 (enacted into law by Public Law 106–554) (114 Stat. 2763A–222) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 519(c)(2) of the Water Resources Development Act of 2000 (114 Stat. 2654) is amended by striking “2004” and inserting “2010”. | the bill names no machine-readable US Code section |
 | — | insert | Section 519(g)(3) of such Act (114 Stat. 2655) is amended by inserting before the period at the end of the first sentence “if such services are provided not more than 5 years before the date of initiation of the project or activity”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 519 of such Act (114 Stat. 2654) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “$10,000,000” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “$30,000,000” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the section heading by inserting “Kentucky and” before “Northern West Virginia”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -454,7 +456,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 219(f)(21) of the Water Resources Development Act of 1992 (113 Stat. 336; 114 Stat. 2763A–220) is amended by striking “$20,000,000” and inserting “$35,000,000”. | the bill names no machine-readable US Code section |
 | — | amend | Section 517(5) of the Water Resources Development Act of 1999 (113 Stat. 345) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 426(d) of the Water Resources Development Act of 1999 (113 Stat. 326) is amended by striking “$400,000” and inserting “$475,000”. | the bill names no machine-readable US Code section |
-| — | replace | in the paragraph heading by striking “township” and inserting “and crow wing and mille lacs counties”; | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading by striking “township” and inserting “township and crow wing and mille lacs counties”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$11,000,000” and inserting “$17,000,000”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, Crow Wing County, Mille Lacs County,” after “Garrison”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “Such assistance shall be provided directly to the Garrison-Kathio-West Mille Lacs Lake Sanitary District, Minnesota.”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “Benton, Sherburne,” and inserting “Beltrami, Hubbard, Wadena,”; | the bill names no machine-readable US Code section |
@@ -481,7 +484,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “initial plan for data collection and monitoring” and inserting “annual report of data collection and monitoring activities”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | replace | Section 404(c) of such Act (113 Stat. 341) is amended by striking “and an additional total of $2,500,000 for fiscal years thereafter” and inserting “$2,500,000 for fiscal years 2000 through 2004, and $7,500,000 for fiscal years beginning… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 404 of the Water Resource Development Act of 1992 (106 Stat. 4863) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 404 of the Water Resources Development Act of 1992 (106 Stat. 4863) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f) by striking “$10,000,000” and inserting “$30,000,000”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
