@@ -29,10 +29,10 @@ This Act may be cited as the “Water Resources Research Act Amendments of 2005�
   - **(1)** by redesignating paragraph (2) as paragraph (4); and
   - **(2)** in paragraph (1)—
     - **(A)** in the first sentence—
-      - **(i)** by striking “There” and inserting the following:
+      - **(i)** by striking “(1) There” and inserting the following:
         > - **(1)** *In general* There
 
-      - **(ii)** by striking “$3,000,000 for fiscal year 2001, $4,000,000 for fiscal years 2002 and 2003, and $6,000,000 for fiscal years 2004 and 2005” and inserting “$6,000,000 for each of fiscal years 2006 through 2008 and $7,000,000 for each of fiscal years 2009 and 2010”;
+      - **(ii)** by striking “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” and inserting “$6,000,000 for each of fiscal years 2006 through 2008 and $7,000,000 for each of fiscal years 2009 and 2010”;
     - **(B)** in the second sentence, by striking “Such” and inserting the following:
       > - **(2)** *Non-Federal matching funds* The
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 1017
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1017
@@ -38,3 +38,7 @@ Water Resources Research Act Amendments of 2005
 - 2005-05-12 — Introduced in Senate
 - 2005-05-12 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S5106)
 - 2005-05-12 — Sponsor introductory remarks on measure. (CR S5105-5106)
+- 2005-06-08 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2005-06-27 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 109-90.
+- 2005-06-27 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 109-90.
+- 2005-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.

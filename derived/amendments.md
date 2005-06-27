@@ -1,7 +1,7 @@
 ---
 measure: S. 1017
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “(2) Any” and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (4); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “There” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “$3,000,000 for fiscal year 2001, $4,000,000 for fiscal years 2002 and 2003, and $6,000,000 for fiscal years 2004 and 2005” and inserting “$6,000,000 for each of fiscal years 2006 through 2008 and $7,000,000 for each of fisca… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(1) There” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” and inserting “$6,000,000 for each of fiscal years 2006 through 2008 and $7,000,000 f… | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “Such” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “Funds” and inserting the following: | the bill names no machine-readable US Code section |
