@@ -1,7 +1,7 @@
 ---
 measure: H.R. 426
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 426
@@ -16,6 +16,10 @@ Remote Sensing Applications Act of 2005
 
 - Rep. Udall, Mark [D-CO-2] (U000038)
 
+## Cosponsors (1)
+
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+
 ## Committees (1)
 
 - House — Science, Space, and Technology Committee
@@ -26,3 +30,6 @@ Remote Sensing Applications Act of 2005
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Science.
 - 2005-01-26 — Sponsor introductory remarks on measure. (CR E94)
+- 2005-06-27 — Placed on the Union Calendar, Calendar No. 95.
+- 2005-06-27 — Reported (Amended) by the Committee on Science. H. Rept. 109-157.
+- 2005-06-27 — Reported (Amended) by the Committee on Science. H. Rept. 109-157.
