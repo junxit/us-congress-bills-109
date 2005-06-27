@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1022
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 

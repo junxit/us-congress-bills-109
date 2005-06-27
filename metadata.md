@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1022
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1022
@@ -30,3 +30,7 @@ George E. Brown, Jr. Near-Earth Object Survey Act
 - 2005-03-01 — Introduced in House
 - 2005-03-01 — Introduced in House
 - 2005-03-01 — Referred to the House Committee on Science.
+- 2005-03-22 — Referred to the Subcommittee on Space and Aeronautics.
+- 2005-06-27 — Placed on the Union Calendar, Calendar No. 96.
+- 2005-06-27 — Reported by the Committee on Science. H. Rept. 109-158.
+- 2005-06-27 — Reported by the Committee on Science. H. Rept. 109-158.
