@@ -1,0 +1,101 @@
+---
+legis-num: H.R. 3166
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3166
+
+> To provide compensation to livestock operators who voluntarily relinquish a grazing permit or lease on Federal lands where conflicts with other multiple uses render livestock grazing impractical, and for other purposes.
+
+## § 1. Short title and table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Multiple-Use Conflict Resolution Act of 2005”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The use of Federal lands by grazing permittees and lessees for commercial livestock grazing is increasingly difficult due to growing conflicts with other legitimate multiple uses of the lands, such as environmental protection and burgeoning recreational use, and with congressionally mandated goals of wildlife and habitat protection and improved water quality and quantity.
+- **(2)** The recreational use of Federal lands often leads to conflicts with commercial livestock grazing on the same lands because some recreational users of the lands cause damage to range developments or disturb livestock, which renders many grazing operations on Federal lands uneconomical.
+- **(3)** A combination of sustained drought, foreign competition, changing domestic markets, industry restructuring, and individual ranch situations has resulted in Federal grazing permits and leases becoming stranded investments for many permittees and lessees.
+- **(4)** Attempts to resolve grazing conflicts with other multiple uses often require extensive range developments, intensive herd management, and continuous monitoring that greatly increases costs to both permittees and lessees and taxpayers, far out of proportion to the benefit received.
+- **(5)** Certain grazing allotments on Federal lands have, or are likely to become, unsuitable for commercial livestock production as a result of the combined effect of the factors referred to in paragraphs (1) through (4) and other factors.
+- **(6)** The cost of the Federal grazing program greatly exceeds revenues to the Federal treasury from grazing receipts.
+- **(7)** Many permittees and lessees have indicated their willingness to end their commercial livestock grazing on Federal lands in exchange for a one-time payment to reasonably compensate them for the effort and investment that they have made in a grazing allotment.
+- **(8)** Compensating permittees and lessees who relinquish their grazing permit or lease and end commercial livestock grazing on Federal lands would help recapitalize an ailing sector of rural America, by providing economic options to permittees and lessees that do not presently exist and allowing them to restructure their ranch operations, start new businesses, or retire with security.
+- **(9)** Reasonable compensation for the relinquishment of a grazing permit or lease will help alleviate the need for permittees and lessees to sell or subdivide their private lands.
+- **(10)** The cost of compensating permittees and lessees for voluntarily waiving permits and leases is significantly less than the cost to the taxpayers of continuing to administer, monitor, assess, and mitigate for the environmental and other impacts of commercial livestock grazing on Federal lands.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** The term animal unit month means the amount of forage needed to sustain one animal unit for one month, as determined by the Secretary issuing the grazing permit or lease.
+- **(2)** The term commercial livestock grazing means the grazing of domestic livestock on Federal lands as authorized by a grazing permit or lease. The term does not include grazing by private or commercial pack or saddle stock.
+- **(3)** The term grazing allotment means the designated portion of Federal land upon which domestic livestock are permitted to graze by a grazing permit or lease.
+- **(4)** The terms grazing permit or lease and grazing permit and lease mean any document authorizing the use of Federal lands for the purpose of grazing domestic livestock.
+- **(5)** The terms permittee or lessee and permittee and lessee mean a livestock operator who holds a valid term grazing permit or lease.
+- **(6)** The term range developments means structures, fences, and other permanent fixtures placed on Federal lands for the furtherance of the purpose of grazing domestic livestock. The term does not include rolling stock, livestock and diversions of water from Federal lands onto non-Federal lands.
+- **(7)** The term Secretary means the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Energy, or the Secretary of Defense, as appropriate to the administration of the grazing permit or lease at issue.
+
+## § 4. Multiple-use conflict resolution program
+
+- **(a)** *Waiver of existing grazing permit or lease* A permittee or lessee may waive to the Secretary, at any time, a valid existing grazing permit or lease authorizing commercial livestock grazing on Federal lands.
+- **(b)** *Cancellation of waived grazing permit or lease* The Secretary shall cancel grazing permits and leases waived under this section and permanently retire the associated grazing allotments from commercial livestock grazing, notwithstanding any other provision of law.
+- **(c)** *Waiver priority* If funds available to the Secretary to carry out this Act are insufficient to meet all of the offers submitted to the Secretary for the waiver of grazing permits and leases, the Secretary shall give priority to the waiver of grazing permits and leases that authorize commercial livestock grazing on the following Federal lands:
+  - **(1)** A unit of the National Wilderness Preservation System.
+  - **(2)** A unit of the National Wild and Scenic River System.
+  - **(3)** A unit of the National Park System.
+  - **(4)** A unit of the National Wildlife Refuge System.
+  - **(5)** A grazing allotment that includes a trail in the National Trails System.
+  - **(6)** A unit of the National Landscape Conservation System.
+  - **(7)** Any designated critical habitat for a species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
+  - **(8)** A designated wilderness study area.
+  - **(9)** Roadless and undeveloped areas identified in Forest Service, Roadless Area Conservation EIS, vol. 2 (Nov. 2000).
+  - **(10)** An area of critical environmental concern designated by the Bureau of Land Management.
+  - **(11)** A designated Research Natural Area.
+  - **(12)** A grazing allotment that includes a water-quality-limited stream identified by a State pursuant to section 303(d) of the Federal Water Pollution Control Act (33 U.S.C. 1313(d)).
+  - **(13)** A grazing allotment that includes a stream segment identified for study under section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)).
+  - **(14)** A grazing allotment that includes a stream segment identified by the Secretary under section 5(d)(1) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(d)(1)).
+  - **(15)** A grazing allotment featuring other scientific, ecological, scenic, watershed, or recreation values, as determined by the Secretary.
+- **(d)** *Relation to other authority* Nothing in this Act shall be construed to affect the ability of a permittee or lessee to renew or transfer a grazing permit or lease as provided by law.
+- **(e)** *Relation to eminent domain* Nothing in this Act shall be construed to authorize the use of eminent domain for the purpose of acquiring a grazing permit or lease.
+
+## § 5. Compensation for waived grazing permit or lease
+
+- **(a)** *Compensation required* A permittee or lessee who waives a grazing permit or lease (other than an ephemeral grazing permit or lease) under section 4(a) shall be compensated at a rate of $175 per animal unit month based on the average of the highest three years of authorized animal unit months out of the last 10 years authorized to the permittee or lessee or the predecessors of the permittee or lessee. In the case of an ephemeral grazing permit or lease, the permittee or lessee shall be compensated for the average over the last 10 years of the actual animal unit months of grazing use.
+- **(b)** *Grazing fees in arrears* If a permittee or lessee is in arrears of Federal grazing fees, the amount of fees in arrears shall be deducted from the amount of compensation otherwise due the permittee or lessee under this section.
+- **(c)** *Waiver of certain permits or leases prohibited* A permittee or lessee who seeks to waive a grazing permit or lease under section 4(a) for a grazing allotment for which no valid grazing permit or lease exists as of the date of the introduction of this Act shall not be eligible for compensation under this section.
+- **(d)** *Relation to other authority* Nothing in this Act shall be construed to affect the Secretary’s authority to otherwise modify or terminate grazing permits or leases without compensation. Compensation disbursed pursuant to this section shall not create a property right in grazing permits or leases.
+
+## § 6. Donation of grazing permit or lease
+
+- **(a)** *Donation authorized* A permittee or lessee may at any time waive a claim to compensation in whole or in part under section 5 and donate to the Secretary a valid existing grazing permit or lease authorizing commercial livestock grazing on Federal lands.
+- **(b)** *Acceptance of other compensation* A permittee or lessee may accept compensation from private or other sources in lieu of, or in addition to, receiving compensation under section 5.
+- **(c)** *Cancellation of donated permits and leases* The Secretary shall cancel grazing permits or leases donated under this section and permanently retire the associated grazing allotments from commercial livestock grazing.
+
+## § 7. Effect of waiver or donation of grazing permit or lease
+
+- **(a)** *Effect on range developments* A permittee or lessee who waives a grazing permit or lease to the Secretary under section 4 and receives compensation under section 5, or donates a grazing permit or lease under section 6, shall be deemed to have waived any claim to all range developments on the associated grazing allotments, notwithstanding any other provision of law.
+- **(b)** *Securing retired allotments against unauthorized use* The Secretary shall ensure that grazing allotments retired from grazing under this Act are rendered reasonably secure from trespass grazing by domestic livestock.
+- **(c)** *Relation to other valid existing rights* Nothing in this Act affects the allocation, ownership, interest, or control, in existence on the date of enactment of this Act, of any water, water right, or any other valid existing right held by the United States, Indian tribe, State, or private individual, partnership or corporation.
+
+## § 8. Retirement of grazing allotments for which no valid grazing permit or lease exists
+
+The Secretary shall not issue grazing permits or leases for grazing allotments for which no valid permit or lease exists as of the date of the enactment of this Act, and shall permanently retire the grazing allotments from commercial livestock grazing, notwithstanding any other provision of law.
+
+## § 9. Effect of nonuse or reduced use
+
+Notwithstanding any other provision of law, a permittee or lessee may opt not to graze a grazing allotment or to graze the grazing allotment at less than the minimum permitted level and still retain the grazing permit or lease for the remainder of its term. Such nonuse shall be considered to be in compliance with the terms of the grazing permit or lease when it becomes due for renewal.
+
+## § 10. County transition payments
+
+- **(a)** *Payments required* For each grazing permit or lease waived under section 4 (other than an ephemeral grazing permit or lease), the Secretary shall pay to the county in which the associated allotment is located $10 per animal unit month based on the average of the highest three years of authorized animal unit months out of the last 10 years authorized to the permittee or lessee or the predecessors of the permittee or lessee. In the case of an ephemeral grazing permit or lease, the Secretary shall pay to the county in which the associated allotment is located $10 per animal unit month based on the average over the last 10 years of the actual animal unit months of grazing use.
+- **(b)** *Proportional allocation among counties* In cases where an allotment is located in more than one county, the payment under subsection (a) to each county in which the allotment is located shall be proportional to the allotment’s land area located in that county.
+
+## § 11. Authorization of appropriation
+
+There is authorized to be appropriated to the Secretaries $100,000,000, to remain available until expended, to provide compensation to permittees and lessees under section 5 and to make transition payments to counties under section 10. None of the funds appropriated pursuant to this section shall be used by any Federal agency for administrative costs related to the purposes of this Act.
