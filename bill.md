@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3186
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3186
+
+> To amend the Department of Housing and Urban Development Act to exclude amounts received as a military basic housing allowance from consideration as income for purposes of eligibility for federally assisted low-income housing programs.
+
+## § 1. Short title
+
+This Act may be cited as the “Build Houses for Our Military’s Enlisted Servicemembers Act” or the “Build HOMES Act”.
+
+## § 2. Exclusion of certain amounts from income for purposes of eligibility for federally assisted low-income housing programs
+
+The Department of Housing and Urban Development Act is amended by inserting after section 12 (42 U.S.C. 3537a) the following new section:
+
+> ## § 13. Exclusion of certain amounts from income
+>
+> Notwithstanding any other provision of law, amounts received by a member of the Armed Forces under section 403 of title 37, United States Code, as a basic allowance for housing shall not be treated as income for purposes of determining, for purposes of any program of the Department of Housing and Urban Development or any other agency of the Federal Government for housing assistance (including any program for grants, loans, subsidies, advances, guarantees, credits, or other financial assistance), the eligibility of the member or the member’s family, or a dependent of the member or such dependent’s family, for—
+>
+> - **(1)** assistance under such program; or
+> - **(2)** occupancy in any dwelling unit in any building or project for which assistance under such program is provided.
