@@ -126,3 +126,12 @@ The Atomic Energy Act of 1954 is amended by inserting after section 161 (42 U.S.
     > - **(7)** any radioactive material or other property subject to regulation by the Commission that, before the date of the offense, the Commission determines, by order or regulation published in the Federal Register, is of significance to the public health and safety or to common defense and security;
 
 - **(b)** *Conforming amendment* Section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284) is amended by striking “intentionally and willfully” each place it appears and inserting “knowingly”.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Nuclear Security Act of 2005”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
+
+## § 2. Definition of Commission
+
+In this Act, the term Commission means the Nuclear Regulatory Commission.
