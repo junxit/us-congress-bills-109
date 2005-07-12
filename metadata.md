@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2385
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2385
@@ -32,3 +32,10 @@ To extend by 10 years the authority of the Secretary of Commerce to conduct the 
 - 2005-05-17 — Introduced in House
 - 2005-05-17 — Referred to the House Committee on Government Reform.
 - 2005-05-17 — Referred to the Subcommittee on Federalism and the Census.
+- 2005-06-14 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent.
+- 2005-06-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-06-16 — Committee Consideration and Mark-up Session Held.
+- 2005-06-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-07-12 — Placed on the Union Calendar, Calendar No. 101.
+- 2005-07-12 — Reported (Amended) by the Committee on Government Reform. H. Rept. 109-164.
+- 2005-07-12 — Reported (Amended) by the Committee on Government Reform. H. Rept. 109-164.
