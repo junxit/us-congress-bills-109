@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2385
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 13 U.S.C. § 91
+
+> Section 4(b) of the Act entitled “An Act to amend title 13, United States Code, to transfer responsibility for the quarterly financial report from the Federal Trade Commission to the Secretary of Commerce, and for other purposes”, approved January 12, 1983 (Public Law 97–454; 13 U.S.C. 91 note), is amended by striking “2005” and inserting “2015”.
+
+| | |
+|---|---|
+| Removed | `2005` |
+| Inserted | `2015` |
 
 ## Stated, not applied
 
