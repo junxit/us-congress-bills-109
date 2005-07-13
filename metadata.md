@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1359
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1359
@@ -25,3 +25,10 @@ To amend the Federal Water Pollution Control Act to extend the pilot program for
 - 2005-03-17 — Introduced in House
 - 2005-03-17 — Introduced in House
 - 2005-03-17 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-03-18 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-05-18 — Subcommittee on Water Resources and Environment Discharged.
+- 2005-07-13 — Placed on the Union Calendar, Calendar No. 104.
+- 2005-07-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-167.
+- 2005-07-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-167.
