@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 624
@@ -16,7 +16,7 @@ To amend the Federal Water Pollution Control Act to authorize appropriations for
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (21)
+## Cosponsors (30)
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
@@ -39,6 +39,15 @@ To amend the Federal Water Pollution Control Act to authorize appropriations for
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Menendez, Robert [D-NJ-13] (M000639)
 - Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Schwarz, John J.H. "Joe" [R-MI-7] (S001161)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
 ## Committees (1)
 
@@ -49,3 +58,10 @@ To amend the Federal Water Pollution Control Act to authorize appropriations for
 - 2005-02-08 — Introduced in House
 - 2005-02-08 — Introduced in House
 - 2005-02-08 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-02-09 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported by Voice Vote.
+- 2005-05-18 — Subcommittee on Water Resources and Environment Discharged.
+- 2005-07-13 — Placed on the Union Calendar, Calendar No. 103.
+- 2005-07-13 — Reported by the Committee on Transportation. H. Rept. 109-166.
+- 2005-07-13 — Reported by the Committee on Transportation. H. Rept. 109-166.
