@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1359
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,12 @@ to guess them.
 |---|---|
 | Removed | `2002 through 2004` |
 | Inserted | `2006 through 2010` |
+
+### 33 U.S.C. § 1300
+
+> Section 220(j) of the Federal Water Pollution Control Act (33 U.S.C. 1300(j)) is amended in the first sentence by striking “$75,000,000 for fiscal years 2002 through 2004” and inserting “$125,000,000”.
+
+| | |
+|---|---|
+| Removed | `$75,000,000 for fiscal years 2002 through 2004` |
+| Inserted | `$125,000,000` |
