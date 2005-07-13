@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2601
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2601
@@ -30,3 +30,11 @@ Foreign Relations Authorization Act, Fiscal Years 2006 and 2007
 - 2005-05-24 — Introduced in House
 - 2005-05-24 — Referred to the House Committee on International Relations.
 - 2005-05-24 — Referred to the Subcommittee on Africa, Global Human Rights and International Relations.
+- 2005-05-26 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent.
+- 2005-05-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2005-06-08 — Committee Consideration and Mark-up Session Held.
+- 2005-06-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-06-30 — Mr. DeLay asked unanimous consent that the Committee on International Relations have until midnight on July 8 to file a report on H.R. 2601. Agreed to without objection.
+- 2005-07-13 — Placed on the Union Calendar, Calendar No. 105.
+- 2005-07-13 — Reported (Amended) by the Committee on International Relations. H. Rept. 109-168.
+- 2005-07-13 — Reported (Amended) by the Committee on International Relations. H. Rept. 109-168.
