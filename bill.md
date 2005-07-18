@@ -48,8 +48,8 @@ Congress finds that—
 In this Act:
 
 - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
-- **(2)** *Museum Sponsor* The term Museum Sponsor means the National Women’s History Museum, Inc., a nonprofit organization incorporated in 1996 in the District of Columbia.
-- **(3)** *Pavilion Annex* The term Pavilion Annex means the building (and immediate surroundings, including any land unoccupied as of the date of enactment of this Act) in Washington, District of Columbia that is—
+- **(2)** *Museum sponsor* The term Museum Sponsor means the National Women’s History Museum, Inc., a nonprofit organization incorporated in 1996 in the District of Columbia.
+- **(3)** *Pavilion annex* The term Pavilion Annex means the building (and immediate surroundings, including any land unoccupied as of the date of enactment of this Act) in Washington, District of Columbia that is—
   - **(A)** known as the “Pavilion Annex”;
   - **(B)** adjacent to the Old Post Office Building;
   - **(C)** located on Pennsylvania Avenue, NW., to the east of 11th Street NW.; and

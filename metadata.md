@@ -1,7 +1,7 @@
 ---
 measure: S. 501
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 501
@@ -16,7 +16,7 @@ National Women's History Museum Act of 2005
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (20)
+## Cosponsors (23)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Dole, Elizabeth [R-NC] (D000601)
@@ -38,6 +38,9 @@ National Women's History Museum Act of 2005
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Sarbanes, Paul S. [D-MD] (S000064)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Chafee, Lincoln [R-RI] (C001040)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
 
 ## Committees (1)
 
@@ -48,3 +51,7 @@ National Women's History Museum Act of 2005
 - 2005-03-03 — Introduced in Senate
 - 2005-03-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2005-03-03 — Sponsor introductory remarks on measure. (CR S2005-2006)
+- 2005-04-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2005-07-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-104.
+- 2005-07-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-104.
+- 2005-07-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.
