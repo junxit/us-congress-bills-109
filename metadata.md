@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2130
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2130
@@ -25,3 +25,8 @@ Marine Mammal Protection Act Amendments of 2005
 - 2005-05-05 — Introduced in House
 - 2005-05-05 — Introduced in House
 - 2005-05-05 — Referred to the House Committee on Resources.
+- 2005-05-18 — Committee Consideration and Mark-up Session Held.
+- 2005-05-18 — Ordered to be Reported by Unanimous Consent.
+- 2005-07-21 — Placed on the Union Calendar, Calendar No. 112.
+- 2005-07-21 — Reported by the Committee on Resources. H. Rept. 109-180.
+- 2005-07-21 — Reported by the Committee on Resources. H. Rept. 109-180.
