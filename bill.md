@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3408
-congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3408
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >
   > The authority provided by this subtitle terminates on September 30, 2010.
 
-- **(b)** *Conforming amendment and extension* Section 942 of the Livestock Mandatory Price Reporting Act of 1999 (7 U.S.C. 1635 note; Public Law 106–78) is amended by striking “terminate on September 30, 2005” and inserting “(other than section 911 of subtitle A and the amendments made by that section) terminate on September 30, 2010”.
+- **(b)** *Conforming amendment and extension* Section 942 of the Livestock Mandatory Reporting Act of 1999 (7 U.S.C. 1635 note; Public Law 106–78) is amended by striking “terminate on September 30, 2005” and inserting “(other than section 911 of subtitle A and the amendments made by that section) terminate on September 30, 2010”.
 
 ## § 2. Definitions
 
@@ -75,7 +75,7 @@ Section 232(c) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1635j(c)) is 
 >     - **(D)** *Publication*
 >       - **(i)** *In general* The Secretary shall publish the information obtained under this paragraph in a prior day report—
 >         - **(I)** in the case of information regarding barrows and gilts purchased or priced, not later than 8:00 a.m. Central Time, and
->         - **(II)** in the case of information regarding barrows and gilts slaughtered, not later than 10:00 a.m. Central time,
+>         - **(II)** in the case of information regarding barrows and gilts slaughtered, not later than 10:00 a.m. Central Time,
 >       - **(ii)** *Price distributions* The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.
 >   - **(2)** *Morning report*
 >     - **(A)** *In general* The corporate officers or officially designated representatives of each packer processing plant that processes barrows or gilts shall report to the Secretary not later than 10:00 a.m. Central Time each reporting day—

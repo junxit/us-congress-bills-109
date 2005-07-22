@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3408
 congress: 109
-version: Introduced in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 7 U.S.C. § 1635
 
-> Section 942 of the Livestock Mandatory Price Reporting Act of 1999 (7 U.S.C. 1635 note; Public Law 106–78) is amended by striking “terminate on September 30, 2005” and inserting “(other than section 911 of subtitle A and the amendments made by that section) terminate on September 30, 2010”.
+> Section 942 of the Livestock Mandatory Reporting Act of 1999 (7 U.S.C. 1635 note; Public Law 106–78) is amended by striking “terminate on September 30, 2005” and inserting “(other than section 911 of subtitle A and the amendments made by that section) terminate on September 30, 2010”.
 
 | | |
 |---|---|
