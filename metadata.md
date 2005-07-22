@@ -1,7 +1,7 @@
 ---
 measure: S. 1389
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1389
@@ -30,3 +30,7 @@ USA PATRIOT Improvement and Reauthorization Act of 2005
 - 2005-07-13 — Introduced in Senate
 - 2005-07-13 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S8230-8233)
 - 2005-07-13 — Sponsor introductory remarks on measure. (CR S8222-8230)
+- 2005-07-21 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2005-07-22 — Committee on the Judiciary. Reported by Senator Specter with an amendment in the nature of a substitute. Without written report.
+- 2005-07-22 — Committee on the Judiciary. Reported by Senator Specter with an amendment in the nature of a substitute. Without written report.
+- 2005-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
