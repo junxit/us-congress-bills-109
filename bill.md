@@ -15,9 +15,13 @@ This Act may be cited as the “State High Risk Pool Funding Extension Act of 20
 
 ## § 2. Extension of funding for establishment and operation of State high risk health insurance pools
 
-- **(a)** *Additional seed grant funding* Subsection (c)(1) of section 2745 of the Public Health Service Act (42 U.S.C. 300gg–45) is amended by inserting “and $15,000,000 for fiscal year 2005” after “fiscal year 2003”.
-- **(b)** *Funding for operation of State high risk pools in fiscal years 2005 through 2009* Subsection (c)(2) of such section is amended by inserting “and $50,000,000 for each of fiscal years 2005 through 2009” after “2004”.
-- **(c)** *Change in requirements for qualified high risk pools*
+- **(a)** *Authorization of appropriations* Subsection (c) of section 2745 of the Public Health Service Act (42 U.S.C. 300gg–45) is amended to read as follows:
+  > - **(c)** *Authorization of appropriations*
+  >   - **(1)** *Seed grants* For the purpose of carrying out subsection (a), there is authorized to be appropriated $15,000,000 for fiscal year 2005.
+  >   - **(2)** *Operation of pools* For the purpose of carrying out subsection (b), there is authorized to be appropriated $50,000,000 for each of the fiscal years 2005 through 2009.
+  >   - **(3)** *Availability; rule of construction* Funds appropriated under this subsection for a fiscal year shall remain available for obligation through the end of the following fiscal year. Nothing in this section shall be construed as providing a State with an entitlement to a grant under this section.
+
+- **(b)** *Change in requirements for qualified high risk pools*
   - **(1)** *Change in requirement for operational grants* Subsection (b) of such section is amended—
     - **(A)** in paragraph (1)(A), by inserting “(or 200 percent in the case of a State that meets the requirements of paragraph (3))” after “150 percent”;
     - **(B)** in paragraph (1)(C), by striking “after the end of fiscal year 2004” and inserting “after the end of the last fiscal year for which a grant is provided under this paragraph”; and
@@ -34,22 +38,22 @@ This Act may be cited as the “State High Risk Pool Funding Extension Act of 20
     >   - **(3)** *State* The term State means any of the 50 States and the District of Columbia.
 
   - **(3)** *Effective date* The amendments made by this subsection shall apply to grants for fiscal years beginning with fiscal year 2005.
-- **(d)** *Change in allotment formula for operational grants* Subsection (b)(2) of such section is amended—
+- **(c)** *Change in allotment formula for operational grants* Subsection (b)(2) of such section is amended—
   - **(1)** by inserting “(before fiscal year 2005)” after “for a fiscal year”; and
   - **(2)** by adding at the end the following:
-    > The amount appropriated under subsection (c)(2) for a fiscal year beginning with fiscal year 2005 (less the portion of such amount made available to carryout subsection (f)) shall be made available to the States (including entities that operate the high risk pool under applicable State law in a State) that qualify for a grant under subsection (b) as follows:
+    > The amount appropriated under subsection (c)(2) for a fiscal year beginning with fiscal year 2005 (less the portion of such amount made available to carry out subsection (f)) shall be made available to the States (including entities that operate the high risk pool under applicable State law in a State) that qualify for a grant under subsection (b) as follows:
     > - **(A)** An amount equal to 1/3 of such amount shall be allocated in equal amounts among such qualifying States.
     > - **(B)** An amount equal to 1/3 of such amount shall be allocated among such States so that the amount provided to a State bears the same ratio to such available amount as the number of uninsured individuals in the State bears to the total number of uninsured individuals in all such States (as determined by the Secretary).
     > - **(C)** An amount equal to 1/3 of such amount shall be allocated among such States so that the amount provided to a State bears the same ratio to such available amount as the number of individuals enrolled in health care coverage through the qualified high risk pool of the State bears to the total number of individuals so enrolled through qualified high risk pools in all such States (as determined by the Secretary).
 
-- **(e)** *Administrative provisions; annual report* Such section is amended by adding at the end the following new subsection:
+- **(d)** *Administrative provisions; annual report* Such section is amended by adding at the end the following new subsection:
   > - **(e)** *Administrative provisions; annual report*
   >   - **(1)** *Applications* To be eligible for a grant under this section, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   >   - **(2)** *No entitlement* Nothing in this section shall be construed as providing a State with an entitlement to a grant under this section.
   >   - **(3)** *Annual report* The Secretary shall submit to Congress an annual report on grants provided under this section. Each such report shall include information on the distribution of such grants among the States and the use of grant funds by States.
 
-- **(f)** *Bonus grants for supplemental consumer benefits* Such section is further amended—
-  - **(1)** in subsection (c)(2), as amended by subsection (b), by inserting before the period at the end the following: “, and up to 10 percent of the amount appropriated for fiscal year 2005 shall be available to carry out subsection (f)”; and
+- **(e)** *Bonus grants for supplemental consumer benefits* Such section is further amended—
+  - **(1)** in subsection (c)(2), as added by subsection (a), by adding at the end the following: “Of the amount appropriated under the preceding sentence for fiscal year 2005, up to 50 percent shall be available for the purpose of carrying out subsection (f).”; and
   - **(2)** by adding at the end the following new subsection:
     > - **(f)** *Bonus grants for supplemental consumer benefits*
     >   - **(1)** *In general* In the case of each State that has established a qualified high risk pool, the Secretary shall provide, from the funds made available under subsection (c)(2) to carry out this subsection, a grant to be used to provide supplemental consumer benefits to enrollees or potential enrollees (or defined subsets of such enrollees or potential enrollees) in qualified high risk pools.
