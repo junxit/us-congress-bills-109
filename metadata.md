@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 208
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 208
@@ -16,7 +16,7 @@ Recognizing the 50th anniversary of Rosa Louise Parks' refusal to give up her se
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (41)
+## Cosponsors (44)
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
@@ -59,6 +59,9 @@ Recognizing the 50th anniversary of Rosa Louise Parks' refusal to give up her se
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Miller, Brad [D-NC-13] (M001154)
 
 ## Committees (1)
 
@@ -70,3 +73,8 @@ Recognizing the 50th anniversary of Rosa Louise Parks' refusal to give up her se
 - 2005-07-13 — Introduced in House
 - 2005-07-13 — Referred to the House Committee on the Judiciary.
 - 2005-07-13 — Sponsor introductory remarks on measure. (CR E1481)
+- 2005-07-27 — Committee Consideration and Mark-up Session Held.
+- 2005-07-27 — Ordered to be Reported by Voice Vote.
+- 2005-07-27 — Placed on the House Calendar, Calendar No. 70.
+- 2005-07-27 — Reported by the Committee on Judiciary. H. Rept. 109-193.
+- 2005-07-27 — Reported by the Committee on Judiciary. H. Rept. 109-193.
