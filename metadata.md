@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2981
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2981
@@ -16,7 +16,7 @@ To amend the Small Business Act to expand and improve the assistance provided by
 
 - Rep. Udall, Tom [D-NM-3] (U000039)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
@@ -36,6 +36,9 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
 
 ## Committees (1)
 
@@ -47,3 +50,9 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Referred to the House Committee on Small Business.
 - 2005-06-17 — Sponsor introductory remarks on measure. (CR E1270)
+- 2005-07-13 — Committee Hearings Held.
+- 2005-07-14 — Committee Consideration and Mark-up Session Held.
+- 2005-07-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2005-07-28 — Placed on the Union Calendar, Calendar No. 119.
+- 2005-07-28 — Reported (Amended) by the Committee on Small Business. H. Rept. 109-206.
+- 2005-07-28 — Reported (Amended) by the Committee on Small Business. H. Rept. 109-206.
