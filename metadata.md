@@ -1,0 +1,31 @@
+---
+measure: H.Con.Res. 230
+congress: 109
+version: Introduced in House
+---
+
+# H.Con.Res. 230
+
+Expressing the sense of the Congress that the Russian Federation must protect intellectual property rights.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+
+## Cosponsors (1)
+
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2005-07-28 — Introduced in House
+- 2005-07-28 — Introduced in House
+- 2005-07-28 — Referred to the House Committee on Ways and Means.
