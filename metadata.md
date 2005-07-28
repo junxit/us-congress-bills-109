@@ -1,7 +1,7 @@
 ---
 measure: S. 449
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 449
@@ -25,3 +25,7 @@ A bill to facilitate shareholder consideration of proposals to make Settlement C
 - 2005-02-17 — Introduced in Senate
 - 2005-02-17 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S1662)
 - 2005-02-17 — Sponsor introductory remarks on measure. (CR S1661-1662)
+- 2005-06-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2005-07-28 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-112.
+- 2005-07-28 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-112.
+- 2005-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
