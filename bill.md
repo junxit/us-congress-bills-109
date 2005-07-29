@@ -26,7 +26,7 @@ In this Act:
 - **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary, in coordination with the Attorney General of the United States and with the consent of the State, shall acquire through eminent domain the following:
   - **(1)** All subsurface rights, title, and interests (including subsurface mineral interests) held by the State in the following tribally-owned parcels:
     - **(A)** Lot 2, sec. 13, T. 15 S., R. 12 E., Gila and Salt River Meridian, Pima County Arizona.
-    - **(B)** Lot 4, W1/2SE1/4 , sec. 13, T. 15 S., R. 12 E., Gila and Salt River Base & Meridian, Pima County, Arizona.
+    - **(B)** Lot 4, W1/2SE1/4, sec. 13, T. 15 S., R. 12 E., Gila and Salt River Base & Meridian, Pima County, Arizona.
     - **(C)** NW1/4NW1/4, N1/2NE1/4NW1/4, SW1/4NE1/4NW1/4, sec. 24, T. 15 S., R. 12 E., Gila and Salt River Base & Meridian, Pima County Arizona.
     - **(D)** Lot 2 and Lots 45 through 76, sec. 19, T. 15 S., R. 13 E., Gila and Salt River Base & Meridian, Pima County, Arizona.
   - **(2)** All subsurface rights, title, and interests (including subsurface mineral interests) held by the State in the following parcels held in trust for the benefit of Tribe:

@@ -1,7 +1,7 @@
 ---
 measure: S. 1291
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1291
@@ -25,3 +25,7 @@ Pascua Yaqui Mineral Rights Act of 2005
 - 2005-06-23 — Introduced in Senate
 - 2005-06-23 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S7296-7297)
 - 2005-06-23 — Sponsor introductory remarks on measure. (CR S7296)
+- 2005-06-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2005-07-29 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-116.
+- 2005-07-29 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-116.
+- 2005-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.
