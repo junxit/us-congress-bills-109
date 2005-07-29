@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1640
@@ -16,7 +16,7 @@ Energy Policy Act of 2005
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -30,6 +30,8 @@ Energy Policy Act of 2005
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
 ## Committees (7)
 
@@ -53,3 +55,30 @@ Energy Policy Act of 2005
 - 2005-04-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Resources, Education and the Workforce, Transportation and Infrastructure, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2005-04-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Resources, Education and the Workforce, Transportation and Infrastructure, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2005-04-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Resources, Education and the Workforce, Transportation and Infrastructure, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-04-15 — Referred to the Subcommittee on Aviation.
+- 2005-04-15 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2005-04-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2005-04-15 — Referred to the Subcommittee on Highways, Transit and Pipelines.
+- 2005-04-15 — Referred to the Subcommittee on Railroads.
+- 2005-04-15 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-04-28 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2005-04-28 — Referred to the Subcommittee on Energy.
+- 2005-04-28 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2005-04-28 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-04-28 — Referred to the Subcommittee on Water and Power.
+- 2005-05-19 — Referred to the Subcommittee on Housing and Community Opportunity.
+- 2005-07-29 — Committee on Agriculture discharged.
+- 2005-07-29 — Committee on Agriculture discharged.
+- 2005-07-29 — Committee on Education and the Workforce discharged.
+- 2005-07-29 — Committee on Education and the Workforce discharged.
+- 2005-07-29 — Committee on Financial Services discharged.
+- 2005-07-29 — Committee on Financial Services discharged.
+- 2005-07-29 — Committee on Resources discharged.
+- 2005-07-29 — Committee on Resources discharged.
+- 2005-07-29 — Committee on Science discharged.
+- 2005-07-29 — Committee on Science discharged.
+- 2005-07-29 — Committee on Transportation discharged.
+- 2005-07-29 — Committee on Transportation discharged.
+- 2005-07-29 — Placed on the Union Calendar, Calendar No. 122.
+- 2005-07-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-215, Part I.
+- 2005-07-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-215, Part I.
