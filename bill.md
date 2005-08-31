@@ -13,19 +13,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Captive Wildlife Safety Technical Amendment Act of 2005”.
 
-## § 2. Captive Wildlife Amendments
+## § 2. Captive wildlife amendments
 
-- **(a)** *Prohibited Acts* Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
+- **(a)** *Prohibited acts* Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (2)—
-      - **(i)** in subparagraph (A), by inserting “or” after the semi-colon;
-      - **(ii)** in subparagraph (B), by striking “; or” and inserting a semi-colon; and
+      - **(i)** in subparagraph (A), by inserting “or” after the semi-colonsemicolon;
+      - **(ii)** in subparagraph (B), by striking “; or” and inserting a semi-colonsemicolon; and
       - **(iii)** by striking subparagraph (C); and
     - **(B)** in paragraph (4), by inserting “or subsection (e)” before the period; and
   - **(2)** in subsection (e)—
     - **(A)** by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6) respectively;
     - **(B)** by striking “(e)” and all that follows through “Subsection (a)(2)(C)” in paragraph (1) and inserting the following:
-      > - **(e)** *Captive Wildlife Offense*
+      > - **(e)** *Captive wildlife offense*
       >   - **(1)** *In General* It is unlawful for any person to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any live animal of any prohibited wildlife species.
       >   - **(2)** *Nonapplicability* This subsection
 
@@ -37,18 +37,19 @@ This Act may be cited as the “Captive Wildlife Safety Technical Amendment Act 
       - **(i)** in subparagraph (C)—
         - **(I)** in clauses (ii) and (iii), by striking “animals listed in section 2(g)” each place it appears and inserting “prohibited wildlife species”; and
         - **(II)** in clause (iv), by striking “animals” and inserting “prohibited wildlife species”; and
-      - **(ii)** in suparagraph (D), by striking “animal” each place it appears and inserting “prohibited wildlife species”;
+      - **(ii)** in suparagraphsubparagraph (D), by striking “animal” each place it appears and inserting “prohibited wildlife species”;
     - **(E)** in paragraph (4) (as redesignated by subparagraph (A)), by striking “(2)” and inserting “(3)”;
     - **(F)** in paragraph (6) (as redesignated by subparagraph (A)), by striking “subsection (a)(2)(C)” and inserting “this subsection”; and
     - **(G)** by inserting after paragraph (6) (as redesignated by subparagraph (A)) the following:
       > - **(7)** *Application* This subsection shall apply beginning on the effective date of regulations promulgated under this subsection.
 
-- **(b)** *Criminal Penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
+- **(b)** *Criminal penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
   - **(1)** in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by striking “subsection 3(b)” each place it appears and inserting “subsections (b), (d), and (e) of section 3”; and
   - **(2)** in paragraph (3), by striking “section 3(d)” and inserting “subsections (d) and (e) of section 3”.
 
-## § 3. Applicability Provision Amendment
+## § 3. Applicability provision amendment
 
--  Section 3 of the Captive Wildlife Safety Act (117 Stat. 2871; Public Law 108–191) is amended—
-  - **(1)** in subsection (a), by striking “(a) In General.—Section 3” and inserting “Section 3”; and
-  - **(2)** by striking subsection (b).
+Section 3 of the Captive Wildlife Safety Act (117 Stat. 2871; Public Law 108–191) is amended—
+
+- **(1)** in subsection (a), by striking “(a) In General.—Section 3” and inserting “Section 3”; and
+- **(2)** by striking subsection (b).
