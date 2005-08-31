@@ -42,6 +42,6 @@ The Great Ape Conservation Act of 2000 is amended by striking section 6 (16 U.S.
 >
 > There are authorized to be appropriated to the Fund—
 >
-> - **(1)** $5,000,000 for each of fiscal years 2006 and 2007;
-> - **(2)** $7,000,000 for fiscal year 2008; and
+> - **(1)** $5,000,000 for each of fiscal years 2006 and 2007; and
+> - **(2)** $7,000,000 for fiscal year 2008; andeach of fiscal years 2008 through 2010.”.
 > - **(3)** $10,000,000 for each of fiscal years 2009 and 2010.
