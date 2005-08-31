@@ -1,7 +1,7 @@
 ---
 measure: S. 1415
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1415
@@ -29,3 +29,7 @@ Captive Wildlife Safety Technical Amendment Act of 2005
 
 - 2005-07-18 — Introduced in Senate
 - 2005-07-18 — Read twice and referred to the Committee on Environment and Public Works.
+- 2005-07-20 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2005-08-31 — Committee on Environment and Public Works. Reported by Senator Inhofe under authority of the order of the Senate of 07/29/2005 with amendments. With written report No. 109-126.
+- 2005-08-31 — Committee on Environment and Public Works. Reported by Senator Inhofe under authority of the order of the Senate of 07/29/2005 with amendments. With written report No. 109-126.
+- 2005-08-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.

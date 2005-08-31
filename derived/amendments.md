@@ -1,7 +1,7 @@
 ---
 measure: S. 1415
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subparagraph (A), by inserting “or” after the semi-colon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “; or” and inserting a semi-colon; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “or” after the semi-colonsemicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “; or” and inserting a semi-colonsemicolon; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4), by inserting “or subsection (e)” before the period; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6) respectively; | the bill names no machine-readable US Code section |
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(2)” and inserting “(3)”; | the bill names no machine-readable US Code section |
 | — | replace | in clauses (ii) and (iii), by striking “animals listed in section 2(g)” each place it appears and inserting “prohibited wildlife species”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv), by striking “animals” and inserting “prohibited wildlife species”; and | the bill names no machine-readable US Code section |
-| — | replace | in suparagraph (D), by striking “animal” each place it appears and inserting “prohibited wildlife species”; | the bill names no machine-readable US Code section |
+| — | replace | in suparagraphsubparagraph (D), by striking “animal” each place it appears and inserting “prohibited wildlife species”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4) (as redesignated by subparagraph (A)), by striking “(2)” and inserting “(3)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6) (as redesignated by subparagraph (A)), by striking “subsection (a)(2)(C)” and inserting “this subsection”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after paragraph (6) (as redesignated by subparagraph (A)) the following: | the bill names no machine-readable US Code section |
