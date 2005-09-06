@@ -1,7 +1,7 @@
 ---
 measure: S. 1410
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1410
@@ -24,7 +24,15 @@ Neotropical Migratory Bird Conservation Improvement Act of 2005
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
+## Committees (1)
+
+- Senate — Environment and Public Works Committee
+
 ## Actions
 
 - 2005-07-14 — Introduced in Senate
 - 2005-07-14 — Read twice and referred to the Committee on Environment and Public Works.
+- 2005-07-20 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2005-09-06 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-132.
+- 2005-09-06 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-132.
+- 2005-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
