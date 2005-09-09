@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3132
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-116 amendatory instructions. 38 executed, 78 stated and not applied.
+112 amendatory instructions. 38 executed, 74 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,11 +35,11 @@ to guess them.
 
 ### 18 U.S.C. § 3583
 
-> by striking “2244(a)(1), 2242(a)(2)” and inserting “2243, 2244, 2245, 2250”;
+> by striking “2244(a)(1), 2244(a)(2)” and inserting “2243, 2244, 2245, 2250”;
 
 | | |
 |---|---|
-| Removed | `2244(a)(1), 2242(a)(2)` |
+| Removed | `2244(a)(1), 2244(a)(2)` |
 | Inserted | `2243, 2244, 2245, 2250` |
 
 ### 18 U.S.C. § 4042
@@ -116,12 +116,12 @@ to guess them.
 
 ### 18 U.S.C. § 2251
 
-> by striking “any term of years or for life” and inserting “not less than 30 years or for life.”.
+> by striking “any term of years or for life” and inserting “not less than 30 years or for life”.
 
 | | |
 |---|---|
 | Removed | `any term of years or for life` |
-| Inserted | `not less than 30 years or for life.` |
+| Inserted | `not less than 30 years or for life` |
 
 ### 18 U.S.C. § 2252
 
@@ -152,11 +152,11 @@ to guess them.
 
 ### 18 U.S.C. § 2252
 
-> by striking “or imprisoned for not more than 10 years” and inserting “and imprisoned for not less than 10 nor more than 30 years”;
+> by striking “or imprisoned not more than 10 years” and inserting “and imprisoned for not less than 10 nor more than 30 years”;
 
 | | |
 |---|---|
-| Removed | `or imprisoned for not more than 10 years` |
+| Removed | `or imprisoned not more than 10 years` |
 | Inserted | `and imprisoned for not less than 10 nor more than 30 years` |
 
 ### 18 U.S.C. § 2252
@@ -408,23 +408,20 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 2252` | insert | by inserting “section 1591,” after “this chapter,”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2252` | insert | by inserting “, or sex trafficking of children” after “pornography”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2252` | strike | by striking “, or both”; and | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 2252A` | insert | by inserting “section 1591,” after “this chapter,” the first place it appears; | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252A` | insert | by inserting “section 1591,” after “this chapter,”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2252A` | insert | by inserting “, or sex trafficking of children” after “pornography”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2260` | replace | Section 2260(c) of title 18, United States Code, is amended by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3559` | insert | by inserting “, 2423(b) (relating to travel with intent to engage in illicit sexual conduct), 2423(c) (relating to illicit sexual conduct in foreign places), or 2425 (relating to use of interstate facilities to transmit information about… | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 534` | insert | by inserting “, including checks of national crime information databases (as defined in section 534(e)(3)(A) of title 28, United States Code),” after “criminal records checks”; and | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 534` | insert | in each of clauses (i) and (ii), by inserting “involving a child on whose behalf such payments are to be so made” after “in any case”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | amend | by adding “and” at the end of subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | insert | by inserting “, on or before September 30, 2005,” after “plan if”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | insert | by inserting “, on or before such date,” after “or if”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | strike | in the matter preceding clause (i), by striking “unless an election provided for in subparagraph (B) is made with respect to the State,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 671` | amend | by adding “and” at the end of clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | strike | in subparagraph (A), in the matter preceding clause (i), by striking “unless an election provided for in subparagraph (B) is made with respect to the State,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 3563` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 3563` | replace | in paragraph (9), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 3563` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 3583` | insert | Section 3583(d) of title 18, United States Code, is amended by inserting after “1994).” the following: “The court shall order, as an explicit condition of supervised release for a person who is a felon or required to register under the S… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3583` | add-at-end | Section 3583(d) of title 18, United States Code, is amended by adding at the end the following: “The court may order, as an explicit condition of supervised release for a person who is a felon or required to register under the Sex Offend… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1826` | insert | Chapter 119 of title 28, United States Code, is amended by inserting after section 1826 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1826` | insert | The table of sections for chapter 119 of title 28, United States Code, is amended by inserting after the item relating to section 1826 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1153` | insert | Section 1153(a) of title 18, United States Code, is amended by inserting “felony child abuse or neglect,” after “years,”. | the bill quotes the text inserted but describes where it goes |
@@ -440,7 +437,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsections (g) and (i), by striking “4243 or 4246” each place it appears and inserting “4243, 4246, or 4248”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (1)(C) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “4245 or 4246” and inserting “4245, 4246, or 4248”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F) respectively; and | the bill names no machine-readable US Code section |
@@ -450,6 +447,5 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 1591` | strike | by striking “, or both”; and | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 1591` | strike | by striking “, or both”. | the bill quotes the text struck but describes what replaces it |
 | — | replace | in section 2243(b), by striking “one year” and inserting “five years”; | the bill names no machine-readable US Code section |
-| — | replace | in section 2244(a)(4), by striking “six months” and inserting “two years”; | the bill names no machine-readable US Code section |
 | — | replace | in section 2244(b), by striking “six months” and inserting “two years”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “Federal prison,” each place it appears , other than the second sentence of section 2241(c), the following: “, or being in the custody of the Attorney General or the Bureau of Prisons or confined in any institution or … | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “Federal prison,” each place it appears, other than the second sentence of section 2241(c), the following: “or being in the custody of the Attorney General or the Bureau of Prisons or confined in any institution or fac… | the bill names no machine-readable US Code section |
