@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 419
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 419
@@ -16,7 +16,7 @@ Directing the Secretary of State to transmit to the House of Representatives not
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Inslee, Jay [D-WA-1] (I000026)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -35,6 +35,9 @@ Directing the Secretary of State to transmit to the House of Representatives not
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
 
 ## Committees (1)
 
@@ -45,3 +48,8 @@ Directing the Secretary of State to transmit to the House of Representatives not
 - 2005-07-29 — Introduced in House
 - 2005-07-29 — Introduced in House
 - 2005-07-29 — Referred to the House Committee on International Relations.
+- 2005-09-14 — Committee Consideration and Mark-up Session Held.
+- 2005-09-14 — Ordered to be Reported Adversely by the Yeas and Nays: 26 - 21.
+- 2005-09-16 — Placed on the House Calendar, Calendar No. 89.
+- 2005-09-16 — Reported adversely by the Committee on International Relations. H. Rept. 109-225.
+- 2005-09-16 — Reported adversely by the Committee on International Relations. H. Rept. 109-225.
