@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 408
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 408
@@ -25,3 +25,9 @@ Requesting the President and directing the Secretary of Defense to transmit to t
 - 2005-07-28 — Introduced in House
 - 2005-07-28 — Introduced in House
 - 2005-07-28 — Referred to the House Committee on International Relations.
+- 2005-09-14 — Committee Consideration and Mark-up Session Held.
+- 2005-09-14 — Ordered to be Reported Adversely by the Yeas and Nays: 23 - 22.
+- 2005-09-14 — Sponsor introductory remarks on measure. (CR H7929-7930)
+- 2005-09-16 — Placed on the House Calendar, Calendar No. 88.
+- 2005-09-16 — Reported adversely by the Committee on International Relations. H. Rept. 109-224.
+- 2005-09-16 — Reported adversely by the Committee on International Relations. H. Rept. 109-224.
