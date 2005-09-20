@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3765
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3765
@@ -36,3 +36,10 @@ A bill to extend through March 31, 2006, the authority of the Secretary of the A
 - 2005-09-14 — Introduced in House
 - 2005-09-14 — Introduced in House
 - 2005-09-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-09-15 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-09-20 — Considered under suspension of the rules. (consideration: CR H8115-8116)
+- 2005-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3765.
+- 2005-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-09-20 — Mr. Boustany moved to suspend the rules and pass the bill.
+- 2005-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8115)
+- 2005-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8115)
