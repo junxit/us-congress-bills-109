@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 394
@@ -32,3 +32,9 @@ To direct the Secretary of the Interior to conduct a boundary study to evaluate 
 - 2005-06-16 — Placed on the Union Calendar, Calendar No. 77.
 - 2005-06-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-135.
 - 2005-06-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-135.
+- 2005-09-20 — Considered under suspension of the rules. (consideration: CR H8118-8119)
+- 2005-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 394.
+- 2005-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-09-20 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
+- 2005-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8118)
+- 2005-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8118)
