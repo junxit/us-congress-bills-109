@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 409
-congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 409
@@ -11,39 +11,57 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sierra National Forest Land Exchange Act of 2005”.
+This Act may be cited as the “Sierra National Forest Land Exchange Act of 2006”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Federal land* The term “Federal land” means the parcels of land and improvements thereon comprising approximately 160 acres and located in township 9 south, range 25 east, section 30, E½SW1/4 and W½SE1/4, Mt. Diablo Meridian, California.
-- **(2)** *Non-federal land* The term “non-Federal land” means a parcel of land comprising approximately 80 acres and located in township 8 south, range 26 east, section 29, N½NW1/4, Mt. Diablo Meridian, California.
-- **(3)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
+- **(1)** *Council* The term “Council” means the Sequoia Council of the Boy Scouts of America.
+- **(2)** *Federal land* The term “Federal land” means the parcel of land comprising 160 acres and located in E½SW¼ and W½SE¼, sec. 30, T. 9 S., R. 25 E., Mt. Diablo Meridian, California.
+- **(3)** *Non-federal land* The term “non-Federal land” means a parcel of land comprising approximately 80 acres and located in N½NW¼, sec. 29, T. 8 S., R. 26 E., Mt. Diablo Meridian, California.
+- **(4)** *Project no. 67* The term “Project No. 67” means the hydroelectric project licensed pursuant to the Federal Power Act (16 U.S.C. 791a et seq.) as Project No. 67.
+- **(5)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
 
-## § 3. Land exchange, Sierra National Forest, California
+## § 3. Land exchange, sierra national forest, california
 
-- **(a)** *Exchange authorized*
-  - **(1)** *In general* If, during the one-year period beginning on the date of enactment of this Act, the owner of the non-Federal land offers the United States the exchange of the non-Federal land and a cash equalization payment of $50,000, the Secretary shall convey, by quit claim deed, all right, title, and interest of the United States in and to the Federal land. The conveyance of the Federal land shall be subject to valid existing rights and under such terms and conditions as the Secretary may prescribe.
-  - **(2)** *Acceptable title* Title to the non-Federal land shall conform with the title approval standards of the Attorney General applicable to Federal land acquisitions and shall be acceptable to the Secretary.
-  - **(3)** *Correction and modification of legal descriptions* The Secretary, in consultation with the owner of the non-Federal land, may make corrections to the legal descriptions of the Federal land and non-Federal land. The Secretary and the owner of the non-Federal land may make minor modifications to such descriptions insofar as such modifications do not affect the overall value of the exchange by more than five percent.
-- **(b)** *Valuation of land to be conveyed* For purposes of this section, during the period referred to in subsection (a)(1), the value of the non-Federal land shall be deemed to be $200,000 and the value of the Federal land shall be deemed to be $250,000.
-- **(c)** *Administration of land acquired by United States* Once acquired, the Secretary shall manage the non-Federal land in accordance with the Act of March 1, 1911 (commonly known as the Weeks Act; 16 U.S.C. 480 et seq.), and in accordance with the other laws and regulations pertaining to National Forest System lands.
-- **(d)** *Conditions on conveyance of Federal land* The conveyance by the Secretary under subsection (a) shall be subject to the following conditions:
-  - **(1)** That the recipient of the Federal land convey all 160 acres of the Federal land to the Sequoia Council of the Boy Scouts of America not later than four months after the date on which the recipient receives the Federal land from the Secretary under subsection (a).
-  - **(2)** That, as described in section 5, the owner of the easement granted in section 4 have the right of first offer regarding any reconveyance of the Federal land by the Sequoia Council of the Boy Scouts of America.
-- **(e)** *Disposition and use of cash equalization funds* The Secretary shall deposit the cash equalization payment received under subsection (a) in the fund established by Public Law 90–171 (commonly known as the Sisk Act; 16 U.S.C. 484a). The cash equalization payment shall be available to the Secretary until expended, without further appropriation, for the acquisition of lands and interests in lands for the National Forest System in the State of California.
-- **(f)** *Cost collection funds* The owner of the non-Federal land shall be responsible for all direct costs associated with processing the land exchange under this section and shall pay the Secretary the necessary funds, which shall be deposited in a cost collection account. Funds so deposited shall be available to the Secretary until expended, without further appropriation, for the cost associated with the land exchange. Any funds remaining after completion of the land exchange, which are not needed to cover expenses, shall be refunded to the owner of the non-Federal land.
+- **(a)** *Exchange Authorized*
+  - **(1)** *In general* If, during the 1-year period beginning on the date of enactment of this Act, the owner of the non-Federal land offers to convey to the United States title to the non-Federal land and to make a cash equalization payment of $50,000 to the United States, the Secretary shall convey to the owner of the non-Federal land, all right, title, and interest of the United States in and to the Federal land, except as provided in subsection (d), subject to valid existing rights, and under such terms and conditions as the Secretary may require.
+  - **(2)** *Correction and modification of legal descriptions*
+    - **(A)** *In general* The Secretary, in consultation with the owner of the non-Federal land, may agree to make corrections to the legal descriptions of the Federal land and non-Federal land.
+    - **(B)** *Modifications* The Secretary and the owner of the non-Federal land may agree to make minor modifications to the legal descriptions if the modifications do not affect the overall value of the exchange by more than 5 percent.
+- **(b)** *Valuation of Land To Be Conveyed* For purposes of this section, during the period referred to in subsection (a)(1)—
+  - **(1)** the value of the non-Federal land shall be considered to be $200,000; and
+  - **(2)** the value of the Federal land shall be considered to be $250,000.
+- **(c)** *Administration of Land Acquired by United States* On acquisition by the Secretary, the Secretary shall manage the non-Federal land in accordance with—
+  - **(1)** the Act of March 1, 1911 (commonly known as the “Weeks Act”) (16 U.S.C. 480 et seq.); and
+  - **(2)** any other laws (including regulations) applicable to the National Forest System.
+- **(d)** *Conditions on Conveyance of Federal Land* The conveyance by the Secretary under subsection (a) shall be subject to the conditions that—
+  - **(1)** the recipient of the Federal land convey all 160 acres of the Federal land to the Council not later than 120 days after the date on which the recipient receives title to the Federal land;
+  - **(2)** in accordance with section 4(a), the Secretary grant to the owner of Project No. 67 an easement; and
+  - **(3)** in accordance with section 4(b), the owner of Project No. 67 has the right of first refusal regarding any reconveyance of the Federal land by the Council.
+- **(e)** *Disposition and Use of Cash Equalization Funds*
+  - **(1)** *In general* The Secretary shall deposit the cash equalization payment received under subsection (a)(1) in the fund established by Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a).
+  - **(2)** *Use* Amounts deposited under paragraph (1) shall be available to the Secretary until expended, without further appropriation, for the acquisition of land and any interests in land for the National Forest System in the State of California.
+- **(f)** *Cost Collection Funds*
+  - **(1)** *In general* The owner of the non-Federal land shall pay to the Secretary all direct costs associated with processing the land exchange under this section.
+  - **(2)** *Cost collection account*
+    - **(A)** *In general* Any amounts received by the Secretary under paragraph (1) shall be deposited in a cost collection account.
+    - **(B)** *Use* Amounts deposited under subparagraph (A) shall be available to the Secretary until expended, without further appropriation, for the costs associated with the land exchange.
+    - **(C)** *Refund* The Secretary shall provide to the owner of the non-Federal land a refund of any amounts remaining in the cost collection account after completion of the land exchange that are not needed to cover expenses of the land exchange.
+- **(g)** *Land and Water Conservation Fund* For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9), the boundaries of the Sierra National Forest shall be considered to be the boundaries of the Sierra National Forest as of January 1, 1965.
 
-## § 4. Grant of easement in connection with hydroelectric project no. 67
+## § 4. Grant of easement and right of first refusal
 
-- **(a)** *Purpose* A hydroelectric project, licensed pursuant to the Federal Power Act (16 U.S.C. 791a et seq.) as Project No. 67, is located on a majority of the Federal land authorized for exchange under section 3. To protect the ability of the owner of Project No. 67 to continue to operate and maintain that hydroelectric project under the current and all future licenses or authorizations issued pursuant to the Federal Power Act or any other applicable law, this section is necessary.
-- **(b)** *Easement required* Before conveying the Federal land under section 3, the Secretary shall grant an easement, without consideration, to the owner of Project No. 67 for the right to enter, occupy, and use for hydroelectric power purposes the Federal land currently within the licensed boundary for Project No. 67. The Project No. 67 owner shall hold harmless the Secretary for any claims against the owner due to the grant of easement.
-- **(c)** *Required terms and conditions* The easement granted under this section shall provide the following: “The United States of America, hereinafter called “Grantor”, pursuant to a congressional authorization, hereby grants, transfers, and conveys unto the [insert name of Project No. 67 owner], its successors and assigns, hereinafter called “Grantee”, all those certain exclusive easements and rights in, on, under, over, along, and across certain real property described in Exhibit A, attached hereto [attach description of real property subject to the easement] and incorporated herein (the “Property”), for any purpose or activity that Grantee deems convenient or necessary to the creation, generation, transmission, or distribution of hydropower on and off the Property, including, but not limited to, the right to inundate the Property with water, reservoir management, and compliance with legal obligations in accordance with the applicable Federal Energy Regulatory Commission license and those non-exclusive easements and rights to use, occupy, and enter the Property, and to allow others to use, occupy, and enter the Property, for other purposes related to hydropower and reservoir management and use, such as recreation by Grantee or the public, and regulation of any activities on the Property that may impact such purposes, at any time and from time to time. Grantor further grants, transfers, and conveys unto the Grantee the right of assignment, in whole or in part, to others, without limitation. Grantee shall have the right to take such actions on the Property as may be necessary to comply with all applicable laws, rules, regulations, ordinances, orders and other governmental, regulatory, and administrative authorities and requirements, or that may be necessary for the economical entry, occupancy, and use of the Property for hydropower purposes. Grantor, its successors and assigns, shall not deposit or permit or allow to be deposited, earth, rubbish, debris or any other substance or material on the Property, or so near thereto as to constitute, in the opinion of the Grantee, an interference or obstruction to the hydropower and reservoir purposes. No other easements, leases, or licenses shall be granted on, under or over the Property by Grantor to any person, firm or corporation without the previous written consent of Grantee, which consent shall not be unreasonably withheld. The terms, covenants and conditions of this Grant of Easement shall bind and inure to the benefit of the successors and assigns of Grantor and the successors and assigns of Grantee.”.
+In accordance with the agreement entered into by the Forest Service, the Council, and the owner of Project No. 67 entitled the “Agreement to Convey Grant of Easement and Right of First Refusal” and executed on April 17, 2006—
 
-## § 5. Right of first offer for subsequent conveyance of Federal land
+- **(1)** the Secretary shall grant an easement to the owner of Project No. 67; and
+- **(2)** the Council shall grant a right of first refusal to the owner of Project No. 67.
 
-- **(a)** *Right of first offer* As a condition on the conveyance of the Federal land under section 3 and its reconveyance to the Sequoia Council of the Boy Scouts of America, as required by section 3(d)(1), the Secretary shall require that the Council agree to provide the owner of the easement granted under section 4 the right of first offer to obtain the Federal land, or any portion thereof, that the Council ever proposes to sell, transfer, or otherwise convey.
-- **(b)** *Notice and offer* If the Council proposes to sell, transfer, or otherwise convey the Federal land or a portion thereof, the Council shall give the easement owner written notice specifying the terms and conditions on which the conveyance is proposed and offering to convey to the easement owner, on the same terms and conditions, the Federal land or the portion thereof proposed for conveyance.
-- **(c)** *Acceptance or rejection of offer* Within 90 days after the easement owner receives the notice required by subsection (b) and all available documents necessary to perform reasonable due diligence on the proposed conveyance, the easement owner shall either accept or reject the offer. If the easement owner accepts the offer, the closing of the sale shall be governed by the terms of the offer in the notice.
-- **(d)** *Effect of rejection* If the hydropower easement owner rejects an offer under subsection (b) or fails to respond to the offer before the expiration of the 90-day period provided in subsection (c), the Council may convey the property covered by the notice to any other person on the same terms and conditions specified in the notice. If those terms and conditions are subsequently altered in any way, then the notice and offer shall again be made to the easement owner under subsection (b). The rejection by the easement owner of one or more of such offers shall not affect its right of first offer as to any other proposed conveyance by the Council.
+## § 5. Exercise of discretion
+
+In exercising any discretion necessary to carry out this Act, the Secretary shall ensure that the public interest is well served.
+
+## § 6. Grants to improve the commercial value of forest biomass for electric energy, useful heat, transportation fuels, and other commercial purposes
+
+Section 210(d) of the Energy Policy Act of 2005 (42 U.S.C. 15855(d)) is amended by striking “$50,000,000 for each of the fiscal years 2006 through 2016” and inserting “$50,000,000 for fiscal year 2006 and $35,000,000 for each of fiscal years 2007 through 2016”.
