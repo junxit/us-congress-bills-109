@@ -1,7 +1,7 @@
 ---
 measure: H.R. 409
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 409
@@ -30,3 +30,10 @@ Sierra National Forest Land Exchange Act of 2006
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Resources.
+- 2005-02-11 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-09-20 — Considered under suspension of the rules. (consideration: CR H8117-8118)
+- 2005-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 409.
+- 2005-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-09-20 — Mr. Renzi moved to suspend the rules and pass the bill.
+- 2005-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8117-8118)
+- 2005-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8117-8118)

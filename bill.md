@@ -17,8 +17,8 @@ This Act may be cited as the “Sierra National Forest Land Exchange Act of 2005
 
 In this Act:
 
-- **(1)** *Federal land* The term “Federal land” means the parcels of land and improvements thereon comprising approximately 160 acres and located in township 9 south, range 25 east, section 30, E1/2SW1/4 and W1/2SE1/4, Mt. Diablo Meridian, California.
-- **(2)** *Non-federal land* The term “non-Federal land” means a parcel of land comprising approximately 80 acres and located in township 8 south, range 26 east, section 29, N1/2NW1/4, Mt. Diablo Meridian, California.
+- **(1)** *Federal land* The term “Federal land” means the parcels of land and improvements thereon comprising approximately 160 acres and located in township 9 south, range 25 east, section 30, E½SW1/4 and W½SE1/4, Mt. Diablo Meridian, California.
+- **(2)** *Non-federal land* The term “non-Federal land” means a parcel of land comprising approximately 80 acres and located in township 8 south, range 26 east, section 29, N½NW1/4, Mt. Diablo Meridian, California.
 - **(3)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
 
 ## § 3. Land exchange, Sierra National Forest, California
