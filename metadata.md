@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3784
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3784
@@ -33,3 +33,9 @@ Higher Education Extension Act of 2005
 - 2005-09-15 — Introduced in House
 - 2005-09-15 — Introduced in House
 - 2005-09-15 — Referred to the House Committee on Education and the Workforce.
+- 2005-09-20 — Considered under suspension of the rules. (consideration: CR H8112-8115)
+- 2005-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3784.
+- 2005-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-09-20 — Mr. Boehner moved to suspend the rules and pass the bill, as amended.
+- 2005-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8112-8113)
+- 2005-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8112-8113)

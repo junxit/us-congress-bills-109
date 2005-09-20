@@ -15,7 +15,7 @@ This Act may be cited as the “Higher Education Extension Act of 2005”.
 
 ## § 2. Extension of programs
 
-- **(a)** *Extension of duration to include fiscal year 2006* The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through March 31, 2006.
+- **(a)** *Extension of duration* The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through December 31, 2005.
 - **(b)** *Performance of required and authorized functions* If the Secretary of Education, a State, an institution of higher education, a guaranty agency, a lender, or another person or entity—
   - **(1)** is required, in or for fiscal year 2004, to carry out certain acts or make certain determinations or payments under a program under the Higher Education Act of 1965, such acts, determinations, or payments shall be required to be carried out, made, or continued during the period of the extension under this section; or
   - **(2)** is permitted or authorized, in or for fiscal year 2004, to carry out certain acts or make certain determinations or payments under a program under the Higher Education Act of 1965, such acts, determinations, or payments are permitted or authorized to be carried out, made, or continued during the period of the extension under this section.
