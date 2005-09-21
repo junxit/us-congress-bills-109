@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 418
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 418
@@ -16,7 +16,7 @@ Requesting the President to transmit to the House of Representatives not later t
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Inslee, Jay [D-WA-1] (I000026)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -35,6 +35,9 @@ Requesting the President to transmit to the House of Representatives not later t
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
 
 ## Committees (1)
 
@@ -45,3 +48,8 @@ Requesting the President to transmit to the House of Representatives not later t
 - 2005-07-29 — Introduced in House
 - 2005-07-29 — Introduced in House
 - 2005-07-29 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2005-09-15 — Committee Consideration and Mark-up Session Held.
+- 2005-09-15 — Ordered to be Reported Adversely.
+- 2005-09-21 — Placed on the House Calendar, Calendar No. 91.
+- 2005-09-21 — Reported adversely by the Committee on Intelligence (Permanent). H. Rept. 109-228.
+- 2005-09-21 — Reported adversely by the Committee on Intelligence (Permanent). H. Rept. 109-228.
