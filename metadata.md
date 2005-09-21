@@ -1,7 +1,7 @@
 ---
 measure: S. 1234
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1234
@@ -25,3 +25,8 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2005
 - 2005-06-14 — Introduced in Senate
 - 2005-06-14 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced:  CR S6484)
 - 2005-06-14 — Sponsor introductory remarks on measure. (CR S6484)
+- 2005-06-23 — Committee on Veterans' Affairs. Hearings held.
+- 2005-07-28 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2005-09-21 — Committee on Veterans' Affairs. Reported by Senator Craig without amendment. With written report No. 109-138.
+- 2005-09-21 — Committee on Veterans' Affairs. Reported by Senator Craig without amendment. With written report No. 109-138.
+- 2005-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
