@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3767
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3767
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 2600 Oa
 - 2005-09-14 — Introduced in House
 - 2005-09-14 — Introduced in House
 - 2005-09-14 — Referred to the House Committee on Government Reform.
+- 2005-09-15 — Committee Consideration and Mark-up Session Held.
+- 2005-09-15 — Ordered to be Reported by Unanimous Consent.
+- 2005-09-21 — Considered under suspension of the rules. (consideration: CR H8177-8178)
+- 2005-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3767.
+- 2005-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-09-21 — Mr. Gutknecht moved to suspend the rules and pass the bill.
+- 2005-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8177)
+- 2005-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8177)
