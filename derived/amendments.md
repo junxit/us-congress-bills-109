@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3824
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-170 amendatory instructions. 82 executed, 88 stated and not applied.
+170 amendatory instructions. 81 executed, 89 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 16 U.S.C. § 1534
 
-> Section 5 (16 U.S.C. 1534), as amended by section 10(a)(3) of this Act, is further amended in subsection (i)(2) by striking “section 4(b)(7)” and inserting “section 4(b)(6)”.
+> Section 5 (16 U.S.C. 1534), as amended by section 9(a)(3) of this Act, is further amended in subsection (j)(2) by striking “section 4(b)(7)” and inserting “section 4(b)(6)”.
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ to guess them.
 
 ### 16 U.S.C. § 1535
 
-> Section 6(c) (16 U.S.C. 1535(c)), as amended by section 11(1) of this Act, is further amended in paragraph (3) by striking “section 4(b)(3)(B)(iii)” each place it appears and inserting “section 4(b)(2)(B)(iii)”.
+> Section 6(c) (16 U.S.C. 1535(c)), as amended by section 10(1) of this Act, is further amended in paragraph (3) by striking “section 4(b)(3)(B)(iii)” each place it appears and inserting “section 4(b)(2)(B)(iii)”.
 
 | | |
 |---|---|
@@ -143,7 +143,7 @@ to guess them.
 
 ### 16 U.S.C. § 1533
 
-> in paragraph (5), as redesignated by subparagraph (C) of this paragraph, by striking “subsection (f) of this section” and inserting “section 5”;
+> in paragraph (5), as redesignated by subparagraph (C) of this paragraph, by striking “subsection (f) of this section” and inserting “section 5”; and
 
 | | |
 |---|---|
@@ -152,61 +152,52 @@ to guess them.
 
 ### 16 U.S.C. § 1533
 
-> by striking “a State agency” the first place it appears and inserting “a Governor or a State agency”;
+> by striking “a State agency” the first place it appears and inserting “a Governor, State agency, county (or equivalent jurisdiction), or unit of local government”;
 
 | | |
 |---|---|
 | Removed | `a State agency` |
-| Inserted | `a Governor or a State agency` |
+| Inserted | `a Governor, State agency, county (or equivalent jurisdiction), or unit of local government` |
 
 ### 16 U.S.C. § 1533
 
-> by striking “a State agency” the second place it appears and inserting “a Governor or a State agency”;
+> by striking “a State agency” the second place it appears and inserting “a Governor, State agency, county (or equivalent jurisdiction), or unit of local government”;
 
 | | |
 |---|---|
 | Removed | `a State agency` |
-| Inserted | `a Governor or a State agency` |
+| Inserted | `a Governor, State agency, county (or equivalent jurisdiction), or unit of local government` |
 
 ### 16 U.S.C. § 1533
 
-> by striking “the State agency” and inserting “the Governor or the State agency”; and
+> by striking “the State agency” and inserting “the Governor, State agency, county (or equivalent jurisdiction), or unit of local government, respectively”; and
 
 | | |
 |---|---|
 | Removed | `the State agency` |
-| Inserted | `the Governor or the State agency` |
-
-### 16 U.S.C. § 1533
-
-> by striking “the agency’s” and inserting “the Governor’s or the State agency’s”.
-
-| | |
-|---|---|
-| Removed | `the agency’s` |
-| Inserted | `the Governor’s or the State agency’s` |
+| Inserted | `the Governor, State agency, county (or equivalent jurisdiction), or unit of local government, respectively` |
 
 ### 16 U.S.C. § 1534
 
-> in subsection (k), as redesignated by paragraph (1) of this section, by striking “subsection (a) of this section” and inserting “subsection (j)”; and
+> in subsection (l), as redesignated by paragraph (1) of this section, by striking “subsection (a) of this section” and inserting “subsection (k)”; and
 
 | | |
 |---|---|
 | Removed | `subsection (a) of this section` |
-| Inserted | `subsection (j)` |
+| Inserted | `subsection (k)` |
 
 ### 16 U.S.C. § 1535
 
-> Section 6(d)(1) (16 U.S.C. 1535(d)(1)) is amended by striking “section 4(g)” and inserting “section 5(i)”.
+> Section 6(d)(1) (16 U.S.C. 1535(d)(1)) is amended by striking “section 4(g)” and inserting “section 5(j)”.
 
 | | |
 |---|---|
 | Removed | `section 4(g)` |
-| Inserted | `section 5(i)` |
+| Inserted | `section 5(j)` |
 
 ### 16 U.S.C. § 1374
 
-> in section 104(c)(4)(ii) (16 U.S.C. 1374(c)(4)(A)(ii)) by striking “section 4(f)” and inserting “section 5”; and
+> in section 104(c)(4)(A)(ii) (16 U.S.C. 1374(c)(4)(A)(ii)) by striking “section 4(f)” and inserting “section 5”; and
 
 | | |
 |---|---|
@@ -224,11 +215,11 @@ to guess them.
 
 ### 16 U.S.C. § 1535
 
-> by striking “or to assist” and all that follows through “section 4(g)” and inserting “pursuant to subsection (c)(1) and (2) or to address candidate species or other species at risk and recovered species pursuant to subsection (c)(3)”; and
+> by striking “or to assist” and all that follows through “section 5(j)” and inserting “pursuant to subsection (c)(1) and (2) or to address candidate species or other species at risk and recovered species pursuant to subsection (c)(3)”; and
 
 | | |
 |---|---|
-| Removed | `or to assist” and all that follows through “section 4(g)` |
+| Removed | `or to assist” and all that follows through “section 5(j)` |
 | Inserted | `pursuant to subsection (c)(1) and (2) or to address candidate species or other species at risk and recovered species pursuant to subsection (c)(3)` |
 
 ### 16 U.S.C. § 1535
@@ -278,12 +269,12 @@ to guess them.
 
 ### 16 U.S.C. § 1536
 
-> by striking “listed under section 4” and inserting “an endangered species or a threatened species,”; and
+> by striking “listed under section 4” and inserting “an endangered species or a threatened species”; and
 
 | | |
 |---|---|
 | Removed | `listed under section 4` |
-| Inserted | `an endangered species or a threatened species,` |
+| Inserted | `an endangered species or a threatened species` |
 
 ### 16 U.S.C. § 1536
 
@@ -356,6 +347,15 @@ to guess them.
 |---|---|
 | Removed | `listed` |
 | Inserted | `determined to be an endangered species or a threatened species` |
+
+### 16 U.S.C. § 1537
+
+> Section 8(a) (16 U.S.C. 1537(a)) is amended by striking “section 15” and inserting “section 18”.
+
+| | |
+|---|---|
+| Removed | `section 15` |
+| Inserted | `section 18` |
 
 ### 16 U.S.C. § 1537
 
@@ -512,16 +512,7 @@ to guess them.
 
 ### 16 U.S.C. § 1540
 
-> in subsection (d), by striking “his” and inserting “the officer’s or employee’s”; and
-
-| | |
-|---|---|
-| Removed | `his` |
-| Inserted | `the officer’s or employee’s` |
-
-### 16 U.S.C. § 1540
-
-> in subsection (e)(3), in the second sentence by striking “Such persons” and inserting “Such a person”.
+> Section 11 (16 U.S.C. 1540) is amended in subsection (e)(3), in the second sentence, by striking “Such persons” and inserting “Such a person”.
 
 | | |
 |---|---|
@@ -584,7 +575,7 @@ to guess them.
 
 ### 16 U.S.C. § 1533
 
-> Section 4(b)(7) (16 U.S.C. 1533(b)(7)) is amended in the matter following subparagraph (B) by striking “him” and inserting “the Secretary”.
+> Paragraph (6) of section 4(b) (16 U.S.C. 1533(b)), as redesignated by section 5(b)(2) of this Act, is further amended in the matter following subparagraph (B) by striking “him” and inserting “the Secretary”.
 
 | | |
 |---|---|
@@ -593,7 +584,7 @@ to guess them.
 
 ### 16 U.S.C. § 1533
 
-> Section 5(j)(2), as redesignated by section 10(a)(1) of this Act, is amended by striking “him” and inserting “the Secretary”.
+> Section 5(k)(2), as redesignated by section 9(a)(1) of this Act, is amended by striking “him” and inserting “the Secretary”.
 
 | | |
 |---|---|
@@ -647,7 +638,7 @@ to guess them.
 
 ### 16 U.S.C. § 1535
 
-> Section 4(g)(1), as redesignated by section 9(1) of this Act, is amended by striking “his” and inserting “the”.
+> Section 4(g)(1), as redesignated by section 8(1) of this Act, is amended by striking “his” and inserting “the”.
 
 | | |
 |---|---|
@@ -665,7 +656,7 @@ to guess them.
 
 ### 16 U.S.C. § 1535
 
-> in subsection (e)(1), as designated by section 11(3)(A) of this Act, by striking “his periodic review” and inserting “periodic review by the Secretary”.
+> in subsection (e)(1), as designated by section 10(3)(A) of this Act, by striking “his periodic review” and inserting “periodic review by the Secretary”.
 
 | | |
 |---|---|
@@ -728,7 +719,7 @@ to guess them.
 
 ### 16 U.S.C. § 1540
 
-> in subsection (a)(3) and (b)(3) by striking “his or her” each place it appears and inserting “the defendant’s”;
+> in subsections (a)(3) and (b)(3) by striking “his or her” each place it appears and inserting “the defendant’s”;
 
 | | |
 |---|---|
@@ -778,19 +769,18 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1533` | insert | by inserting “Federal agency, any” after “being made by any”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1533` | amend | Section 4(c)(2) (16 U.S.C. 1533(c)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | strike | Section 4(a) (16 U.S.C. 1533(a)) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1532` | redesignate | Section 3 (16 U.S.C. 1532), as amended by section 3 of this Act, is further amended by striking paragraph (5) and by redesignating paragraphs (6) through (22) in order as paragraphs (5) through (21). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)), as otherwise amended by this Act, is further amended by striking paragraph (2), and by redesignating paragraphs (3) through (9) in order as paragraphs (2) through (8), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1532` | redesignate | Section 3 (16 U.S.C. 1532), as amended by section 3 of this Act, is further amended by striking paragraph (6) and by redesignating paragraphs (7) through (22) in order as paragraphs (6) through (21). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)), as otherwise amended by this Act, is further amended by striking paragraph (2), and by redesignating paragraphs (3) through (8) in order as paragraphs (2) through (7), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (2), as redesignated by paragraph (2) of this subsection, by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (6), as redesignated by paragraph (2) of this subsection, by striking “, designation,”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (7), as redesignated by paragraph (2) of this subsection, by striking “; and if such regulation” and all that follows through the end of the sentence and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1533` | insert | by inserting “and” after “if any”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1533` | replace | by striking “and specify any” and all that follows through the end of the sentence and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1533` | replace | by striking “, and specify any” and all that follows through the end of the sentence and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1533` | strike | in the third sentence by striking “, designations,”. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1536` | replace | in subsection (a)(2) in the second sentence by striking “or result in the destruction or modification of any habitat of such species” and all that follows through the end of the sentence and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1536` | replace | in subsection (a)(2) in the first sentence by striking “or result in the destruction or adverse modification of any habitat of such species” and all that follows through the end of the sentence and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1536` | replace | in subsection (a)(4) in the first sentence by striking “or result” and all that follows through the end of the sentence and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1536` | strike | in subsection (b)(3)(A) by striking “or its critical habitat”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1539` | replace | by striking “; and” and all that follows through the end of the sentence and inserting a period. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1533` | add-at-end | Section 4(b)(3) (16 U.S.C. 1533(b)(3)) is amended by adding at the end of subparagraph (A) the following: “The Secretary shall not make a finding that the petition presents substantial scientific or commercial information indicating that… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1533` | redesignate | Section 4(b) (16 U.S.C. 1533(b)) is amended in paragraph (2), as redesignated by section 5(b)(2) of this Act, by adding at the end of subparagraph (A) the following: “The Secretary shall not make a finding that the petition presents subs… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | replace | in clause (i) by striking “, and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1533` | insert | in clause (ii) by inserting “and” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1533` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -798,19 +788,17 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1533` | replace | in subparagraph (A) by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | strike | by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | insert | in the matter preceding subparagraph (A), by inserting “with respect to a determination of a species to be an endangered species or a threatened species” after “any regulation”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1533` | strike | in the matter preceding clause (i), by striking “any such species should”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1533` | insert | in each of clause (i), (ii), and (iii), by inserting “any such species should” before “be”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1533` | replace | by striking the last sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1533` | replace | Section 4(d) (16 U.S.C. 1533(d)) is amended by striking so much as precedes “respect” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1533` | insert | Section 4(c) (16 U.S.C. 1533(c)) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | redesignate | by striking subsections (f) and (g) and redesignating subsections (h) and (i) as subsections (f) and (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | redesignate | by redesignating paragraph (4) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1533` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1533` | insert | by inserting “State comments.—” before the first sentence; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1534` | redesignate | by redesignating subsections (a) and (b) as subsections (j) and (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4332` | redesignate | by striking so much as precedes subsection (j), as redesignated by paragraph (1) of this section, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1533` | replace | in paragraph (3) by striking “and” after the semicolon at the end, and by inserting after paragraph (3) the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1533` | insert | by inserting “Comments.—” before the first sentence; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1533` | strike | by striking “agency’s”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1534` | redesignate | by redesignating subsections (a) and (b) as subsections (k) and (l), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4332` | redesignate | by striking so much as precedes subsection (k), as redesignated by paragraph (1) of this section, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1535` | add-at-end | Section 6 (16 U.S.C. 1535) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1534` | add-at-end | Section 5 (16 U.S.C. 1534) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1536` | redesignate | Subsection (e)(2) of section 7 (16 U.S.C. 1536) (as redesignated by section 12(d)(2) of this Act) is amended by inserting “or in an agreement under section 5(l)” after “section”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1536` | redesignate | Subsection (e)(2) of section 7 (16 U.S.C. 1536) (as redesignated by section 11(d)(2) of this Act) is amended by inserting “or in an agreement under section 5(m)” after “section”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1535` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1535` | strike | by striking “pursuant to subsection (c) of this section”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1535` | insert | by inserting “(1)” before the first sentence; | the bill quotes the text inserted but describes where it goes |
@@ -825,7 +813,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1536` | insert | by inserting “proposed” before “written statement”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1536` | replace | by striking all after the first sentence and inserting the following: “The Secretary shall consider any comment from the Federal agency and the permit or license applicant, if any, prior to issuance of the final written statement of the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1536` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1536` | insert | by inserting “(A)” after “(4)”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1536` | insert | by inserting “(A)” after “(4)”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1536` | replace | by striking “the Secretary shall provide” and all that follows through “with a written statement that—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1536` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1536` | strike | by striking “(1)”; | the bill quotes the text struck but describes what replaces it |
@@ -837,7 +825,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1539` | redesignate | in subparagraph (A) by striking “and” after the semicolon at the end of clause (iii), by redesignating clause (iv) as clause (vii), and by inserting after clause (iii) the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1539` | redesignate | in subparagraph (B) by striking “and” after the semicolon at the end of clause (iv), by redesignating clause (v) as clause (vi), and by inserting after clause (iv) the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1539` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1539` | replace | in paragraph (1), by striking “For purposes” and all that follows through the end of the paragraph and inserting the following: “For purposes of this subsection, the term experimental population means any population (including any offspr… | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1539` | add-at-end | Section 10 (16 U.S.C. 1539) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1539` | add-at-end | Section 10 (16 U.S.C. 1539) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1539` | add-at-end | Section 10 (16 U.S.C. 1539) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 13 (consisting of amendments to other laws, which have executed) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Section 14 (relating to repeals of other laws, which have executed) is amended to read as follows: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1544` | amend | Section 18 (16 U.S.C. 1544) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -845,8 +836,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking sections 15 and 16; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 17 and 18 as sections 15 and 16, respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by adding after section 16, as so redesignated, the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to section 5 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to sections 13 through 17 and inserting the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1537` | add-at-end | The Endangered Species Act of 1973 is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1537a` | strike | in subsection (a), by striking “of the Interior (hereinafter in this section referred to as the Secretary)”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1537a` | strike | in paragraph (1), by striking “of the Interior (hereinafter in this subsection referred to as the Secretary)”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1537a` | redesignate | by striking paragraph (3) and redesignating paragraph (4) as paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -859,3 +849,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1539` | insert | by inserting after “(f)” the following: “Pre-Act parts and scrimshaw.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1539` | strike | in paragraph (2), by striking “of this Act” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1539` | insert | Section 10(g) (16 U.S.C. 1539(g)) is amended by inserting after “(g)” the following: “Burden of proof in seeking exemption or permit.—”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking the item relating to section 5 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to sections 13 through 17 and inserting the following: | the bill names no machine-readable US Code section |

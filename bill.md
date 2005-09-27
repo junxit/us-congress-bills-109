@@ -35,7 +35,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
   > - **(13)** The term “permit or license applicant” means, when used with respect to an action of a Federal agency that is subject to section 7(a) or (b), any person that has applied to such agency for a permit or license or for formal legal approval to perform an act.
 
 - **(c)** *Jeopardize the continued existence* Section 3 (16 U.S.C. 1532) is further amended by inserting after paragraph (11) the following:
-  > - **(12)** *Jeopardize the continued existence* The term “jeopardize the continued existence” means, with respect to an agency action (as that term is defined in section 7(a)(2)), that the action reasonably would be expected to significantly impede, directly or indirectly, the conservation in the long-term of the species in the wild.
+  > - **(12)** The term “jeopardize the continued existence” means, with respect to an agency action (as that term is defined in section 7(a)(2)), that the action reasonably would be expected to significantly impede, directly or indirectly, the conservation in the long-term of the species in the wild.
 
 - **(d)** *Conforming amendment* Section 7(n) (16 U.S.C. 1536(n)) is amended by striking “section 3(13)” and inserting “section 3(14)”.
 
@@ -45,14 +45,13 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
   > ## § 4. Determination of endangered species and threatened species
   >
   > - **(a)** *In general*
-  >   - **(1)**
-  >     - **(A)** The Secretary shall by regulation promulgated in accordance with subsection (b) determine whether any species is an endangered species or a threatened species because of any of the following factors:
-  >       - **(i)** The present or threatened destruction, modification, or curtailment of its habitat or range by human activities, competition from other species, drought, fire, or other catastrophic natural causes.
-  >       - **(ii)** Overutilization for commercial, recreational, scientific, or educational purposes.
-  >       - **(iii)** Disease or predation.
-  >       - **(iv)** The inadequacy of existing regulatory mechanisms, including any efforts identified pursuant to subsection (b)(1).
-  >       - **(v)** Other natural or manmade factors affecting its continued existence.
-  >     - **(B)** The Secretary shall use the authority provided by subparagraph (A) to determine any distinct population of any species of vertebrate fish or wildlife to be an endangered species or a threatened species only sparingly.
+  >   - **(1)** The Secretary shall by regulation promulgated in accordance with subsection (b) determine whether any species is an endangered species or a threatened species because of any of the following factors:
+  >     - **(A)** The present or threatened destruction, modification, or curtailment of its habitat or range by human activities, competition from other species, drought, fire, or other catastrophic natural causes.
+  >     - **(B)** Overutilization for commercial, recreational, scientific, or educational purposes.
+  >     - **(C)** Disease or predation.
+  >     - **(D)** The inadequacy of existing regulatory mechanisms, including any efforts identified pursuant to subsection (b)(1).
+  >     - **(E)** Other natural or manmade factors affecting its continued existence.
+  >   - **(2)** The Secretary shall use the authority provided by paragraph (1) to determine any distinct population of any species of vertebrate fish or wildlife to be an endangered species or a threatened species only sparingly.
 
 - **(b)** *Basis for determination* Section 4(b)(1)(A) (16 U.S.C. 1533(b)(1)(A)) is amended—
   - **(1)** by striking “best scientific and commercial data available to him” and inserting “best available scientific data”; and
@@ -71,33 +70,32 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 - **(a)** *Repeal of requirement* Section 4(a) (16 U.S.C. 1533(a)) is amended by striking paragraph (3).
 - **(b)** *Conforming amendments*
-  - **(1)** Section 3 (16 U.S.C. 1532), as amended by section 3 of this Act, is further amended by striking paragraph (5) and by redesignating paragraphs (6) through (22) in order as paragraphs (5) through (21).
-  - **(2)** Section 4(b) (16 U.S.C. 1533(b)), as otherwise amended by this Act, is further amended by striking paragraph (2), and by redesignating paragraphs (3) through (9) in order as paragraphs (2) through (8), respectively.
+  - **(1)** Section 3 (16 U.S.C. 1532), as amended by section 3 of this Act, is further amended by striking paragraph (6) and by redesignating paragraphs (7) through (22) in order as paragraphs (6) through (21).
+  - **(2)** Section 4(b) (16 U.S.C. 1533(b)), as otherwise amended by this Act, is further amended by striking paragraph (2), and by redesignating paragraphs (3) through (8) in order as paragraphs (2) through (7), respectively.
   - **(3)** Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (2), as redesignated by paragraph (2) of this subsection, by striking subparagraph (D).
   - **(4)** Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (4), as redesignated by paragraph (2) of this subsection, by striking “determination, designation, or revision referred to in subsection (a)(1) or (3)” and inserting “determination referred to in subsection (a)(1)”.
-  - **(5)** Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (6), as redesignated by paragraph (2) of this subsection, by striking “, designation,”.
-  - **(6)** Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (7), as redesignated by paragraph (2) of this subsection, by striking “; and if such regulation” and all that follows through the end of the sentence and inserting a period.
-  - **(7)** Section 4(c)(1) (16 U.S.C. 1533(c)(1)) is amended—
+  - **(5)** Section 4(b) (16 U.S.C. 1533(b)) is further amended in paragraph (7), as redesignated by paragraph (2) of this subsection, by striking “; and if such regulation” and all that follows through the end of the sentence and inserting a period.
+  - **(6)** Section 4(c)(1) (16 U.S.C. 1533(c)(1)) is amended—
     - **(A)** in the second sentence—
       - **(i)** by inserting “and” after “if any”; and
-      - **(ii)** by striking “and specify any” and all that follows through the end of the sentence and inserting a period; and
+      - **(ii)** by striking “, and specify any” and all that follows through the end of the sentence and inserting a period; and
     - **(B)** in the third sentence by striking “, designations,”.
-  - **(8)** Section 5 (16 U.S.C. 1534), as amended by section 10(a)(3) of this Act, is further amended in subsection (i)(2) by striking “section 4(b)(7)” and inserting “section 4(b)(6)”.
-  - **(9)** Section 6(c) (16 U.S.C. 1535(c)), as amended by section 11(1) of this Act, is further amended in paragraph (3) by striking “section 4(b)(3)(B)(iii)” each place it appears and inserting “section 4(b)(2)(B)(iii)”.
-  - **(10)** Section 7 (16 U.S.C. 1536) is amended—
-    - **(A)** in subsection (a)(2) in the second sentence by striking “or result in the destruction or modification of any habitat of such species” and all that follows through the end of the sentence and inserting a period;
+  - **(7)** Section 5 (16 U.S.C. 1534), as amended by section 9(a)(3) of this Act, is further amended in subsection (j)(2) by striking “section 4(b)(7)” and inserting “section 4(b)(6)”.
+  - **(8)** Section 6(c) (16 U.S.C. 1535(c)), as amended by section 10(1) of this Act, is further amended in paragraph (3) by striking “section 4(b)(3)(B)(iii)” each place it appears and inserting “section 4(b)(2)(B)(iii)”.
+  - **(9)** Section 7 (16 U.S.C. 1536) is amended—
+    - **(A)** in subsection (a)(2) in the first sentence by striking “or result in the destruction or adverse modification of any habitat of such species” and all that follows through the end of the sentence and inserting a period;
     - **(B)** in subsection (a)(4) in the first sentence by striking “or result” and all that follows through the end of the sentence and inserting a period; and
     - **(C)** in subsection (b)(3)(A) by striking “or its critical habitat”.
-  - **(11)** Section 10(j)(2)(C)) (16 U.S.C. 1539(j)(2)(C)), as amended by section 13(c) of this Act, is further amended—
+  - **(10)** Section 10(j)(2)(C)) (16 U.S.C. 1539(j)(2)(C)), as amended by section 12(c) of this Act, is further amended—
     - **(A)** by striking “that—” and all that follows through “(i) solely” and inserting “that solely”; and
     - **(B)** by striking “; and” and all that follows through the end of the sentence and inserting a period.
 
 ## § 6. Petitions and procedures for determinations and revisions
 
-- **(a)** *Treatment of petitions* Section 4(b)(3) (16 U.S.C. 1533(b)(3)) is amended by adding at the end of subparagraph (A) the following: “The Secretary shall not make a finding that the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted unless the petitioner provides to the Secretary a copy of all information cited in the petition.”
+- **(a)** *Treatment of petitions* Section 4(b) (16 U.S.C. 1533(b)) is amended in paragraph (2), as redesignated by section 5(b)(2) of this Act, by adding at the end of subparagraph (A) the following: “The Secretary shall not make a finding that the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted unless the petitioner provides to the Secretary a copy of all information cited in the petition.”
 - **(b)** *Implementing regulations*
   - **(1)** *Proposed regulations* Section 4(b) (16 U.S.C. 1533(b)) is amended—
-    - **(A)** in paragraph (5)(A)—
+    - **(A)** in paragraph (4)(A), as redesignated by section 5(b)(2) of this Act—
       - **(i)** in clause (i) by striking “, and” and inserting a semicolon;
       - **(ii)** in clause (ii) by striking “to the State agency in” and inserting “to the Governor of, and the State agency in,”;
       - **(iii)** in clause (ii) by striking “such agency” and inserting “such Governor or agency”;
@@ -106,11 +104,11 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
         > - **(iii)** maintain, and shall make available, a complete record of all information concerning the determination or revision in the possession of the Secretary, on a publicly accessible website on the Internet, including an index to such information.
 
     - **(B)** by adding at the end the following:
-      > - **(9)**
+      > - **(8)**
       >   - **(A)** Information maintained and made available under paragraph (5)(A)(iii) shall include any status review, all information cited in such a status review, all information referred to in the proposed regulation and the preamble to the proposed regulation, and all information submitted to the Secretary by third parties.
-      >   - **(B)** The Secretary shall withhold from public review under paragraph (5)(A)(iii) any information that may be withheld under 552 of title 5, United States Code
+      >   - **(B)** The Secretary shall withhold from public review under paragraph (5)(A)(iii) any information that may be withheld under 552 of title 5, United States Code.
 
-  - **(2)** *Final regulations* Section 4(b)(6) (16 U.S.C. 1533(b)(6)) is amended—
+  - **(2)** *Final regulations* Paragraph (5) of section 4(b) (16 U.S.C. 1533(b)), as amended by section 5(b)(2) of this Act, is further amended—
     - **(A)** in subparagraph (A) by striking clauses (i) and (ii) and inserting the following:
       > - **(i)** a final regulation to implement such a determination of whether a species is an endangered species or a threatened species;
       > - **(ii)** notice that such one-year period is being extended under subparagraph (B)(i); or
@@ -119,35 +117,21 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(B)** in subparagraph (B)(i) by striking “subparagraph (A)(i)” and inserting “subparagraph (A)”;
     - **(C)** in subparagraph (B)(ii) by striking “subparagraph (A)(i)” and inserting “subparagraph (A)”; and
     - **(D)** by striking subparagraph (C).
-  - **(3)** *Emergency determinations* Section 4(b)(7) (16 U.S.C. 1533(b)(7)) is amended—
+  - **(3)** *Emergency determinations* Paragraph (6) of section 4(b) (16 U.S.C. 1533(b)), as redesignated by section 5(b)(2) of this Act, is further amended—
     - **(A)** in the matter preceding subparagraph (A), by inserting “with respect to a determination of a species to be an endangered species or a threatened species” after “any regulation”; and
     - **(B)** in subparagraph (B), by striking “the State agency in” and inserting “the Governor of, and State agency in,”.
 
 ## § 7. Reviews of listings and determinations
 
-Section 4(c) (16 U.S.C. 1533(c)) is amended in paragraph (2)—
+Section 4(c) (16 U.S.C. 1533(c)) is amended by inserting at the end the following:
 
-- **(1)** in subparagraph (B)—
-  - **(A)** in the matter preceding clause (i), by striking “any such species should”; and
-  - **(B)** in each of clause (i), (ii), and (iii), by inserting “any such species should” before “be”; and
-- **(2)** by striking the last sentence and inserting the following:
-  > - **(3)** Each determination under paragraph (2)(B) shall consider one of the following:
-  >   - **(A)** Except as provided in subparagraph (B) of this paragraph, the criteria in the recovery plan for the species required by section 5(c)(1)(A) or (B).
-  >   - **(B)** If the recovery plan is issued before the criteria required under section 5(c)(1)(A) and (B) are established or if no recovery plan exists for the species, the factors for determination that a species is an endangered species or a threatened species set forth in subsections (a)(1)(A) and (b)(1).
-  >   - **(C)** A finding of fundamental error in the determination that the species is an endangered species, a threatened species, or extinct.
-  >   - **(D)** A determination that the species is no longer an endangered species or threatened species or in danger of extinction, based on an analysis of the factors that are the basis for listing under section 4(a)(1).
+> - **(3)** Each determination under paragraph (2)(B) shall consider one of the following:
+>   - **(A)** Except as provided in subparagraph (B) of this paragraph, the criteria in the recovery plan for the species required by section 5(c)(1)(A) or (B).
+>   - **(B)** If the recovery plan is issued before the criteria required under section 5(c)(1)(A) and (B) are established or if no recovery plan exists for the species, the factors for determination that a species is an endangered species or a threatened species set forth in subsections (a)(1) and (b)(1).
+>   - **(C)** A finding of fundamental error in the determination that the species is an endangered species, a threatened species, or extinct.
+>   - **(D)** A determination that the species is no longer an endangered species or threatened species or in danger of extinction, based on an analysis of the factors that are the basis for listing under section 4(a)(1).
 
-## § 8. Protective regulations
-
-Section 4(d) (16 U.S.C. 1533(d)) is amended by striking so much as precedes “respect” and inserting the following:
-
-> - **(d)** *Protective regulations*
->   - **(1)** Whenever any species is determined to be a threatened species pursuant to subsection (a)(1), the Secretary may, by regulation published on or after the date of publication of the rule implementing the determination, prohibit with respect to the threatened species any act prohibited under section 9(a)(1) in the case of fish or wildlife, or section 9(a)(2) in the case of plants, with respect to endangered species.
->   - **(2)** Each regulation published under this subsection shall be accompanied with a statement by the Secretary of the reason or reasons for applying any particular prohibition to the threatened species.
->   - **(3)** A regulation issued under this subsection may apply to more than one threatened species only if the specific threats to, and specific biological conditions and needs of, the species are identical, or sufficiently similar, to warrant the application of identical prohibitions.
->   - **(4)** With
-
-## § 9. Secretarial guidelines; State comments
+## § 8. Secretarial guidelines; State comments
 
 Section 4 (16 U.S.C. 1533) is amended—
 
@@ -156,23 +140,23 @@ Section 4 (16 U.S.C. 1533) is amended—
   - **(A)** in the heading by striking “Agency” and inserting “Secretarial”;
   - **(B)** in the matter preceding paragraph (1), by striking “the purposes of this section are achieved” and inserting “this section is implemented”;
   - **(C)** by redesignating paragraph (4) as paragraph (5);
-  - **(D)** by inserting after paragraph (3) the following:
+  - **(D)** in paragraph (3) by striking “and” after the semicolon at the end, and by inserting after paragraph (3) the following:
     > - **(4)** the criteria for determining best available scientific data pursuant to section 3(2); and
 
-  - **(E)** in paragraph (5), as redesignated by subparagraph (C) of this paragraph, by striking “subsection (f) of this section” and inserting “section 5”;
+  - **(E)** in paragraph (5), as redesignated by subparagraph (C) of this paragraph, by striking “subsection (f) of this section” and inserting “section 5”; and
 - **(3)** in subsection (g), as redesignated by paragraph (1) of this section—
-  - **(A)** by inserting “State comments.—” before the first sentence;
-  - **(B)** by striking “a State agency” the first place it appears and inserting “a Governor or a State agency”;
-  - **(C)** by striking “a State agency” the second place it appears and inserting “a Governor or a State agency”;
-  - **(D)** by striking “the State agency” and inserting “the Governor or the State agency”; and
-  - **(E)** by striking “the agency’s” and inserting “the Governor’s or the State agency’s”.
+  - **(A)** by inserting “Comments.—” before the first sentence;
+  - **(B)** by striking “a State agency” the first place it appears and inserting “a Governor, State agency, county (or equivalent jurisdiction), or unit of local government”;
+  - **(C)** by striking “a State agency” the second place it appears and inserting “a Governor, State agency, county (or equivalent jurisdiction), or unit of local government”;
+  - **(D)** by striking “the State agency” and inserting “the Governor, State agency, county (or equivalent jurisdiction), or unit of local government, respectively”; and
+  - **(E)** by striking “agency’s”.
 
-## § 10. Recovery plans and land acquisitions
+## § 9. Recovery plans and land acquisitions
 
 - **(a)** *In general* Section 5 (16 U.S.C. 1534) is amended—
-  - **(1)** by redesignating subsections (a) and (b) as subsections (j) and (k), respectively;
-  - **(2)** in subsection (k), as redesignated by paragraph (1) of this section, by striking “subsection (a) of this section” and inserting “subsection (j)”; and
-  - **(3)** by striking so much as precedes subsection (j), as redesignated by paragraph (1) of this section, and inserting the following:
+  - **(1)** by redesignating subsections (a) and (b) as subsections (k) and (l), respectively;
+  - **(2)** in subsection (l), as redesignated by paragraph (1) of this section, by striking “subsection (a) of this section” and inserting “subsection (k)”; and
+  - **(3)** by striking so much as precedes subsection (k), as redesignated by paragraph (1) of this section, and inserting the following:
     > ## § 5. Recovery plans and land acquisition
     >
     > - **(a)** *Recovery plans* The Secretary shall, in accordance with this section, develop and implement a plan (in this subsection referred to as a “recovery plan”) for the species determined under section 4(a)(1) to be an endangered species or a threatened species, unless the Secretary finds that such a plan will not promote the conservation and survival of the species.
@@ -189,6 +173,7 @@ Section 4 (16 U.S.C. 1533) is amended—
     >     - **(C)**
     >       - **(i)** The Secretary shall, to the maximum extent practicable, adhere to the list and tentative schedule published under subparagraph (A)(ii) in developing or revising recovery plans pursuant to this paragraph.
     >       - **(ii)** The Secretary shall provide the reasons for any deviation from the list and tentative schedule published under subparagraph (A)(ii), in each report to the Congress under subsection (e).
+    >   - **(4)** The Secretary, using the priority ranking system required under paragraph (3), shall prepare or revise such plans within 10 years after the date of the enactment of the Threatened and Endangered Species Recovery Act of 2005.
     > - **(c)** *Plan contents*
     >   - **(1)**
     >     - **(A)** Except as provided in subparagraph (E), a recovery plan shall be based on the best available scientific data and shall include the following:
@@ -225,24 +210,29 @@ Section 4 (16 U.S.C. 1533) is amended—
     >     - **(B)** for each species, a measurement of the degree of confidence in the reported status of such species, based upon a quantifiable parameter developed for such purposes.
     > - **(f)** *Public notice and comment* The Secretary shall, prior to final approval of a new or revised recovery plan, provide public notice and an opportunity for public review and comment on such plan. The Secretary shall consider all information presented during the public comment period prior to approval of the plan.
     > - **(g)** *State comment* The Secretary shall, prior to final approval of a new or revised recovery plan, provide a draft of such plan and an opportunity to comment on such draft to the Governor of, and State agency in, any State to which such draft would apply. The Secretary shall include in the final recovery plan the Secretary’s response to the comments of the Governor and the State agency.
-    > - **(h)** *Use of plans*
+    > - **(h)** *Consultation to ensure consistency with development plan*
+    >   - **(1)** The Secretary shall, prior to final approval of a new or revised recovery plan, consult with any pertinent State, Indian tribe, or regional or local land use agency or its designee.
+    >   - **(2)** For purposes of this Act, the term “Indian tribe” means—
+    >     - **(A)** with respect to the 48 contiguous States, any federally recognized Indian tribe, organized band, pueblo, or community; and
+    >     - **(B)** with respect to Alaska, the Metlakatla Indian Community.
+    > - **(i)** *Use of plans*
     >   - **(1)** Each Federal agency shall consider any relevant best available scientific data contained in a recovery plan in any analysis conducted under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
     >   - **(2)**
     >     - **(A)**
     >       - **(i)** The head of any Federal agency may enter into an agreement with the Secretary specifying the measures the agency will carry out to implement a recovery plan.
     >       - **(ii)** Each such agreement shall be published in draft form with notice and an opportunity for public comment.
     >       - **(iii)** Each such final agreement shall be published, with responses by the head of the Federal agency to any public comments submitted on the draft agreement.
-    >     - **(B)** Nothing in a recovery plan shall be construed to establish regulatory requirements or otherwise to have an effect other than as nonbinding guidance, except with respect to any program or project covered by an implementation agreement under this paragraph.
-    > - **(i)** *Monitoring*
+    >     - **(B)** Nothing in a recovery plan shall be construed to establish regulatory requirements.
+    > - **(j)** *Monitoring*
     >   - **(1)** The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species that have recovered to the point at which the measures provided pursuant to this Act are no longer necessary and that, in accordance with this section, have been removed from the lists published under section 4(c).
     >   - **(2)** The Secretary shall make prompt use of the authority under section 4(b)(7) to prevent a significant risk to the well-being of any such recovered species.
 
 - **(b)** *Recovery plans for species occupying more than one State* Section 6 (16 U.S.C. 1535) is amended by adding at the end the following:
   > - **(j)** *Recovery plans for species occupying more than one State* Any recovery plan under section 5 for an endangered species or a threatened species that occupies more than one State shall identify criteria and actions pursuant to subsection (c)(1) of section 5 for each State that are necessary so that the State may pursue a determination that the portion of the species found in that State may be removed from lists published under section 4(c).
 
-- **(c)** *Species recovery agreements and species conservation contract agreements*
+- **(c)** *Threatened and endangered species incentives program*
   - **(1)** *Agreements authorized* Section 5 (16 U.S.C. 1534) is further amended by adding at the end the following:
-    > - **(l)** *Species recovery agreements and species conservation contract agreements*
+    > - **(m)** *Threatened and endangered species incentives program*
     >   - **(1)** The Secretary may enter into species recovery agreements pursuant to paragraph (2) and species conservation contract agreements pursuant to paragraph (3) with persons, other than agencies or departments of the Federal Government or State governments, under which the Secretary is obligated, subject to the availability of appropriations, to make annual payments or provide other compensation to the persons to implement the agreements.
     >   - **(2)**
     >     - **(A)** The Secretary and persons who own or control the use of private land may enter into species recovery agreements with a term of not less than 5 years that meet the criteria set forth in subparagraph (B) and are in accordance with the priority established in subparagraph (C).
@@ -272,8 +262,8 @@ Section 4 (16 U.S.C. 1533) is amended—
     >       - **(ii)** shall specify such a management plan that includes—
     >         - **(I)** identification of the covered species;
     >         - **(II)** a description in detail of the conservation practices for the covered species that the person shall undertake;
-    >         - **(III)** a description of the land to which the agreement applies; and
-    >         - **(IV)** a schedule of approximate deadlines, whether one-time or periodic, for undertaking the conservation practices described pursuant to subclause (II);
+    >         - **(III)** a description of the land to which the agreement applies;
+    >         - **(IV)** a schedule of approximate deadlines, whether one-time or periodic, for undertaking the conservation practices described pursuant to subclause (II); and
     >         - **(V)** a description of existing or future economic activities on the land to which the agreement applies that are compatible with the conservation practices described pursuant to subclause (II) and generally with conservation of the covered species;
     >       - **(iii)** shall specify the term of the agreement; and
     >       - **(iv)** shall include—
@@ -311,27 +301,32 @@ Section 4 (16 U.S.C. 1533) is amended—
     >   - **(8)** An agreement under this subsection that applies to an endangered species or threatened species shall, for the purpose of section 10(a)(4), be deemed to be a permit to enhance the propagation or survival of such species under section 10(a)(1), and a person in full compliance with the agreement shall be afforded the protection of section 10(a)(4).
     >   - **(9)** The Secretary, or any other Federal official, may not require a person to enter into an agreement under this subsection as a term or condition of any right, privilege, or benefit, or of any action or refraining from any action, under this Act.
 
-  - **(2)** Subsection (e)(2) of section 7 (16 U.S.C. 1536) (as redesignated by section 12(d)(2) of this Act) is amended by inserting “or in an agreement under section 5(l)” after “section”.
+  - **(2)** Subsection (e)(2) of section 7 (16 U.S.C. 1536) (as redesignated by section 11(d)(2) of this Act) is amended by inserting “or in an agreement under section 5(m)” after “section”.
 - **(d)** *Conforming amendments*
-  - **(1)** Section 6(d)(1) (16 U.S.C. 1535(d)(1)) is amended by striking “section 4(g)” and inserting “section 5(i)”.
+  - **(1)** Section 6(d)(1) (16 U.S.C. 1535(d)(1)) is amended by striking “section 4(g)” and inserting “section 5(j)”.
   - **(2)** The Marine Mammal Protection Act of 1972 is amended—
-    - **(A)** in section 104(c)(4)(ii) (16 U.S.C. 1374(c)(4)(A)(ii)) by striking “section 4(f)” and inserting “section 5”; and
+    - **(A)** in section 104(c)(4)(A)(ii) (16 U.S.C. 1374(c)(4)(A)(ii)) by striking “section 4(f)” and inserting “section 5”; and
     - **(B)** in section 115(b)(2) (16 U.S.C. 1383b(b)(2)) by striking “section 4(f) of the Endangered Species Act of 1973 (16 U.S.C. 1533(f))” and inserting “section 5 of the Endangered Species Act of 1973”.
 
-## § 11. Cooperation with States
+## § 10. Cooperation with States and Indian tribes
 
-Section 6 (16 U.S.C. 1535) is amended—
+Section 6 (16 U.S.C. 1535) is further amended—
 
 - **(1)** in subsection (c), by adding at the end the following:
   > - **(3)**
   >   - **(A)** Any cooperative agreement entered into by the Secretary under this subsection may also provide for development of a program for conservation of species determined to be candidate species pursuant to section 4(b)(3)(B)(iii) or any other species that the State and the Secretary agree is at risk of being determined to be an endangered species or threatened species under section 4(a)(1) in that State. Upon completion of consultation on the agreement pursuant to subsection (e)(2), any incidental take statement issued on the agreement shall apply to any such species, and to the State and any landowners enrolled in any program under the agreement, without further consultation (except any additional consultation pursuant to subsection (e)(2)) if the species is subsequently determined to be an endangered species or a threatened species and the agreement remains an adequate and active program for the conservation of endangered species and threatened species.
-  >   - **(B)** Any cooperative agreement entered into by the Secretary under this subsection may also provide for monitoring or assistance in monitoring the status of candidate species pursuant to section 4(b)(3)(C)(iii) or recovered species pursuant to section 5(i).
+  >   - **(B)** Any cooperative agreement entered into by the Secretary under this subsection may also provide for monitoring or assistance in monitoring the status of candidate species pursuant to section 4(b)(3)(C)(iii) or recovered species pursuant to section 5(j).
   >   - **(C)** The Secretary shall periodically review each cooperative agreement under this subsection and seek to make changes the Secretary considers necessary for the conservation of endangered species and threatened species to which the agreement applies.
   > - **(4)** Any cooperative agreement entered into by the Secretary under this subsection that provides for the enrollment of private lands or water rights in any program established by the agreement shall ensure that the decision to enroll is voluntary for each owner of such lands or water rights.
+  > - **(5)**
+  >   - **(A)** The Secretary may enter into a cooperative agreement under this subsection with an Indian tribe in substantially the same manner in which the Secretary may enter into a cooperative agreement with a State.
+  >   - **(B)** For the purposes of this paragraph, the term “Indian tribe” means—
+  >     - **(i)** with respect to the 48 contiguous States, any federally recognized Indian tribe, organized band, pueblo, or community; and
+  >     - **(ii)** with respect to Alaska, the Metlakatla Indian Community.
 
 - **(2)** in subsection (d)(1)—
   - **(A)** by striking “pursuant to subsection (c) of this section”;
-  - **(B)** by striking “or to assist” and all that follows through “section 4(g)” and inserting “pursuant to subsection (c)(1) and (2) or to address candidate species or other species at risk and recovered species pursuant to subsection (c)(3)”; and
+  - **(B)** by striking “or to assist” and all that follows through “section 5(j)” and inserting “pursuant to subsection (c)(1) and (2) or to address candidate species or other species at risk and recovered species pursuant to subsection (c)(3)”; and
   - **(C)** in subparagraph (F), by striking “monitoring the status of candidate species” and inserting “developing a conservation program for, or monitoring the status of, candidate species or other species determined to be at risk pursuant to subsection (c)(3)”; and
 - **(3)** in subsection (e)—
   - **(A)** by inserting “(1)” before the first sentence;
@@ -349,7 +344,7 @@ Section 6 (16 U.S.C. 1535) is amended—
     >   - **(A)** as result of the procedures of section 7(a)(2) through (d) undertaken pursuant to paragraph (2) of this subsection, the Secretary determines that continued implementation of the cooperative agreement is likely to jeopardize the continued existence of endangered species or threatened species, and the cooperative agreement is not amended or revised to incorporate a reasonable and prudent alternative offered by the Secretary pursuant to section 7(b)(3); or
     >   - **(B)** the cooperative agreement has been suspended under paragraph (3) of this subsection and has not been amended or revised and found by the Secretary to constitute an adequate and active program for the conservation of endangered species and threatened species within 180 days after the date of the suspension.
 
-## § 12. Interagency cooperation and consultation
+## § 11. Interagency cooperation and consultation
 
 - **(a)** *Consultation requirement* Section 7(a) (16 U.S.C. 1536(a)) is amended—
   - **(1)** in paragraph (1) in the second sentence, by striking “endangered species” and all that follows through the end of the sentence and inserting “species determined to be endangered species and threatened species under section 4.”;
@@ -361,7 +356,7 @@ Section 6 (16 U.S.C. 1535) is amended—
       > - **(B)** The Secretary may identify specific agency actions or categories of agency actions that may be determined to meet the standards of this paragraph by alternative procedures to the procedures set forth in this subsection and subsections (b) through (d), except that subsections (b)(4) and (e) may apply only to an action that the Secretary finds, or concurs, does meet such standards, and the Secretary shall suggest, or concur in any suggested, reasonable and prudent alternatives described in subsection (b)(3) for any action determined not to meet such standards. Any such agency action or category of agency actions shall be identified, and any such alternative procedures shall be established, by regulation promulgated prior or subsequent to the date of the enactment of this Act.
 
   - **(3)** in paragraph (4)—
-    - **(A)** by striking “listed under section 4” and inserting “an endangered species or a threatened species,”; and
+    - **(A)** by striking “listed under section 4” and inserting “an endangered species or a threatened species”; and
     - **(B)** by inserting “, under section 4” after “such species”; and
   - **(4)** by adding at the end the following:
     > - **(5)** Any Federal agency or the Secretary, in conducting any analysis pursuant to paragraph (2), shall consider only the effects of any agency action that are distinct from a baseline of all effects upon the relevant species that have occurred or are occurring prior to the action.
@@ -377,7 +372,7 @@ Section 6 (16 U.S.C. 1535) is amended—
     - **(B)** by striking all after the first sentence and inserting the following: “The Secretary shall consider any comment from the Federal agency and the permit or license applicant, if any, prior to issuance of the final written statement of the Secretary’s opinion. The Secretary shall issue the final written statement of the Secretary’s opinion by providing the written statement to the Federal agency and the permit or license applicant, if any, and publishing notice of the written statement in the Federal Register. If jeopardy is found, the Secretary shall suggest in the final written statement those reasonable and prudent alternatives, if any, that the Secretary believes would not violate subsection (a)(2) and can be taken by the Federal agency or applicant in implementing the agency action. The Secretary shall cooperate with the Federal agency and any permit or license applicant in the preparation of any suggested reasonable and prudent alternatives.”;
   - **(4)** in paragraph (4)—
     - **(A)** by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively;
-    - **(B)** by inserting “(A)” after “(4)”;
+    - **(B)** by inserting “(A)” after “(4)”; and
     - **(C)** by striking “the Secretary shall provide” and all that follows through “with a written statement that—” and inserting the following:
       > the Secretary shall include in the written statement under paragraph (3), a statement described in subparagraph (B) of this paragraph.
       > - **(B)** A statement described in this subparagraph—
@@ -404,13 +399,13 @@ Section 6 (16 U.S.C. 1535) is amended—
     - **(A)** in the first sentence, by striking “is authorized” and all that follows through “of this section” and inserting “may exempt an agency action from compliance with the requirements of subsections (a) through (d) of this section before the initiation of such agency action,”; and
     - **(B)** by striking the second sentence.
 
-## § 13. Exceptions to prohibitions
+## § 12. Exceptions to prohibitions
 
 - **(a)** *Incidental take permits* Section 10(a)(2) (16 U.S.C. 1539(a)(2)) is amended—
   - **(1)** in subparagraph (A) by striking “and” after the semicolon at the end of clause (iii), by redesignating clause (iv) as clause (vii), and by inserting after clause (iii) the following:
-    > - **(iv)** objective, measurable biological goals to be achieved for species covered by the plan and specific measures for achieving such goals;
-    > - **(v)** measures the applicant will take to monitor impacts of the plan on covered species and the effectiveness of the plan’s measures in achieving the plan’s biological goals; and
-    > - **(vi)** adaptive management provisions necessary to respond to all reasonably foreseeable changes in circumstances that could appreciably reduce the likelihood of the survival and recovery of any species covered by the plan
+    > - **(iv)** objective, measurable biological goals to be achieved for species covered by the plan and specific measures for achieving such goals consistent with the requirements of subparagraph (B);
+    > - **(v)** measures the applicant will take to monitor impacts of the plan on covered species and the effectiveness of the plan’s measures in achieving the plan’s biological goals;
+    > - **(vi)** adaptive management provisions necessary to respond to all reasonably foreseeable changes in circumstances that could appreciably reduce the likelihood of the survival and recovery of any species covered by the plan; and
 
   - **(2)** in subparagraph (B) by striking “and” after the semicolon at the end of clause (iv), by redesignating clause (v) as clause (vi), and by inserting after clause (iv) the following:
     > - **(v)** the term of the permit is reasonable, taking into consideration—
@@ -421,13 +416,13 @@ Section 6 (16 U.S.C. 1535) is amended—
     >   - **(V)** the scope of the plan’s adaptive management strategy; and
 
   - **(3)** by striking subparagraph (C) and inserting the following:
-    > - **(3)** Any terms and conditions offered by the Secretary pursuant to paragraph (2)(B) to reduce or offset the impacts of incidental taking shall be roughly proportional to the impact of the incidental taking specified in the conservation plan pursuant to in paragraph (2)(A)(i). In any case in which various terms and conditions are available, the terms and conditions shall be capable of successful implementation and shall be consistent with the objective of the applicant to the greatest extent possible.
+    > - **(3)** Any terms and conditions offered by the Secretary pursuant to paragraph (2)(B) to reduce or offset the impacts of incidental taking shall be roughly proportional to the impact of the incidental taking specified in the conservation plan pursuant to in paragraph (2)(A)(i). This paragraph shall not be construed to limit the authority of the Secretary to require greater than acre-for-acre mitigation where necessary to address the extent of such impacts. In any case in which various terms and conditions are available, the terms and conditions shall be capable of successful implementation and shall be consistent with the objective of the applicant to the greatest extent possible.
     > - **(4)**
     >   - **(A)** If the holder of a permit issued under this subsection for other than scientific purposes is in compliance with the terms and conditions of the permit, and any conservation plan or agreement incorporated by reference therein, the Secretary may not require the holder, without the consent of the holder, to adopt any new minimization, mitigation, or other measure with respect to any species adequately covered by the permit during the term of the permit, except as provided in subparagraphs (B) and (C) to meet circumstances that have changed subsequent to the issuance of the permit.
     >   - **(B)** For any circumstance identified in the permit or incorporated document that has changed, the Secretary may, in the absence of consent of the permit holder, require only such additional minimization, mitigation, or other measures as are already provided in the permit or incorporated document for such changed circumstance.
     >   - **(C)** For any changed circumstance not identified in the permit or incorporated document, the Secretary may, in the absence of consent of the permit holder, require only such additional minimization, mitigation, or other measures to address such changed circumstance that do not involve the commitment of any additional land, water, or financial compensation not otherwise committed, or the imposition of additional restrictions on the use of any land, water or other natural resources otherwise available for development or use, under the original terms and conditions of the permit or incorporated document.
     >   - **(D)** The Secretary shall have the burden of proof in demonstrating and documenting, with the best available scientific data, the occurrence of any changed circumstances for purposes of this paragraph.
-    >   - **(E)** Any permit described in subparagraph (A) issued before the date of the enactment of the Threatened and Endangered Species Recovery Act of 2005 that (or of which the incorporated agreement) contains provisions that do not materially differ in effect from the terms of this paragraph shall be governed by this paragraph. Any regulations promulgated prior to such date that do not materially differ in effect from the terms of this paragraph shall remain in effect unless and until they are amended.
+    >   - **(E)** All permits issued under this subsection on or after the date of the enactment of the Threatened and Endangered Species Recovery Act of 2005, other than permits for scientific purposes, shall contain the assurances contained in subparagraphs (B) through (D) of this paragraph and paragraph (5)(A) and (B). Permits issued under this subsection on or after March 25, 1998, and before the date of the enactment of the Threatened and Endangered Species Recovery Act of 2005, other than permits for scientific purposes, shall be governed by the applicable sections of parts 17.22(b), (c), and (d), and 17.32(b), (c), and (d) of title 50, Code of Federal Regulations, as the same exist on the date of the enactment of the Threatened and Endangered Species Act of 2005.
     > - **(5)**
     >   - **(A)** The Secretary shall revoke a permit issued under paragraph (2) if the Secretary finds that the permittee is not complying with the terms and conditions of the permit.
     >   - **(B)** Any permit subject to paragraph (4)(A) may be revoked due to changed circumstances only if—
@@ -437,30 +432,46 @@ Section 6 (16 U.S.C. 1535) is amended—
 
 - **(b)** *Extension of period for public review and comment on applications* Section 10(c) (16 U.S.C. 1539(c)) is amended in the second sentence by striking “thirty” each place it appears and inserting “45”.
 - **(c)** *Experimental populations* Section 10(j) (16 U.S.C. 1539(j)) is amended—
-  - **(1)** in paragraph (2)(B), by striking “information” and inserting “scientific data”; and
-  - **(2)** in paragraph (2)(C)(i), by striking “listed” and inserting “determined to be an endangered species or a threatened species”.
+  - **(1)** in paragraph (1), by striking “For purposes” and all that follows through the end of the paragraph and inserting the following: “For purposes of this subsection, the term “experimental population” means any population (including any offspring arising therefrom) authorized by the Secretary for release under paragraph (2), but only when such population is in the area designated for it by the Secretary, and such area is, at the time of release, wholly separate geographically from areas occupied by nonexperimental populations of the same species. For purposes of this subsection, the term ‘areas occupied by nonexperimental populations’ means areas characterized by the sustained and predictable presence of more than negligible numbers of successfully reproducing individuals over a period of many years.”;
+  - **(2)** in paragraph (2)(B), by striking “information” and inserting “scientific data”; and
+  - **(3)** in paragraph (2)(C)(i), by striking “listed” and inserting “determined to be an endangered species or a threatened species”.
 - **(d)** *Written determination of compliance* Section 10 (16 U.S.C. 1539) is amended by adding at the end the following:
   > - **(k)** *Written determination of compliance*
-  >   - **(1)** A property owner (in this subsection referred to as a “requester”) may request the Secretary to make a written determination that a proposed use of the owner’s property will comply with section 9(a), by submitting a written description of the proposed action to the Secretary.
+  >   - **(1)** A property owner (in this subsection referred to as a “requester”) may request the Secretary to make a written determination that a proposed use of the owner’s property that is lawful under State and local law will comply with section 9(a), by submitting a written description of the proposed action to the Secretary by certified mail.
   >   - **(2)** A written description of a proposed use is deemed to be sufficient for consideration by the Secretary under paragraph (1) if the description includes—
-  >     - **(A)** the nature, the specific location, and the anticipated schedule and duration of the proposed use; and
-  >     - **(B)** any incidental take of a species that is included on a list published under 4(c)(1) that the requestor reasonably expects to occur as a result of the proposed use.
-  >   - **(3)** The requestor may supply any other information the requestor believes will assist the Secretary to make a determination under paragraph (1).
+  >     - **(A)** the nature, the specific location, the lawfulness under State and local law, and the anticipated schedule and duration of the proposed use, and a demonstration that the property owner has the means to undertake the proposed use; and
+  >     - **(B)** any anticipated adverse impact to a species that is included on a list published under 4(c)(1) that the requestor reasonably expects to occur as a result of the proposed use.
+  >   - **(3)** The Secretary may request and the requestor may supply any other information that either believes will assist the Secretary to make a determination under paragraph (1).
   >   - **(4)** If the Secretary does not make a determination pursuant to a request under this subsection because of the omission from the request of any information described in paragraph (2), the requestor may submit a subsequent request under this subsection for the same proposed use.
   >   - **(5)**
-  >     - **(A)** Subject to subparagraph (B), the Secretary shall provide to the requestor a written determination of whether the proposed use, as proposed by the requestor, will comply with section 9(a), by not later than expiration of the 90-day period beginning on the date of the submission of the request.
+  >     - **(A)** Subject to subparagraph (B), the Secretary shall provide to the requestor a written determination of whether the proposed use, as proposed by the requestor, will comply with section 9(a), by not later than expiration of the 180-day period beginning on the date of the submission of the request.
   >     - **(B)** The Secretary may request, and the requestor may grant, a written extension of the period under subparagraph (A).
   >   - **(6)** If the Secretary fails to provide a written determination before the expiration of the period under paragraph (5)(A) (or any extension thereof under paragraph (5)(B)), the Secretary is deemed to have determined that the proposed use complies with section 9(a).
   >   - **(7)** This subsection shall not apply with respect to agency actions that are subject to consultation under section 7.
   >   - **(8)** Any use or action taken by the property owner in reasonable reliance on a written determination of compliance under paragraph (5) or on the application of paragraph (6) shall not be treated as a violation of section 9(a).
+  >   - **(9)** Any determination of compliance under this subsection shall remain effective—
+  >     - **(A)** in the case of a written determination provided under paragraph (5)(A), for the 10-year period beginning on the date the written determination is provided; or
+  >     - **(B)** in the case of a determination that under paragraph (6) the Secretary is deemed to have made, the 5-year period beginning on the first date the Secretary is deemed to have made the determination.
+  >   - **(10)** The Secretary may withdraw a determination of compliance under this section only if the Secretary determines that, because of unforeseen changed circumstances, the continuation of the use to which the determination applies would preclude conservation measures essential to the survival of any endangered species or threatened species. Such a withdrawal shall take effect 10 days after the date the Secretary provides notice of the withdrawal to the requester.
+  >   - **(11)** The Secretary may extend the period that applies under paragraph (5) by up to 180 days if seasonal considerations make a determination impossible within the period that would otherwise apply.
 
-## § 14. Private property conservation
+- **(e)** *National security exemption* Section 10 (16 U.S.C. 1539) is further amended by adding at the end the following:
+  > - **(l)** *National security* The President, after consultation with the appropriate Federal agency, may exempt any act or omission from the provisions of this Act if such exemption is necessary for national security.
+
+- **(f)** *Disaster declaration and protection* Section 10 (16 U.S.C. 1539) is further amended by adding at the end the following:
+  > - **(m)** *Disaster declaration and protection*
+  >   - **(1)** The President may suspend the application of any provision of this Act in any area for which a major disaster is declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+  >   - **(2)** The Secretary shall, within one year after the date of the enactment of the Threatened and Endangered Species Recovery Act of 2005, promulgate regulations regarding application of this Act in the event of an emergency (including circumstances other than a major disaster referred to in paragraph (1)) involving a threat to human health or safety or to property, including regulations—
+  >     - **(A)** determining what constitutes an emergency for purposes of this paragraph; and
+  >     - **(B)** to address immediate threats through expedited consideration under or waiver of any provision of this Act.
+
+## § 13. Private property conservation
 
 Section 13 (consisting of amendments to other laws, which have executed) is amended to read as follows:
 
 > ## § 13. Private property conservation
 >
-> - **(a)** *In general* The Secretary may provide conservation grants (in this section referred to as “grants”) to promote the voluntary conservation of endangered species and threatened species by owners of private property and shall provide financial conservation assistance (in this section referred to as “aid”) to alleviate the burden of conservation measures imposed upon private property owners. The Secretary may provide technical assistance when requested to enhance the conservation effects of grants or aid.
+> - **(a)** *In general* The Secretary may provide conservation grants (in this section referred to as “grants”) to promote the voluntary conservation of endangered species and threatened species by owners of private property and shall provide financial conservation aid (in this section referred to as “aid”) to alleviate the burden of conservation measures imposed upon private property owners by this Act. The Secretary may provide technical assistance when requested to enhance the conservation effects of grants or aid.
 > - **(b)** *Awarding of grants and aid* Grants to promote conservation of endangered species and threatened species on private property—
 >   - **(1)** may not be used to fund litigation, general education, general outreach, lobbying, or solicitation;
 >   - **(2)** may not be used to acquire leases or easements of more than 50 years duration or fee title to private property;
@@ -470,21 +481,27 @@ Section 13 (consisting of amendments to other laws, which have executed) is amen
 >   - **(1)** Grants that promote conservation of endangered species or threatened species on private property while making economically beneficial and productive use of the private property on which the conservation activities are conducted.
 >   - **(2)** Grants that develop, promote, or use techniques to increase the distribution or population of an endangered species or threatened species on private property.
 >   - **(3)** Other grants that promote voluntary conservation of endangered species or threatened species on private property.
-> - **(d)** *Eligibility for aid* The Secretary shall award aid to private property owners who received a written determination under section 10(k) finding the proposed use of the private property would not comply with section 9(a), in an amount no less than the fair market value of the use that was proposed by the property owner if—
->   - **(1)** the owner has foregone the proposed use;
->   - **(2)** the owner has requested financial aid within 180 days of receiving a written determination that the proposed use would not comply with section (9)(a); and
->   - **(3)** the foregone proposed use was not, as demonstrated by the Secretary, considered a nuisance based upon long-standing background principles of nuisance and property law as understood within the State in which the property is situated.
+> - **(d)** *Eligibility for aid*
+>   - **(1)** The Secretary shall award aid to private property owners who—
+>     - **(A)** received a written determination under section 10(k) finding that the proposed use of private property would not comply with section 9(a); or
+>     - **(B)** receive notice under section 10(k)(10) that a written determination has been withdrawn.
+>   - **(2)** Aid shall be in an amount no less than the fair market value of the use that was proposed by the property owner if—
+>     - **(A)** the owner has foregone the proposed use;
+>     - **(B)** the owner has requested financial aid—
+>       - **(i)** within 180 days of the Secretary’s issuance of a written determination that the proposed use would not comply with section 9(a); or
+>       - **(ii)** within 180 days after the property owner is notified of a withdrawal under section 10(k)(10); and
+>     - **(C)** the foregone use would be lawful under State and local law and the property owner has demonstrated that the property owner has the means to undertake the proposed use.
 > - **(e)** *Distribution of grants and aid*
 >   - **(1)** The Secretary shall pay eligible aid—
->     - **(A)** within 180 days after receipt of a request for aid unless there are unresolved questions regarding fair market value; or
->     - **(B)** at the resolution of any questions concerning fair market value of the forgone proposed use of the private property.
->   - **(2)** If the Secretary and the property owner are unable to reach agreement as to fair market value within 270 days from the initial date of the request, the Secretary shall make a best and final offer.
->   - **(3)** All grants shall be paid on the last day of the fiscal year. Aid shall be paid based on the date of the initial request. If sufficient funds are unavailable to pay all aid and grants, aid shall be awarded first. If sufficient funds are not available to pay all aid, aid requests shall remain an obligation and be paid in the future without further action on the part of the property owner. If sufficient funds are not available to pay an aid award in full, the Secretary shall pay any remaining balance when funds next become available.
-> - **(f)** *Fair market value* For purposes of this section the term “fair market value” means an amount equal to the fair market value of the forgone use of the affected portion of the private property including business losses when use is forgone following a written determination by the Secretary under section 10(k) that the proposed use would violate section 9(a). The property owner shall establish the fair market value and such a fair market value shall be considered a rebuttable presumption. Ambiguities regarding fair market value shall be resolved in favor of the property owner.
-> - **(g)** *Insufficient funds* The Secretary shall pay the aid required by this section from any funds available to the Secretary that are not mandated by law to be spent for other activities or obligations. If sufficient funds are not available the Secretary shall promptly seek additional funds for such purpose.
-> - **(h)** *Annual reporting* The Secretary shall by January 15 of each year provide a report of all aid and grants awarded under this section to the Committee on Resources of the House of Representatives and the Environment and Public Works Committee of the Senate and make such report electronically available to the general public on the website required under section 14.
+>     - **(A)** within 180 days after receipt of a request for aid unless there are unresolved questions regarding the documentation of the foregone proposed use or unresolved questions regarding the fair market value; or
+>     - **(B)** at the resolution of any questions concerning the documentation of the foregone use established under subsection (f) or the fair market value established under subsection (g).
+>   - **(2)** All grants provided under this section shall be paid on the last day of the fiscal year. Aid shall be paid based on the date of the initial request.
+> - **(f)** *Documentation of the foregone use* Within 30 days of the request for aid, the Secretary shall enter into negotiations with the property owner regarding the documentation of the foregone proposed use through such mechanisms such as contract terms, lease terms, deed restrictions, easement terms, or transfer of title. If the Secretary and the property owner are unable to reach an agreement, then, within 60 days of the request for aid, the Secretary shall determine how the property owner’s foregone use shall be documented with the least impact on the ownership interests of the property owner necessary to document the foregone use.
+> - **(g)** *Fair market value* For purposes of this section, the fair market value of the foregone use of the affected portion of the private property, including business losses, is what a willing buyer would pay to a willing seller in an open market. Fair market value shall take into account the likelihood that the foregone use would be approved under State and local law. The fair market value shall be determined within 180 days of the documentation of the foregone use. The fair market value shall be determined jointly by 2 licensed independent appraisers, one selected by the Secretary and one selected by the property owner. If the 2 appraisers fail to agree on fair market value, the Secretary and the property owner shall jointly select a third licensed appraiser whose appraisal within an additional 90 days shall be binding on the Secretary and the private property owner. Within one year after the date of enactment of the Threatened and Endangered Species Recovery Act of 2005, the Secretary shall promulgate regulations regarding selection of the jointly selected appraisers under this subsection.
+> - **(h)** *Limitation on aid availability* Any person receiving aid under this section may not receive additional aid under this section for the same foregone use of the same property and for the same period of time.
+> - **(i)** *Annual reporting* The Secretary shall by January 15 of each year provide a report of all aid and grants awarded under this section to the Committee on Resources of the House of Representatives and the Environment and Public Works Committee of the Senate and make such report electronically available to the general public on the website required under section 14.
 
-## § 15. Public accessibility and accountability
+## § 14. Public accessibility and accountability
 
 Section 14 (relating to repeals of other laws, which have executed) is amended to read as follows:
 
@@ -499,7 +516,7 @@ Section 14 (relating to repeals of other laws, which have executed) is amended t
 > - **(5)** all reports required under sections 5(e) and 16, and all reports required under sections 4(f)(3) and 18 of this Act as in effect immediately before the enactment of the Threatened and Endangered Species Recovery Act of 2005; and
 > - **(6)** data contained in the reports referred to in paragraph (5) of this section, and that were produced after the date of enactment of the Threatened and Endangered Species Recovery Act of 2005, in the form of databases that may be searched by the variables included in the reports.
 
-## § 16. Annual cost analyses
+## § 15. Annual cost analyses
 
 - **(a)** *Annual cost analyses* Section 18 (16 U.S.C. 1544) is amended to read as follows:
   > ## § 18. Annual cost analysis by United States Fish and Wildlife Service
@@ -516,28 +533,34 @@ Section 14 (relating to repeals of other laws, which have executed) is amended t
 - **(b)** *Eligibility of States for financial assistance* Section 6(d) (16 U.S.C. 1535(d)) is amended by adding at the end the following:
   > - **(3)** A State shall not be eligible for financial assistance under this section for a fiscal year unless the State has provided to the Secretary for the preceding fiscal year information regarding the expenditures referred to in section 16(b)(2).
 
-## § 17. Authorization of appropriations
+## § 16. Reimbursement for depredation of livestock by reintroduced species
 
 The Endangered Species Act of 1973 is further amended—
 
 - **(1)** by striking sections 15 and 16;
 - **(2)** by redesignating sections 17 and 18 as sections 15 and 16, respectively; and
 - **(3)** by adding after section 16, as so redesignated, the following:
-  > ## § 17. Authorization of appropriations
+  > ## § 17. Reimbursement for depredation of livestock by reintroduced species
+  >
+  > - **(a)** *In general* The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, may reimburse the owner of livestock for any loss of livestock resulting from depredation by any population of a species if the population is listed under section 4(c) and includes or derives from members of the species that were reintroduced into the wild.
+  > - **(b)** *Eligibility for and amount* Eligibility for, and the amount of, reimbursement under this section shall not be conditioned on the presentation of the body of any animal for which reimbursement is sought.
+  > - **(c)** *Limitation on requirement to present body* The Secretary may not require the owner of livestock to present the body of individual livestock as a condition of payment of reimbursement under this section.
+  > - **(d)** *Use of donations* The Secretary may accept and use donations of funds to pay reimbursement under this section.
+  > - **(e)** *Availability of appropriations* The requirement to pay reimbursement under this section is subject to the availability of funds for such payments.
+
+## § 17. Authorization of appropriations
+
+- **(a)** *Authorization* The Endangered Species Act of 1973 is further amended by adding at the end the following:
+  > ## § 18. Authorization of appropriations
   >
   > - **(a)** *In general* There are authorized to be appropriated to carry out this Act, other than section 8A(e)—
   >   - **(1)** to the Secretary of the Interior to carry out functions and responsibilities of the Department of the Interior under this Act, such sums as are necessary for fiscal years 2006 through 2010; and
   >   - **(2)** to the Secretary of Agriculture to carry out functions and responsibilities of the Department of the Interior with respect to the enforcement of this Act and the convention which pertain the importation of plants, such sums as are necessary for fiscal year 2006 through 2010.
   > - **(b)** *Convention implementation* There is authorized to be appropriated to the Secretary of the Interior to carry out section 8A(e) such sums as are necessary for fiscal years 2006 through 2010.
 
-## § 18. Clerical amendment to table of contents
+- **(b)** *Conforming amendment* Section 8(a) (16 U.S.C. 1537(a)) is amended by striking “section 15” and inserting “section 18”.
 
-The table of contents in the first section is amended—
-
-- **(1)** by striking the item relating to section 5 and inserting the following:
-- **(2)** by striking the items relating to sections 13 through 17 and inserting the following:
-
-## § 19. Miscellaneous technical corrections
+## § 18. Miscellaneous technical corrections
 
 - **(a)** *International cooperation* Section 8 (16 U.S.C. 1537) is amended—
   - **(1)** in subsection (a) in the first sentence by striking “any endangered species or threatened species listed” and inserting “any species determined to be an endangered species or a threatened species”; and
@@ -545,7 +568,7 @@ The table of contents in the first section is amended—
 - **(b)** *Management authority and scientific authority* Section 8A (16 U.S.C. 1537a)) is amended—
   - **(1)** in subsection (a), by striking “of the Interior (hereinafter in this section referred to as the “Secretary”)”;
   - **(2)** in subsection (d), by striking “Merchant Marine and Fisheries” and inserting “Resources”; and
-  - **(3)** in subsection (d)—
+  - **(3)** in subsection (e)—
     - **(A)** in paragraph (1), by striking “of the Interior (hereinafter in this subsection referred to as the “Secretary”)”; and
     - **(B)** by striking paragraph (3) and redesignating paragraph (4) as paragraph (3).
 - **(c)** *Prohibited acts* Section 9 (16 U.S.C. 1538) is amended—
@@ -580,14 +603,12 @@ The table of contents in the first section is amended—
   - **(2)** in paragraph (2), by striking “of this Act” each place it appears.
 - **(g)** *Burden of proof in seeking exemption or permit* Section 10(g) (16 U.S.C. 1539(g)) is amended by inserting after “(g)” the following: “Burden of proof in seeking exemption or permit.—”.
 - **(h)** *Antique articles* Section 10(h)(1)(B) (16 U.S.C. 1539(h)(1)(B)) is amended by striking “endangered species or threatened species listed” and inserting “species determined to be an endangered species or a threatened species”.
-- **(i)** *Penalties and enforcement* Section 11 (16 U.S.C. 1540) is amended—
-  - **(1)** in subsection (d), by striking “his” and inserting “the officer’s or employee’s”; and
-  - **(2)** in subsection (e)(3), in the second sentence by striking “Such persons” and inserting “Such a person”.
+- **(i)** *Penalties and enforcement* Section 11 (16 U.S.C. 1540) is amended in subsection (e)(3), in the second sentence, by striking “Such persons” and inserting “Such a person”.
 - **(j)** *Substitution of gender-neutral references*
   - **(1)** *“Secretary” for “he”* The following provisions are amended by striking “he” each place it appears and inserting “the Secretary”:
-    - **(A)** Section 4(b)(5)(C) (16 U.S.C. 1533(b)(5)(C)).
-    - **(B)** Section 4(b)(6)(B)(ii) (16 U.S.C. 1533(b)(6)(B)(ii)).
-    - **(C)** Section 4(b)(7)(B) (16 U.S.C. 1533(b)(7)(B)).
+    - **(A)** Paragraph (4)(C) of section 4(b), as redesignated by section 5(b)(2) of this Act.
+    - **(B)** Paragraph (5)(B)(ii) of section 4(b), as redesignated by section 5(b)(2) of this Act.
+    - **(C)** Section 4(b)(7) (16 U.S.C. 1533(b)(7)), in the matter following subparagraph (B).
     - **(D)** Section 6 (16 U.S.C. 1535).
     - **(E)** Section 8(d) (16 U.S.C. 1537(d)).
     - **(F)** Section 9(f) (16 U.S.C. 1538(f)).
@@ -607,18 +628,18 @@ The table of contents in the first section is amended—
     - **(B)** Section 11(b)(3) (16 U.S.C. 1540(b)(3)).
   - **(6)** *References to “him”*
     - **(A)** Section 4(c)(1) (16 U.S.C. 1533(c)(1)) is amended by striking “him or the Secretary of Commerce” each place it appears and inserting “the Secretary”.
-    - **(B)** Section 4(b)(7) (16 U.S.C. 1533(b)(7)) is amended in the matter following subparagraph (B) by striking “him” and inserting “the Secretary”.
-    - **(C)** Section 5(j)(2), as redesignated by section 10(a)(1) of this Act, is amended by striking “him” and inserting “the Secretary”.
+    - **(B)** Paragraph (6) of section 4(b) (16 U.S.C. 1533(b)), as redesignated by section 5(b)(2) of this Act, is further amended in the matter following subparagraph (B) by striking “him” and inserting “the Secretary”.
+    - **(C)** Section 5(k)(2), as redesignated by section 9(a)(1) of this Act, is amended by striking “him” and inserting “the Secretary”.
     - **(D)** Section 7(a)(1) (16 U.S.C. 1536(a)(1)) is amended in the first sentence by striking “him” and inserting “the Secretary”.
     - **(E)** Section 8A(c)(2) (16 U.S.C. 1537a(c)(2)) is amended by striking “him” and inserting “the Secretary”.
     - **(F)** Section 9(d)(2)(A) (16 U.S.C. 1538(d)(2)(A)) is amended by striking “him” each place it appears and inserting “such person”.
     - **(G)** Section 10(b)(1) (16 U.S.C. 1539(b)(1)) is amended by striking “him” and inserting “the Secretary”.
   - **(7)** *References to “himself or herself”* Section 11 (16 U.S.C. 1540) is amended in subsections (a)(3) and (b)(3) by striking “himself or herself” each place it appears and inserting “the defendant”.
   - **(8)** *References to “his”*
-    - **(A)** Section 4(g)(1), as redesignated by section 9(1) of this Act, is amended by striking “his” and inserting “the”.
+    - **(A)** Section 4(g)(1), as redesignated by section 8(1) of this Act, is amended by striking “his” and inserting “the”.
     - **(B)** Section 6 (16 U.S.C. 1535) is amended—
       - **(i)** in subsection (d)(2) in the matter following clause (ii) by striking “his” and inserting “the Secretary’s”; and
-      - **(ii)** in subsection (e)(1), as designated by section 11(3)(A) of this Act, by striking “his periodic review” and inserting “periodic review by the Secretary”.
+      - **(ii)** in subsection (e)(1), as designated by section 10(3)(A) of this Act, by striking “his periodic review” and inserting “periodic review by the Secretary”.
     - **(C)** Section 7(a)(3) (16 U.S.C. 1536(a)(3)) is amended by striking “his” and inserting “the applicant’s”.
     - **(D)** Section 8(c)(1) (16 U.S.C. 1537(c)(1)) is amended by striking “his” and inserting “the Secretary’s”.
     - **(E)** Section 9 (16 U.S.C. 1538) is amended in subsection (d)(2)(B) and subsection (f) by striking “his” each place it appears and inserting “such person’s”.
@@ -626,7 +647,22 @@ The table of contents in the first section is amended—
     - **(G)** Section 10(d) (16 U.S.C. 1539(d)) is amended by striking “his” and inserting “the”.
     - **(H)** Section 11 (16 U.S.C. 1540) is amended—
       - **(i)** in subsection (a)(1) by striking “his” and inserting “the Secretary’s”;
-      - **(ii)** in subsection (a)(3) and (b)(3) by striking “his or her” each place it appears and inserting “the defendant’s”;
+      - **(ii)** in subsections (a)(3) and (b)(3) by striking “his or her” each place it appears and inserting “the defendant’s”;
       - **(iii)** in subsection (d) by striking “his” and inserting “the officer’s or employee’s”;
       - **(iv)** in subsection (e)(3) in the second sentence by striking “his” and inserting “the person’s”; and
       - **(v)** in subsection (g)(1) by striking “his” and inserting “the person’s”.
+
+## § 19. Clerical amendment to table of contents
+
+The table of contents in the first section is amended—
+
+- **(1)** by striking the item relating to section 5 and inserting the following:
+- **(2)** by striking the items relating to sections 13 through 17 and inserting the following:
+
+## § 20. Certain actions deemed in compliance
+
+- **(a)** *Actions deemed in compliance* During the period beginning on the date of the enactment of this Act and ending on the date described in subsection (b), any action that is taken by a Federal agency, State agency, or other person and that complies with the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.) is deemed to comply with sections 7(a)(2) and 9(a)(1)(B) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2), 1538(a)(1)(B)) (as amended by this Act) and regulations issued under section 4(d) of such Act (16 U.S.C. 1533(d)).
+- **(b)** *Termination date* The date referred to in subsection (a) is the earlier of—
+  - **(1)** the date that is 5 years after the date of the enactment of this Act; and
+  - **(2)** the date of the completion of any procedure required under subpart D of part 402 of title 50, Code of Federal Regulations, with respect to the action referred to in subsection (a).
+- **(c)** *Limitation on application* This section shall not affect any procedure pursuant to part 402 of title 50, Code of Federal Regulations, that is required by any court order issued before the date of the enactment of this Act.
