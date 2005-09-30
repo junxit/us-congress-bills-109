@@ -23,7 +23,7 @@ As used in this Act—
 ## § 3. Rules requiring mandatory testing for athletes
 
 - **(a)** *Rulemaking* Not later than 270 days after the date of enactment of this Act, the Secretary shall issue regulations requiring professional sports associations operating in interstate commerce to adopt and enforce policies and procedures for testing athletes who participate in their respective associations for the use of performance-enhancing substances. Such policies and procedures shall, at minimum, include the following:
-  - **(1)** *Timing and frequency of random testing* Each athlete shall be tested a minimum of 5 times each year that such athlete is participating in the activities organized by the professional sports association. Tests shall be conducted at random intervals throughout the entire year, during both the season of play and the off-season, and the athlete shall not be notified in advance of the test.
+  - **(1)** *Timing and frequency of random testing* Each athlete shall be tested a minimum of 5 times each year that such athlete is participating in the activities organized by the professional sports association. Tests shall be conducted at random intervals throughout the entire year, during both the season of play and the off-season, and neither the athlete, nor any member of the coaching and training staffs shall be notified in advance of the test.
   - **(2)** *Applicable substances* The Secretary, in consultation with the Director of the National Institute on Drug Abuse, shall, by rule, prescribe the substances for which each athlete shall be tested, which shall include—
     - **(A)** substances that—
       - **(i)** are determined by the World Anti-Doping Agency to be prohibited substances; and
