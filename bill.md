@@ -1,0 +1,30 @@
+---
+legis-num: S. 1823
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1823
+
+> To empower States and local governments to prosecute illegal aliens and to authorize the Secretary of Homeland Security to establish a pilot Volunteer Border Marshal Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Illegal Immigration Enforcement and Empowerment Act”.
+
+## § 2. State enforcement and empowerment
+
+- **(a)** *In general* A State or unit of local government may investigate, identify, apprehend, arrest, detain, prosecute, and impose criminal or civil penalties upon any individual who violates—
+  - **(1)** a Federal immigration law; or
+  - **(2)** a State law that is based, in part, upon the violation of Federal immigration law.
+- **(b)** *Limitation* Criminal penalties imposed under subsection (a) may not exceed the penalties authorized under section 275(a) of the Immigration and Nationality Act (8 U.S.C. 1325(a)).
+- **(c)** *Federal determination of immigration status* No penalty may be imposed upon an individual under this section unless the individual has been identified by the Federal Government as having violated a Federal immigration law.
+
+## § 3. Volunteer Border Marshal Program
+
+- **(a)** *Establishment* Not later than 90 days after the date of enactment of this Act, the Secretary of Homeland Security may establish a pilot Volunteer Border Marshal Program (referred to in this section as the “Program”).
+- **(b)** *Purpose* The purpose of the Program is to assist the Department of Homeland Security in securing the borders of the United States in a safe and orderly manner by using volunteer, State-licensed peace officers who are already well trained.
+- **(c)** *Assignments* Upon deployment, the volunteer peace officers shall be sworn in as Special United States Border Marshals and shall be assigned to the Office of Border Patrol, which shall act as the lead agency of the Program.
+- **(d)** *Rotations* The volunteer peace officers shall rotate on temporary missions along the international borders of the United States to assist the Office of Border Patrol in identifying and controlling illegal immigration and human and drug trafficking.
+- **(e)** *Definition* In this section, the term peace officer means any law enforcement agent, whether currently employed or retired, who is licensed by a State authority to enforce State or local penal offenses.
