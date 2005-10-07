@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 480
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 480
@@ -29,3 +29,9 @@ Permitting individuals to be admitted to the Hall of the House in order to obtai
 - 2005-10-06 — Introduced in House
 - 2005-10-06 — Introduced in House
 - 2005-10-06 — Referred to the House Committee on Rules.
+- 2005-10-07 — Consideration initiated pursuant to a previous order. (consideration: CR H8739)
+- 2005-10-07 — Considered pursuant to a previous order.
+- 2005-10-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-10-07 — On agreeing to the resolution Agreed to without objection. (text: CR H8739)
+- 2005-10-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8739)
+- 2005-10-07 — The previous question was ordered pursuant to a previous  order of the House. (CR H8739)
