@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Redesignation of facility
 
-The facility of the Bureau of Reclamation located at 15990 Kelso Road in Byron, California, and known as the Tracy Pumping Plant, shall be known and designated as the “C.W. “Bill” Jones Pumping Plant”.
+The facility of the Bureau of Reclamation located at 19550 Kelso Road in Byron, California, and known as the Tracy Pumping Plant, shall be known and designated as the “C.W. “Bill” Jones Pumping Plant”.
 
 ## § 2. References
 

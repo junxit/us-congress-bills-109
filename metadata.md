@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2383
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2383
@@ -16,12 +16,13 @@ To redesignate the facility of the Bureau of Reclamation located at 19550 Kelso 
 
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Doolittle, John T. [R-CA-4] (D000429)
 - Rep. Costa, Jim [D-CA-20] (C001059)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (1)
 
@@ -32,3 +33,10 @@ To redesignate the facility of the Bureau of Reclamation located at 19550 Kelso 
 - 2005-05-16 — Introduced in House
 - 2005-05-16 — Introduced in House
 - 2005-05-16 — Referred to the House Committee on Resources.
+- 2005-05-19 — Referred to the Subcommittee on Water and Power.
+- 2005-09-22 — Committee Consideration and Mark-up Session Held.
+- 2005-09-22 — Ordered to be Reported by Unanimous Consent.
+- 2005-09-22 — Subcommittee on Water and Power Discharged.
+- 2005-10-17 — Placed on the House Calendar, Calendar No. 101.
+- 2005-10-17 — Reported by the Committee on Resources. H. Rept. 109-247.
+- 2005-10-17 — Reported by the Committee on Resources. H. Rept. 109-247.
