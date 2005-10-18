@@ -1,7 +1,7 @@
 ---
 measure: H.R. 177
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 177
@@ -33,3 +33,10 @@ Santa Ana River Water Supply Enhancement Act of 2005
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Referred to the House Committee on Resources.
+- 2005-02-03 — Referred to the Subcommittee on Water and Power.
+- 2005-10-18 — Considered under suspension of the rules. (consideration: CR H8868-8869)
+- 2005-10-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 177.
+- 2005-10-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-10-18 — Mrs. Musgrave moved to suspend the rules and pass the bill, as amended.
+- 2005-10-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8868)
+- 2005-10-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8868)
