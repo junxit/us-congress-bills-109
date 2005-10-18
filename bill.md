@@ -74,11 +74,11 @@ Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq
 >     - **(A)** establish performance goals for the assistance and expresses such goals in an objective and quantifiable form, to the extent feasible;
 >     - **(B)** establish performance indicators to be used in measuring or assessing the achievement of the performance goals described in subparagraph (A); and
 >     - **(C)** provide a basis for recommendations for adjustments to the assistance to enhance the impact of assistance.
-> - **(e)** *Special advisor for assistance to vulnerable populations*
+> - **(e)** *Special advisor for assistance to orphans and vulnerable children*
 >   - **(1)** *Appointment*
->     - **(A)** *In general* The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall appoint a Special Advisor for Assistance to Vulnerable Populations.
+>     - **(A)** *In general* The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall appoint a Special Advisor for Assistance to Orphans and Vulnerable Children.
 >     - **(B)** *Delegation* At the discretion of the Secretary of State, the authority to appoint a Special Advisor under subparagraph (A) may be delegated by the Secretary of State to the Administrator of the United States Agency for International Development.
->   - **(2)** *Duties* The duties of the Special Advisor for Assistance to Vulnerable Populations shall include the following:
+>   - **(2)** *Duties* The duties of the Special Advisor for Assistance to Orphans and Vulnerable Children shall include the following:
 >     - **(A)** Coordinate assistance to orphans and other vulnerable children among the various offices, bureaus, and field missions within the United States Agency for International Development.
 >     - **(B)** Advise the various offices, bureaus, and field missions within the United States Agency for International Development to ensure that programs approved for assistance under this section are consistent with best practices, meet the requirements of this Act, and conform to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 >     - **(C)** Advise the various offices, bureaus, and field missions within the United States Agency for International Development in developing any component of their annual plan, as it relates to assistance for orphans or other vulnerable children in developing countries, to ensure that each program, project, or activity relating to such assistance is consistent with best practices, meets the requirements of this Act, and conforms to the strategy outlined in section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
@@ -88,14 +88,13 @@ Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq
 >     - **(G)** Administer the monitoring and evaluation system established in subsection (d).
 >     - **(H)** Prepare the annual report required by section 5 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005.
 > - **(f)** *Authorization of Appropriations*
->   - **(1)** *In general* There is authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2005 and 2006.
->   - **(2)** *Availability of funds* Amounts made available under paragraph (1) are authorized to remain available until expended and are in addition to amounts otherwise available for such purposes.
->   - **(3)** *Relationship to other laws* Amounts made available for assistance pursuant to this subsection, and amounts made available for such assistance pursuant to any other provision of law, may be used to provide such assistance notwithstanding any other provision of law.
+>   - **(1)** *In general* There is authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2006 and 2007.
+>   - **(2)** *Availability of funds* Amounts made available under paragraph (1) are authorized to remain available until expended.
 
 ## § 4. Strategy of the United States
 
 - **(a)** *Requirement for strategy* Not later than 180 days after the date of enactment of this Act, the President shall develop, and transmit to the appropriate congressional committees, a strategy for coordinating, implementing, and monitoring assistance programs for orphans and vulnerable children.
-- **(b)** *Consultation* The strategy described in subsection (a) should be developed in consultation with the Special Advisor for Assistance to Vulnerable Populations (appointed pursuant to section 135(e)(1) of the Foreign Assistance Act of 1961 (as added by section 3 of this Act)) and with employees of the field missions of the United States Agency for International Development to ensure that the strategy—
+- **(b)** *Consultation* The strategy described in subsection (a) should be developed in consultation with the Special Advisor for Assistance to Orphans and Vulnerable Children (appointed pursuant to section 135(e)(1) of the Foreign Assistance Act of 1961 (as added by section 3 of this Act)) and with employees of the field missions of the United States Agency for International Development to ensure that the strategy—
   - **(1)** will not impede the efficiency of implementing assistance programs for orphans and vulnerable children; and
   - **(2)** addresses the specific needs of indigenous populations.
 - **(c)** *Content* The strategy required by subsection (a) shall include—
@@ -108,10 +107,10 @@ Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq
 
 ## § 5. Annual report
 
-- **(a)** *Report* Not later than one year after the date on which the President transmits to the appropriate congressional committees the strategy required by section 4(a), and annually thereafter, the President shall transmit to the appropriate congressional committees a report on the implementation of this Act.
-- **(b)** *Contents* The report shall contain the following information for each grant, cooperative agreement, contract, contribution, or other form of assistance awarded or entered into under this section:
-  - **(1)** The amount of funding, the name of the recipient organization, the location the program or activity, the status of progress of the program or activity, and the number of orphans and other vulnerable children who received direct or indirect assistance under the program or activity.
-  - **(2)** The results of the monitoring and evaluation system with respect to the grant, cooperative agreement, contract, contribution, or other form of assistance.
+- **(a)** *Report* Not later than one year after the date on which the President transmits to the appropriate congressional committees the strategy required by section 4(a), and annually thereafter, the President shall transmit to the appropriate congressional committees a report on the implementation of this Act and the amendments made by this Act.
+- **(b)** *Contents* The report shall contain the following information for grants, cooperative agreements, contracts, contributions, and other forms of assistance awarded or entered into under section 135 of the Foreign Assistance Act of 1961 (as added by section 3 of this Act):
+  - **(1)** The amount of funding, the name of recipient organizations, the location of programs and activities, the status of progress of programs and activities, and the estimated number of orphans and other vulnerable children who received direct or indirect assistance under the programs and activities.
+  - **(2)** The results of the monitoring and evaluation system with respect to assistance for orphans and other vulnerable children.
   - **(3)** The percentage of assistance provided in support of orphans or other vulnerable children affected by HIV/AIDS.
   - **(4)** Any other appropriate information relating to the needs of orphans and other vulnerable children in developing countries that could be addressed through the provision of assistance authorized in section 135 of the Foreign Assistance Act of 1961, as added by section 3 of this Act, or under any other provision of law.
 
