@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 300
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 300
@@ -33,3 +33,9 @@ Recognizing the South Carolina Farm Bureau Mutual Insurance Company on the occas
 - 2005-05-26 — Introduced in House
 - 2005-05-26 — Introduced in House
 - 2005-05-26 — Referred to the House Committee on Financial Services.
+- 2005-10-18 — Considered under suspension of the rules. (consideration: CR H8879-8881)
+- 2005-10-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 300.
+- 2005-10-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-10-18 — Mr. Barrett (SC) moved to suspend the rules and agree to the resolution.
+- 2005-10-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8879)
+- 2005-10-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8879)
