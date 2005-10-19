@@ -1,7 +1,7 @@
 ---
 measure: S. 242
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 242
@@ -29,3 +29,8 @@ Columbia Space Shuttle Memorial Study Act of 2005
 - 2005-02-01 — Introduced in Senate
 - 2005-02-01 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S750)
 - 2005-02-01 — Sponsor introductory remarks on measure. (CR S749-750)
+- 2005-04-28 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-74.
+- 2005-09-28 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2005-10-19 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute and an amendment to the title. With written report No. 109-145.
+- 2005-10-19 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute and an amendment to the title. With written report No. 109-145.
+- 2005-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
