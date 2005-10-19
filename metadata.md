@@ -1,7 +1,7 @@
 ---
 measure: S. 652
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 652
@@ -29,3 +29,7 @@ Benjamin Franklin National Memorial Commemoration Act of 2005
 - 2005-03-17 — Introduced in Senate
 - 2005-03-17 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2005-03-17 — Sponsor introductory remarks on measure. (CR S3006-3007)
+- 2005-07-28 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-201.
+- 2005-10-19 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-147.
+- 2005-10-19 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-147.
+- 2005-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
