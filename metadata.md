@@ -1,0 +1,32 @@
+---
+measure: S. 1891
+congress: 109
+version: Introduced in Senate
+---
+
+# S. 1891
+
+Arctic Coastal Plain Domestic Energy Security Act of 2005
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+
+## Cosponsors (3)
+
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
+## Actions
+
+- 2005-10-19 — Introduced in Senate
+- 2005-10-19 — Read twice and referred to the Committee on Energy and Natural Resources.
