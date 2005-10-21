@@ -1,0 +1,40 @@
+---
+legis-num: S. 1906
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1906
+
+> To amend the Internal Revenue Code of 1986 to exclude property tax rebates and other benefits provided to volunteer firefighters, search and rescue personnel, and emergency medical responders from income and employment taxes and wage withholding.
+
+## § 1. Exclusion of property tax rebates and other benefits provided to volunteer firefighters, search and rescue personnel, and emergency medical responders from income and employment taxes and wage withholding
+
+- **(a)** *Exclusion from gross income*
+  - **(1)** *In general* Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 (relating to items specifically excluded from gross income) is amended by redesignating section 140 as section 140A and by inserting after section 139 the following new section:
+    > ## § 140. Property tax rebates and other benefits provided to volunteer firefighters, search and rescue personnel, and emergency medical responders
+    >
+    > - **(a)** *Exclusion* Gross income shall not include a qualified property tax rebate or other benefit.
+    > - **(b)** *Qualified property tax rebate or other benefit* For purposes of subsection (a)—
+    >   - **(1)** *In general* The term qualified property tax rebate or other benefit means a rebate of real or personal property taxes, or any other benefit, provided by a State or political subdivision on account of services performed as a member of a qualified volunteer emergency response organization.
+    >   - **(2)** *Qualified volunteer emergency response organization* The term qualified volunteer emergency response organization means any volunteer organization—
+    >     - **(A)** which is organized and operated to provide firefighting, search and rescue, or emergency medical services for persons in the State or political subdivision, as the case may be, and
+    >     - **(B)** which is required (by written agreement) by the State or political subdivision to furnish firefighting, search and rescue, or emergency medical services in such State or political subdivision.
+
+  - **(2)** *Clerical amendment* The table of sections for such part is amended by striking the last item and inserting the following new items:
+- **(b)** *Exclusion from employment taxes*
+  - **(1)** *Social security taxes*
+    - **(A)** Section 3121(a) of the Internal Revenue Code of 1986 (relating to definition of wages) is amended by striking “or” at the end of paragraph (21), by striking the period at the end of paragraph (22) and inserting “; or”, and by inserting after paragraph (22) the following new paragraph:
+      > - **(23)** any qualified property tax rebate or other benefit (as defined in section 140(b)).
+
+    - **(B)** Section 209(a) of the Social Security Act is amended by striking “or” at the end of paragraph (18), by striking the period at the end of paragraph (19) and inserting “; or”, and by inserting after paragraph (19) the following new paragraph:
+      > - **(20)** Any qualified property tax rebate or other benefit (as defined in section 140(b) of the Internal Revenue Code of 1986).
+
+  - **(2)** *Unemployment taxes* Section 3306(b) of the Internal Revenue Code of 1986 (relating to definition of wages) is amended by striking “or” at the end of paragraph (18), by striking the period at the end of paragraph (19) and inserting “; or”, and by inserting after paragraph (19) the following new paragraph:
+    > - **(20)** any qualified property tax rebate or other benefit (as defined in section 140(b).
+
+- **(c)** *Wage withholding* Section 3401(a) of the Internal Revenue Code of 1986 (defining wages) is amended by striking “or” at the end of paragraph (21), by striking the period at the end of paragraph (22) and inserting “; or”, and by inserting after paragraph (22) the following new paragraph:
+  > - **(23)** for any qualified property tax rebate or other benefit (as defined in section 140(b).
+
+- **(d)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
