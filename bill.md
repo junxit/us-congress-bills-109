@@ -1,0 +1,72 @@
+---
+legis-num: H.R. 4128
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4128
+
+> To protect private property rights.
+
+## § 1. Short title
+
+This Act may be cited as the “Private Property Rights Protection Act of 2005”.
+
+## § 2. Prohibition on eminent domain abuse by States
+
+- **(a)** *In general* No State or political subdivision of a State shall exercise its power of eminent domain, or allow the exercise of such power by any person or entity to which such power has been delegated, over property to be used for economic development or over property that is subsequently used for economic development, if that State or political subdivision receives Federal economic development funds during any fiscal year in which it does so.
+- **(b)** *Ineligibility for federal funds* A violation of subsection (a) by a State or political subdivision shall render such State or political subdivision ineligible for any Federal economic development funds for a period of 2 fiscal years following a final judgment on the merits by a court of competent jurisdiction that such subsection has been violated, and any Federal agency charged with distributing those funds shall withhold them for such 2-year period, and any such funds distributed to such State or political subdivision shall be returned or reimbursed by such State or political subdivision to the appropriate Federal agency or authority of the Federal Government, or component thereof.
+- **(c)** *Opportunity to cure violation* A State or political subdivision shall not be ineligible for any Federal economic development funds under subsection (b) if such State or political subdivision returns all real property the taking of which was found by a court of competent jurisdiction to have constituted a violation of subsection (a) and replaces any other property destroyed and repairs any other property damaged as a result of such violation.
+
+## § 3. Prohibition on eminent domain abuse by the Federal Government
+
+The Federal Government or any authority of the Federal Government shall not exercise its power of eminent domain to be used for economic development.
+
+## § 4. Private right of action
+
+- **(a)** *Cause of action* Any owner of private property who suffers injury as a result of a violation of any provision of this Act may bring an action to enforce any provision of this Act in the appropriate Federal or State court, and a State shall not be immune under the eleventh amendment to the Constitution of the United States from any such action in a Federal or State court of competent jurisdiction. Any such property owner may also seek any appropriate relief through a preliminary injunction or a temporary restraining order.
+- **(b)** *Limitation on bringing action* An action brought under this Act may be brought if the property is used for economic development following the conclusion of any condemnation proceedings condemning the private property of such property owner, but shall not be brought later than seven years following the conclusion of any such proceedings and the subsequent use of such condemned property for economic development.
+- **(c)** *Attorneys’ fee and other costs* In any action or proceeding under this Act, the court shall allow a prevailing plaintiff a reasonable attorneys’ fee as part of the costs, and include expert fees as part of the attorneys’ fee.
+
+## § 5. Notification by Attorney General
+
+- **(a)** *Notification to states and political subdivisions*
+  - **(1)** Not later than 30 days after the enactment of this Act, the Attorney General shall provide to the chief executive officer of each State the text of this Act and a description of the rights of property owners under this Act.
+  - **(2)** Not later than 120 days after the enactment of this Act, the Attorney General shall compile a list of the Federal laws under which Federal economic development funds are distributed. The Attorney General shall compile annual revisions of such list as necessary. Such list and any successive revisions of such list shall be communicated by the Attorney General to the chief executive officer of each State and also made available on the Internet website maintained by the United States Department of Justice for use by the public and by the authorities in each State and political subdivisions of each State empowered to take private property and convert it to public use subject to just compensation for the taking.
+- **(b)** *Notification to property owners* Not later than 30 days after the enactment of this Act, the Attorney General shall publish in the Federal Register and make available on the Internet website maintained by the United States Department of Justice a notice containing the text of this Act and a description of the rights of property owners under this Act.
+
+## § 6. Report
+
+Not later than 1 year after the date of enactment of this Act, and every subsequent year thereafter, the Attorney General shall transmit a report identifying States or political subdivisions that have used eminent domain in violation of this Act to the Chairman and Ranking Member of the Committee on the Judiciary of the House of Representatives and to the Chairman and Ranking Member of the Committee on the Judiciary of the Senate. The report shall—
+
+- **(1)** identify all private rights of action brought as a result of a State’s or political subdivision’s violation of this Act;
+- **(2)** identify all States or political subdivisions that have lost Federal economic development funds as a result of a violation of this Act, as well as describe the type and amount of Federal economic development funds lost in each State or political subdivision and the Agency that is responsible for withholding such funds; and
+- **(3)** discuss all instances in which a State or political subdivision has cured a violation as described in section 2(c) of this Act.
+
+## § 7. Sense of Congress regarding rural America
+
+- **(a)** *Findings* The Congress finds the following:
+  - **(1)** The founders realized the fundamental importance of property rights when they codified the Takings Clause of the Fifth Amendment to the Constitution, which requires that private property shall not be taken “for public use, without just compensation”.
+  - **(2)** Rural lands are unique in that they are not traditionally considered high tax revenue-generating properties for state and local governments. In addition, farmland and forest land owners need to have long-term certainty regarding their property rights in order to make the investment decisions to commit land to these uses.
+  - **(3)** Ownership rights in rural land are fundamental building blocks for our Nation’s agriculture industry, which continues to be one of the most important economic sectors of our economy.
+  - **(4)** In the wake of the Supreme Court’s decision in Kelo v. City of New London, abuse of eminent domain is a threat to the property rights of all private property owners, including rural land owners.
+- **(b)** *Sense of Congress* It is the sense of Congress that the use of eminent domain for the purpose of economic development is a threat to agricultural and other property in rural America and that the Congress should protect the property rights of Americans, including those who reside in rural areas. Property rights are central to liberty in this country and to our economy. The use of eminent domain to take farmland and other rural property for economic development threatens liberty, rural economies, and the economy of the United States. Americans should not have to fear the government’s taking their homes, farms, or businesses to give to other persons. Governments should not abuse the power of eminent domain to force rural property owners from their land in order to develop rural land into industrial and commercial property. Congress has a duty to protect the property rights of rural Americans in the face of eminent domain abuse.
+
+## § 8. Definitions
+
+In this Act the following definitions apply:
+
+- **(1)** *Economic development* The term “economic development” means taking private property, without the consent of the owner, and conveying or leasing such property from one private person or entity to another private person or entity for commercial enterprise carried on for profit, or to increase tax revenue, tax base, employment, or general economic health, except that such term shall not include—
+  - **(A)** conveying private property to public ownership, such as for a road, hospital, or military base, or to an entity, such as a common carrier, that makes the property available for use by the general public as of right, such as a railroad, public utility, or public facility, or for use as a right of way, aqueduct, pipeline, or similar use;
+  - **(B)** removing harmful uses of land provided such uses constitute an immediate threat to public health and safety;
+  - **(C)** leasing property to a private person or entity that occupies an incidental part of public property or a public facility, such as a retail establishment on the ground floor of a public building;
+  - **(D)** acquiring abandoned property; and
+  - **(E)** clearing defective chains of title.
+- **(2)** *Federal economic development funds* The term “Federal economic development funds” means any Federal funds distributed to States or political subdivisions of States under Federal laws designed to improve or increase the size of the economies of States or political subdivisions of States.
+- **(3)** *State* The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.
+
+## § 9. Severability and effective date
+
+- **(a)** *Severability* The provisions of this Act are severable. If any provision of this Act, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of the Act not so adjudicated.
+- **(b)** *Effective date* This Act shall take effect upon the first day of the first fiscal year that begins after the date of the enactment of this Act, but shall not apply to any project for which condemnation proceedings have been initiated prior to the date of enactment.
