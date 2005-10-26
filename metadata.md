@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2967
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2967
@@ -51,3 +51,11 @@ To designate the Federal building located at 333 Mt. Elliott Street in Detroit, 
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Referred to the House Committee on Transportation and Infrastructure.
 - 2005-06-17 — Sponsor introductory remarks on measure. (CR E1276)
+- 2005-06-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2005-10-26 — Considered under suspension of the rules. (consideration: CR H9198-9202)
+- 2005-10-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2967.
+- 2005-10-26 — EXTENSION OF DEBATE - Mr. Lantos asked unanimous consent that debate on H.R. 2967 be extended by ten minuntes to be equally divided and controlled. Agreed to without objection.
+- 2005-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-10-26 — Mr. Kuhl (NY) moved to suspend the rules and pass the bill.
+- 2005-10-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9198)
+- 2005-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9198)
