@@ -1,7 +1,7 @@
 ---
 measure: S. 761
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 761
@@ -29,3 +29,7 @@ Morley Nelson Snake River Birds of Prey National Conservation Area Act
 - 2005-04-12 — Introduced in Senate
 - 2005-04-12 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3484)
 - 2005-04-12 — Sponsor introductory remarks on measure. (CR S3484)
+- 2005-05-11 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-104.
+- 2005-10-27 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-162.
+- 2005-10-27 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-162.
+- 2005-10-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.

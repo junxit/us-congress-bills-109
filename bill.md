@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “ Morley Nelson Snake River Birds of Prey National Conservation Area Act ”.
+This Act may be cited as the “Morley Nelson Snake River Birds of Prey National Conservation Area Act”.
 
 ## § 2. Renaming of Snake River Birds of Prey National Conservation Area
 
