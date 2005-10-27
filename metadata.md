@@ -1,7 +1,7 @@
 ---
 measure: S. 166
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 166
@@ -29,3 +29,7 @@ Deschutes River Conservancy Reauthorization Act of 2005
 - 2005-01-25 — Introduced in Senate
 - 2005-01-25 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2005-01-25 — Sponsor introductory remarks on measure. (CR S494)
+- 2005-04-19 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 109-96.
+- 2005-10-27 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-164.
+- 2005-10-27 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-164.
+- 2005-10-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.
