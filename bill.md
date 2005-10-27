@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4168
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4168
+
+> To amend the Immigration and Nationality Act to prescribe the binding oath or affirmation of renunciation and allegiance required to be naturalized as a citizen of the United States, to encourage and support the efforts of prospective citizens of the United States to become citizens, and for other purposes.
+
+## § 1. Short Title
+
+-  This Act may be cited as the “Strengthening American Citizenship Act of 2005”.
+
+## § 2. Definitions
+
+-  In this Act:
+  - **(1)** *Oath of allegiance* The term Oath of Allegiance means the binding oath (or affirmation) of allegiance required to be naturalized as a citizen of the United States, as prescribed in subsection (e) of section 337 of the Immigration and Nationality Act (8 U.S.C. 1448(e)), as added by section 301(a)(2).
+  - **(2)** *Secretary* Except as otherwise provided, the term Secretary means the Secretary of Homeland Security.
