@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 463
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 463
@@ -16,7 +16,7 @@ Of inquiry directing the Secretary of Homeland Security to provide certain infor
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
@@ -31,6 +31,8 @@ Of inquiry directing the Secretary of Homeland Security to provide certain infor
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 - Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
 
 ## Committees (1)
 
@@ -42,3 +44,8 @@ Of inquiry directing the Secretary of Homeland Security to provide certain infor
 - 2005-09-27 — Introduced in House
 - 2005-09-27 — Referred to the House Committee on Homeland Security.
 - 2005-09-27 — Sponsor introductory remarks on measure. (CR E1960)
+- 2005-10-26 — Committee Consideration and Mark-up Session Held.
+- 2005-10-26 — Ordered to be Reported Unfavorably by Voice Vote.
+- 2005-10-28 — Placed on the House Calendar, Calendar No. 108.
+- 2005-10-28 — Reported adversely by the Committee on Homeland Security. H. Rept. 109-259.
+- 2005-10-28 — Reported adversely by the Committee on Homeland Security. H. Rept. 109-259.
