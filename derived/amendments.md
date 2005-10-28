@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1973
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2151` | insert | Part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by inserting after section 104C the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | add-at-end | Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1704` | add-at-end | Section 104(c) of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1704(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
