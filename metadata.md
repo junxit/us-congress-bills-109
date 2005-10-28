@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 467
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 467
@@ -49,3 +49,8 @@ Requesting that the President transmit to the House of Representatives informati
 - 2005-09-27 — Introduced in House
 - 2005-09-27 — Introduced in House
 - 2005-09-27 — Referred to the House Committee on Education and the Workforce.
+- 2005-10-20 — Committee Consideration and Mark-up Session Held.
+- 2005-10-20 — Ordered to be Reported Unfavorably by the Yeas and Nays: 25 - 20.
+- 2005-10-28 — Placed on the House Calendar, Calendar No. 107.
+- 2005-10-28 — Reported adversely by the Committee on Education and the Workforce. H. Rept. 109-258.
+- 2005-10-28 — Reported adversely by the Committee on Education and the Workforce. H. Rept. 109-258.
