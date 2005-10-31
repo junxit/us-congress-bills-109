@@ -13,23 +13,38 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Strengthening the Ownership of Private Property Act of 2005” or the “STOPP Act of 2005”.
 
-## § 2. Conditions of financial assistance under federal economic development programs
+## § 2. Conditions of financial assistance under Federal economic development programs
 
-- **(a)** *Prohibition of assistance* If, after the date of the enactment of this Act, any State (or any agency thereof) or any unit of general local government (or any agency thereof) engages in any act described in subsection (b), Federal financial assistance under any Federal economic development program may not be provided to such State (including any agency thereof) or unit of general local government (including any agency thereof), respectively, at any time after such act.
-- **(b)** *Limitations on use of eminent domain* The acts described in this subsection are as follows:
-  - **(1)** *Use of eminent domain for private commercial development* Any use of the power of eminent domain to take property from one private individual or entity for any economic development purpose and transfer ownership of such property (or a portion thereof) to another private individual or entity.
-  - **(2)** *Failure to provide relocation assistance for persons displaced by use of eminent domain for economic development* Failing to provide, to any person displaced by the use of the power of eminent domain for any economic development purpose, relocation assistance under the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 (42 U.S.C. 4601 et seq.) in the same manner and to the same extent as relocation assistance is required under such Act to be provided by a Federal agency that undertakes a program or project that results in displacement of such person.
-- **(c)** *Certification of compliance* If the head of a Federal agency does not have actual knowledge that a particular State or unit of general government has engaged in an act described subsection (b) after the date of the enactment of this Act, a certification made to such Federal agency head by the chief executive officer of the State or unit of general government that such State or unit has not engaged in any such act shall be sufficient for such Federal agency head to determine that the State or unit is not ineligible, by reason of subsection (a), for Federal financial assistance under a Federal economic development program administered by such Federal agency head.
+- **(a)** *Prohibition of assistance*
+  - **(1)** *Prohibition* If, after the date of the enactment of this Act, an entity using the power of a State engages in any conduct described in subsection (b), no officer or employee of the Federal Government having responsibility over Federal financial assistance under any Federal economic development program shall make such assistance available to the relevant entity during the period described in paragraph (3).
+  - **(2)** *Entity to which assistance is prohibited* In this subsection, the term “relevant entity” means—
+    - **(A)** the entity engaging in the conduct described in subsection (b), if that entity is a State or a unit of general local government of a State; and
+    - **(B)** the State or unit of general local government that gave authority for the entity to engage in that conduct, in any other case.
+  - **(3)** *Duration of prohibition* The period referred to in paragraph (1) is the period that begins on the date the officer or employee of the Federal Government having responsibility over Federal financial assistance under the Federal economic development program determines that the relevant entity has engaged in the conduct described in subsection (b) and ends with the earlier of—
+    - **(A)** the day that is two years after the date the period began; or
+    - **(B)** the day that the property is returned to the entity from whom the property was taken.
+- **(b)** *Conduct resulting in prohibition of assistance* The conduct described in this subsection is the following:
+  - **(1)** Any use of the power of eminent domain to take property from a private entity and transfer the ownership of, or a leasehold interest, in the property (or a portion thereof) to another private entity, except for a transfer—
+    - **(A)** for use by a public utility;
+    - **(B)** for a road or other right of way or means, open to the public or common carriers, for transportation;
+    - **(C)** for an aqueduct, pipeline, or similar use;
+    - **(D)** for a prison or hospital; or
+    - **(E)** for any use during and in relation to a national emergency or national disaster declared by the President under other law.
+  - **(2)** *Failure to provide relocation assistance for persons displaced by use of eminent domain for economic development* Failing to provide, to any person displaced from property by the use of the power of eminent domain for any economic development purpose, relocation assistance under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) in the same manner and to the same extent as relocation assistance would be required under such Act to be provided by a Federal agency that undertakes a program or project that results in displacement of the person.
 
-## § 3. Definitions
+## § 3. Private right of action
 
-For purposes of this Act, the following definitions shall apply:
+The owner of any real property taken by conduct resulting in the prohibition by this Act of assistance may, in a civil action, obtain injunctive and declaratory relief to require the enforcement of that prohibition.
+
+## § 4. Definitions
+
+In this Act:
 
 - **(1)** *Federal economic development program* The term Federal economic development program means any of the following programs:
   - **(A)** *Department of Agriculture*
     - **(i)** *Forest service*
-      - **(I)** The National Forest-dependent rural communities program for assistance for economic recovery under the National Forest-Dependent Rural Communities Economic Diversification Act of 1990 (7 U.S.C. 6611 et seq.).
-      - **(II)** The rural development through forestry program pursuant to the Department of the Interior and Related Agencies Appropriations Act, 2001 (Public Law 106–291; 114 Stat. 972) and the Department of the Interior and Related Agencies Appropriations Act, 2005 (Public Law 108–447, Division E; 118 Stat. 3080).
+      - **(I)** Programs under the National Forest-Dependent Rural Communities Economic Diversification Act of 1990 (7 U.S.C. 6611 et seq.).
+      - **(II)** The rural development through forestry program authorized by the Department of the Interior and Related Agencies Appropriations Act, 2006 (Public Law 109–54; 119 Stat. 538), and subsequent appropriations laws.
     - **(ii)** *Rural business—cooperative service*
       - **(I)** The intermediary relending program under section 1323 of the Food Security Act of 1985 (7 U.S.C. 1932 note).
       - **(II)** The rural business opportunities grant program under section 306(a)(11) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)(11)).
@@ -50,18 +65,16 @@ For purposes of this Act, the following definitions shall apply:
     - **(ii)** The brownfields economic development initiative under section 108(q) of the Housing and Community Development Act of 1974 (42 U.S.C. 5308(q)).
     - **(iii)** The rural housing and economic development program of the Department of Housing and Urban Development pursuant to title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 3300) and title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999 (Public Law 105–276; 112 Stat. 2475).
     - **(iv)** The Indian housing block grant program under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.).
-  - **(D)** *Empowerment zones program* The empowerment zones, enterprise communities, and rural development investment areas programs under subchapter U of chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. 1391 et seq.).
-  - **(E)** *Department of the Interior— Bureau of Indian Affairs* The programs for grants, loans, and loan guarantys for Indian economic development of the Office of Economic Development, Bureau of Indian Affairs of the Department of the Interior.
-  - **(F)** *Department of the Treasury* The community development financial institutions fund program under subtitle A of title I of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4701 et seq.).
-  - **(G)** *Appalachian regional commission* Any program for assistance for Appalachian regional development under subtitle IV of title 40, United States Code.
-  - **(H)** *National credit union administration* The community development revolving loan fund program for credit unions under the Community Development Credit Union Revolving Loan Fund Transfer Act (42 U.S.C. 9822 note).
-  - **(I)** *Denali commission* The Denali Commission program under the Denali Commission Act of 1998 (42 U.S.C. 2131 et seq.).
-  - **(J)** *Delta regional authority* The program for Delta regional development under subtitle F of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa et seq.).
-  - **(K)** *Department of health and human services* The discretionary award program for community economic development under section 680 of the Community Services Block Grant Act (42 U.S.C. 9921).
-- **(2)** *Federal financial assistance* The term Federal financial assistance has the meaning given such term in section 101 of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 (42 U.S.C. 4601).
+  - **(D)** *Department of the Interior—Bureau of Indian Affairs* The programs for grants, loans, and loan guarantees for Indian economic development of the Office of Economic Development, Bureau of Indian Affairs of the Department of the Interior.
+  - **(E)** *Department of the Treasury* The community development financial institutions fund program under subtitle A of title I of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4701 et seq.).
+  - **(F)** *Appalachian regional commission* Any program for assistance for Appalachian regional development under subtitle IV of title 40, United States Code.
+  - **(G)** *National credit union administration* The community development revolving loan fund program for credit unions under the Community Development Credit Union Revolving Loan Fund Transfer Act (42 U.S.C. 9822 note).
+  - **(H)** *Denali commission* The Denali Commission program under the Denali Commission Act of 1998 (42 U.S.C. 2131 et seq.).
+  - **(I)** *Delta regional authority* The program for Delta regional development under subtitle F of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa et seq.).
+  - **(J)** *Department of health and human services* The discretionary award program relating to local community economic development under section 680 of the Community Services Block Grant Act (42 U.S.C. 9921).
+- **(2)** *Federal financial assistance* The term Federal financial assistance has the meaning given such term in section 101 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601).
 - **(3)** *State* The term State means any of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
-- **(4)** *Unit of local government* The term unit of local government means any city, county, town, township, parish, village, or other general purpose political subdivision of a State or any community redevelopment agency, housing authority, special district, or other special purpose political subdivision of a State.
 
-## § 4. Applicability
+## § 5. Severability
 
-at any time after the date of the enactment of this Act, has engaged in either of the following acts
+If any provision of this Act, or the application thereof, is held invalid, the validity of the remainder of this Act and the application of such provision to other persons and circumstances shall not be affected thereby.
