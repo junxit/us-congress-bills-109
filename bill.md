@@ -41,14 +41,14 @@ The Federal Government or any authority of the Federal Government shall not exer
 Not later than 1 year after the date of enactment of this Act, and every subsequent year thereafter, the Attorney General shall transmit a report identifying States or political subdivisions that have used eminent domain in violation of this Act to the Chairman and Ranking Member of the Committee on the Judiciary of the House of Representatives and to the Chairman and Ranking Member of the Committee on the Judiciary of the Senate. The report shall—
 
 - **(1)** identify all private rights of action brought as a result of a State’s or political subdivision’s violation of this Act;
-- **(2)** identify all States or political subdivisions that have lost Federal economic development funds as a result of a violation of this Act, as well as describe the type and amount of Federal economic development funds lost in each State or political subdivision and the Agency that is responsible for withholding such funds; and
+- **(2)** identify all States or political subdivisions that have lost Federal economic development funds as a result of a violation of this Act, as well as describe the type and amount of Federal economic development funds lost in each State or political subdivision and the Agency that is responsible for withholding such funds;
 - **(3)** discuss all instances in which a State or political subdivision has cured a violation as described in section 2(c) of this Act.
 
 ## § 7. Sense of Congress regarding rural America
 
 - **(a)** *Findings* The Congress finds the following:
   - **(1)** The founders realized the fundamental importance of property rights when they codified the Takings Clause of the Fifth Amendment to the Constitution, which requires that private property shall not be taken “for public use, without just compensation”.
-  - **(2)** Rural lands are unique in that they are not traditionally considered high tax revenue-generating properties for state and local governments. In addition, farmland and forest land owners need to have long-term certainty regarding their property rights in order to make the investment decisions to commit land to these uses.
+  - **(2)** Rural lands are unique in that they are not traditionally considered high tax revenue-generating properties for State and local governments. In addition, farmland and forest land owners need to have long-term certainty regarding their property rights in order to make the investment decisions to commit land to these uses.
   - **(3)** Ownership rights in rural land are fundamental building blocks for our Nation’s agriculture industry, which continues to be one of the most important economic sectors of our economy.
   - **(4)** In the wake of the Supreme Court’s decision in Kelo v. City of New London, abuse of eminent domain is a threat to the property rights of all private property owners, including rural land owners.
 - **(b)** *Sense of Congress* It is the sense of Congress that the use of eminent domain for the purpose of economic development is a threat to agricultural and other property in rural America and that the Congress should protect the property rights of Americans, including those who reside in rural areas. Property rights are central to liberty in this country and to our economy. The use of eminent domain to take farmland and other rural property for economic development threatens liberty, rural economies, and the economy of the United States. Americans should not have to fear the government’s taking their homes, farms, or businesses to give to other persons. Governments should not abuse the power of eminent domain to force rural property owners from their land in order to develop rural land into industrial and commercial property. Congress has a duty to protect the property rights of rural Americans in the face of eminent domain abuse.
@@ -58,15 +58,24 @@ Not later than 1 year after the date of enactment of this Act, and every subsequ
 In this Act the following definitions apply:
 
 - **(1)** *Economic development* The term “economic development” means taking private property, without the consent of the owner, and conveying or leasing such property from one private person or entity to another private person or entity for commercial enterprise carried on for profit, or to increase tax revenue, tax base, employment, or general economic health, except that such term shall not include—
-  - **(A)** conveying private property to public ownership, such as for a road, hospital, or military base, or to an entity, such as a common carrier, that makes the property available for use by the general public as of right, such as a railroad, public utility, or public facility, or for use as a right of way, aqueduct, pipeline, or similar use;
+  - **(A)** conveying private property to public ownership, such as for a road, hospital, or military base, or to an entity, such as a common carrier, that makes the property available for use by the general public as of right, such as a railroad, or public facility, or for use as a right of way, aqueduct, pipeline, or similar use;
   - **(B)** removing harmful uses of land provided such uses constitute an immediate threat to public health and safety;
   - **(C)** leasing property to a private person or entity that occupies an incidental part of public property or a public facility, such as a retail establishment on the ground floor of a public building;
-  - **(D)** acquiring abandoned property; and
-  - **(E)** clearing defective chains of title.
-- **(2)** *Federal economic development funds* The term “Federal economic development funds” means any Federal funds distributed to States or political subdivisions of States under Federal laws designed to improve or increase the size of the economies of States or political subdivisions of States.
+  - **(D)** acquiring abandoned property;
+  - **(E)** clearing defective chains of title; and
+  - **(F)** taking private property for use by a public utility.
+- **(2)** *Federal economic development funds* The term “Federal economic development funds” means any Federal funds distributed to or through States or political subdivisions of States under Federal laws designed to improve or increase the size of the economies of States or political subdivisions of States.
 - **(3)** *State* The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.
 
 ## § 9. Severability and effective date
 
 - **(a)** *Severability* The provisions of this Act are severable. If any provision of this Act, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of the Act not so adjudicated.
 - **(b)** *Effective date* This Act shall take effect upon the first day of the first fiscal year that begins after the date of the enactment of this Act, but shall not apply to any project for which condemnation proceedings have been initiated prior to the date of enactment.
+
+## § 10. Sense of Congress
+
+It is the policy of the United States to encourage, support, and promote the private ownership of property and to ensure that the constitutional and other legal rights of private property owners are protected by the Federal Government.
+
+## § 11. Broad construction
+
+This Act shall be construed in favor of a broad protection of private property rights, to the maximum extent permitted by the terms of this Act and the Constitution.
