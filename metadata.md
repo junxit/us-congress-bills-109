@@ -1,7 +1,7 @@
 ---
 measure: S. 1932
 congress: 109
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1932
@@ -16,6 +16,266 @@ Deficit Reduction Act of 2005
 
 - Sen. Gregg, Judd [R-NH] (G000445)
 
+## Cosponsors (257)
+
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Santorum, Rick [R-PA] (S000059)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Jeffords, James M. [I-VT] (J000072)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Santorum, Rick [R-PA] (S000059)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Jeffords, James M. [I-VT] (J000072)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Talent, Jim [R-MO] (T000024)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Burns, Conrad R. [R-MT] (B001126)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Chafee, Lincoln [R-RI] (C001040)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Santorum, Rick [R-PA] (S000059)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Jeffords, James M. [I-VT] (J000072)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Jeffords, James M. [I-VT] (J000072)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Corzine, Jon S. [D-NJ] (C001042)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. DeWine, Mike [R-OH] (D000294)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+
 ## Committees (1)
 
 - Senate — Budget Committee
@@ -27,3 +287,301 @@ Deficit Reduction Act of 2005
 - 2005-10-27 — Committee on the Budget. Original measure reported to Senate by Senator Gregg. Without written report.
 - 2005-10-27 — Introduced in Senate
 - 2005-10-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
+- 2005-10-31 — Measure laid before Senate by unanimous consent. (consideration: CR S12065-12073)
+- 2005-10-31 — Senate amendment submitted
+- 2005-11-01 — Amendment SA 2347 proposed by Senator Gregg for Senator Frist. (consideration: CR S12087-12095; text: CR S12087) To provide amounts to address influenza and newly emerging pandemics.
+- 2005-11-01 — Amendment SA 2351 proposed by Senator Conrad. (consideration: CR S12095-12097; text: CR S12095) To fully reinstate the pay-as-you-go requirement through 2010.
+- 2005-11-01 — Amendment SA 2352 proposed by Senator Enzi. (consideration: CR S12097-12099; S12144-12145; text as modified:  CR S12144) To provide elementary and secondary education assistance to students and schools impacted by Hurricane Katrina and to lower origination fees.
+- 2005-11-01 — Amendment SA 2355 proposed by Senator Inhofe. (consideration: CR S12114-12120; text: CR S12114) To cap non-defense, non-trust-fund, discretionary spending at the previous fiscal year's level, beginning with fiscal year 2007.
+- 2005-11-01 — Amendment SA 2356 proposed by Senator Lincoln. (consideration: CR S12106-12114) To provide emergency health care and other relief for survivors of Hurricane Katrina.
+- 2005-11-01 — Amendment SA 2357 proposed by Senator Nelson FL. (consideration: CR S12120-12122; text: CR S12120-12121) To hold Medicare beneficiaries harmless for the increase in the 2007 Medicare monthly part B premium that would otherwise occur because of the 2006 increase in payments under the physician fee schedule.
+- 2005-11-01 — Considered by Senate. (consideration: CR S12079-12099, S12099-12122)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2347 proposed by Senator Gregg for Senator Frist.(consideration: CR S12087-12095; text: CR S12087)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2351 proposed by Senator Conrad.(consideration: CR S12095-12097; text: CR S12095)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2352 proposed by Senator Enzi.(consideration: CR S12097-12099; S12144-12145; text as modified:  CR S12144)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2355 proposed by Senator Inhofe.(consideration: CR S12114-12120; text: CR S12114)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2356 proposed by Senator Lincoln.(consideration: CR S12106-12114)
+- 2005-11-01 — Senate amendment proposed (on the floor): Amendment SA 2357 proposed by Senator Nelson FL.(consideration: CR S12120-12122; text: CR S12120-12121)
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-01 — Senate amendment submitted
+- 2005-11-02 — Amendment SA 2358 proposed by Senator Cantwell. (consideration: CR S12150-12172; text: CR S12150) To strike the title relating to the establishment of an oil and gas leasing program in the Coastal Plain.
+- 2005-11-02 — Amendment SA 2359 proposed by Senator Grassley. (consideration: CR S12175-12185) To clarify certain payment limitations applicable to certain payments under title I of the Farm Security and Rural Investment Act of 2002 and section 1101 of the Agricultural Reconciliation Act of 2005 and to partially restore funding to programs reduced by section 1101, 1201, and 1202 of the Agricultural Reconciliation Act of 2005.
+- 2005-11-02 — Amendment SA 2360 proposed by Senator Lott. (consideration: CR S12193-12197) To reauthorize Amtrak, and for other purposes.
+- 2005-11-02 — Amendment SA 2362 proposed by Senator Wyden to language proposed to be stricken by amendment no. 2358. (consideration: CR S12172-12175; text: CR S12173) To enhance the energy security of the United States by prohibiting the exportation of oil and gas produced under leases in the Arctic National Wildlife Refuge.
+- 2005-11-02 — Amendment SA 2365 proposed by Senator Bingaman. (consideration: CR S12185-12189; text: CR S12185) To prevent a severe reduction in the Federal medical assistance percentage determined for a State for fiscal year 2006 and to extend rebates for prescription drugs to enrollees in Medicaid managed care organizations.
+- 2005-11-02 — Amendment SA 2366 proposed by Senator Landrieu. (consideration: CR S12211-12212; text: CR S12211) To provide funds for payments to producing States and coastal political subdivisions under the coastal impact assistance program.
+- 2005-11-02 — Amendment SA 2367 proposed by Senator Byrd. (consideration: CR S12189-12193; text: CR S12189) To replace title VIII of the bill with an amendment to section 214(c) of the Immigration and Nationality Act to impose a fee on employers who hire certain non-immigrants.
+- 2005-11-02 — Amendment SA 2368 proposed by Senator Ensign. (consideration: CR S12207-12210; text: CR S12207) To cut $2,000,000,000 from the converter box subsidy program.
+- 2005-11-02 — Amendment SA 2370 proposed by Senator McCain. (consideration: CR S12197-12202; text CR S12197) To move forward the date on which the transition to digital television is to occur.
+- 2005-11-02 — Amendment SA 2372 proposed by Senator Murray. (consideration: CR S12202-12207; text: CR S12202) To provide a 6-month transition period for coverage of prescription drugs under Medicaid for individuals whose drug coverage is to be moved to the Medicare prescription drug program.
+- 2005-11-02 — Amendment SA 2392 agreed to in Senate by Unanimous Consent.
+- 2005-11-02 — Amendment SA 2392 proposed by Senator Gregg. (consideration: CR S12210-12211; text: CR S12210) To provide that the language on page 41, beginning on line 3 through line 11, entitled Amendments to the Balanced Budget and Emergency Deficit Control Act of 1985, be stricken.
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149, S12212-12217)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149, S12217-12219)
+- 2005-11-02 — Considered by Senate. (consideration: CR S12149-12219)
+- 2005-11-02 — Senate amendment agreed to: Amendment SA 2392 agreed to in Senate by Unanimous Consent.
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2358 proposed by Senator Cantwell.(consideration: CR S12150-12172; text: CR S12150)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2359 proposed by Senator Grassley.(consideration: CR S12175-12185)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Lott.(consideration: CR S12193-12197)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2362 proposed by Senator Wyden to language proposed to be stricken by amendment no. 2358.(consideration: CR S12172-12175; text: CR S12173)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2365 proposed by Senator Bingaman.(consideration: CR S12185-12189; text: CR S12185)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2366 proposed by Senator Landrieu.(consideration: CR S12211-12212; text: CR S12211)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2367 proposed by Senator Byrd.(consideration: CR S12189-12193; text: CR S12189)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2368 proposed by Senator Ensign.(consideration: CR S12207-12210; text: CR S12207)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2370 proposed by Senator McCain.(consideration: CR S12197-12202; text CR S12197)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2372 proposed by Senator Murray.(consideration: CR S12202-12207; text: CR S12202)
+- 2005-11-02 — Senate amendment proposed (on the floor): Amendment SA 2392 proposed by Senator Gregg.(consideration: CR S12210-12211; text: CR S12210)
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-02 — Senate amendment submitted
+- 2005-11-03 — Amendment SA 2348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 299.
+- 2005-11-03 — Amendment SA 2348 proposed by Senator Schumer. (consideration: CR S12318-12319) To strike the provisions increasing the Medicaid rebate for generic drugs.
+- 2005-11-03 — Amendment SA 2350 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2350 proposed by Senator Gregg for Senator Murray. (consideration: CR S12314-12317; text: CR S12314) To amend the definition of independent student to include students who are homeless children and youths and unaccompanied youths for purposes of the need analysis under the Higher Education Act of 1965.
+- 2005-11-03 — Amendment SA 2351 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2352 as modified agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2355 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2356 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2357 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 287.
+- 2005-11-03 — Amendment SA 2358 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 288.
+- 2005-11-03 — Amendment SA 2359 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2360 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 292.
+- 2005-11-03 — Amendment SA 2362 agreed to in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 289.
+- 2005-11-03 — Amendment SA 2363 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2363 proposed by Senator Harkin. (consideration: CR S12311-12312; text: CR S12311-12312) To affirm that the Federal funding levels for the rate of reimbursement of child support administrative expenses should not be reduced below the levels provided under current law, that States should continue to be permitted to use Federal child support incentive payments for child support program expenditures that are eligible for Federal matching payments, and to express the sense of the Senate that it does not support additional fees for successful child support collection.
+- 2005-11-03 — Amendment SA 2365 as modified agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 291.
+- 2005-11-03 — Amendment SA 2367 not agreed to in Senate by Yea-Nay Vote. 14 - 85. Record Vote Number: 295.
+- 2005-11-03 — Amendment SA 2370 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 293.
+- 2005-11-03 — Amendment SA 2371 proposed by Senator Snowe. (consideration: CR S12323-12325; text: CR S12324) To amend title XVIII of the Social Security Act to provide the authority for negotiating fair prices for medicare prescription drugs.
+- 2005-11-03 — Amendment SA 2371 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2372 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2378 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2378 proposed by Senator Gregg for Senator Specter. (consideration: CR S12314-12317; text: CR S12314-12315) To fund justice programs.
+- 2005-11-03 — Amendment SA 2380 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2380 proposed by Senator Gregg for Senator Lieberman. (consideration: CR S12321-12322; text as modified: CR S12321) To make minor changes to the quality measurement systems provisions with respect to value based purchasing under the medicare program.
+- 2005-11-03 — Amendment SA 2381 proposed by Senator Lautenberg. (consideration: CR S12313) To require certification prior to beneficiary enrollment in a prescription drug plan or an MA-PD plan that has a gap in the coverage of prescription drugs under part D of title XVIII of the Social Security Act.
+- 2005-11-03 — Amendment SA 2381 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2383 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2383 proposed by Senator Baucus. (consideration: CR S12317-12318; text: CR S12317-12318) To exclude discounts provided to mail order and nursing facility pharmacies from the determination of average manufacturer price and to extend the discounts offered under fee-for-service Medicaid for prescription drugs to managed care organizations.
+- 2005-11-03 — Amendment SA 2386 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2386 proposed by Senator Gregg for Senator Sununu. (consideration: CR S12321-12322; text: CR S12322) To ensure that amounts are not obligated out of the Digital Transition and Public Safety Fund until the proceeds of the auction are actually deposited by the FCC.
+- 2005-11-03 — Amendment SA 2390 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2390 proposed by Senator Smith. (consideration: CR S12323; text: CR S12323) To provide for a demonstration project regarding medicaid coverage of low-income HIV-infected individuals.
+- 2005-11-03 — Amendment SA 2391 proposed by Senator Hagel. (consideration: CR S12319-12320; text: CR S12319-12320) To require Fannie Mae and Freddie Mac to register under the Securities Act of 1933.
+- 2005-11-03 — Amendment SA 2396 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 301.
+- 2005-11-03 — Amendment SA 2396 proposed by Senator Reed. (consideration: CR S12322-12323; text: CR S12322) To strike subtitle C of title II relating to FHA asset disposition.
+- 2005-11-03 — Amendment SA 2400 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 298.
+- 2005-11-03 — Amendment SA 2400 proposed by Senator Cantwell. (consideration: CR S12313-12314) To ensure the payment to the Treasury of the United States of 50 percent of revenues from oil and gas leasing and production on the Coastal Plain.
+- 2005-11-03 — Amendment SA 2404 proposed by Senator Ensign to Amendment SA 2352. (consideration: CR S12292-12294) To provide assistance for elementary and secondary schools and students, and institutions of higher education, affected by Hurricane Katrina.
+- 2005-11-03 — Amendment SA 2404 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2408 not agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2408 proposed by Senator Cornyn. (consideration: CR S12325; text: CR S12325) To eliminate the converter box subsidy program.
+- 2005-11-03 — Amendment SA 2409 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 300.
+- 2005-11-03 — Amendment SA 2409 proposed by Senator Reed. (consideration: CR S12321; text: CR S12321) To strike provisions relating to reforms of targeted case management.
+- 2005-11-03 — Amendment SA 2411 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2411 proposed by Senator Gregg for Senator Feinstein. (consideration: CR S12314-12317; text: CR S12315) To authorize the continued provision of certain adult day health care services or medical adult day care services under a State Medicaid plan.
+- 2005-11-03 — Amendment SA 2412 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2412 proposed by Senator Vitter for Senator Stevens. (consideration: CR S12310; text: CR S12310) To modify the distribution of excess proceeds from the auction authorized by section 309(j)(15)(C)(v) of the Communications Act of 1934.
+- 2005-11-03 — Amendment SA 2413 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2413 proposed by Senator Gregg for Senator Warner. (consideration: CR S12314-12317; text: CR S12316) To provide additional ProGAP assistance to certain students.
+- 2005-11-03 — Amendment SA 2414 proposed by Senator Byrd. (consideration: CR S12312-12313; text: CR S12312) To provide for the suspension of the debate limitation on reconciliation legislation that causes a deficit or increases the deficit.
+- 2005-11-03 — Amendment SA 2414 ruled out of order by the chair.
+- 2005-11-03 — Amendment SA 2417 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2417 proposed by Senator Gregg for Senator Levin. (consideration: CR S12318; text: CR S12318) To establish an International Border Community Interoperable Communications Demonstration Project.
+- 2005-11-03 — Amendment SA 2418 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2418 proposed by Senator Gregg for Senator Sununu. (consideration: CR S12314-12317; text: CR S12315) To amend chapter 21 of title 38, United States Code, to enhance adaptive housing assistance for disabled veterans and to reduce the amount appropriated for the Medicaid Integrity Program by $1,000,000 for each of fiscal years 2007 through 2010.
+- 2005-11-03 — Amendment SA 2419 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2419 proposed by Senator Santorum. (consideration: CR S12320-12321; text: CR S12320) To amend title XVIII of the Social Security Act to make a technical correction regarding purchase agreements for power-driven wheelchairs under the Medicare program, to provide for coverage of ultrasound screening for abdominal aortic aneurysms under part B of such program, to improve patient access to, and utilization of, the colorectal cancer screening benefit under such program, and to provide for the coverage of marriage and family therapist services and mental health counselor services under part B of such title.
+- 2005-11-03 — Amendment SA 2420 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Amendment SA 2420 proposed by Senator Gregg for Senator Sununu. (consideration: CR S12321-12322; text: CR S12322) To convert the Digital Transition and Public Safety Fund program payment amounts into limitations, and for other purposes.
+- 2005-11-03 — Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Amendment SA 2422 proposed by Senator Conrad. (consideration: CR S12325-12326; text: CR S12325) To ensure Medicaid enrollees have access to small, independent pharmacies located in rural and frontier areas.
+- 2005-11-03 — Considered by Senate. (consideration: CR S12286)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12286, S12291-12345)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12291)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12292-12294)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12295-12302; text as modified: CR S12295-12301)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12302)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12302-12303)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12303-12305)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12305-12306)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12306-12307)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12307-12308; text as modified: CR S12307-12308)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12308)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12308-12309)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12309)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12309-12310)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12310)
+- 2005-11-03 — Considered by Senate. (consideration: CR S12310-12311)
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2351 rejected in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 283.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2355 rejected in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 286.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2356 rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 285.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2359 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 290.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2371 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 302.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2372 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 294.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2381 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 297.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2404 rejected in Senate by Yea-Nay Vote. 31 - 68. Record Vote Number: 284.
+- 2005-11-03 — Motion to waive the Budget Act with respect to amendment SA 2414 rejected in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 296.
+- 2005-11-03 — Passed Senate with amendments by Yea-Nay Vote. 52 - 47. Record Vote Number: 303.
+- 2005-11-03 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 52 - 47. Record Vote Number: 303.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2351.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2355.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2356.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2359.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2371.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2372.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2381.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2404.
+- 2005-11-03 — Point of order raised in Senate with respect to amendment SA 2414.
+- 2005-11-03 — Proposed amendment SA 2347 withdrawn in Senate.
+- 2005-11-03 — Proposed amendment SA 2366 withdrawn in Senate.
+- 2005-11-03 — Proposed amendment SA 2368 withdrawn in Senate.
+- 2005-11-03 — Proposed amendment SA 2391 withdrawn in Senate.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 299.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2357 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 287.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2358 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 288.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2360 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 292.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2362 agreed to in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 289.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2365 as modified agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 291.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2367 not agreed to in Senate by Yea-Nay Vote. 14 - 85. Record Vote Number: 295.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2370 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 293.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2396 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 301.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2400 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 298.
+- 2005-11-03 — Roll call votes on amendments in Senate: Amendment SA 2409 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 300.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2351 rejected in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 283.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2355 rejected in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 286.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2356 rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 285.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2359 rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 290.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2371 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 302.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2372 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 294.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2381 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 297.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2404 rejected in Senate by Yea-Nay Vote. 31 - 68. Record Vote Number: 284.
+- 2005-11-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2414 rejected in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 296.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2350 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2352 as modified agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2360 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 292.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2362 agreed to in Senate by Yea-Nay Vote. 83 - 16. Record Vote Number: 289.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2363 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2365 as modified agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 291.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2378 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2380 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2383 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2386 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2390 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2411 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2412 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2413 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2417 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2418 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2419 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2420 agreed to in Senate by Unanimous Consent.
+- 2005-11-03 — Senate amendment agreed to: Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 299.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2357 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 287.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2358 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 288.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2367 not agreed to in Senate by Yea-Nay Vote. 14 - 85. Record Vote Number: 295.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2370 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 293.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2396 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 301.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2400 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 298.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2408 not agreed to in Senate by Voice Vote.
+- 2005-11-03 — Senate amendment not agreed to: Amendment SA 2409 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 300.
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2348 proposed by Senator Schumer.(consideration: CR S12318-12319)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2350 proposed by Senator Gregg for Senator Murray.(consideration: CR S12314-12317; text: CR S12314)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2363 proposed by Senator Harkin.(consideration: CR S12311-12312; text: CR S12311-12312)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2371 proposed by Senator Snowe.(consideration: CR S12323-12325; text: CR S12324)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2378 proposed by Senator Gregg for Senator Specter.(consideration: CR S12314-12317; text: CR S12314-12315)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2380 proposed by Senator Gregg for Senator Lieberman.(consideration: CR S12321-12322; text as modified: CR S12321)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2381 proposed by Senator Lautenberg.(consideration: CR S12313)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2383 proposed by Senator Baucus.(consideration: CR S12317-12318; text: CR S12317-12318)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2386 proposed by Senator Gregg for Senator Sununu.(consideration: CR S12321-12322; text: CR S12322)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2390 proposed by Senator Smith.(consideration: CR S12323; text: CR S12323)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2391 proposed by Senator Hagel.(consideration: CR S12319-12320; text: CR S12319-12320)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2396 proposed by Senator Reed.(consideration: CR S12322-12323; text: CR S12322)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2400 proposed by Senator Cantwell.(consideration: CR S12313-12314)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2404 proposed by Senator Ensign to Amendment SA 2352.(consideration: CR S12292-12294)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2408 proposed by Senator Cornyn.(consideration: CR S12325; text: CR S12325)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2409 proposed by Senator Reed.(consideration: CR S12321; text: CR S12321)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2411 proposed by Senator Gregg for Senator Feinstein.(consideration: CR S12314-12317; text: CR S12315)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2412 proposed by Senator Vitter for Senator Stevens.(consideration: CR S12310; text: CR S12310)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2413 proposed by Senator Gregg for Senator Warner.(consideration: CR S12314-12317; text: CR S12316)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2414 proposed by Senator Byrd.(consideration: CR S12312-12313; text: CR S12312)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2417 proposed by Senator Gregg for Senator Levin.(consideration: CR S12318; text: CR S12318)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2418 proposed by Senator Gregg for Senator Sununu.(consideration: CR S12314-12317; text: CR S12315)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2419 proposed by Senator Santorum.(consideration: CR S12320-12321; text: CR S12320)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2420 proposed by Senator Gregg for Senator Sununu.(consideration: CR S12321-12322; text: CR S12322)
+- 2005-11-03 — Senate amendment proposed (on the floor): Amendment SA 2422 proposed by Senator Conrad.(consideration: CR S12325-12326; text: CR S12325)
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
+- 2005-11-03 — Senate amendment submitted
