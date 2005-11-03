@@ -1,7 +1,7 @@
 ---
 measure: S. 1932
 congress: 109
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,132 amendatory instructions. 0 executed, 1,132 stated and not applied.
+1,239 amendatory instructions. 0 executed, 1,239 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,8 +57,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “The conservation” and inserting “For fiscal years 2002 through 2011, the conservation”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1238A(a) of the Food Security Act of 1985 (16 U.S.C. 3838a(a)) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1241(a)(3) of the Food Security Act of 1985 (16 U.S.C. 3841(a)(3)) is amended by striking “not more than $6,037,000,000” and all that follows through “2014.” and inserting the following: “not more than— | the bill names no machine-readable US Code section |
-| — | replace | Section 1240B(a)(1) of the Food Security Act of 1985 (16 U.S.C. 3839aa-2(a)(1)) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1240G of the Food Security Act of 1985 (16 U.S.C. 3839aa-7) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1240B(a)(1) of the Food Security Act of 1985 (16 U.S.C. 3839aa–2(a)(1)) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1240G of the Food Security Act of 1985 (16 U.S.C. 3839aa–7) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1241(a)(6) of the Food Security Act of 1985 (16 U.S.C. 3841(a)(6)) is amended by striking subparagraphs (D) and (E) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking “$160,000,000; and” and inserting “$104,000,000;”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (E); | the bill names no machine-readable US Code section |
@@ -174,8 +174,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | The paragraph designated the “Eleventh” of section 5136 of the Revised Statutes of the United States (12 U.S.C. 24) is amended in the 5th sentence, by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”. | the bill names no machine-readable US Code section |
 | — | replace | The 23d undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 338a) is amended in the 4th sentence, by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”. | the bill names no machine-readable US Code section |
 | — | replace | Section 10B(b)(3)(A)(ii) of the Federal Reserve Act (12 U.S.C. 347b(b)(3)(A)(ii)) is amended by striking “any deposit insurance fund in” and inserting “the Deposit Insurance Fund of”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “Federal Deposit Insurance Corporation, Savings Association Insurance Fund;”. | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading, by striking “SAIF” and inserting “the Deposit Insurance Fund”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Savings Association Insurance Fund” each place that term appears and inserting “Deposit Insurance Fund”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f)(2), by striking “, except that” and all that follows through the end of the paragraph and inserting a period; and | the bill names no machine-readable US Code section |
@@ -227,9 +225,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), as redesignated, by striking “penalty of not more than $100” and inserting “penalty in an amount of not more than 1 percent of the amount of the assessment due”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting new paragraphs (2) and (3) as follows: | the bill names no machine-readable US Code section |
 | — | replace | Clause (i) of section 7(b)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)(A)) is amended by striking “necessary—” and all that follows through the period at the end and inserting “necessary.”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 204(a) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z-11a(a)) is amended by adding at the end the following: “A grant provided under th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 204(a) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z–11a(a)) is amended by adding at the end the following: “A grant provided under th… | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (4); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (5) through (9) as paragraphs (4) through (8), respectively. | the bill names no machine-readable US Code section |
+| — | insert | Chapter 21 of title 38, United States Code, is amended by inserting after section 2102 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “The assistance authorized by section 2101(a)” and all that follows through “any one case—” and inserting “Subject to subsection (d), the assistance authorized under section 2101(a) of this title shall be a… | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter of such title is amended by inserting after the item relating to section 2102 the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “December 31, 2006.” in subparagraph (A) and inserting “April 7, 2009.”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
 | — | strike | by striking “or (B)” in subparagraph (C)(i)(I); | the bill names no machine-readable US Code section |
@@ -246,7 +249,13 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in subclause (II), by adding “and” at the end; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1927(k)(1)(B)(ii)(IV) (42 U.S.C. 1396r–8(k)(1)(B)(ii)(IV)), as added by paragraph (1)(C), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | in clause (xi), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in clause (xii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 1927(j)(1) (42 U.S.C. 1396r–8(j)91)) is amended by inserting “other than for purposes of collection of rebates for the dispensing of such drugs in accordance with the provisions of a contract under section 1903(m) that meets the … | the bill names no machine-readable US Code section |
 | — | amend | Section 1927(e) (42 U.S.C. 1396r–8(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 1927(c)(1)(B)(i)(VI) (42 U.S.C. 1396r–8(c)(1)(B)(i)(VI), as added by section 6002(a)(3), is amended by striking “17” and inserting “18.1”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1927(b)(3)(D)(i) (42 U.S.C. 1396r–8(b)(3)(D)(i)) is amended by inserting “(including with respect to the determination of weighted average manufacturer prices under subsection (e)(2) and the distribution of weighted average manuf… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “or” at the end and inserting “and”; and | the bill names no machine-readable US Code section |
@@ -309,6 +318,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 1903(w)(7)(A)(viii) (42 U.S.C. 1396b(w)(7)(A)(viii)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1905(a)(5)(A) (42 U.S.C. 1396d(a)(5)(A)) is amended by striking “section 1861(r)(1)” and inserting “paragraphs (1) and (3) of section 1861(r)”. | the bill names no machine-readable US Code section |
 | — | replace | The table in section 1923(f)(2) (42 U.S.C. 1396r–4(f)(2)) is amended under each of the columns for FY 00, FY 01, and FY 02, in the entry for the District of Columbia, by striking “32” and inserting “49”. | the bill names no machine-readable US Code section |
+| — | repeal | Effective as of October 1, 2006, this section is repealed and shall not apply to any fiscal year after fiscal year 2006. | the bill names no machine-readable US Code section |
+| — | replace | Section 1927(j)(1) (42 U.S.C. 1396r–8(j)(1)) is amended by striking “dispensed” and all that follows through the period and inserting “are not subject to the requirements of this section if such drugs are— | the bill names no machine-readable US Code section |
+| — | replace | Section 6112(b)(1) of this Act is amended by striking “September 22, 2006” and inserting “September 21, 2006”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1927(c)(1)(B)(i)(VI) (42 U.S.C. 1396r–8(c)(1)(B)(i)(VI)), as added by section 6002(a)(3), is amended by striking “17” and inserting “17.8”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subclause (XVII); | the bill names no machine-readable US Code section |
 | — | amend | by adding “or” at the end of subclause (XVIII); and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
@@ -412,6 +425,52 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “and (G)” and inserting “(G)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “, and (H) in the case of services described in section 1861(aa)(3) that are furnished by a health care professional under contract with a Federally qualified health center, paymen… | the bill names no machine-readable US Code section |
 | — | strike | Clauses (i) and (ii)(II) of section 1861(aa)(4)(A) (42 U.S.C. 1395x(aa)(4)(A)) are each amended by striking “(other than subsection (h))”. | the bill names no machine-readable US Code section |
+| — | replace | in clause (i)(I), by striking “Payment” and inserting “Except as provided in clause (iii), payment”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of subparagraph (Y); | the bill names no machine-readable US Code section |
+| — | amend | by adding “and” at the end of subparagraph (Z); and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1861(ww)(2) (42 U.S.C. 1395x(ww)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 1848(j)(3) (42 U.S.C. 1395w–4(j)(3)) is amended by inserting “(2)(AA),” after “(2)(W),”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of subparagraph (L); | the bill names no machine-readable US Code section |
+| — | replace | by striking the semicolon at the end of subparagraph (M) and inserting “, and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “and (6)” and inserting “(6)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, and (7) such deductible shall not apply with respect to ultrasound screening for abdominal aortic aneurysm (as defined in section 1861(bbb))” before the period at the end. | the bill names no machine-readable US Code section |
+| — | amend | Section 1834(d) (42 U.S.C. 1395m(d)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (Z), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (AA), by inserting “and” at the end; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” before “(V)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the semicolon at the end the following: “, and (W) with respect to an outpatient office visit or consultation under section 1861(s)(2)(BB), the amounts paid shall be 80 percent of the lesser of the actual charge or th… | the bill names no machine-readable US Code section |
+| — | insert | Section 1848(j)(3) (42 U.S.C. 1395w–4(j)(3)), as amended by section 6117, is amended by inserting “(2)(BB),” after “(2)(AA),”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1834(d) (42 U.S.C. 1395m(d)), as amended by subsection (a), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” before “(7)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period at the end the following: “, and (8) such deductible shall not apply with respect to colorectal cancer screening tests (as described in section 1861(pp)(1))”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “deductible and” in the heading; and | the bill names no machine-readable US Code section |
+| — | strike | in subclause (I), by striking “deductible or” each place it appears. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (AA), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (BB), by inserting “and” after the semicolon at the end; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 1861 (42 U.S.C. 1395x), as amended by section 6117, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1832(a)(2)(B) (42 U.S.C. 1395k(a)(2)(B)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | by striking “and (W)” and inserting “(W)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the semicolon at the end the following: “, and (X) with respect to marriage and family therapist services and mental health counselor services under section 1861(s)(2)(CC), the amounts paid shall be 80 percent of the … | the bill names no machine-readable US Code section |
+| — | insert | Section 1888(e)(2)(A)(ii) (42 U.S.C. 1395yy(e)(2)(A)(ii)) is amended by inserting “marriage and family therapist services (as defined in section 1861(ccc)(1)), mental health counselor services (as defined in section 1861(ccc)(3)),” after… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1842(b)(18)(C) (42 U.S.C. 1395u(b)(18)(C)) is amended by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | replace | Section 1861(aa)(1)(B) (42 U.S.C. 1395x(aa)(1)(B)) is amended by striking “or by a clinical social worker (as defined in subsection (hh)(1)),” and inserting “, by a clinical social worker (as defined in subsection (hh)(1)), by a marriage… | the bill names no machine-readable US Code section |
+| — | insert | Section 1861(dd)(2)(B)(i)(III) (42 U.S.C. 1395x(dd)(2)(B)(i)(III)) is amended by inserting “or one marriage and family therapist (as defined in subsection (bbb)(2))” after “social worker”. | the bill names no machine-readable US Code section |
+| — | strike | in clause (vi), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in clause (vii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | strike | in clause (v), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (vi) as clause (vii); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (v) the following new clause: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d)(2), by inserting “experts in minority health,” after “government agencies,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a) is further amended by adding after section 401A (as added by section 7101): | the bill names no machine-readable US Code section |
 | — | replace | in clause (i)(I), by striking “$2,625” and inserting “$3,500”; and | the bill names no machine-readable US Code section |
@@ -748,7 +807,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 404A(b)(1), by striking “404H” and inserting “404G”; | the bill names no machine-readable US Code section |
 | — | replace | in section 404B(a)(1), by striking “404H” and inserting “404G”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 404F(c) (as redesignated by subsection (f)(2)), by striking “404H” and inserting “404G”. | the bill names no machine-readable US Code section |
-| — | repeal | Chapter 3 of subpart 2 of part A of title IV (20 U.S.C. 1070a-31 et seq.) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Chapter 3 of subpart 2 of part A of title IV (20 U.S.C. 1070a–31 et seq.) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 413A(b)(1) (20 U.S.C. 1070b(b)(1)) is amended by striking “$675,000,000 for fiscal year 1999” and all that follows through the period and inserting “such sums as may be necessary for fiscal year 2006 and each of the 5 succeeding … | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (a)(4); and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(3)(D), by striking “$450” and inserting “$600”. | the bill names no machine-readable US Code section |
@@ -850,6 +909,10 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after paragraph (2) (as redesignated by subparagraph (C)) the following paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “is an orphan or ward of the court” and inserting “is an orphan, in foster care, or ward of the court or was in foster care”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (7) as paragraph (8); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence of subsection (a)(2), by inserting “and that measures program length in credit hours or clock hours” after “baccalaureate degree”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 482 (20 U.S.C. 1089) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1153,6 +1216,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking ”the Navajo Community College“ each place it appears and inserting ”Diné College“; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “college” and inserting “College”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7 of the Navajo Community College Act (25 U.S.C. 640c–3) is amended by striking ”the Navajo Community College“ each place it appears and inserting ”Diné College“. | the bill names no machine-readable US Code section |
+| — | repeal | Sections 438(c) and 455(c) of the Higher Education Act of 1965 (20 U.S.C. 1087–1(c), 1087e(c)) are repealed. | the bill names no machine-readable US Code section |
 | — | replace | by striking “is the difference” and inserting “is the sum of— | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting the following: “; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1163,3 +1227,46 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (8) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)) is amended by inserting “, including those fees provided for in subparagraphs (E) and (F) of section 204(a)(1) and subsections (c)(15) and (g)(9)(B) of section 214,… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 214(c) of the Immigration and Nationality Act (8 U.S.C. 1184(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (4) as so redesignated the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 247 is amended by inserting after section 24701 the following: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for chapter 247 is amended by inserting after the item relating to section 24701 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 24706 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 24302 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 24308 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Interstate Commerce Commission” in subsection (a)(2)(A) and inserting “Surface Transportation Board”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Commission” each place it appears and inserting “Board”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Secretary” the last 3 places it appears in subsection (c) and each place it appears in subsections (d) and (e) and inserting “Board”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 247 is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for chapter 247 is amended by inserting after the item relating to section 24709 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 247, as amended by section 209, is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for chapter 247, as amended by section 209, is amended by inserting after the item relating to section 24710 the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 24905 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by striking the last sentence of section 24101(d); and | the bill names no machine-readable US Code section |
+| — | strike | by striking the last sentence of section 24104(a). | the bill names no machine-readable US Code section |
+| — | strike | Title II of the Amtrak Reform and Accountability Act of 1997 (49 U.S.C. 24101 nt) is amended by striking sections 204 and 205. | the bill names no machine-readable US Code section |
+| — | strike | Section 415 of the Amtrak Reform and Accountability Act of 1997 (49 U.S.C. 24304 nt) is amended by striking subsection (b). | the bill names no machine-readable US Code section |
+| — | insert | Chapter 243 is amended by inserting after section 24309 the following: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for chapter 243 is amended by inserting after the item relating to section 24309 the following: | the bill names no machine-readable US Code section |
+| — | insert | Part C of subtitle V is amended by inserting the following after chapter 243: | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters for the title is amended by inserting the following after the item relating to chapter 243: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for subtitle V is amended by inserting the following after the item relating to chapter 243: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part B of subtitle V is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters for the title is amended by inserting the following after the item relating to chapter 223: | the bill names no machine-readable US Code section |
+| — | insert | The chapter analysis for subtitle V is amended by inserting the following after the item relating to chapter 223: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “In General.—” before “The Federal” in subsection (a); | the bill names no machine-readable US Code section |
+| — | strike | by striking the second and third sentences of subsection (a); | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Administrator.—” before “The head” in subsection (b); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively and by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting “Powers and Duties.—” before “The” in subsection (d), as redesignated; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking “and” after the semicolon in paragraph (1) of subsection (d), as redesignated; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) of subsection (d), as redesignated, as paragraph (3) and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting “Transfers of Duty.—” before “A duty” in subsection (e), as redesignated; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting “Contracts, grants, leases, cooperative agreements, and similar transactions.—” before “Subject” in subsection (f), as redesignated; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking the last sentence in subsection (f), as redesignated; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 249 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The chapter analysis for chapter 249 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 243 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The chapter analysis for chapter 243 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
