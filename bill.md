@@ -17,46 +17,62 @@ This Act may be cited as the “Secure Access to Justice and Court Protection Ac
 
 Section 115 of title 18, United States Code, is amended—
 
-- **(1)** in subsection (a)(1)(B), by inserting “assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or” after “(B)”; and
+- **(1)** in each of subparagraphs (A) and (B) of subsection (a)(1), by inserting “federally funded public safety officer (as defined for the purposes of section 1123)” after “Federal law enforcement officer,”;
 - **(2)** so that subsection (b) reads as follows:
   > - **(b)**
-  >   - **(1)** The punishment for an assault in violation of this section is a fine under this title and—
-  >     - **(A)** if the assault consists of a simple assault, a term of imprisonment for not more than one year, or both;
-  >     - **(B)** if the assault resulted in bodily injury (as defined in section 1365), a term of imprisonment for not less than 5 nor more than 20 years;
-  >     - **(C)** if the assault resulted in serious bodily injury (as defined in section 1365), a term of imprisonment for any term of years not less than 10 or life;
-  >     - **(D)** if a dangerous weapon was used or possessed during and in relation to the offense, a term of imprisonment for any term of years not less than 15 nor life; and
-  >     - **(E)** in any other case, not less than 2 nor more than 10 years.
-  >   - **(2)** The punishment for a kidnaping, attempted kidnapping, or conspiracy to kidnap in violation of this section is a fine under this title and imprisonment for any term of years not less than 30, or for life.
-  >   - **(3)** The punishment for a murder, attempted murder, or conspiracy to murder in violation of this section is a fine under this title and imprisonment for any term of years not less than 30, or for life, or the death penalty.
-  >   - **(4)** A threat made in violation of this section shall be punished by a fine under this title and imprisonment for a term of not less than 5 years nor more than 20 years.
-  >   - **(5)** Each punishment for criminal conduct under this section shall be in addition to any other punishment, whether imposed for a conviction under this section or otherwise, for other criminal conduct during the same criminal episode.
+  >   - **(1)** Except as provided in paragraph (2), the punishment for an offense under this section is as follows:
+  >     - **(A)** The punishment for an assault in violation of this section is the same as that provided for a like offense under section 111.
+  >     - **(B)** The punishment for a kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section is the same as provided for a like violation in section 1201.
+  >     - **(C)** The punishment for a murder, attempted murder, or conspiracy to murder in violation of this section is the same as provided for a like offense under section 1111, 1113, and 1117.
+  >     - **(D)** A threat made in violation of this section shall be punished by a fine under this title or imprisonment for not more than 10 years, or both.
+  >   - **(2)** If the victim of the offense under this section is an immediate family member of a United States judge, a Federal law enforcement officer (as defined for the purposes of section 1114) or of a federally funded public safety officer (as defined for the purposes of section 1123), in lieu of the punishments otherwise provided by paragraph (1), the punishments shall be as follows:
+  >     - **(A)** The punishment for an assault in violation of this section is as follows:
+  >       - **(i)** If the assault is a simple assault, a fine under this title or a term of imprisonment for not more than one year, or both.
+  >       - **(ii)** If the assault resulted in bodily injury (as defined in section 1365), a fine under this title and a term of imprisonment for not less than one year nor more than 10 years.
+  >       - **(iii)** If the assault resulted in substantial bodily injury (as defined in section 113), a fine under this title and a term of imprisonment for not less than 3 years nor more than 12 years.
+  >       - **(iv)** If the assault resulted in serious bodily injury (as defined in section 2119), a fine under this title and a term of imprisonment for not less than 10 years nor more than 30 years.
+  >     - **(B)** The punishment for a kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section is a fine under this title and imprisonment for any term of years not less than 30, or for life.
+  >     - **(C)** The punishment for a murder, attempted murder, or conspiracy to murder in violation of this section is a fine under this title and imprisonment for any term of years not less than 30, or for life, or, if death results, the offender may be sentenced to death.
+  >     - **(D)** A threat made in violation of this section shall be punished by a fine under this title and imprisonment for not less than one year nor more than 10 years.
+  >     - **(E)** If a dangerous weapon was used during and in relation to the offense, the punishment shall include a term of imprisonment of 5 years in addition to that otherwise imposed under this paragraph.
 
-## § 3. Protection of federally funded public safety officers
+## § 3. Penalties for certain assaults
+
+- **(a)** *Inclusion of federally funded public safety officers* Section 111(a) of title 18, United States Code, is amended—
+  - **(1)** in paragraph (1), by inserting “or a federally funded public safety officer (as defined in section 1123)” after “1114 of this title”; and
+  - **(2)** in paragraph (2), by inserting “or a federally funded public safety officer (as defined in section 1123)” after “1114”.
+- **(b)** *Alternate penalty where victim is a United States judge, a Federal law enforcement officer, or federally funded public safety officer* Section 111 of title 18, United States Code, is amended by adding at the end the following:
+  > - **(c)** *Alternate penalty where victim is a United States judge, a Federal law enforcement officer, or federally funded public safety officer*
+  >   - **(1)** Except as provided in paragraph (2), if the offense is an assault and the victim of the offense under this section is a United States judge, a Federal law enforcement officer (as defined for the purposes of section 1114) or of a federally funded public safety officer (as defined for the purposes of section 1123), in lieu of the penalties otherwise set forth in this section, the offender shall be subject to a fine under this title and—
+  >     - **(A)** If the assault is a simple assault, a fine under this title or a term of imprisonment for not more than one year, or both.
+  >     - **(B)** if the assault resulted in bodily injury (as defined in section 1365), shall be imprisoned not less than one nor more than 10 years;
+  >     - **(C)** if the assault resulted in substantial bodily injury (as defined in section 113), shall be imprisoned not less than 3 nor more than 12 years; and
+  >     - **(D)** if the assault resulted in serious bodily injury (as defined in section 2119), shall be imprisoned not less than 10 nor more than 30 years.
+  >   - **(2)** If a dangerous weapon was used during and in relation to the offense, the punishment shall include a term of imprisonment of 5 years in addition to that otherwise imposed under this subsection.
+
+## § 4. Protection of federally funded public safety officers
 
 - **(a)** *Offense* Chapter 51 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 1123. Killing of federally funded public safety officers
   >
-  > - **(a)** *Offense* Whoever kills, or attempts or conspires to kill, a federally funded public safety officer while that officer is engaged in official duties, or arising out of the performance of official duties, or kills a former federally funded public safety officer arising out of the performance of official duties, shall be punished as is provided in this chapter for the like offense against a person designated in section 1114. Any other killing or attempted killing or conspiracy to kill that occurs in the same criminal episode shall also be subject to the punishment provided in this chapter for the like offense against a person designated in section 1114.
-  > - **(b)** *Definition* As used in this section—
-  >   - **(1)** the term “federally funded public safety officer” means a public safety officer for a public agency (including a court system) that receives Federal financial assistance, of an entity that is a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States, an Indian tribe, or a unit of local government of that entity;
-  >   - **(2)** the term “public safety officer” means an individual serving a public agency in an official capacity, with or without compensation, as a judicial officer, as a firefighter, as a chaplain, or as a member of a rescue squad or ambulance crew;
-  >   - **(3)** the term “judicial officer” means a judge or other officer or employee of a court, including prosecutors, court security, and corrections, probation, and parole officers; and
-  >   - **(4)** the term “firefighter” includes an individual serving as an official recognized or designated member of a legally organized volunteer fire department and an officially recognized or designated public employee member of a rescue squad or ambulance crew.
+  > - **(a)** Whoever kills, or attempts or conspires to kill, a federally funded public safety officer while that officer is engaged in official duties, or arising out of the performance of official duties, or kills a former federally funded public safety officer arising out of the performance of official duties, shall be punished by a fine under this title and imprisonment for any term of years not less than 30, or for life, or, if death results, may be sentenced to death.
+  > - **(b)** As used in this section—
+  >   - **(1)** the term “federally funded public safety officer” means a public safety officer for a public agency (including a court system, the National Guard of a State to the extent the personnel of that National Guard are not in Federal service, and the defense forces of a State authorized by section 109 of title 32) that receives Federal financial assistance, of an entity that is a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States, an Indian tribe, or a unit of local government of that entity;
+  >   - **(2)** the term “public safety officer” means an individual serving a public agency in an official capacity, as a judicial officer, as a law enforcement officer, as a firefighter, as a chaplain, or as a member of a rescue squad or ambulance crew;
+  >   - **(3)** the term “judicial officer” means a judge or other officer or employee of a court, including prosecutors, court security, pretrial services officers, court reporters, and corrections, probation, and parole officers; and
+  >   - **(4)** the term “firefighter” includes an individual serving as an official recognized or designated member of a legally organized volunteer fire department and an officially recognized or designated public employee member of a rescue squad or ambulance crew; and
+  >   - **(5)** the term “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the laws.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 51 of title 18, United States Code, is amended by adding at the end the following new item:
 
-## § 4. General modifications of Federal murder crime and related crimes
+## § 5. General modifications of Federal murder crime and related crimes
 
-- **(a)** *Murder amendments* Section 1111 of title 18, United States Code, is amended—
-  - **(1)** in subsection (b), by inserting “not less than 30” after “any term of years”; and
-  - **(2)** in subsection (c), by striking paragraph (4).
+- **(a)** *Murder amendments* Section 1111 of title 18, United States Code, is amended in subsection (b), by inserting “not less than 30” after “any term of years”.
 - **(b)** *Manslaughter amendments* Section 1112(b) of title 18, United States Code, is amended—
   - **(1)** by striking “ten years” and inserting “20 years”; and
   - **(2)** by striking “six years” and inserting “10 years”.
-- **(c)** *Attempt amendment* Section 1113 of title 18, United States Code, is amended by striking “shall, for an attempt to commit murder” and all that follows through the period at the end of the section and inserting “shall be punished as is provided for a completed offense.”
-- **(d)** *Conspiracy amendment* Section 1117 of title 18, United States Code, is amended by striking “by imprisonment for any term of years or for life” and inserting “as is provided for the violation which is the object of the conspiracy”.
 
-## § 5. Modification of definition of offense and of the penalties for, influencing or injuring officer or juror generally
+## § 6. Modification of definition of offense and of the penalties for, influencing or injuring officer or juror generally
 
 Section 1503 of title 18, United States Code, is amended—
 
@@ -68,86 +84,45 @@ Section 1503 of title 18, United States Code, is amended—
   >     - **(C)** corruptly, or by threats of force or force, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice;
   >   - **(2)** As used in this section, the term “juror or officer in a judicial proceeding” means a grand or petit juror, or other officer in or of any court of the United States, or an officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate.
 
-- **(2)** in subsection (b)—
-  - **(A)** in paragraph (2)—
-    - **(i)** by striking “class A or B”; and
-    - **(ii)** by striking “not more than 20 years, a fine under this title, or both” and inserting “for any term of years not less than 20, or for life, and a fine under this title”; and
-  - **(B)** so that paragraph (3) reads as follows:
-    > - **(3)** in any other case, a fine under this title and imprisonment for not less than 10 years nor more than 30 years.
+- **(2)** in subsection (b), by striking paragraphs (1) through (3) and inserting the following:
+  > - **(1)** in the case of a killing, or an attempt or a conspiracy to kill, the punishment provided in section 1111, 1112, 1113, and 1117; and
+  > - **(2)** in any other case, a fine under this title and imprisonment for not more than 30 years.
 
-## § 6. Modification of tampering with a witness, victim, or an informant offense
+## § 7. Modification of tampering with a witness, victim, or an informant offense
 
 - **(a)** *Changes in penalties* Section 1512 of title 18, United States Code, is amended—
-  - **(1)** in subsection (a)(3)—
-    - **(A)** by striking subparagraph (B); and
-    - **(B)** in subparagraph (C), by striking “not more than 10 years” and inserting “not less than 5 years nor more than 20 years”;
-  - **(2)** in subsection (b), by striking “or imprisoned not more than ten years, or both” and inserting “not less than 5 years nor more than 20 years”;
-  - **(3)** in subsection (c), by striking “or imprisoned not more than twenty years, or both” and inserting “and imprisoned not less than 5 years nor more than 20 years”;
-  - **(4)** in subsection (d), by striking “or imprisoned not more than one year, or both” and inserting “and imprisoned not less than 5 years nor more than 20 years”; and
-  - **(5)** in subsection (k)—
-    - **(A)** by inserting “attempts or” before “conspires”; and
-    - **(B)** by inserting “attempted or” before “the commission”.
+  - **(1)** in each of paragraphs (1) and (2) of subsection (a), insert “or conspires” after “attempts”;
+  - **(2)** so that subparagraph (A) of subsection (a)(3) reads as follows:
+    > - **(A)** in the case of a killing, the punishment provided in sections 1111 and 1112;
 
-## § 7. Modification of retaliation offense
+  - **(3)** in subsection (a)(3)—
+    - **(A)** in the matter following clause (ii) of subparagraph (B) by striking “20 years” and inserting “30 years” ; and
+    - **(B)** in subparagraph (C), by striking “10 years” and inserting “20 years”;
+  - **(4)** in subsection (b), by striking “ten years” and inserting “30 years”; and
+  - **(5)** in subsection (d), by striking “one year” and inserting “20 years”.
+
+## § 8. Modification of retaliation offense
 
 Section 1513 of title 18, United States Code, is amended—
 
-- **(1)** in subsection (a)(1)(B)—
+- **(1)** in subsection (a)(1), by inserting “or conspires” after “attempts”;
+- **(2)** in subsection (a)(1)(B)—
   - **(A)** by inserting a comma after “probation”; and
   - **(B)** by striking the comma which immediately follows another comma;
-- **(2)** in subsection (a)(2), by striking subparagraph (B);
-- **(3)** in subsection (b), by striking “or imprisoned not more than ten years, or both” and inserting “and imprisoned not less than 10 years nor more than 30 years”;
-- **(4)** in the first subsection (e), by striking “or imprisoned not more than 10 years, or both” and inserting “and imprisoned not less than 10 years nor more than 30 years”;
-- **(5)** by redesignating the second subsection (e) as subsection (f); and
-- **(6)** in subsection (f) as so redesignated by paragraph (5)—
-  - **(A)** by inserting “attempts or” before “conspires”; and
-  - **(B)** by inserting “attempted or” before “the commission”.
+- **(3)** in subsection (a)(2)(B), by striking “20 years” and inserting “30 years”;
+- **(4)** in subsection (b), by striking “ten years” and inserting “30 years”;
+- **(5)** in the first subsection (e), by striking “10 years” and inserting “30 years”; and
+- **(6)** by redesignating the second subsection (e) as subsection (f).
 
-## § 8. Inclusion of intimidation and retaliation against witnesses in State prosecutions as basis for Federal prosecution
+## § 9. Inclusion of intimidation and retaliation against witnesses in State prosecutions as basis for Federal prosecution
 
 Section 1952 of title 18, United States Code, is amended in subsection (b)(2), by inserting “intimidation of, or retaliation against, a witness, victim, juror, or informant,” after “extortion, bribery,”.
 
-## § 9. Clarification of venue for retaliation against a witness
+## § 10. Clarification of venue for retaliation against a witness
 
 Section 1513 of title 18, United States Code, is amended by adding at the end the following:
 
-> - **(g)** A prosecution under this section may be brought in the district in which the official proceeding (whether or not pending, about to be instituted or was completed) was intended to be affected or was completed, or in which the conduct constituting the alleged offense occurred.
-
-## § 10. Ensuring fair and expeditious Federal collateral review of convictions for killing a State judge or other public safety officer
-
-- **(a)** *Limits on cases* Section 2254 of title 28, United States Code, is amended by adding at the end the following:
-  > - **(j)**
-  >   - **(1)** A court, justice, or judge shall not have jurisdiction to consider any claim relating to the judgment or sentence in an application described under paragraph (2), unless the applicant shows that the claim qualifies for consideration on the grounds described in subsection (e)(2). Any such application that is presented to a court, justice, or judge other than a district court shall be transferred to the appropriate district court for consideration or dismissal in conformity with this subsection, except that a court of appeals panel must authorize any second or successive application in conformity with section 2244 before any consideration by the district court.
-  >   - **(2)** This subsection applies to an application for a writ of habeas corpus on behalf of a person in custody pursuant to the judgment of a State court for a crime that involved the killing of a public safety officer while the public safety officer was engaged in the performance of official duties, or arising out of the public safety officer’s performance of official duties or status as a public safety officer.
-  >   - **(3)** For an application described in paragraph (2), the following requirements shall apply in the district court:
-  >     - **(A)** Any motion by either party for an evidentiary hearing shall be filed and served not later than 90 days after the State files its answer or, if no timely answer is filed, the date on which such answer is due.
-  >     - **(B)** Any motion for an evidentiary hearing shall be granted or denied not later than 30 days after the date on which the party opposing such motion files a pleading in opposition to such motion or, if no timely pleading in opposition is filed, the date on which such pleading in opposition is due.
-  >     - **(C)** Any evidentiary hearing shall be—
-  >       - **(i)** convened not less than 60 days after the order granting such hearing; and
-  >       - **(ii)** completed not more than 150 days after the order granting such hearing.
-  >     - **(D)** A district court shall enter a final order, granting or denying the application for a writ of habeas corpus, not later than 15 months after the date on which the State files its answer or, if no timely answer is filed, the date on which such answer is due, or not later than 60 days after the case is submitted for decision, whichever is earlier.
-  >     - **(E)** If the district court fails to comply with the requirements of this paragraph, the State may petition the court of appeals for a writ of mandamus to enforce the requirements. The court of appeals shall grant or deny the petition for a writ of mandamus not later than 30 days after such petition is filed with the court.
-  >   - **(4)** For an application described in paragraph (2), the following requirements shall apply in the court of appeals:
-  >     - **(A)** A timely filed notice of appeal from an order issuing a writ of habeas corpus shall operate as a stay of that order pending final disposition of the appeal.
-  >     - **(B)** The court of appeals shall decide the appeal from an order granting or denying a writ of habeas corpus—
-  >       - **(i)** not later than 120 days after the date on which the brief of the appellee is filed or, if no timely brief is filed, the date on which such brief is due; or
-  >       - **(ii)** if a cross-appeal is filed, not later than 120 days after the date on which the appellant files a brief in response to the issues presented by the cross-appeal or, if no timely brief is filed, the date on which such brief is due.
-  >     - **(C)**
-  >       - **(i)** Following a decision by a panel of the court of appeals under subparagraph (B), a petition for panel rehearing is not allowed, but rehearing by the court of appeals en banc may be requested. The court of appeals shall decide whether to grant a petition for rehearing en banc not later than 30 days after the date on which the petition is filed, unless a response is required, in which case the court shall decide whether to grant the petition not later than 30 days after the date on which the response is filed or, if no timely response is filed, the date on which the response is due.
-  >       - **(ii)** If rehearing en banc is granted, the court of appeals shall make a final determination of the appeal not later than 120 days after the date on which the order granting rehearing en banc is entered.
-  >     - **(D)** If the court of appeals fails to comply with the requirements of this paragraph, the State may petition the Supreme Court or a justice thereof for a writ of mandamus to enforce the requirements.
-  >   - **(5)**
-  >     - **(A)** The time limitations under paragraphs (3) and (4) shall apply to an initial application described in paragraph (2), any second or successive application described in paragraph (2), and any redetermination of an application described in paragraph (2) or related appeal following a remand by the court of appeals or the Supreme Court for further proceedings.
-  >     - **(B)** In proceedings following remand in the district court, time limits running from the time the State files its answer under paragraph (3) shall run from the date the remand is ordered if further briefing is not required in the district court. If there is further briefing following remand in the district court, such time limits shall run from the date on which a responsive brief is filed or, if no timely responsive brief is filed, the date on which such brief is due.
-  >     - **(C)** In proceedings following remand in the court of appeals, the time limit specified in paragraph (4)(B) shall run from the date the remand is ordered if further briefing is not required in the court of appeals. If there is further briefing in the court of appeals, the time limit specified in paragraph (4)(B) shall run from the date on which a responsive brief is filed or, if no timely responsive brief is filed, from the date on which such brief is due.
-  >   - **(6)** The failure of a court to meet or comply with a time limitation under this subsection shall not be a ground for granting relief from a judgment of conviction or sentence, nor shall the time limitations under this subsection be construed to entitle a capital applicant to a stay of execution, to which the applicant would otherwise not be entitled, for the purpose of litigating any application or appeal.
-  >   - **(7)** In this subsection—
-  >     - **(A)** the term public safety officer has the meaning given such term in section 1123 of title 18 and also includes a law enforcement officer; and
-  >     - **(B)** the term “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the laws, including police, prosecutors, corrections, probation, parole, and judicial officers.
-
-- **(b)** *Application to pending cases*
-  - **(1)** *In general* The amendment made by subsection (a) applies to cases pending on the date of the enactment of this Act as well as to cases commenced on and after that date.
-  - **(2)** *Special rule for time limits* In a case pending on the date of the enactment of this Act, if the amendment made by subsection (a) provides that a time limit runs from an event or time that has occurred before that date, the time limit shall instead run from that date.
+> - **(g)** A prosecution under this section may be brought in the district in which the official proceeding (whether or not pending, about to be instituted or completed) was intended to be affected or was completed, or in which the conduct constituting the alleged offense occurred.
 
 ## § 11. Witness protection grant program
 
@@ -157,7 +132,7 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968 is amended by 
 
 - **(a)** *In general* Section 31702 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13862) is amended—
   - **(1)** in paragraph (3), by striking “and” at the end;
-  - **(2)** in paragraph (4), by striking the period at the end and inserting a semicolon; and
+  - **(2)** in paragraph (4), by striking the period at the end and inserting “; and” ; and
   - **(3)** by adding at the end the following:
     > - **(5)** to create and expand witness and victim protection programs to prevent threats, intimidation, and retaliation against victims of, and witnesses to, violent crimes.
 
@@ -169,96 +144,181 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968 is amended by 
 ## § 13. Judicial branch security requirements
 
 - **(a)** *Ensuring consultation and coordination with the Administrative Office of the United States Courts* Section 566 of title 28, United States Code, is amended by adding at the end the following:
-  > - **(i)** The United States Marshals Service shall consult and coordinate with the Administrative Office of the United States Courts on a continuing basis regarding the security requirements for the Judicial Branch.
+  > - **(i)** The United States Marshals Service shall consult with the Administrative Office of the United States Courts on a continuing basis regarding the security requirements for the Judicial Branch, and inform the Administrative Office of the measures the Marshals Service intends to take to meet those requirements.
 
 - **(b)** *Conforming amendment* Section 604(a) of title 28, United States Code, is amended—
   - **(1)** by redesignating existing paragraph (24) as paragraph (25);
   - **(2)** by striking “and” at the end of paragraph (23); and
   - **(3)** by inserting after paragraph (23) the following:
-    > - **(24)** Consult and coordinate with the United States Marshals Service on a continuing basis regarding the security requirements for the Judicial Branch; and
+    > - **(24)** Consult with the United States Marshals Service on a continuing basis regarding the security requirements for the Judicial Branch, and inform the Administrative Office of the measures the Marshals Service intends to take to meet those requirements; and
 
-## § 14. Protections against malicious recording of fictitious liens against Federal judges and attorneys
+## § 14. Protections against malicious recording of fictitious liens against a Federal employee
 
 - **(a)** *Offense* Chapter 73 of title 18, United States Code, is amended by adding at the end the following:
-  > ## § 1521. Retaliating against a federal judge or attorney by false claim or slander of title
+  > ## § 1521. Retaliating against a Federal employee by false claim or slander of title
   >
-  > - **(a)** Whoever files or attempts to file, in any public record or in any private record which is generally available to the public, any false lien or encumbrance against the real or personal property of a Federal judge, Federal attorney, or a public safety officer, shall be fined under this title or imprisoned for not more than 10 years, or both.
-  > - **(b)** As used in this section—
-  >   - **(1)** the term “Federal judge” means a justice or judge of the United States as defined in 28 U.S.C. 451, a judge of the United States Court of Federal Claims, a United States bankruptcy judge, a United States magistrate judge, and a judge of the United States Court of Appeals for the Armed Forces, United States Court of Appeals for Veterans Claims, United States Tax Court, District Court of Guam, District Court of the Northern Mariana Islands, or District Court of the Virgin Islands;
-  >   - **(2)** the term “Federal attorney” means an attorney who is an officer or employee of the United States in the executive branch of the Government;
-  >   - **(3)** the term “public safety officer” has the meaning given that term in section 1123 of title 18 and also includes a law enforcement officer; and
-  >   - **(4)** the term “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the laws, including police, prosecutors, corrections, probation, parole, and judicial officers.
+  > Whoever, with the intent to harass a person designated in section 1114 on account of the performance of official duties, files, in any public record or in any private record which is generally available to the public, any false lien or encumbrance against the real or personal property of that person, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 73 of title 18, United States Code, is amended by adding at the end the following new item:
 
-## § 15. Emergency authority to conduct court proceedings outside the territorial jurisdiction of the court
-
-- **(a)** *Circuit courts* Section 48 of title 28, United States Code, is amended by adding at the end the following:
-  > - **(e)** Each court of appeals may hold special sessions at any place outside the circuit as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicial council of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could he held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
-
-- **(b)** *District courts* Section 141 of title 28, United States Code, is amended—
-  - **(1)** by inserting “(a)(1)” before “Special”;
-  - **(2)** by inserting “(2)” before “Any”; and
-  - **(3)** by adding at the end the following:
-    > - **(b)** Special sessions of the district court may be held at such places outside the district as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the district court (or, if the chief judge is unavailable, the most senior available active judge of the district court) or the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where such special sessions could be held. Any business may be transacted at a special session outside the district which might be transacted at a regular session. The district court may summon jurors from within the district to serve in any case in which special sessions are conducted outside the district pursuant to the provisions of this section.
-
-- **(c)** *Bankruptcy courts* Section 152(c) of title 28, United States Code, is amended—
-  - **(1)** by inserting “(1)” after “(c)”;
-  - **(2)** by adding at the end the following:
-    > - **(2)** Bankruptcy judges may hold court at such places outside the judicial district as the nature of the business of the court may require, and upon such notice as the court orders, upon a finding by either the chief judge of the bankruptcy court (or, if the chief judge is unavailable, the most senior available bankruptcy judge) or by the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where the bankruptcy judges could hold court. Bankruptcy judges may transact any business at special sessions of court held outside the district that might be transacted at a regular session.
-
-## § 16. Prohibition of possession of dangerous weapons in Federal court facilities
+## § 15. Prohibition of possession of dangerous weapons in Federal court facilities
 
 Section 930(e) of title 18, United States Code, is amended by inserting “or other dangerous weapon” after “firearm”.
 
-## § 17. Repeal of sunset provision
+## § 16. Repeal of sunset provision
 
 Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App) is amended by striking subparagraph (E).
 
-## § 18. Protection of individuals performing certain Federal and federally assisted functions
+## § 17. Protection of individuals performing certain Federal and other functions
 
 - **(a)** *Offense* Chapter 7 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 117. Protection of individuals performing certain Federal and federally assisted functions
   >
-  > - **(a)** Whoever knowingly makes restricted personal information about a covered official publicly available through the Internet shall be fined under this title and imprisoned not more than 5 years, or both.
-  > - **(b)** It is a defense to a prosecution under this section that—
-  >   - **(1)** the defendant is a provider of Internet services and did not knowingly participate in the offense; or
-  >   - **(2)** the covered official gave permission to make the restricted personal information publicly available.
+  > - **(a)** Whoever knowingly, and with intent to harm, intimidate, or retaliate against a covered official makes restricted personal information about that covered official publicly available through the Internet shall be fined under this title and imprisoned not more than 5 years, or both.
+  > - **(b)** It is a defense to a prosecution under this section that the defendant is a provider of Internet services and did not knowingly participate in the offense.
   > - **(c)** As used in this section—
   >   - **(1)** the term “restricted personal information” means, with respect to an individual, the Social Security number, the home address, home phone number, mobile phone number, personal email, or home fax number of, and identifiable to, that individual; and
   >   - **(2)** the term “covered official” means—
   >     - **(A)** an individual designated in section 1114;
-  >     - **(B)** a public safety officer (as that term is defined in section 1521); or
+  >     - **(B)** a public safety officer (as that term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968); or
   >     - **(C)** a grand or petit juror, witness, or other officer in or of, any court of the United States, or an officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 7 of title 18, United States Code, is amended by adding at the end the following new item:
 
-## § 19. Eligibility of State courts for certain Federal grants
+## § 18. Eligibility of courts to apply directly for law enforcement discretionary grants and requirement that State and local governments consider courts when applying for grant funds
 
-- **(a)** *Purpose of Grants* Section 510(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3760) is amended by inserting “State courts,” after “institutions”.
-- **(b)** *Correctional options grants* Section 515 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3760) is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in paragraph (2), by striking “and” at the end;
-    - **(B)** in paragraph (3), by striking the period and inserting “; and”; and
-    - **(C)** by adding at the end the following:
-      > - **(4)** grants to State courts to improve security for State and local court systems.
+- **(a)** *Courts treated as units of local governments for purposes of discretionary grants* Section 901 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3791) is amended in subsection (a)(3)—
+  - **(1)** by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and
+  - **(2)** by inserting after subparagraph (B) the following new subparagraph:
+    > - **(C)** the judicial branch of a State or of a unit of local government within the State for purposes of discretionary grants;
 
-  - **(2)** in subsection (b), by inserting after the period the following: “Priority shall be given to State court applicants under subsection (a)(4) that have the greatest demonstrated need to provide security in order to administer justice.”.
-- **(c)** *Allocations* Section 516(a) of the Omnibus Crime Control and Safe Streets Act of 1968 is amended—
-  - **(1)** strike “80” and insert “70”;
-  - **(2)** strike “and” before “10”; and
-  - **(3)** by inserting before the period the following: “, and 10 percent for section 515(a)(4)”.
+- **(b)** *State and local governments to consider courts* The Attorney General shall ensure that whenever a State or unit of local government applies for a grant from the Department of Justice, the State or unit demonstrate that, in developing the application and distributing funds, the State or unit—
+  - **(1)** considered the needs of the judicial branch of the State or unit, as the case may be; and
+  - **(2)** consulted with the chief judicial officer of the highest court of the State or unit, as the case may be.
 
-## § 20. Appointments of United States Marshals
+## § 19. Report on security of Federal prosecutors
 
-- **(a)** *Appointments of marshals*
-  - **(1)** *In general* Chapter 37 of title 28, United States Code, is amended—
-    - **(A)** in section 561(c)—
-      - **(i)** by striking “The President shall appoint, by and with the advice and consent of the Senate,” and inserting “The Attorney General shall appoint”; and
-      - **(ii)** by inserting “United States marshals shall be appointed subject to the provisions of title 5 governing appointments in the competitive civil service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and pay rates.” after the first sentence;
-    - **(B)** by striking subsection (d) of section 561;
-    - **(C)** by redesignating subsections (e), (f), (g), (h), and (i) of section 561 as subsections (d), (e), (f), (g), and (h), respectively; and
-    - **(D)** by striking section 562.
-  - **(2)** *Clerical amendment* The table of sections for chapter 37 of title 28, United States Code, is amended by striking the item relating to section 562.
-- **(b)** *Marshals in office before effective date* Notwithstanding the amendments made by this Act, each marshal appointed under chapter 37 of title 28, United States Code, before the effective date of this Act shall, unless that marshal resigns or is removed by the President, continue to perform the duties of that office until the expiration of that marshal’s term and the appointment of a successor.
-- **(c)** *Effective date* This section and the amendments made by this section shall take effect on January 20, 2005, and shall apply to appointments made on and after that date.
+Not later than 90 days after the date of the enactment of this Act, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the security of assistant United States attorneys and other Federal attorneys arising from the prosecution of terrorists, violent criminal gangs, drug traffickers, gun traffickers, white supremacists, and those who commit fraud and other white-collar offenses. The report shall describe each of the following:
+
+- **(1)** The number and nature of threats and assaults against attorneys handling those prosecutions and the reporting requirements and methods.
+- **(2)** The security measures that are in place to protect the attorneys who are handling those prosecutions, including measures such as threat assessments, response procedures, availability of security systems and other devices, firearms licensing (deputations), and other measures designed to protect the attorneys and their families.
+- **(3)** The Department of Justice’s firearms deputation policies, including the number of attorneys deputized and the time between receipt of threat and completion of the deputation and training process.
+- **(4)** For each measure covered by paragraphs (1) through (3), when the report or measure was developed and who was responsible for developing and implementing the report or measure.
+- **(5)** The programs that are made available to the attorneys for personal security training, including training relating to limitations on public information disclosure, basic home security, firearms handling and safety, family safety, mail handling, counter- surveillance, and self-defense tactics.
+- **(6)** The measures that are taken to provide the attorneys with secure parking facilities, and how priorities for such facilities are established—
+  - **(A)** among Federal employees within the facility;
+  - **(B)** among Department of Justice employees within the facility; and
+  - **(C)** among attorneys within the facility.
+- **(7)** The frequency such attorneys are called upon to work beyond standard work hours and the security measures provided to protect attorneys at such times during travel between office and available parking facilities.
+- **(8)** With respect to attorneys who are licensed under State laws to carry firearms, the Department of Justice’s policy as to—
+  - **(A)** carrying the firearm between available parking and office buildings;
+  - **(B)** securing the weapon at the office buildings; and
+  - **(C)** equipment and training provided to facilitate safe storage at Department of Justice facilities.
+- **(9)** The offices in the Department of Justice that are responsible for ensuring the security of the attorneys, the organization and staffing of the offices, and the manner in which the offices coordinate with offices in specific districts.
+- **(10)** The role, if any, that the United States Marshals Service or any other Department of Justice component plays in protecting, or providing security services or training for, the attorneys.
+
+## § 20. Flight to avoid prosecution for killing peace officers
+
+- **(a)** *Flight* Chapter 49 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 1075. Flight to avoid prosecution for killing peace officers
+  >
+  > Whoever moves or travels in interstate or foreign commerce with intent to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which he flees or under section 1114 or 1123, for a crime consisting of the killing, an attempted killing, or a conspiracy to kill, an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the laws or for a crime punishable by section 1114 or 1123, shall be fined under this title and imprisoned, in addition to any other imprisonment for the underlying offense, for any term of years not less than 10.
+
+- **(b)** *Clerical Amendment* The table of sections at the beginning of chapter 49 of title 18, United States Code, is amended by adding at the end the following new item:
+
+## § 21. Special penalties for murder, kidnapping, and related crimes against Federal judges and Federal law enforcement officers
+
+- **(a)** *Murder* Section 1114 of title 18, United States Code, is amended—
+  - **(1)** by inserting “(a)” before “Whoever”; and
+  - **(2)** by adding at the end the following:
+    > - **(b)** If the victim of a murder punishable under this section is a United States judge (as defined in section 115) or a Federal law enforcement officer (as defined in 115) the offender shall be punished by a fine under this title and imprisonment for any term of years not less than 30, or for life, or, if death results, may be sentenced to death.
+
+- **(b)** *Kidnapping* Section 1201(a) of title 18, United States Code, is amended by adding at the end the following: “If the victim of the offense punishable under this subsection is a United States judge (as defined in section 115) or a Federal law enforcement officer (as defined in 115) the offender shall be punished by a fine under this title and imprisonment for any term of years not less than 30, or for life, or, if death results, may be sentenced to death.”.
+
+## § 22. Media coverage of court proceedings
+
+- **(a)** *Findings* The Congress makes the following findings:
+  - **(1)** The right of the people of the United States to freedom of speech, particularly as it relates to comment on governmental activities, as protected by the first amendment to the Constitution, cannot be meaningfully exercised without the ability of the public to obtain facts and information about the Government upon which to base their judgments regarding important issues and events. As the United States Supreme Court articulated in Craig v. Harney, 331 U.S. 367 (1947), “A trial is a public event. What transpires in the court room is public property.”.
+  - **(2)** The right of the people of the United States to a free press, with the ability to report on all aspects of the conduct of the business of government, as protected by the first amendment to the Constitution, cannot be meaningfully exercised without the ability of the news media to gather facts and information freely for dissemination to the public.
+  - **(3)** The right of the people of the United States to petition the Government to redress grievances, particularly as it relates to the manner in which the Government exercises its legislative, executive, and judicial powers, as protected by the first amendment to the Constitution, cannot be meaningfully exercised without the availability to the public of information about how the affairs of government are being conducted. As the Supreme Court noted in Richmond Newspapers, Inc. v. Commonwealth of Virginia (1980), “People in an open society do not demand infallibility from their institutions, but it is difficult for them to accept what they are prohibited from observing.”.
+  - **(4)** In the twenty-first century, the people of the United States obtain information regarding judicial matters involving the Constitution, civil rights, and other important legal subjects principally through the print and electronic media. Television, in particular, provides a degree of public access to courtroom proceedings that more closely approximates the ideal of actual physical presence than newspaper coverage or still photography.
+  - **(5)** Providing statutory authority for the courts of the United States to exercise their discretion in permitting televised coverage of courtroom proceedings would enhance significantly the access of the people to the Federal judiciary.
+  - **(6)** Inasmuch as the first amendment to the Constitution prevents Congress from abridging the ability of the people to exercise their inherent rights to freedom of speech, to freedom of the press, and to petition the Government for a redress of grievances, it is good public policy for the Congress affirmatively to facilitate the ability of the people to exercise those rights.
+  - **(7)** The granting of such authority would assist in the implementation of the constitutional guarantee of public trials in criminal cases, as provided by the sixth amendment to the Constitution. As the Supreme Court stated in In re Oliver (1948), “Whatever other benefits the guarantee to an accused that his trial be conducted in public may confer upon our society, the guarantee has always been recognized as a safeguard against any attempt to employ our courts as instruments of persecution. The knowledge that every criminal trial is subject to contemporaneous review in the forum of public opinion is an effective restraint on possible abuse of judicial power.”.
+- **(b)** *Authority of presiding judge to allow media coverage of court proceedings*
+  - **(1)** *Authority of appellate courts* Notwithstanding any other provision of law, the presiding judge of an appellate court of the United States may, in his or her discretion, permit the photographing, electronic recording, broadcasting, or televising to the public of court proceedings over which that judge presides.
+  - **(2)** *Authority of district courts*
+    - **(A)** *In general* Notwithstanding any other provision of law, any presiding judge of a district court of the United States may, in his or her discretion, permit the photographing, electronic recording, broadcasting, or televising to the public of court proceedings over which that judge presides.
+    - **(B)** *Obscuring of witnesses and jurors*
+      - **(i)** Upon the request of any witness (other than a party) or a juror in a trial proceeding, the court shall order the face and voice of the witness or juror (as the case may be) to be disguised or otherwise obscured in such manner as to render the witness or juror unrecognizable to the broadcast audience of the trial proceeding.
+      - **(ii)** The presiding judge in a trial proceeding shall inform—
+        - **(I)** each witness who is not a party that the witness has the right to request that his or her image and voice be obscured during the witness’ testimony; and
+        - **(II)** each juror that the juror has the right to request that his or her image be obscured during the trial proceeding.
+  - **(3)** *Advisory guidelines* The Judicial Conference of the United States is authorized to promulgate advisory guidelines to which a presiding judge, in his or her discretion, may refer in making decisions with respect to the management and administration of photographing, recording, broadcasting, or televising described in paragraphs (1) and (2).
+- **(c)** *Definitions* In this section:
+  - **(1)** *Presiding judge* The term presiding judge means the judge presiding over the court proceeding concerned. In proceedings in which more than one judge participates, the presiding judge shall be the senior active judge so participating or, in the case of a circuit court of appeals, the senior active circuit judge so participating, except that—
+    - **(A)** in en banc sittings of any United States circuit court of appeals, the presiding judge shall be the chief judge of the circuit whenever the chief judge participates; and
+    - **(B)** in en banc sittings of the Supreme Court of the United States, the presiding judge shall be the Chief Justice whenever the Chief Justice participates.
+  - **(2)** *Appellate court of the United States* The term appellate court of the United States means any United States circuit court of appeals and the Supreme Court of the United States.
+- **(d)** *Sunset* The authority under subsection (b)(2) shall terminate on the date that is 3 years after the date of the enactment of this Act.
+
+## § 23. Funding for State courts to assess and enhance court security and emergency preparedness
+
+- **(a)** *In general* The Attorney General, through the Office of Justice Programs, shall make grants under this section to the highest State courts in States participating in the program, for the purpose of enabling such courts—
+  - **(1)** to conduct assessments focused on the essential elements for effective courtroom safety and security planning; and
+  - **(2)** to implement changes deemed necessary as a result of the assessments.
+- **(b)** *Essential elements* As used in subsection (a)(1), the essential elements include, but are not limited to—
+  - **(1)** operational security and standard operating procedures;
+  - **(2)** facility security planning and self-audit surveys of court facilities;
+  - **(3)** emergency preparedness and response and continuity of operations;
+  - **(4)** disaster recovery and the essential elements of a plan;
+  - **(5)** threat assessment;
+  - **(6)** incident reporting;
+  - **(7)** security equipment;
+  - **(8)** developing resources and building partnerships; and
+  - **(9)** new courthouse design.
+- **(c)** *Applications* To be eligible for a grant under this section, a highest State court shall submit to the Attorney General an application at such time, in such form, and including such information and assurances as the Attorney General shall require.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2006 through 2010.
+
+## § 24. Additional amounts for United States Marshals Service to protect the judiciary
+
+In addition to any other amounts authorized to be appropriated for the United States Marshals Service, there are authorized to be appropriated for the United States Marshals Service to protect the judiciary, $20,000,000 for each of fiscal years 2006 through 2010 for—
+
+- **(1)** hiring entry-level deputy marshals for providing judicial security;
+- **(2)** hiring senior-level deputy marshals for investigating threats to the judiciary and providing protective details to members of the judiciary and Assistant United States Attorneys; and
+- **(3)** for the Office of Protective Intelligence, for hiring senior-level deputy marshals, hiring program analysts, and providing secure computer systems.
+
+## § 25. Grants to States for threat assessment databases
+
+- **(a)** *In general* From amounts made available to carry out this section, the Attorney General shall carry out a program under which the Attorney General makes grants to States for use by the State to establish and maintain a threat assessment database described in subsection (b).
+- **(b)** *Database* For purposes of subsection (a), a threat assessment database is a database through which a State can—
+  - **(1)** analyze trends and patterns in domestic terrorism and crime;
+  - **(2)** project the probabilities that specific acts of domestic terrorism or crime will occur; and
+  - **(3)** develop measures and procedures that can effectively reduce the probabilities that those acts will occur.
+- **(c)** *Core elements* The Attorney General shall define a core set of data elements to be used by each database funded by this section so that the information in the database can be effectively shared with other States and with the Department of Justice.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2006 through 2009.
+
+## § 26. Grants for young witness assistance
+
+- **(a)** *Definitions* For purposes of this section:
+  - **(1)** *Director* The term Director means the Director of the Bureau of Justice Assistance.
+  - **(2)** *Juvenile* The term juvenile means an individual who is 17 years of age or younger.
+  - **(3)** *Young adult* The term young adult means an individual who is between the ages of 18 and 21.
+  - **(4)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+- **(b)** *Program authorization* The Director may make grants to State and local prosecutors and law enforcement agencies in support of juvenile and young adult witness assistance programs, including State and local prosecutors and law enforcement agencies that have existing juvenile and adult witness assistance programs.
+- **(c)** *Eligibility* To be eligible to receive a grant under this section, State and local prosecutors and law enforcement officials shall—
+  - **(1)** submit an application to the Director in such form and containing such information as the Director may reasonably require; and
+  - **(2)** give assurances that each applicant has developed, or is in the process of developing, a witness assistance program that specifically targets the unique needs of juvenile and young adult witnesses and their families.
+- **(d)** *Use of funds* Grants made available under this section may be used—
+  - **(1)** to assess the needs of juvenile and young adult witnesses;
+  - **(2)** to develop appropriate program goals and objectives; and
+  - **(3)** to develop and administer a variety of witness assistance services, which includes—
+    - **(A)** counseling services to young witnesses dealing with trauma associated in witnessing a violent crime;
+    - **(B)** pre- and post-trial assistance for the youth and their family;
+    - **(C)** providing education services if the child is removed from or changes their school for safety concerns;
+    - **(D)** protective services for young witnesses and their families when a serious threat of harm from the perpetrators or their associates is made; and
+    - **(E)** community outreach and school-based initiatives that stimulate and maintain public awareness and support.
+- **(e)** *Reports*
+  - **(1)** *Report* State and local prosecutors and law enforcement agencies that receive funds under this section shall submit to the Director a report not later than May 1st of each year in which grants are made available under this section. Reports shall describe progress achieved in carrying out the purpose of this section.
+  - **(2)** *Report to Congress* The Director shall submit to Congress a report by July 1st of each year which contains a detailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants, and an evaluation of programs established under this section.
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006, 2007, and 2008.
