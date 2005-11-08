@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4053
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4053
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 545 Nor
 
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
 
-## Cosponsors (60)
+## Cosponsors (61)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
@@ -78,6 +78,7 @@ To designate the facility of the United States Postal Service located at 545 Nor
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Thomas, William M. [R-CA-22] (T000188)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
 ## Committees (1)
 
@@ -89,3 +90,11 @@ To designate the facility of the United States Postal Service located at 545 Nor
 - 2005-10-07 — Introduced in House
 - 2005-10-07 — Referred to the House Committee on Government Reform.
 - 2005-10-07 — Sponsor introductory remarks on measure. (CR E2059-2060)
+- 2005-10-20 — Committee Consideration and Mark-up Session Held.
+- 2005-10-20 — Ordered to be Reported by Unanimous Consent.
+- 2005-11-08 — Considered under suspension of the rules. (consideration: CR H9981-9982)
+- 2005-11-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4053.
+- 2005-11-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-08 — Mr. Westmoreland moved to suspend the rules and pass the bill.
+- 2005-11-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9981)
+- 2005-11-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9981)

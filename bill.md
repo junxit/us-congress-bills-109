@@ -9,7 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To designate the facility of the United States Postal Service located at 545 North Rimsdale Avenue in Covina, California, as the “Lillian Kinkella Keil Post Office”.
 
-## § 1. Lillian Kinkella Keil Post Office
+## § 1. Designation
 
-- **(a)** *Designation* The facility of the United States Postal Service located at 545 North Rimsdale Avenue in Covina, California, shall be known and designated as the “Lillian Kinkella Keil Post Office”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Lillian Kinkella Keil Post Office”.
+-  The facility of the United States Postal Service located at 545 North Rimsdale Avenue in Covina, California, shall be known and designated as the “Lillian Kinkella Keil Post Office”.
+
+## § 2. References
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in section 1 shall be deemed to be a reference to the “Lillian Kinkella Keil Post Office”.
