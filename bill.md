@@ -1,0 +1,82 @@
+---
+legis-num: H.R. 4281
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4281
+
+> To amend the Tariff Act of 1930 and the Internal Revenue Code of 1986 relating to importation of tobacco products.
+
+## § 1. Compliance with Tariff Act of 1930
+
+- **(a)** *Definitions* Section 801 of the Tariff Act of 1930 (19 U.S.C. 1681) is amended by adding at the end the following:
+  > - **(3)** *Delivery sale* The term “delivery sale” means any sale of cigarettes or a smokeless tobacco product to a consumer if—
+  >   - **(A)** the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
+  >   - **(B)** the cigarettes or smokeless tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the delivered cigarettes or smokeless tobacco product.
+  > - **(4)** *Indian tribe* The terms “Indian tribe” and “tribal” refer to an Indian tribe as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) or as listed pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1).
+
+- **(b)** *Inapplicability of exemptions from requirements for entry of certain cigarettes and smokeless tobacco products* Section 802(b)(1) of the Tariff Act of 1930 (19 U.S.C. 1681a(b)(1)) is amended by adding at the end the following new sentence: “The preceding sentence shall not apply to any cigarettes or smokeless tobacco products sold in connection with a delivery sale.”.
+- **(c)** *State access to customs certifications* Section 802 of that Act is further amended by adding at the end the following new subsection:
+  > - **(d)** *State access to customs certifications* A State, through its Attorney General, shall be entitled to obtain copies of any certification required under subsection (c) directly—
+  >   - **(1)** upon request to the agency of the United States responsible for collecting such certification; or
+  >   - **(2)** upon request to the importer, manufacturer, or authorized official of such importer or manufacturer.
+
+- **(d)** *Enforcement provisions* Section 803 of that Act (19 U.S.C. 1681b) is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** in the first sentence, by inserting before the period the following: “, or to any State in which such tobacco product, cigarette papers, or tube is found”; and
+    - **(B)** in the second sentence, by inserting “, or to any State,” after “the United States”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(c)** *Actions by states and others*
+    >   - **(1)** *In general* Any person who holds a permit under chapter 52 of the Internal Revenue Code of 1986 may bring an action in the United States district courts against any person, other than a State, local, or tribal government, to prevent and restrain violations of this title—
+    >     - **(A)** by that person; or
+    >     - **(B)** by another person controlled by that person.
+    >   - **(2)** *Relief for state and local governments* A State, acting through its attorney general, or a local government, acting through its chief law enforcement officer (or a designee thereof), may bring a civil action under this title against any person—
+    >     - **(A)** to prevent and restrain violations of this title—
+    >       - **(i)** by that person; or
+    >       - **(ii)** by another person controlled by that person; or
+    >     - **(B)** to obtain any other appropriate relief for violations of this title—
+    >       - **(i)** by that person, or
+    >       - **(ii)** by another person controlled by that person,
+    >   - **(3)** *Construction generally*
+    >     - **(A)** *In general* Nothing in this subsection shall be deemed to abrogate or constitute a waiver of any sovereign immunity of a State or local government or an Indian tribe against any unconsented lawsuit under this title or to otherwise restrict, expand, or modify any sovereign immunity of a State or local government or an Indian tribe.
+    >     - **(B)** *Construction with other relief* The remedies available under this subsection are in addition to any other remedies available under Federal, State, local, or other law.
+    >   - **(4)** *Construction with forfeiture provisions* Nothing in this subsection shall be construed to require a State to first bring an action under paragraph (2) when pursuing relief under subsection (b).
+    > - **(d)** *Construction with state authorities* Nothing in this title shall be construed to expand, restrict, or otherwise modify the right of an authorized State official from proceeding in any State court, or taking other enforcement actions, on the basis of alleged violation of State or other law.
+
+- **(e)** *Inclusion of smokeless tobacco*
+  - **(1)** Sections 802 and 803(a) of that Act (other than the last sentence of section 802(b)(1), as added by subsection (b) of this section) are further amended by inserting “or smokeless tobacco products” after “cigarettes” each place it appears.
+  - **(2)** Section 802 of such Act is further amended—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (1), by inserting “or section 4 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4403), as the case may be” after “section 7 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1335a)”;
+      - **(ii)** in paragraph (2), by inserting “or section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as the case may be,” after “section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333)”; and
+      - **(iii)** in paragraph (3), by inserting “or section 3(d) of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402(d)), as the case may be,” after “section 4(c) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333(c))”;
+    - **(B)** in subsection (b)—
+      - **(i)** in the paragraph caption of paragraph (1), by inserting “or smokeless tobacco” after “cigarettes”; and
+      - **(ii)** in the paragraph caption of paragraphs (2) and (3), by inserting “or smokeless tobacco” after “cigarettes”; and
+    - **(C)** in subsection (c)—
+      - **(i)** in the subsection caption, by inserting “or Smokeless Tobacco” after “Cigarette”;
+      - **(ii)** in paragraph (1), by inserting “or section 4 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4403), as the case may be” after “section 7 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1335a)”;
+      - **(iii)** in paragraph (2)(A), by inserting “or section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as the case may be,” after “section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333)”; and
+      - **(iv)** in paragraph (2)(B), by inserting “or section 3(d) of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402(d)), as the case may be” after “section 4(c) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333(c))”.
+  - **(3)** Section 803(b) of that Act, as amended by subsection (d)(1) of this section, is further amended by inserting “, or any smokeless tobacco product,” after “or tube” the first place it appears.
+  - **(4)**
+    - **(A)** The heading of title VIII of such Act is amended by inserting “AND SMOKELESS TOBACCO” after “CIGARETTES”.
+    - **(B)** The heading of section 802 of such Act is amended by inserting “and smokeless tobacco” after “cigarettes”.
+
+## § 2. Application of civil penalties to relandings of tobacco products sold in a delivery sale
+
+- **(a)** *In general* Section 5761 of the Internal Revenue Code of 1986 (relating to civil penalties) is amended by redesignating subsections (d) and (e) as subsections (e) and (f), respectively, and inserting after subsection (c) the following new subsection:
+  > - **(d)** *Personal use quantities*
+  >   - **(1)** *In general* No quantity of tobacco products other than the quantity referred to in paragraph (2) may be relanded or received as a personal use quantity.
+  >   - **(2)** *Exception for personal use quantity* Subsection (c) and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under subsection (c).
+  >   - **(3)** *Special rule for delivery sales*
+  >     - **(A)** *In general* Paragraph (2) shall not apply to any tobacco product sold in connection with a delivery sale.
+  >     - **(B)** *Delivery sale* For purposes of subparagraph (A), the term “delivery sale” means any sale of a tobacco product to a consumer if—
+  >       - **(i)** the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made, or
+  >       - **(ii)** the tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the tobacco product.
+
+- **(b)** *Conforming amendments*
+  - **(1)** Subsection (c) of section 5761 of such Code is amended by striking the last two sentences.
+  - **(2)** Paragraph (1) of section 5754(c) of such Code is amended by striking “section 5761(c)” and inserting “section 5761(d)”.
