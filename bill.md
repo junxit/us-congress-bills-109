@@ -45,7 +45,7 @@ Notwithstanding section 11A of the Federal Reserve Act or any other provision of
   - **(1)** the insured depository institution or insured credit union derives more than 50 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, a qualified disaster area;
   - **(2)** the insured depository institution or insured credit union was at least adequately capitalized as of—
     - **(A)** September 24, 2005, if the qualified disaster area referred to in paragraph (1) with respect to such depository institution or credit union is the qualified disaster area described in section 2(4)(A); or
-    - **(B)** October 22, 2005, if the qualified disaster area referred to in paragraph (1) with respect to such depository institution or credit union is the qualified disaster area described in section 2(4)(B).
+    - **(B)** October 22, 2005, if the qualified disaster area referred to in paragraph (1) with respect to such depository institution or credit union is the qualified disaster area described in section 2(4)(B);
   - **(3)** the reduction in the capital or net worth category of the insured depository institution or insured credit union is directly attributable to the impact of Hurricane Rita or Hurricane Wilma, as applicable; and
   - **(4)** forbearance from any such action—
     - **(A)** would facilitate the recovery of the insured depository institution or insured credit union from the disaster in accordance with a recovery plan or a capital or net worth restoration plan established by such depository institution or credit union; and
