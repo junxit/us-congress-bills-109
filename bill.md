@@ -35,7 +35,7 @@ In this Act:
 
 ## § 4. Report
 
--  Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+-  Not later than 3 years after the date funds are made available for the study, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
   - **(1)** the findings of the study; and
   - **(2)** any conclusions and recommendations of the Secretary.
 

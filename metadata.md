@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1972
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1972
@@ -29,3 +29,12 @@ Franklin National Battlefield Study Act
 - 2005-04-28 — Introduced in House
 - 2005-04-28 — Introduced in House
 - 2005-04-28 — Referred to the House Committee on Resources.
+- 2005-05-10 — Executive Comment Requested from Interior.
+- 2005-05-10 — Referred to the Subcommittee on National Parks.
+- 2005-09-29 — Subcommittee Hearings Held.
+- 2005-10-19 — Committee Consideration and Mark-up Session Held.
+- 2005-10-19 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2005-10-19 — Subcommittee on National Parks Discharged.
+- 2005-11-10 — Placed on the Union Calendar, Calendar No. 159.
+- 2005-11-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-289.
+- 2005-11-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-289.
