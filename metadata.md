@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3443
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3443
@@ -29,3 +29,11 @@ To direct the Secretary of the Interior to convey certain water distribution fac
 - 2005-07-26 — Introduced in House
 - 2005-07-26 — Introduced in House
 - 2005-07-26 — Referred to the House Committee on Resources.
+- 2005-08-22 — Referred to the Subcommittee on Water and Power.
+- 2005-09-27 — Subcommittee Hearings Held.
+- 2005-10-19 — Committee Consideration and Mark-up Session Held.
+- 2005-10-19 — Ordered to be Reported by Unanimous Consent.
+- 2005-10-19 — Subcommittee on Water and Power Discharged.
+- 2005-11-10 — Placed on the Union Calendar, Calendar No. 160.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-290.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-290.
