@@ -1,7 +1,7 @@
 ---
 measure: S. 1182
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 0 executed, 23 stated and not applied.
+42 amendatory instructions. 0 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,3 +54,22 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (5). | the bill names no machine-readable US Code section |
+| — | amend | Subchapter VIII of chapter 17 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1785 the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “(1)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
+| — | amend | Section 2013 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 2064(b) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (10) as paragraph (12); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “subchapter III and in” and inserting “subsection (e), subchapter III, and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (5). | the bill names no machine-readable US Code section |
+| — | replace | Section 1706(b)(5)(A) is amended by striking “2004” and inserting “2006”. | the bill names no machine-readable US Code section |
+| — | insert | Subchapter III of chapter 17 is amended by inserting after section 1725 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1725 the following: | the bill names no machine-readable US Code section |
