@@ -11,21 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Act Commemorating the LITE, or Lifetime Innovations of Thomas Edison.”
+This Act may be cited as the “Act Commemorating the LITE, or Lifetime Innovations of Thomas Edison”.
 
-## § 2. Findings and purpose
+## § 2. Purposes
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The Edison National Historic Site, located in West Orange, New Jersey, is a vital part of America’s national system of parks which preserves Thomas Alva Edison’s research and development laboratories, library, papers, and artifacts, as well as his home.
-  - **(2)** The Site is a national historic treasure and contains the world’s largest collection of materials related to Thomas Edison, encompassing an estimated 5,000,000 pages of documents, over 400,000 artifacts, approximately 35,000 sound recordings, and 10,000 books from Edison’s personal library.
-  - **(3)** Thomas Edison is one of America’s greatest inventors, whose inexhaustible energy and genius produced 1,093 patents in his lifetime, more than any other American, including patents for the incandescent light bulb, the motion picture camera, and the phonograph.
-  - **(4)** In 1928, Thomas Edison was awarded the Congressional Gold Medal for the “development and application of inventions that have revolutionized civilization in the last century.”
-  - **(5)** In 1998, Congress again honored Thomas Edison by directing the Secretary of the Treasury to mint a commemorative coin celebrating the 125th anniversary of Edison’s invention of the light bulb, celebrated in 2004.
-  - **(6)** The Edison National Historic Site is one of America’s most endangered historic places. The National Park Service, in its General Management Plan and Development Concept Plan, identified the need for numerous actions to preserve, protect, restore, and enhance the Site and determined that sufficient government funds are not likely to be appropriated to complete these necessary actions in the foreseeable future.
-  - **(7)** On November 6, 1997, the National Park Service signed an agreement with the Thomas Alva Edison Preservation Foundation (now the Edison Preservation Foundation), establishing a public-private partnership to jointly raise money to fund identified improvements at the Edison National Historic Site so as to leave the Site unimpaired for the enjoyment of future generations.
-- **(b)** *Purposes* The purposes of this Act are—
-  - **(1)** to recognize and pay tribute to Thomas Alva Edison and his innovations; and
-  - **(2)** to preserve, protect, restore, and enhance the Edison National Historic Site to ensure public use and enjoyment of the Site as an educational, scientific, and cultural center.
+The purposes of this Act are—
+
+- **(1)** to recognize and pay tribute to Thomas Alva Edison and his innovations; and
+- **(2)** to preserve, protect, restore, and enhance the Edison National Historic Site to ensure public use and enjoyment of the Site as an educational, scientific, and cultural center.
 
 ## § 3. Thomas Edison National Historical Park
 
