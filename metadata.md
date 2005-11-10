@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 323
@@ -16,7 +16,7 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
@@ -31,6 +31,9 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Lewis, Jerry [R-CA-41] (L000274)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
@@ -41,3 +44,11 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 - 2005-01-25 — Introduced in House
 - 2005-01-25 — Introduced in House
 - 2005-01-25 — Referred to the House Committee on Resources.
+- 2005-02-03 — Referred to the Subcommittee on National Parks, Recreation and Public Lands.
+- 2005-05-12 — Subcommittee Hearings Held.
+- 2005-10-19 — Committee Consideration and Mark-up Session Held.
+- 2005-10-19 — Ordered to be Reported by Unanimous Consent.
+- 2005-10-19 — Subcommittee on National Parks Discharged.
+- 2005-11-10 — Placed on the Union Calendar, Calendar No. 154.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-284.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-284.
