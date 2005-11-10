@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1436
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1436
@@ -25,3 +25,12 @@ To remove certain use restrictions on property located in Navajo County, Arizona
 - 2005-03-17 — Introduced in House
 - 2005-03-17 — Introduced in House
 - 2005-03-17 — Referred to the House Committee on Resources.
+- 2005-03-28 — Executive Comment Requested from Interior.
+- 2005-03-28 — Referred to the Subcommittee on National Parks.
+- 2005-09-29 — Subcommittee Hearings Held.
+- 2005-10-19 — Committee Consideration and Mark-up Session Held.
+- 2005-10-19 — Ordered to be Reported by Unanimous Consent.
+- 2005-10-19 — Subcommittee on National Parks Discharged.
+- 2005-11-10 — Placed on the Union Calendar, Calendar No. 157.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-287.
+- 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-287.

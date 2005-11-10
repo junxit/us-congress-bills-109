@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Removal of certain use restrictions on property
 
-Notwithstanding section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l-8(f)(3)), the approximately 123 acres of land located in the City of Winslow, Navajo County, Arizona, and designated as the “Winslow Hospitality Park”, may be disposed of or used for purposes other than public recreation.
+Notwithstanding section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8(f)(3)), the approximately 123 acres of land located in the City of Winslow, Navajo County, Arizona, and designated as the “Winslow Hospitality Park”, may be disposed of or used for purposes other than public recreation.
