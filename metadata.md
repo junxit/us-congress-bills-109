@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1972
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1972
@@ -38,3 +38,9 @@ Franklin National Battlefield Study Act
 - 2005-11-10 — Placed on the Union Calendar, Calendar No. 159.
 - 2005-11-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-289.
 - 2005-11-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-289.
+- 2005-11-15 — Considered under suspension of the rules. (consideration: CR H10168-10169)
+- 2005-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1972.
+- 2005-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-15 — Mrs. Musgrave moved to suspend the rules and pass the bill, as amended.
+- 2005-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10168-10169)
+- 2005-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10168-10169)
