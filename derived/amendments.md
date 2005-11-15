@@ -1,7 +1,7 @@
 ---
 measure: H.R. 326
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 16 U.S.C. § 461
-
-> Section 7 of the Yuma Crossing National Heritage Area Act of 2000 (16 U.S.C. 461 note; Public Law 106–319; 114 Stat. 1284) is amended by striking “2015” and inserting “2020”.
-
-| | |
-|---|---|
-| Removed | `2015` |
-| Inserted | `2020` |
 
 ## Stated, not applied
 
