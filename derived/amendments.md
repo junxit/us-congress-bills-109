@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3721
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “2005” and inserting “2015” each place it appears; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(2), by striking “$25” and inserting “$40”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005” and inserting “2015, or whenever a feasible alternative exists, whichever comes first,” each place it appears; and | the bill names no machine-readable US Code section |
+| — | amend | by amending the last sentence in subsection (c)(2) to read as follows: “Such fee shall be set to fully cover the cost of operation of the road, but not to exceed $40 per trip.”. | the bill names no machine-readable US Code section |
