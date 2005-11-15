@@ -1,7 +1,7 @@
 ---
 measure: H.R. 326
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 326
@@ -16,9 +16,10 @@ To amend the Yuma Crossing National Heritage Area Act of 2000 to adjust the boun
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,17 @@ To amend the Yuma Crossing National Heritage Area Act of 2000 to adjust the boun
 - 2005-11-15 — Reported (Amended) by the Committee on Resources. H. Rept. 109-294.
 - 2005-11-15 — Reported (Amended) by the Committee on Resources. H. Rept. 109-294.
 - 2005-11-15 — The title of the measure was amended. Agreed to without objection.
+- 2005-11-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-03-08 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 without amendment. With written report No. 109-242.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 without amendment. With written report No. 109-242.
+- 2006-04-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 404.
+- 2006-09-29 — Message on Senate action sent to the House.
+- 2006-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10535)
+- 2006-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10535)
+- 2006-10-02 — Presented to President.
+- 2006-10-02 — Presented to President.
+- 2006-10-11 — Became Public Law No: 109-318.
+- 2006-10-11 — Became Public Law No: 109-318.
+- 2006-10-11 — Signed by President.
+- 2006-10-11 — Signed by President.
