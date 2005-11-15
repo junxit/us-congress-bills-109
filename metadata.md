@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 323
@@ -52,3 +52,11 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 - 2005-11-10 — Placed on the Union Calendar, Calendar No. 154.
 - 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-284.
 - 2005-11-10 — Reported by the Committee on Resources. H. Rept. 109-284.
+- 2005-11-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2005-11-15 — Considered as unfinished business. (consideration: CR H10188-10189)
+- 2005-11-15 — Considered under suspension of the rules. (consideration: CR H10177-10178)
+- 2005-11-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 323.
+- 2005-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-15 — Mrs. Musgrave moved to suspend the rules and pass the bill.
+- 2005-11-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0, 1 Present (Roll no. 587). (text: CR H10177)
+- 2005-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0, 1 Present (Roll no. 587).(text: CR H10177)
