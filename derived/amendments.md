@@ -1,7 +1,7 @@
 ---
 measure: S. 467
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 7 executed, 15 stated and not applied.
+47 amendatory instructions. 7 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -111,3 +111,28 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701 note` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701 note` | replace | Section 103 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note, 116 Stat. 2327) is amended by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701 note` | add-at-end | Section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note, 116 Stat. 2328) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note; 116 Stat. 2336) is amended by striking “2005” and inserting “2007”. | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | replace | by striking “Availability.—” and all that follows through “each entity” and inserting “Availability.—During each Program Year, each entity”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively, and moving the margins 2 ems to the left. | the bill names no machine-readable US Code section |
+| — | insert | Section 102(1)(B)(ii) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note; 116 Stat. 2324) is amended by inserting before the period “, with respect to an act occurring before Program Year 4, $50,000,000 with respect to an a… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102(11) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note; 116 Stat. 2326) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in clause (vi), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in clause (vii), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “, and surety insurance”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, worker's” and inserting “and worker's”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (D), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (E) as subparagraph (G); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (G), as so redesignated, by striking “through (D)” and all that follows through “Year 3”and inserting the following: “through (F), for the Transition Period or any Program Year”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “through Program Year 4” before “shall be equal”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, and during Program Year 5 shall be equal to 85 percent,” after “90 percent”; and | the bill names no machine-readable US Code section |
+| — | replace | in each of paragraphs (2) and (3), by striking “Program Year 2 or Program Year 3” each place that term appears and inserting “any of Program Years 2 through 5”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “, (B), and (C)” and inserting “through (E)”; and | the bill names no machine-readable US Code section |
+| — | replace | in each of subparagraphs (B) and (C), by striking “subparagraph (A), (B), or (C)” each place that term appears and inserting “any of subparagraphs (A) through (E)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 107(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note; 116 Stat. 2335) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note; 116 Stat. 2336) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
