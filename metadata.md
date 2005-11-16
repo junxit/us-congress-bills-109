@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1492
@@ -150,3 +150,9 @@ To provide for the preservation of the historic confinement sites where Japanese
 - 2005-06-21 — Placed on the Union Calendar, Calendar No. 84.
 - 2005-06-21 — Reported (Amended) by the Committee on Resources. H. Rept. 109-142.
 - 2005-06-21 — Reported (Amended) by the Committee on Resources. H. Rept. 109-142.
+- 2005-11-16 — Considered under suspension of the rules. (consideration: CR H10321-10326)
+- 2005-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1492.
+- 2005-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-16 — Mr. Gohmert moved to suspend the rules and pass the bill, as amended.
+- 2005-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10321)
+- 2005-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10321)
