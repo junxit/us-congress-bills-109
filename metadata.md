@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 547
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 547
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that the United States Cour
 
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Cosponsors (37)
+## Cosponsors (40)
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -55,6 +55,9 @@ Expressing the sense of the House of Representatives that the United States Cour
 - Rep. Hart, Melissa A. [R-PA-4] (H001033)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
 
 ## Committees (1)
 
@@ -65,3 +68,11 @@ Expressing the sense of the House of Representatives that the United States Cour
 - 2005-11-10 — Introduced in House
 - 2005-11-10 — Introduced in House
 - 2005-11-10 — Referred to the House Committee on the Judiciary.
+- 2005-11-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2005-11-16 — Considered as unfinished business. (consideration: CR H10342-10343)
+- 2005-11-16 — Considered under suspension of the rules. (consideration: CR H10312-10317)
+- 2005-11-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 547.
+- 2005-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-16 — Mr. Sensenbrenner moved to suspend the rules and agree to the resolution.
+- 2005-11-16 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 320 - 91, 12 Present (Roll no. 591). (text: CR H10312)
+- 2005-11-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 320 - 91, 12 Present (Roll no. 591).(text: CR H10312)
