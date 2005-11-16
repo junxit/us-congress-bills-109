@@ -1,7 +1,7 @@
 ---
 measure: H.R. 562
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 562
@@ -55,9 +55,10 @@ To authorize the Government of Ukraine to establish a memorial on Federal land i
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -72,3 +73,18 @@ To authorize the Government of Ukraine to establish a memorial on Federal land i
 - 2005-11-16 — Mr. Gohmert moved to suspend the rules and pass the bill, as amended.
 - 2005-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10319-10320)
 - 2005-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10319-10320)
+- 2005-11-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-02-16 — Committee on Energy and Natural Resources. Hearings held.
+- 2006-03-15 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 without amendment. With written report No. 109-244.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 without amendment. With written report No. 109-244.
+- 2006-04-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2006-09-29 — Message on Senate action sent to the House.
+- 2006-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10536)
+- 2006-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10536)
+- 2006-10-02 — Presented to President.
+- 2006-10-02 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-340.
+- 2006-10-13 — Became Public Law No: 109-340.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
