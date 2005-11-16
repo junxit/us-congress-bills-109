@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “ Vet Center Enhancement Act of 2005 ”.
+This Act may be cited as the “Vet Center Enhancement Act of 2005”.
 
 ## § 2. Expansion of outreach activities of vet centers
 
@@ -38,4 +38,4 @@ This Act may be cited as the “ Vet Center Enhancement Act of 2005 ”.
 
 ## § 4. Funding for vet center program
 
--  There is authorized to be appropriated to the Department of Veterans Affairs for fiscal year 2006, $180,000,000 for the provision of readjustment counseling and related mental health services through centers under section 1712A of title 38, United States Code, including for the discharge of the requirements of this Act (and the amendments made by this Act).
+There is authorized to be appropriated to the Department of Veterans Affairs for fiscal year 2006, $180,000,000 for the provision of readjustment counseling and related mental health services through centers under section 1712A of title 38, United States Code, including for the discharge of the requirements of this Act (and the amendments made by this Act).
