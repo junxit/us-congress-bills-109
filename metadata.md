@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3647
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3647
@@ -32,3 +32,9 @@ To render nationals of Denmark eligible to enter the United States as nonimmigra
 - 2005-10-18 — Placed on the Union Calendar, Calendar No. 138.
 - 2005-10-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-251.
 - 2005-10-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-251.
+- 2005-11-16 — Considered under suspension of the rules. (consideration: CR H10243)
+- 2005-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3647.
+- 2005-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-11-16 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2005-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10243)
+- 2005-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10243)
