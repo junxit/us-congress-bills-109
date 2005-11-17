@@ -1,0 +1,55 @@
+---
+measure: H.R. 4385
+congress: 109
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 4385 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+4 amendatory instructions. 2 executed, 2 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 26 U.S.C. § 35
+
+> Subparagraph (A) of section 35(c)(4) of the Internal Revenue Code of 1986 (defining eligible PBGC pension recipient) is amended by striking “age 55” and inserting “age 50”.
+
+| | |
+|---|---|
+| Removed | `age 55` |
+| Inserted | `age 50` |
+
+### 26 U.S.C. § 35
+
+> Clause (i) of section 35(e)(2)(B) of such Code (defining qualifying individual) is amended by striking “9801(c)” and inserting “9801(c) (prior to the employment separation necessary to attain the status of an eligible individual)”.
+
+| | |
+|---|---|
+| Removed | `9801(c)` |
+| Inserted | `9801(c) (prior to the employment separation necessary to attain the status of an eligible individual)` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `26 U.S.C. § 35` | add-at-end | Section 35 of the Internal Revenue Code of 1986 (relating to health insurance costs of eligible individuals) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 35` | add-at-end | Subsection (b) of section 35 of such Code (defining eligible coverage month) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
