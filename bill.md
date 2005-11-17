@@ -11,10 +11,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short-term assessment
 
-- **(a)** *In General* The Secretary of the Army, acting through the Chief of Engineers (referred to in this Act as the Secretary), shall conduct, at full Federal expense, a comprehensive assessment of Corps infrastructure in the State of Louisiana affected by Hurricanes Katrina and Rita to determine whether opportunities exist for project modifications or project integration that may—
+- **(a)** *In General* The Secretary of the Army, acting through the Chief of Engineers (referred to in this Act as the Secretary), shall conduct, at full Federal expense, a comprehensive assessment of Corps infrastructureof Engineers projects and studies in the State of Louisiana affected by either Hurricanes Katrina andor Rita, or both of those hurricanes, to determine whether opportunities exist for project modifications or project integration that may—
   - **(1)** reduce future hurricane impacts; or
-  - **(2)** further other project purposes.
-- **(b)** *Content* The assessment under subsection (a) shall include, at a minimum—
+  - **(2)** further other project purposes.; or
+  - **(3)** provide efficiencies in the implementation of hurricane protection, flood control, navigation, or ecosystem restoration projects by the Corps of Engineers.
+- **(b)** *Content* The assessment under subsection (a) shall not be constrained by any cost-benefit analysis and shall include, at a minimum—
   - **(1)** a description of means of providing an increased level of hurricane protection using a combination of structural and nonstructural features;
   - **(2)** a review of the use of a combination of structural means (such as levees and floodgates) and nonstructural means (such as wetlands and beaches) in providing hurricane protection;
   - **(3)** a prioritization of actions that should be taken to improve the level of hurricane protection provided; and
@@ -22,17 +23,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(c)** *Report* Not later than January 15, 2006, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of the assessment.
 - **(d)** *Funding* Of the amounts made available by the Energy and Water Development Appropriations Act, 2006, for investigations by the Corps of Engineers, the Secretary may use not more than $1,000,000 to carry out this section.
 
-## § 2. Comprehensive Study
+## § 2. Comprehensive studyanalysis, design, and development
 
-- **(a)** *In General* Using the results of the assessment reported under section 1(c), the Secretary shall, in consultation with the State of Louisiana, conduct a comprehensive, integrated water resources analysis to design and develop a full range of flood control, navigation, ecosystem restoration, and hurricane protection measures for southern Louisiana.
-- **(b)** *Initial Report* Not later than 120 days after the date of submission of the report under section 1(c), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an initial report detailing an integrated approach to category 5 flood control, navigation, and ecosystem restoration for the Gulf Coast region of the State of Louisiana that includes—
-  - **(1)** a description of an overall approach for future spending in that region;
-  - **(2)** an identification of specific changes to ongoing projects, as well as proposals for future projects, in that region; and
+- **(a)** *In General* Using the results of the assessment reported under section 1(c), the Secretary shall, at full Federal expense and in consultation with the State of Louisiana, conduct a comprehensive, integrated water resources analysis to design and develop, design, and development of a full range of flood control, navigation, ecosystem restoration, and hurricane protection measures for southern Louisiana.
+- **(b)** *Initial Report* Not later than 120 days after the date of submission of the report under section 1(c), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an initial report detailing an integrated approach to category 5 hurricane protection, flood control, navigation, and ecosystem restoration for the Gulf Coast region of the State of Louisiana that includes—
+  - **(1)** a description of an overall approach for future Corps of Engineers spending in that region;
+  - **(2)** an identification of specific changes to ongoing projects and studies, as well as proposals for future projects, in that region; and
   - **(3)** a consideration of potential future projects, including projects involving—
-    - **(A)** the replacement of barrier islands;
+    - **(A)** the replacementrestoration, protection, or enhancement of barrier islands;
     - **(B)** coastal restoration;
     - **(C)** the closing of the Mississippi River Gulf Outlet;
     - **(D)** the filling in of canals; and
-    - **(E)** the relocation of pumping stations to areas that are less threatened by rising water.
-- **(c)** *Final Report* Not later than 2 years after the date of submission of the report under section 1(c), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a final technical report for an integrated approach to category 5 flood control, navigation, and ecosystem restoration for the Gulf Coast region of the State of Louisiana.
+    - **(E)** the relocation ofand protection of pumping stations to areas that are less threatened by rising waterand drainage infrastructure.
+- **(c)** *Final Report* Not later than 2 years after the date of submission of the report under section 1(c)November 15, 2007, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a final technical report for an integrated approach to category 5 hurricane protection, flood control, navigation, and ecosystem restoration for the Gulf Coast region of the State of Louisiana.
 - **(d)** *Funding* Of the amounts made available by the Energy and Water Development Appropriations Act, 2006, for investigations by the Corps of Engineers, the Secretary shall use not more than $8,000,000 to carry out this section.
