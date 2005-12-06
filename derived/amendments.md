@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3909
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
