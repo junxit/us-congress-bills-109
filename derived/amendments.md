@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4314
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 1501` | replace | by striking sections 102 through 106 and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1501` | replace | by striking sections 101 through 106 and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | by striking subsection (a) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | strike | in subsection (c)(1), by striking “paragraph (4), (5), (6), (7), or (8) of”. | the bill quotes the text struck but describes what replaces it |
