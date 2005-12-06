@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4192
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4192
@@ -32,3 +32,10 @@ To authorize the Secretary of the Interior to designate the President William Je
 - 2005-11-01 — Introduced in House
 - 2005-11-01 — Introduced in House
 - 2005-11-01 — Referred to the House Committee on Resources.
+- 2005-11-02 — Referred to the Subcommittee on National Parks.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2005-11-16 — Subcommittee on National Parks Discharged.
+- 2005-12-06 — Placed on the Union Calendar, Calendar No. 176.
+- 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-322.
+- 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-322.
