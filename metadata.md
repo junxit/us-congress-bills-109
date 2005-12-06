@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4292
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4292
@@ -29,3 +29,8 @@ To amend Public Law 107-153 to further encourage the negotiated settlement of tr
 - 2005-11-10 — Introduced in House
 - 2005-11-10 — Introduced in House
 - 2005-11-10 — Referred to the House Committee on Resources.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2005-12-06 — Placed on the Union Calendar, Calendar No. 178.
+- 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-324.
+- 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-324.
