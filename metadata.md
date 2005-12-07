@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4096
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4096
@@ -16,7 +16,7 @@ Stealth Tax Relief Act of 2005
 
 - Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
 
-## Cosponsors (23)
+## Cosponsors (33)
 
 - Rep. Simmons, Rob [R-CT-2] (S001152)
 - Rep. Shaw, E. Clay, Jr. [R-FL-22] (S000303)
@@ -41,6 +41,16 @@ Stealth Tax Relief Act of 2005
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Harris, Katherine [R-FL-13] (H001035)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Ford, Harold E., Jr. [D-TN-9] (F000262)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
 
 ## Committees (1)
 
@@ -51,3 +61,11 @@ Stealth Tax Relief Act of 2005
 - 2005-10-20 — Introduced in House
 - 2005-10-20 — Introduced in House
 - 2005-10-20 — Referred to the House Committee on Ways and Means.
+- 2005-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2005-12-07 — Considered as unfinished business. (consideration: CR H11147-11148)
+- 2005-12-07 — Considered under suspension of the rules. (consideration: CR H11141-11147)
+- 2005-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4096.
+- 2005-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-07 — Mr. Reynolds moved to suspend the rules and pass the bill.
+- 2005-12-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 4 (Roll no. 613). (text: CR H11141)
+- 2005-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 4 (Roll no. 613).(text: CR H11141)
