@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3963
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3963
@@ -46,3 +46,9 @@ To amend the Federal Water Pollution Control Act to extend the authorization of 
 - 2005-11-14 — Placed on the Union Calendar, Calendar No. 162.
 - 2005-11-14 — Reported by the Committee on Transportation. H. Rept. 109-293.
 - 2005-11-14 — Reported by the Committee on Transportation. H. Rept. 109-293.
+- 2005-12-07 — Considered under suspension of the rules. (consideration: CR H11122-11124)
+- 2005-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3963.
+- 2005-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-07 — Mr. Duncan moved to suspend the rules and pass the bill.
+- 2005-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11122)
+- 2005-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11122)
