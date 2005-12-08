@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1400
@@ -41,3 +41,11 @@ Securing Aircraft Cockpits Against Lasers Act of 2005
 - 2005-10-18 — Placed on the Union Calendar, Calendar No. 137.
 - 2005-10-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-250.
 - 2005-10-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-250.
+- 2005-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2005-12-07 — Considered under suspension of the rules. (consideration: CR H11127-11128)
+- 2005-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1400.
+- 2005-12-07 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2005-12-08 — Considered as unfinished business. (consideration: CR H11264)
+- 2005-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2005 H11127)
+- 2005-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2005 H11127)
