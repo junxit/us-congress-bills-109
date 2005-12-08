@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1090
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1090
@@ -33,3 +33,11 @@ To designate a Forest Service trail at Waldo Lake in the Willamette National For
 - 2005-03-03 — Introduced in House
 - 2005-03-03 — Introduced in House
 - 2005-03-03 — Referred to the House Committee on Resources.
+- 2005-03-14 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-10-27 — Subcommittee Hearings Held.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2005-11-16 — Subcommittee on Forests and Forest Health Discharged.
+- 2005-12-08 — Placed on the Union Calendar, Calendar No. 182.
+- 2005-12-08 — Reported (Amended) by the Committee on Resources. H. Rept. 109-331.
+- 2005-12-08 — Reported (Amended) by the Committee on Resources. H. Rept. 109-331.
