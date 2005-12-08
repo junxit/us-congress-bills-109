@@ -1,7 +1,7 @@
 ---
 measure: S. 435
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
