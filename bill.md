@@ -15,38 +15,40 @@ This Act may be cited as the “James Campbell National Wildlife Refuge Expansio
 
 ## § 2. Findings
 
--  Congress finds that—
-  - **(1)** the United States Fish and Wildlife Service manages the James Campbell National Wildlife Refuge for the purpose of promoting the recovery of 4 species of endangered Hawaiian waterbirds;
-  - **(2)** the United States Fish and Wildlife Service leases approximately 240 acres of high-value wetland habitat (including ponds, marshes, freshwater springs, and adjacent land) and manages the habitat in accordance with the National Wildlife Refuge System Improvement Act (16 U.S.C. 668dd note; Public Law 105–312);
-  - **(3)** the United States Fish and Wildlife Service entered into a contract to purchase in fee title the land described in paragraph (2) from the estate of James Campbell for the purposes of—
-    - **(A)** permanently protecting the endangered species habitat; and
-    - **(B)** improving the management of the Refuge;
-  - **(4)** the United States Fish and Wildlife Service has identified for inclusion in the Refuge approximately 800 acres of additional high-value wildlife habitat adjacent to the Refuge that are owned by the estate of James Campbell;
-  - **(5)** the land of the estate of James Campbell on the Kahuku Coast features coastal dunes, coastal wetlands, and coastal strand that promote biological diversity for threatened and endangered species, including—
-    - **(A)** the 4 species of endangered Hawaiian waterbirds described in paragraph (1);
-    - **(B)** migratory shorebirds;
-    - **(C)** waterfowl;
-    - **(D)** seabirds;
-    - **(E)** endangered and native plant species;
-    - **(F)** endangered monk seals; and
-    - **(G)** green sea turtles;
-  - **(6)** because of extensive coastal development, habitats of the type within the Refuge are increasingly rare on the Hawaiian islands;
-  - **(7)** expanding the Refuge will provide increased opportunities for wildlife-dependent public uses, including wildlife observation, photography, and environmental education and interpretation; and
-  - **(8)** acquisition of the land described in paragraph (4)—
-    - **(A)** will create a single, large, manageable, and ecologically-intact unit that includes sufficient buffer land to reduce impacts on the Refuge; and
-    - **(B)** is necessary to reduce flood damage following heavy rainfall to residences, businesses, and public buildings in the town of Kahuku.
+Congress finds that—
+
+- **(1)** the United States Fish and Wildlife Service manages the James Campbell National Wildlife Refuge for the purpose of promoting the recovery of 4 species of endangered Hawaiian waterbirds;
+- **(2)** the United States Fish and Wildlife Service leases approximately 240 acres of high-value wetland habitat (including ponds, marshes, freshwater springs, and adjacent land) and manages the habitat in accordance with the National Wildlife Refuge System Improvement Act (16 U.S.C. 668dd note; Public Law 105–312);
+- **(3)** the United States Fish and Wildlife Service entered into a contract to purchase in fee title the land described in paragraph (2) from the estate of James Campbell for the purposes of—
+  - **(A)** permanently protecting the endangered species habitat; and
+  - **(B)** improving the management of the Refuge;
+- **(4)** the United States Fish and Wildlife Service has identified for inclusion in the Refuge approximately 800 acres of additional high-value wildlife habitat adjacent to the Refuge that are owned by the estate of James Campbell;
+- **(5)** the land of the estate of James Campbell on the Kahuku Coast features coastal dunes, coastal wetlands, and coastal strand that promote biological diversity for threatened and endangered species, including—
+  - **(A)** the 4 species of endangered Hawaiian waterbirds described in paragraph (1);
+  - **(B)** migratory shorebirds;
+  - **(C)** waterfowl;
+  - **(D)** seabirds;
+  - **(E)** endangered and native plant species;
+  - **(F)** endangered monk seals; and
+  - **(G)** green sea turtles;
+- **(6)** because of extensive coastal development, habitats of the type within the Refuge are increasingly rare on the Hawaiian islands;
+- **(7)** expanding the Refuge will provide increased opportunities for wildlife-dependent public uses, including wildlife observation, photography, and environmental education and interpretation; and
+- **(8)** acquisition of the land described in paragraph (4)—
+  - **(A)** will create a single, large, manageable, and ecologically-intact unit that includes sufficient buffer land to reduce impacts on the Refuge; and
+  - **(B)** is necessary to reduce flood damage following heavy rainfall to residences, businesses, and public buildings in the town of Kahuku.
 
 ## § 3. Definitions
 
--  In this Act:
-  - **(1)** *Director* The term Director means the Director of the United States Fish and Wildlife Service.
-  - **(2)** *Refuge* The term Refuge means the James Campbell National Wildlife Refuge established pursuant to the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
-  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+In this Act:
+
+- **(1)** *Director* The term Director means the Director of the United States Fish and Wildlife Service.
+- **(2)** *Refuge* The term Refuge means the James Campbell National Wildlife Refuge established pursuant to the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
+- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 4. Expansion of refuge
 
-- **(a)** *Expansion* The boundary of the Refuge is expanded to include the approximately 1,100 acres of land (including any water and interest in the land) depicted on the map entitled “James Campbell National Wildlife Refuge—Expansion”, and on file in the office of the Director.
-- **(b)** *Boundary revisions* Not later than 90 days after the date of enactment of this Act, the Secretary may make such minor modifications to the boundary of the Refuge as the Secretary determines to be appropriate to—
+- **(a)** *Expansion* The boundary of the Refuge is expanded to include the approximately 1,100 acres of land (including any water and interest in the land) depicted on the map entitled “James Campbell National Wildlife Refuge—Expansion”, and on filedated October 20, 2005, and on file in the office of the Director.
+- **(b)** *Boundary revisions* Not later than 90 days after the date of enactment of this Act, the Secretary mayThe Secretary may make such minor modifications to the boundary of the Refuge as the Secretary determines to be appropriate to—
   - **(1)** achieve the goals of the United States Fish and Wildlife Service relating to the Refuge; or
   - **(2)** facilitate the acquisition of property within the Refuge.
 - **(c)** *Availability of map*
@@ -62,4 +64,4 @@ This Act may be cited as the “James Campbell National Wildlife Refuge Expansio
 
 ## § 6. Authorization of appropriations
 
--  There are authorized to be appropriated such sums as are necessary to carry out this Act.
+There are authorized to be appropriated such sums as are necessary to carry out this Act.
