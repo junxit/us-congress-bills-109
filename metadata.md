@@ -1,7 +1,7 @@
 ---
 measure: S. 1096
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1096
@@ -29,3 +29,8 @@ Musconetcong Wild and Scenic Rivers Act
 - 2005-05-23 — Introduced in Senate
 - 2005-05-23 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S5780-5781)
 - 2005-05-23 — Sponsor introductory remarks on measure. (CR S5780)
+- 2005-09-22 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-213.
+- 2005-11-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2005-12-08 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 11/18/2005 without amendment. With written report No. 109-193.
+- 2005-12-08 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 11/18/2005 without amendment. With written report No. 109-193.
+- 2005-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
