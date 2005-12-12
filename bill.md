@@ -27,14 +27,14 @@ In this Act:
 
 ## § 3. Easement for expanded natural gas pipeline
 
-- **(a)** *In general* The Secretary may enter into an agreement with the Corporation to grant to the Corporation, for no consideration, an easement to enlarge the diameter of the pipeline from 14 inches to not more than 20 inches.
+- **(a)** *In general* The Secretary may enter into an agreement with the Corporation to grant to the Corporation, an easement to enlarge the diameter of the pipeline from 14 inches to not more than 20 inches.
 - **(b)** *Terms and conditions* The easement authorized under subsection (a) shall—
   - **(1)** be consistent with—
     - **(A)** the recreational values of the Recreation Area; and
     - **(B)** protection of the resources of the Recreation Area;
   - **(2)** include provisions for the protection of resources in the Recreation Area that ensure that only the minimum and necessary amount of disturbance, as determined by the Secretary, shall occur during the construction or maintenance of the enlarged pipeline;
   - **(3)** be consistent with the laws (including regulations) and policies applicable to units of the National Park System; and
-  - **(4)** be subject to any other terms and conditions that the Secretary determines to be necessary;
+  - **(4)** be subject to any other terms and conditions that the Secretary determines to be necessary.
 - **(c)** *Permits*
   - **(1)** *In general* The Superintendent may issue a permit to the Corporation for the use of the Recreation Area in accordance with subsection (b) for the temporary construction and staging areas required for the construction of the enlarged pipeline.
   - **(2)** *Prior to issuance* The easement authorized under subsection (a) and the permit authorized under paragraph (1) shall require that before the Superintendent issues a permit for any clearing or construction, the Corporation shall—
