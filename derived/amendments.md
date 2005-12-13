@@ -1,7 +1,7 @@
 ---
 measure: H.R. 975
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -53,7 +53,7 @@ to guess them.
 
 ### 18 U.S.C. § 3571
 
-> in paragraph (1), by striking “fined under title 18, United States Code, or imprisoned for not more than 1 year, or both.” and inserting “guilty of a Class A misdemeanor, subject to fine as provided in section 3571 of title 18, United States Code, or imprisonment as provided in section 3581 of that title, or both. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.”;
+> in paragraph (1), by striking “fined under title 18, United States Code, or imprisoned for not more than 1 year, or both.” and inserting “guilty of a Class A misdemeanor, subject to fine as provided in section 3571 of title 18, United States Code, or imprisonment as provided in section 3581 of that title, or both. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.”; and
 
 | | |
 |---|---|
@@ -86,5 +86,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3` | replace | by striking “No natural,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 551` | amend | The eleventh undesignated paragraph under the heading “surveying the public lands” of the Act of June 4, 1897 (16 U.S.C. 551), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1733` | add-at-end | Section 303(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1733(a)), as amended by section 2(a), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3` | add-at-end | Subsection (a) of section 3 of the Act of August 25, 1916 (popularly known as the National Park Service Organic Act; 16 U.S.C. 3), as designated and amended by section 2(b), is further amended by adding at the end the following new parag… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3` | add-at-end | Subsection (a) of section 3 of the National Park Service Organic Act (16 U.S.C. 3), as designated and amended by section 2(b), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 551` | add-at-end | Subsection (b) of section 551 of the Act of June 4, 1897 (16 U.S.C. 551), as designated and amended by section 2(d), which before such designation and amendment was the eleventh undesignated paragraph under the heading “surveying the pub… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

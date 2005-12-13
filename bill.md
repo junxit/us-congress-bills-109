@@ -23,7 +23,7 @@ This Act may be cited as the “Trail Responsibility and Accountability for the 
     > - **(3)** Any person who otherwise violates or fails to comply with any of the provisions of this Act or any regulation issued under this Act shall be guilty of a Class B misdemeanor, subject to fine or imprisonment, or both, as provided in such sections. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.
 
 - **(b)** *National park system lands*
-  - **(1)** *Enforcement* Section 3 of the Act of August 25, 1916 (popularly known as the National Park Service Organic Act; 16 U.S.C. 3) is amended—
+  - **(1)** *Enforcement* Section 3 of the National Park Service Organic Act (16 U.S.C. 3) is amended—
     - **(A)** by striking “That the Secretary” the first place it appears and inserting “(a) Regulations for use and management of national park system; enforcement.—(1) The Secretary”;
     - **(B)** by striking “Service,” and all that follows through “proceedings.” and inserting “Service.”; and
     - **(C)** by inserting after the first sentence the following new paragraphs:
@@ -39,7 +39,7 @@ This Act may be cited as the “Trail Responsibility and Accountability for the 
       > - **(c)** *Lease and permit authorities* No natural
 
 - **(c)** *National wildlife refuge system lands* Section 4(f) of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd(f)) is amended—
-  - **(1)** in paragraph (1), by striking “fined under title 18, United States Code, or imprisoned for not more than 1 year, or both.” and inserting “guilty of a Class A misdemeanor, subject to fine as provided in section 3571 of title 18, United States Code, or imprisonment as provided in section 3581 of that title, or both. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.”;
+  - **(1)** in paragraph (1), by striking “fined under title 18, United States Code, or imprisoned for not more than 1 year, or both.” and inserting “guilty of a Class A misdemeanor, subject to fine as provided in section 3571 of title 18, United States Code, or imprisonment as provided in section 3581 of that title, or both. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.”; and
   - **(2)** in paragraph (2), by striking “fined under title 18, United States Code, or imprisoned not more than 180 days, or both.” and inserting “guilty of a Class B misdemeanor, subject to fine as provided in section 3571 of title 18, United States Code, or imprisonment as provided in section 3581 of that title, or both. A person who violates any such provision or regulation may also be adjudged to pay all costs of the proceedings.”.
 - **(d)** *National Forest System lands* The eleventh undesignated paragraph under the heading “surveying the public lands” of the Act of June 4, 1897 (16 U.S.C. 551), is amended to read as follows:
   > ## § 551. Protection of National Forest System lands; regulations
@@ -56,8 +56,8 @@ This Act may be cited as the “Trail Responsibility and Accountability for the 
 - **(a)** *Lands under jurisdiction of bureau of land management* Section 303(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1733(a)), as amended by section 2(a), is further amended by adding at the end the following new paragraph:
   > - **(4)** In the case of a regulation issued under this section regarding the use of fire by individuals on the public lands, if the violation of the regulation was the result of reckless conduct, occurred in an area subject to a complete ban on open fires, and resulted in damage to public or private property, the fine may not be less than $500.
 
-- **(b)** *National park system lands* Subsection (a) of section 3 of the Act of August 25, 1916 (popularly known as the National Park Service Organic Act; 16 U.S.C. 3), as designated and amended by section 2(b), is further amended by adding at the end the following new paragraph:
+- **(b)** *National park system lands* Subsection (a) of section 3 of the National Park Service Organic Act (16 U.S.C. 3), as designated and amended by section 2(b), is further amended by adding at the end the following new paragraph:
   > - **(4)** In the case of a rule or regulation issued under this subsection regarding the use of fire by individuals on such lands, if the violation of the rule or regulation was the result of reckless conduct, occurred in an area subject to a complete ban on open fires, and resulted in damage to public or private property, the fine may not be less than $500.
 
 - **(c)** *National forest system lands* Subsection (b) of section 551 of the Act of June 4, 1897 (16 U.S.C. 551), as designated and amended by section 2(d), which before such designation and amendment was the eleventh undesignated paragraph under the heading “surveying the public lands” of such Act, is further amended by adding at the end the following new paragraph:
-  > - **(3)** In the case of a regulation issued under subsection (a) regarding the use of fire by individuals on National Forest System lands, if the violation of the regulation was the result of reckless conduct, occurred in an area subject to a complete ban on open fires, and resulted in damage to public or private property, the fine may not be less than $500.
+  > - **(4)** In the case of a regulation issued under subsection (a) regarding the use of fire by individuals on National Forest System lands, if the violation of the regulation was the result of reckless conduct, occurred in an area subject to a complete ban on open fires, and resulted in damage to public or private property, the fine may not be less than $500.
