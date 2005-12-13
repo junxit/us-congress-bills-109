@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3153
@@ -40,3 +40,11 @@ Upper Colorado and San Juan Basin Endangered Fish Recovery Implementation Progra
 - 2005-06-30 — Introduced in House
 - 2005-06-30 — Introduced in House
 - 2005-06-30 — Referred to the House Committee on Resources.
+- 2005-07-12 — Referred to the Subcommittee on Water and Power.
+- 2005-11-03 — Subcommittee Hearings Held.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2005-11-16 — Subcommittee on Water and Power Discharged.
+- 2005-12-13 — Placed on the Union Calendar, Calendar No. 189.
+- 2005-12-13 — Reported by the Committee on Resources. H. Rept. 109-340.
+- 2005-12-13 — Reported by the Committee on Resources. H. Rept. 109-340.
