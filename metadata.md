@@ -1,7 +1,7 @@
 ---
 measure: H.R. 853
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 853
@@ -32,3 +32,9 @@ To remove certain restrictions on the Mammoth Community Water District's ability
 - 2005-06-08 — Placed on the Union Calendar, Calendar No. 61.
 - 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-109.
 - 2005-06-08 — Reported by the Committee on Resources. H. Rept. 109-109.
+- 2005-12-13 — Considered under suspension of the rules. (consideration: CR H11442-11443)
+- 2005-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 853.
+- 2005-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-13 — Mrs. Drake moved to suspend the rules and pass the bill.
+- 2005-12-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11442)
+- 2005-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11442)
