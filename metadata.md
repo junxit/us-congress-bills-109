@@ -1,7 +1,7 @@
 ---
 measure: H.R. 452
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 452
@@ -38,3 +38,9 @@ To authorize the Secretary of the Interior to conduct a study to determine the s
 - 2005-12-06 — Placed on the Union Calendar, Calendar No. 173.
 - 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-319.
 - 2005-12-06 — Reported by the Committee on Resources. H. Rept. 109-319.
+- 2005-12-13 — Considered under suspension of the rules. (consideration: CR H11446-11447)
+- 2005-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 452.
+- 2005-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-13 — Mrs. Drake moved to suspend the rules and pass the bill.
+- 2005-12-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11446)
+- 2005-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11446)
