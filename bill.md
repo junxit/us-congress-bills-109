@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 4508
+congress: 109th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4508
+
+> To commend the outstanding efforts in response to Hurricane Katrina by members and employees of the Coast Guard, to provide temporary relief to certain persons affected by such hurricane with respect to certain laws administered by the Coast Guard, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Coast Guard Hurricane Relief Act of 2005”.
+
+## § 2. Commendation, recognition, and thanks for coast guard personnel
+
+- **(a)** *Findings* The Congress finds the following:
+  - **(1)** On August 29, 2005, Hurricane Katrina struck the Gulf of Mexico coastal region of Louisiana, Mississippi, and Alabama, causing the worst natural disaster in United States history.
+  - **(2)** The Coast Guard strategically positioned its aircraft, vessels, and personnel the day before Hurricane Katrina made landfall and launched search and rescue teams within hours after Hurricane Katrina struck.
+  - **(3)** The Coast Guard moved its operations in areas threatened by Hurricane Katrina to higher ground and mobilized cutters, small boats, and aircraft from all around the United States to help in the response to Hurricane Katrina.
+  - **(4)** The response to Hurricane Katrina by members and employees of the Coast Guard has been immediate, invaluable, and courageous.
+  - **(5)** The Coast Guard rescued more than 33,000 people affected by Hurricane Katrina through the air and by water, including evacuations of hospitals, and has been at the center of efforts to restore commerce to areas affected by Hurricane Katrina by clearing shipping channels, replacing aids to navigation, and securing uprooted oil rigs.
+  - **(6)** The Coast Guard was at the forefront of the Federal response to the numerous oil and chemical spills in the area affected by Hurricane Katrina.
+  - **(7)** Members and employees of the Coast Guard—
+    - **(A)** have shown great leadership in helping to coordinate relief efforts with respect to Hurricane Katrina;
+    - **(B)** have used their expertise and specialized skills to provide immediate assistance to victims and survivors of the hurricane; and
+    - **(C)** have set up remote assistance operations in the affected areas in order to best provide service to the Gulf of Mexico coastal region.
+  - **(8)** Members and employees of the Coast Guard have worked together to bring clean water, food, and resources to victims and survivors in need.
+- **(b)** *Commendation, recognition, and thanks* The Congress—
+  - **(1)** commends the outstanding efforts in response to Hurricane Katrina by members and employees of the Coast Guard;
+  - **(2)** recognizes that the actions of these individuals went above and beyond the call of duty; and
+  - **(3)** thanks them for their continued dedication and service.
+- **(c)** *Sense of Congress* It is the sense of Congress that the Coast Guard should play a major role in response to any future national emergency or disaster caused by a natural event in the United States in a coastal or offshore area.
+
+## § 3. Temporary authorization to extend the duration of licenses, certificates of registry, and merchant mariners’ documents
+
+- **(a)** *Licenses and certificates of registry* Notwithstanding section 7106 and 7107 of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may temporarily extend the duration of a license or certificate of registry issued for an individual under chapter 71 of that title until not later than February 28, 2006, if—
+  - **(1)** the individual is a resident of Alabama, Mississippi, or Louisiana; or
+  - **(2)** the individual is a resident of any other State, and the records of the individual—
+    - **(A)** are located at the Coast Guard facility in New Orleans that was damaged by Hurricane Katrina; or
+    - **(B)** were damaged or lost as a result of Hurricane Katrina.
+- **(b)** *Merchant mariners’ documents* Notwithstanding section 7302(g) of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may temporarily extend the duration of a merchant mariners’ document issued for an individual under chapter 73 of that title until not later than February 28, 2006, if—
+  - **(1)** the individual is a resident of Alabama, Mississippi, or Louisiana; or
+  - **(2)** the individual is a resident of any other State, and the records of the individual—
+    - **(A)** are located at the Coast Guard facility in New Orleans that was damaged by Hurricane Katrina; or
+    - **(B)** were damaged or lost as a result of Hurricane Katrina.
+- **(c)** *Manner of extension* Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
+
+## § 4. Temporary authorization to extend the duration of vessel certificates of inspection
+
+- **(a)** *Authority to extend* Notwithstanding section 3307 and 3711(b) of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may temporarily extend the duration or the validity of a certificate of inspection or a certificate of compliance issued under chapter 33 or 37, respectively, of title 46, United States Code, for up to 3 months for a vessel inspected by a Coast Guard Marine Safety Office located in Alabama, Mississippi, or Louisiana.
+- **(b)** *Expiration of authority* The authority provided under this section expires February 28, 2006.
+
+## § 5. Preservation of leave lost due to Hurricane Katrina operations
+
+- **(a)** *Preservation of leave* Notwithstanding section 701(b) of title 10, United States Code, any member of the Coast Guard who serves on active duty for a continuous period of 30 days, who is assigned to duty or otherwise detailed in support of units or operations in the Eighth Coast Guard District area of responsibility for activities to mitigate the consequences of, or assist in the recovery from, Hurricane Katrina, during the period beginning on August 28, 2005, and ending on January 1, 2006, and who would otherwise lose any accumulated leave in excess of 60 days as a consequence of such assignment, is authorized to retain an accumulated total of up to 90 days of leave.
+- **(b)** *Excess leave* Leave in excess of 60 days accumulated under subsection (a) shall be lost unless used by the member before the commencement of the second fiscal year following the fiscal year in which the assignment commences, or in the case of a Reserve members, the year in which the period of active service is completed.
