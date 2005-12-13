@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4107
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4107
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 1826 Pe
 - 2005-10-20 — Introduced in House
 - 2005-10-20 — Introduced in House
 - 2005-10-20 — Referred to the House Committee on Government Reform.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported by Unanimous Consent.
+- 2005-12-13 — Considered under suspension of the rules. (consideration: CR H11342-11343)
+- 2005-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4107.
+- 2005-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-13 — Mr. Cannon moved to suspend the rules and pass the bill.
+- 2005-12-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11342)
+- 2005-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11342)
