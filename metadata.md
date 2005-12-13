@@ -1,7 +1,7 @@
 ---
 measure: H.R. 125
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 125
@@ -43,3 +43,9 @@ To authorize the Secretary of the Interior to construct facilities to provide wa
 - 2005-11-16 — Placed on the Union Calendar, Calendar No. 164.
 - 2005-11-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-297, Part I.
 - 2005-11-16 — Reported (Amended) by the Committee on Resources. H. Rept. 109-297, Part I.
+- 2005-12-13 — Considered under suspension of the rules. (consideration: CR H11441-11442)
+- 2005-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 125.
+- 2005-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-12-13 — Mrs. Drake moved to suspend the rules and pass the bill, as amended.
+- 2005-12-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11441-11442)
+- 2005-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11441-11442)
