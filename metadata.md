@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4500
 congress: 109
-version: Considered and Passed House
+version: Engrossed in House
 ---
 
 # H.R. 4500
