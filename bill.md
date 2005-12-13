@@ -30,7 +30,7 @@ In this Act:
   - **(1)** *District*
     - **(A)** *Finding* Congress finds that the District has completed the obligation of the District to repay the capital costs of the Colorado-Big Thompson Project under the contract.
     - **(B)** *No consideration required* The District shall not be required to provide additional consideration for the conveyance of the transferred water distribution facilities under subsection (a).
-  - **(2)** *Electric customers* In consideration for the conveyance of the transferred water distribution facilities under subsection (a), the Secretary of the Treasury shall transfer from the Reclamation fund in the Treasury to the Secretary [$_______], which shall be derived from amounts collected by the Western Area Power Administration for the sale of electricity from the Loveland Area Projects.
+  - **(2)** *Electric customers* The Western Area Power Administration shall continue to include the unpaid portion of the transferred facilities in its annual power repayment studies for the Loveland Area Projects until such facilities are repaid in accordance with the laws and policies regarding repayment of investment in effect on the date of enactment of this Act.
 - **(c)** *No effect on obligations and rights* Except as expressly provided in this Act, nothing in this Act affects or modifies the obligations and rights of the District under the contract, including the obligation of the District to make payments required under the contract.
 
 ## § 3. Liability
