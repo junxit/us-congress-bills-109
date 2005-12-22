@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4438
@@ -48,3 +48,8 @@ Gulf Coast Recovery Act of 2005
 - 2005-12-06 — Introduced in House
 - 2005-12-06 — Introduced in House
 - 2005-12-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-12-07 — Committee Consideration and Mark-up Session Held.
+- 2005-12-07 — Ordered to be Reported by Voice Vote.
+- 2005-12-22 — Placed on the Union Calendar, Calendar No. 195.
+- 2005-12-22 — Reported by the Committee on Transportation. H. Rept. 109-364.
+- 2005-12-22 — Reported by the Committee on Transportation. H. Rept. 109-364.
