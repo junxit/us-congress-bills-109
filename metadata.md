@@ -1,7 +1,7 @@
 ---
 measure: S. 1708
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1708
@@ -38,3 +38,7 @@ Emergency Lease Requirements Act of 2005
 
 - 2005-09-15 — Introduced in Senate
 - 2005-09-15 — Read twice and referred to the Committee on Environment and Public Works.
+- 2005-11-17 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-01-26 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-214.
+- 2006-01-26 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-214.
+- 2006-01-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
