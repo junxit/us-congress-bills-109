@@ -1,0 +1,20 @@
+---
+legis-num: S. 2204
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2204
+
+> To validate certain conveyances made by the Union Pacific Railroad Company of lands located in Reno, Nevada, that were originally conveyed by the United States to facilitate construction of transcontinental railroads, and for other purposes.
+
+## § 1. Validation of rail corridor real property conveyances, Reno, Nevada
+
+- **(a)** *Validation*
+  - **(1)** *Conveyances covered by memorandum of understanding* The land conveyances that were made, or are to be made, to the City of Reno, Nevada, by the Union Pacific Railroad Company pursuant to the Memorandum of Understanding for Reno Rail Corridor, as amended, entered into on December 1, 1998, between the City of Reno and the Union Pacific Railroad Company, and that comprise approximately 120 acres of land originally granted by the United States to the predecessor of the Union Pacific Railroad Company to facilitate construction of transcontinental railroads are valid to the extent that the conveyances would have been valid had the land involved in the conveyances been held by the Union Pacific Railroad Company in absolute or fee simple title at the time of the conveyances.
+  - **(2)** *Additional conveyance* The land conveyance made to the City of Reno, Nevada, by CTB Inc., a Nevada Corporation, in the grant, bargain, and sale deed dated October 22, 2002, and involving a parcel of land situated in the NWSW of Section 11, Township 19 North, Range 9 East, Mount Diablo base and meridian, is valid to the extent that the conveyance would have been valid had the land involved in the conveyance been held by CTB Inc. in absolute or fee simple title at the time of the conveyance.
+- **(b)** *Release of United States interests* All right, title, and interest of the United States in and to the land described in subsection (a) are released to the City of Reno, without consideration.
+- **(c)** *Filing of instruments* As soon as practicable after the date of enactment of this Act, the Secretary of the Interior shall file, for recordation in the real property records of Washoe County, Nevada, such instruments as may be necessary to document—
+  - **(1)** the validation of the land conveyances described in subsection (a); and
+  - **(2)** the release of the interests of the United States under subsection (b).
