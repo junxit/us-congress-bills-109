@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4320
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4320
@@ -29,3 +29,8 @@ National Flood Insurance Program Commitment to Policyholders and Reform Act of 2
 - 2005-11-15 — Introduced in House
 - 2005-11-15 — Introduced in House
 - 2005-11-15 — Referred to the House Committee on Financial Services.
+- 2005-11-16 — Committee Consideration and Mark-up Session Held.
+- 2005-11-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-02-01 — Placed on the Union Calendar, Calendar No. 199.
+- 2006-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-370.
+- 2006-02-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-370.

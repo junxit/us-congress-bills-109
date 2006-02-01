@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4320
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 9 executed, 11 stated and not applied.
+14 amendatory instructions. 7 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 4102a
-
-> in section 1361A(g)(4) (42 U.S.C. 4102a(g)(4)), by striking “flood hazard area” and inserting “area having special flood hazards”; and
-
-| | |
-|---|---|
-| Removed | `flood hazard area` |
-| Inserted | `area having special flood hazards` |
-
-### 42 U.S.C. § 4104c
-
-> in section 1366(m) (42 U.S.C. 4104c(m)), by striking “100-year” and inserting “500-year”.
-
-| | |
-|---|---|
-| Removed | `100-year` |
-| Inserted | `500-year` |
 
 ### 42 U.S.C. § 4012a
 
@@ -89,21 +71,21 @@ to guess them.
 
 ### 42 U.S.C. § 4027
 
-> in the section heading, by striking “report to the president” and inserting “reports”;
+> in the section heading, by striking “REPORT TO THE PRESIDENT” and inserting “REPORTS”;
 
 | | |
 |---|---|
-| Removed | `report to the president` |
-| Inserted | `reports` |
+| Removed | `REPORT TO THE PRESIDENT` |
+| Inserted | `REPORTS` |
 
 ### 42 U.S.C. § 4027
 
-> in subsection (a), by striking “In general” and inserting “Biennial report to president”; and
+> in subsection (a), by striking “In General” and inserting “Biennial Report to President” ; and
 
 | | |
 |---|---|
-| Removed | `In general` |
-| Inserted | `Biennial report to president` |
+| Removed | `In General` |
+| Inserted | `Biennial Report to President` |
 
 ## Stated, not applied
 
@@ -114,14 +96,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4003` | strike | in paragraph (10), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4003` | replace | in paragraph (11), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4003` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4121` | strike | in paragraph (14), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4121` | replace | in paragraph (15), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4121` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4012a` | strike | by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4013` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4013` | replace | in paragraph (5), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4013` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4013` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4027` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2604` | add-at-end | Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) is amended by adding at the end the following new sentence: “Each such good faith estimate shall include a conspicuous statement that fl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4104c` | insert | Subparagraph (B) of section 1366(e)(5) of the National Flood Insurance Act of 1968 (42 U.S.C. 4104c(e)(5)(B)) is amended by inserting before the semicolon at the end the following: “, or the demolition and rebuilding of structures locate… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
