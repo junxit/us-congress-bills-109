@@ -1,0 +1,66 @@
+---
+legis-num: H.R. 4695
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4695
+
+> To direct the Secretary of Labor to prescribe additional coal mine safety standards, to require additional penalties for habitual violators, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Mine Safety and Health Act of 2006”.
+
+## § 2. Sense of Congress
+
+It is the sense of Congress that the Mine Safety and Health Administration should strictly enforce mine health and safety standards as required under the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.).
+
+## § 3. Enhanced underground coal mine safety standards
+
+- **(a)** *Notification* Not later than 90 days after the enactment of this Act, the Secretary shall revise the regulations prescribed pursuant to section 101 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 811) to require that the operator of each coal mine expeditiously provide notification of any accident where rescue and recovery work is necessary. The Secretary shall take such steps as are necessary to ensure that a system is in place within the Mine Health and Safety Administration to immediately receive such notification.
+- **(b)** *Rapid emergency response* Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall revise the regulations prescribed pursuant to section 115(e) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 825(e)) regarding mine rescue teams. Such regulations—
+  - **(1)** shall address the efficacy and adequacy of—
+    - **(A)** training and qualifications for rescue team members;
+    - **(B)** the equipment and technology used in mine rescue, including refuge chambers and other rescue alternatives;
+    - **(C)** the structure and organization of rescue teams, including the number of team members and the procedural rules for the use of teams, including contractor teams; and
+    - **(D)** the guidelines addressing the potential liability of and insurance issues relating to rescue teams; and
+  - **(2)** shall require—
+    - **(A)** that the operator of each coal mine maintain mine rescue teams whose members—
+      - **(i)** are employed by such operator and who are familiar with the workings of such coal mine; and
+      - **(ii)** shall be available at such coal mine for rescue and recovery work to provide an immediate and rapid response to an emergency; and
+    - **(B)** that the operator of each coal mine have in place a plan for coordination and communication between the operator and mine rescue teams and local emergency response personnel, and that such local personnel be eligible to receive appropriate training in order to be familiar with mine rescue and recovery work.
+- **(c)** *Emergency air and communications equipment* Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall prescribe regulations as authorized by section 315 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 825(e)). Such regulations shall require that each coal mine maintain at strategic locations within each mine, the following:
+  - **(1)** Emergency supplies of air and self-contained breathing equipment for persons awaiting rescue due to an emergency within the mine. Such equipment shall be sufficient to maintain such persons for a sustained period of time and shall be in addition to the self-rescue devices referred to in section 317 of that Act (30 U.S.C. 877(n)).
+  - **(2)** Independent means of communication with the surface for persons awaiting rescue at such locations, including secondary telephone or equivalent two-way communications facilities to the surface.
+- **(d)** *Emergency tracking and communications equipment* Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall prescribe regulations to require each operator of a coal mine to implement a communication and electronic tracking system to assist in rescue and recovery work of persons awaiting rescue due to an emergency within the coal mine. Such regulations shall require that each person who enters a coal mine to be equipped with—
+  - **(1)** a portable communications device calibrated to communicate with both the surface and to rescue personnel; and
+  - **(2)** an electronic tracking device permitting persons on the surface and rescue personnel to determine the exact location of each such person within the mine.
+- **(e)** *Prohibited practices* Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall revise the regulations prescribed pursuant to section 303(y) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 863(y)) to require, in any coal mine, regardless of the date on which it was opened, that belt haulage entries not be used to ventilate active working places.
+
+## § 4. Increased penalties for habitual violators
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall prescribe regulations—
+
+- **(1)** to establish that no civil penalty less than $10,000 shall be assessed pursuant to section 110 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 820) for a violation which occurs of a mandatory health or safety standard where the operator displays negligence or reckless disregard of such standard; and
+- **(2)** to provide for a civil penalty of up to $100,000 for an operator who fails to comply with section 3(a) of this Act.
+
+## § 5. Technological transfer and application
+
+- **(a)** *Office of Science and Technology Transfer* The Secretary of Labor shall establish within the Mine Safety and Health Administration an Office of Science and Technology Transfer for the purposes of conducting research and development to apply advancing sciences and technologies to underground coal mine and coal miner health and safety. Such Office shall consult with other Federal agencies, as appropriate and on a regular basis, in order to stay informed of the latest technologies that are available to ensure coal miner health and safety.
+- **(b)** *Periodic review and application* The Secretary of Labor shall, on a periodic basis, review the underground coal mine health and safety standards for possible revision with regard to advancing sciences and technologies, and shall, on a periodic basis, revise such standards to require the implementation of such technologies.
+- **(c)** *Authorization of Appropriations* There is authorized to be appropriated such sums as may be necessary for the purposes of implementing this section.
+
+## § 6. Miner ombudsman
+
+- **(a)** *Establishment* There shall be established within the Office of the Inspector General of the Department of Labor the position of Miner Ombudsman. The President, by and with the advice and consent of the Senate, shall appoint an individual with expertise in mine safety and health to serve as the Miner Ombudsman.
+- **(b)** *Duties* The Miner Ombudsman shall—
+  - **(1)** be responsible for ensuring the safety of mines through information collection and sharing;
+  - **(2)** establish a toll-free telephone number and appropriate Internet website to permit individual miners to confidentially report mine safety and health violations;
+  - **(3)** forward information collected concerning mine safety and health violations to the appropriate officials of the Mine Safety and Health Administration for investigation; and
+  - **(4)** carry out other activities to improve the safety of mines.
+
+## § 7. Definitions
+
+As used in this Act, the terms “coal mine” and “operator” have the meanings given such terms in section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802).
