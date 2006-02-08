@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2791
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
