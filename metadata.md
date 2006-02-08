@@ -1,0 +1,39 @@
+---
+measure: H.R. 4709
+congress: 109
+version: Introduced in House
+---
+
+# H.R. 4709
+
+Telephone Records and Privacy Protection Act of 2006
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+
+## Cosponsors (8)
+
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Cannon, Chris [R-UT-3] (C000116)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2006-02-08 — Introduced in House
+- 2006-02-08 — Introduced in House
+- 2006-02-08 — Referred to the House Committee on the Judiciary.
+- 2006-02-08 — Sponsor introductory remarks on measure. (CR E90)
