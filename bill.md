@@ -1,0 +1,63 @@
+---
+legis-num: H.R. 4709
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4709
+
+> To amend title 18, United States Code, to strengthen protections for law enforcement officers and the public by providing criminal penalties for the fraudulent acquisition or unauthorized disclosure of phone records.
+
+## § 1. Short title
+
+This Act may be cited as the “Law Enforcement and Phone Privacy Protection Act of 2006”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** telephone records can be of great use to criminals because the information contained in call logs may include a wealth of personal data;
+- **(2)** call logs may reveal the names of telephone users’ doctors, public and private relationships, business associates, and more;
+- **(3)** call logs are typically maintained for the exclusive use of phone companies, their authorized agents, and authorized consumers;
+- **(4)** telephone records have been obtained without the knowledge or consent of consumers through the use of a number of fraudulent methods and devices that include but are not limited to—
+  - **(A)** telephone company employees selling data to unauthorized data brokers;
+  - **(B)** “pretexting”, whereby a data broker or other person represents they are an authorized consumer and convinces an agent of the telephone company to release the data; or
+  - **(C)** gaining unauthorized Internet access to account data by improperly activating a consumer’s account management features on a phone company’s webpage or contracting with an Internet-based data broker who trafficks in such records; and
+- **(5)** the unauthorized disclosure of telephone records not only assaults individual privacy but, in some instances, may further acts of domestic violence, compromise the personal safety of law enforcement officers, their families, or confidential informants, and undermine the integrity of law enforcement investigations.
+
+## § 3. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
+
+Chapter 47 of title 18, United States Code, is amended by inserting after section 1038 the following:
+
+> ## § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
+>
+> - **(a)** *Criminal violation* Whoever knowingly and intentionally obtains, or attempts to obtain, confidential phone records information of a covered entity, by—
+>   - **(1)** making false or fraudulent statements or representations to an employee of a covered entity;
+>   - **(2)** making such false or fraudulent statements or representations to a customer of a covered entity;
+>   - **(3)** providing a document to a covered entity knowing that such document is false or fraudulent; or
+>   - **(4)** accessing customer accounts of a covered entity via the Internet without prior authorization from the customer to whom such confidential records information relates;
+> - **(b)** *Prohibition on sale or transfer of confidential phone records information* Except as otherwise provided by applicable law, any person, including any employee of a covered entity or any data broker, who knowingly and intentionally sells, transfers, or attempts to sell or transfer, confidential phone records information of a covered entity, without authorization from the customer to whom such confidential phone records information relates, shall be fined under this title, imprisoned for not more than 5 years, or both.
+> - **(c)** *Prohibition on purchase of phone records information* Except as otherwise provided by applicable law, any person who purchases confidential phone records information of a covered entity, knowing such information was obtained fraudulently or without prior authorization from the customer to whom such confidential records information relates, shall be fined under this title, imprisoned not more than 5 years, or both.
+> - **(d)** *Enhanced penalties for aggravated cases* Whoever violates, or attempts to violate, subsection (a) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000, or more than 50 customers of a covered entity, in a 12-month period shall, in addition to the penalties provided for in subsection (a), be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of this title, imprisoned for not more than 5 years, or both.
+> - **(e)** *Enhanced penalties for use of information in furtherance of certain criminal offenses*
+>   - **(1)** Whoever, violates, or attempts to violate, subsection (a), (b), or (c) knowing that such information may be used in furtherance of, or with the intent to commit, an offense described in section 2261, 2261A, 2262, or any other crime of violence shall, in addition to the penalties provided for in subsection (a), (b), or (c), be fined under this title and imprisoned not more than 5 years.
+>   - **(2)** Whoever, violates, or attempts to violate, subsection (a), (b), or (c) knowing that such information may be used in furtherance of, or with the intent to commit, an offense under section 111, 115, 1114, 1503, 1512, 1513, or to intimidate, threaten, harass, injure, or kill any Federal, State, or local law enforcement officer shall, in addition to the penalties provided for in subsection (a), (b) or (c), be fined under this title and imprisoned not more than 5 years.
+> - **(f)** *Extraterritorial jurisdiction* There is extraterritorrial jurisdiction over an offense under this section.
+> - **(g)** *Nonapplicability to law enforcement agencies* Nothing in this Act shall be construed to prevent, hinder, or otherwise delay the production of confidential phone records information from a covered entity upon receipt of a lawful request from a law enforcement agency, or any officer, employee, or agent of such agency, in accordance with other applicable laws.
+> - **(h)** *Definitions* In this section:
+>   - **(1)** *Confidential phone records information* The term “confidential phone records information” means—
+>     - **(A)** information that—
+>       - **(i)** relates to the quantity, technical configuration, type, destination, location, or amount of use of a service offered by a covered entity subscribed to by any customer of that covered entity; and
+>       - **(ii)** is made available to a covered entity by a customer solely by virtue of the relationship between the covered entity and the customer; or
+>     - **(B)** information contained in any bill, itemization, or account statement related to a product or service provided by a covered entity to any customer of the covered entity.
+>   - **(2)** *Covered entity* The term “covered entity”—
+>     - **(A)** has the same meaning given the term “telecommunications carrier” in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
+>     - **(B)** includes any provider of IP-enabled voice service.
+>   - **(3)** *Customer* The term “customer” means, with respect to a covered entity, any individual, partnership, association, joint stock company, trust, or corporation, or authorized representative of such customer, to whom the covered entity provides a product or service.
+>   - **(4)** *IP-enabled voice service* The term “IP-enabled voice service” means the provision of real-time 2-way voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, for a fee (whether part of a bundle of services or separately) with 2-way interconnection capability such that the service can originate traffic to, and terminate traffic from, a public switched telephone network.
+
+## § 4. Sentencing guidelines
+
+- **(a)** *Review and Amendment* Not later than 180 days after the date of enactment of this Act, the United States Sentencing Commission, pursuant to its authority under section 994 of title 28, United States Code, and in accordance with this section, shall review and, if appropriate, amend the Federal sentencing guidelines and policy statements applicable to persons convicted of any offense under section 1039 of title 18, United States Code.
+- **(b)** *Authorization* The United States Sentencing Commission may amend the Federal sentencing guidelines in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 (28 U.S.C. 994 note) as though the authority under that section had not expired.
