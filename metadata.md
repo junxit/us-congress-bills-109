@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 624
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 624
@@ -42,3 +42,8 @@ Requesting the President of the United States and directing the Secretary of Sta
 - 2005-12-16 — Introduced in House
 - 2005-12-16 — Introduced in House
 - 2005-12-16 — Referred to the House Committee on International Relations.
+- 2006-02-08 — Committee Consideration and Mark-up Session Held.
+- 2006-02-08 — Ordered to be Reported Adversely by the Yeas and Nays: 25 - 17.
+- 2006-02-10 — Placed on the House Calendar, Calendar No. 146.
+- 2006-02-10 — Reported adversely by the Committee on International Relations. H. Rept. 109-375.
+- 2006-02-10 — Reported adversely by the Committee on International Relations. H. Rept. 109-375.
