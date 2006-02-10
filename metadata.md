@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 593
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 593
@@ -16,6 +16,12 @@ Directing the Secretary of State, the Secretary of Defense, the Secretary of Hom
 
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 
+## Cosponsors (3)
+
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+
 ## Committees (1)
 
 - House — Foreign Affairs Committee
@@ -25,3 +31,8 @@ Directing the Secretary of State, the Secretary of Defense, the Secretary of Hom
 - 2005-12-08 — Introduced in House
 - 2005-12-08 — Introduced in House
 - 2005-12-08 — Referred to the House Committee on International Relations.
+- 2006-02-08 — Committee Consideration and Mark-up Session Held.
+- 2006-02-08 — Ordered to be Reported Adversely by the Yeas and Nays: 24 - 16.
+- 2006-02-10 — Placed on the House Calendar, Calendar No. 145.
+- 2006-02-10 — Reported adversely by the Committee on International Relations. H. Rept. 109-374.
+- 2006-02-10 — Reported adversely by the Committee on International Relations. H. Rept. 109-374.
