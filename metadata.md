@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4167
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4167
@@ -16,7 +16,7 @@ National Uniformity for Food Act of 2005
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 
-## Cosponsors (158)
+## Cosponsors (226)
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -176,6 +176,74 @@ National Uniformity for Food Act of 2005
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
 - Rep. Davis, Artur [D-AL-7] (D000602)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Owens, Major R. [D-NY-11] (O000159)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Simmons, Rob [R-CT-2] (S001152)
+- Rep. Hefley, Joel [R-CO-5] (H000444)
+- Rep. Ford, Harold E., Jr. [D-TN-9] (F000262)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Johnson, Nancy L. [R-CT-5] (J000163)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Shaw, E. Clay, Jr. [R-FL-22] (S000303)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Jindal, Bobby [R-LA-1] (J000287)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Peterson, John E. [R-PA-5] (P000263)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Gutknecht, Gil [R-MN-1] (G000536)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Hobson, David L. [R-OH-7] (H000666)
+- Rep. Harris, Katherine [R-FL-13] (H001035)
+- Rep. Keller, Ric [R-FL-8] (K000361)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Ryun, Jim [R-KS-2] (R000566)
+- Rep. Nussle, Jim [R-IA-1] (N000172)
+- Rep. Jenkins, William L. [R-TN-1] (J000082)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Weldon, Curt [R-PA-7] (W000268)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. McCrery, Jim [R-LA-4] (M000388)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Deal, Nathan [R-GA-10] (D000168)
 
 ## Committees (1)
 
@@ -186,3 +254,10 @@ National Uniformity for Food Act of 2005
 - 2005-10-27 — Introduced in House
 - 2005-10-27 — Introduced in House
 - 2005-10-27 — Referred to the House Committee on Energy and Commerce.
+- 2005-11-04 — Referred to the Subcommittee on Health.
+- 2005-11-04 — Subcommittee on Health Discharged.
+- 2005-12-15 — Committee Consideration and Mark-up Session Held.
+- 2005-12-15 — Ordered to be Reported by the Yeas and Nays: 30 - 18.
+- 2006-02-28 — Placed on the Union Calendar, Calendar No. 208.
+- 2006-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 109-379.
+- 2006-02-28 — Reported by the Committee on Energy and Commerce. H. Rept. 109-379.
