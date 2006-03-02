@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 643
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 643
@@ -16,7 +16,7 @@ Directing the Attorney General to submit to the House of Representatives all doc
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (26)
+## Cosponsors (51)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Boucher, Rick [D-VA-9] (B000657)
@@ -44,6 +44,31 @@ Directing the Attorney General to submit to the House of Representatives all doc
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Udall, Tom [D-NM-3] (U000039)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Sanders, Bernard [I-VT-At Large] (S000033)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
 
 ## Committees (1)
 
@@ -55,3 +80,8 @@ Directing the Attorney General to submit to the House of Representatives all doc
 - 2005-12-22 — Introduced in House
 - 2005-12-22 — Referred to the House Committee on the Judiciary.
 - 2005-12-22 — Sponsor introductory remarks on measure. (CR E2646)
+- 2006-02-15 — Committee Consideration and Mark-up Session Held.
+- 2006-02-15 — Ordered to be Reported Adversely by the Yeas and Nays: 21 - 16.
+- 2006-03-02 — Placed on the House Calendar, Calendar No. 149.
+- 2006-03-02 — Reported adversely by the Committee on Judiciary. H. Rept. 109-382.
+- 2006-03-02 — Reported adversely by the Committee on Judiciary. H. Rept. 109-382.
