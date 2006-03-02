@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 644
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 644
@@ -16,6 +16,10 @@ Requesting the President and directing the Attorney General to transmit to the H
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
+## Cosponsors (1)
+
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+
 ## Committees (1)
 
 - House — Judiciary Committee
@@ -25,3 +29,8 @@ Requesting the President and directing the Attorney General to transmit to the H
 - 2005-12-22 — Introduced in House
 - 2005-12-22 — Introduced in House
 - 2005-12-22 — Referred to the House Committee on the Judiciary.
+- 2006-02-15 — Committee Consideration and Mark-up Session Held.
+- 2006-02-15 — Ordered to be Reported Adversely by Voice Vote.
+- 2006-03-02 — Placed on the House Calendar, Calendar No. 150.
+- 2006-03-02 — Reported adversely by the Committee on Judiciary. H. Rept. 109-383.
+- 2006-03-02 — Reported adversely by the Committee on Judiciary. H. Rept. 109-383.
