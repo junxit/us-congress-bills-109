@@ -1,0 +1,31 @@
+---
+measure: S. 2368
+congress: 109
+version: Introduced in Senate
+---
+
+# S. 2368
+
+Border Security and Interior Enforcement Improvement Act of 2006
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Nelson, Ben [D-NE] (N000180)
+
+## Cosponsors (2)
+
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coburn, Tom [R-OK] (C000560)
+
+## Committees (1)
+
+- Senate — Finance Committee
+
+## Actions
+
+- 2006-03-03 — Introduced in Senate
+- 2006-03-03 — Read twice and referred to the Committee on Finance.
