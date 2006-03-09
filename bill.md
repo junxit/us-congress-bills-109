@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4911
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4911
+
+> To temporarily extend the programs under the Higher Education Act of 1965, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Higher Education Extension Act of 2006”.
+
+## § 2. Extension of programs
+
+Section 2(a) of the Higher Education Extension Act of 2005 (Public Law 109–81; 20 U.S.C. 1001 note) is amended by striking “March 31, 2006” and inserting “June 30, 2006”.
+
+## § 3. Rule of construction
+
+Nothing in this Act, or in the Higher Education Extension Act of 2005 as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) to the provisions of the Higher Education Act of 1965 and the Taxpayer-Teacher Protection Act of 2004.
