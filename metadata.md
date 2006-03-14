@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4826
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4826
@@ -16,7 +16,7 @@ To extend through December 31, 2006, the authority of the Secretary of the Army 
 
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Rep. Doolittle, John T. [R-CA-4] (D000429)
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
@@ -39,6 +39,7 @@ To extend through December 31, 2006, the authority of the Secretary of the Army 
 - Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
 
 ## Committees (1)
 
@@ -49,3 +50,10 @@ To extend through December 31, 2006, the authority of the Secretary of the Army 
 - 2006-03-01 — Introduced in House
 - 2006-03-01 — Introduced in House
 - 2006-03-01 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-03-02 — Referred to the Subcommittee on Water Resources and Environment.
+- 2006-03-14 — Considered under suspension of the rules. (consideration: CR H892-893)
+- 2006-03-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4826.
+- 2006-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-14 — Mr. Boustany moved to suspend the rules and pass the bill.
+- 2006-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H892)
+- 2006-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H892)
