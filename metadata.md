@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 354
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 354
@@ -16,7 +16,7 @@ Expressing the continued support of Congress for requiring an institution of hig
 
 - Rep. Pombo, Richard W. [R-CA-11] (P000419)
 
-## Cosponsors (12)
+## Cosponsors (20)
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Sweeney, John E. [R-NY-20] (S001149)
@@ -30,6 +30,14 @@ Expressing the continued support of Congress for requiring an institution of hig
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
 
 ## Committees (2)
 
@@ -43,3 +51,11 @@ Expressing the continued support of Congress for requiring an institution of hig
 - 2006-03-08 — Referred to the Committee on Armed Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-03-08 — Referred to the Committee on Armed Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-03-08 — Referred to the Committee on Armed Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-03-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-03-14 — Considered as unfinished business. (consideration: CR H940-941)
+- 2006-03-14 — Considered under suspension of the rules. (consideration: CR H940-941)
+- 2006-03-14 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 354.
+- 2006-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-14 — Mrs. Drake moved to suspend the rules and agree to the resolution.
+- 2006-03-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 347 - 65, 2 Present (Roll no. 39). (text: CR H884-885)
+- 2006-03-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 347 - 65, 2 Present (Roll no. 39).(text: CR H884-885)
