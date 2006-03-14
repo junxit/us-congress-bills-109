@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4911
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4911
@@ -33,3 +33,9 @@ Higher Education Extension Act of 2006
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Referred to the House Committee on Education and the Workforce.
+- 2006-03-14 — Considered under suspension of the rules. (consideration: CR H880-881)
+- 2006-03-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4911.
+- 2006-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-14 — Mr. Keller moved to suspend the rules and pass the bill.
+- 2006-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H880)
+- 2006-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H880)
