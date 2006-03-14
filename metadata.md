@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 350
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 350
@@ -31,3 +31,9 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Referred to the House Committee on House Administration.
+- 2006-03-14 — Considered under suspension of the rules. (consideration: CR H890-892)
+- 2006-03-14 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 350.
+- 2006-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-14 — Mr. Ehlers moved to suspend the rules and agree to the resolution.
+- 2006-03-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H890)
+- 2006-03-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H890)
