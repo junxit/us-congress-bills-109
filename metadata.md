@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4954
 congress: 109
-version: Introduced in House
+version: Enrolled Bill
 ---
 
 # H.R. 4954
@@ -16,7 +16,7 @@ SAFE Port Act
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Cosponsors (45)
+## Cosponsors (229)
 
 - Rep. Harman, Jane [D-CA-36] (H000213)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
@@ -63,13 +63,734 @@ SAFE Port Act
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Weldon, Curt [R-PA-7] (W000268)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Case, Ed [D-HI-2] (C001055)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Sweeney, John E. [R-NY-20] (S001149)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Davis, Tom [R-VA-11] (D000136)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Jeffords, James M. [I-VT] (J000072)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. DeWine, Mike [R-OH] (D000294)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Talent, Jim [R-MO] (T000024)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Sarbanes, Paul S. [D-MD] (S000064)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Santorum, Rick [R-PA] (S000059)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Talent, Jim [R-MO] (T000024)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Burns, Conrad R. [R-MT] (B001126)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. DeWine, Mike [R-OH] (D000294)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sarbanes, Paul S. [D-MD] (S000064)
+- Sen. Santorum, Rick [R-PA] (S000059)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. DeWine, Mike [R-OH] (D000294)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Burns, Conrad R. [R-MT] (B001126)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Allen, George [R-VA] (A000121)
+- Sen. DeWine, Mike [R-OH] (D000294)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Referred to the House Committee on Homeland Security.
+- 2006-03-15 — Referred to the Subcommittee on Economic Security, Infrastructure Protection, and Cybersecurity.
+- 2006-03-16 — Subcommittee Hearings Held.
+- 2006-03-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2006-03-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-04 — Committee Hearings Held.
+- 2006-04-26 — Committee Consideration and Mark-up Session Held.
+- 2006-04-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-04-28 — Referred sequentially to the House Committee on Transportation and Infrastructure for a period ending not later than May 1, 2006 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(r), rule X..
+- 2006-04-28 — Reported (Amended) by the Committee on 109-447, Part I.
+- 2006-04-28 — Reported (Amended) by the Committee on 109-447, Part I.
+- 2006-05-01 — Committee on Transportation discharged.
+- 2006-05-01 — Committee on Transportation discharged.
+- 2006-05-01 — Placed on the Union Calendar, Calendar No. 250.
+- 2006-05-02 — Rules Committee Resolution H. Res. 789 Reported to House. Rule provides for consideration of H.R. 4954 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2006-05-03 — Rule H. Res. 789 passed House.
+- 2006-05-04 — Amendment (A001) offered by Mr. King (NY). (consideration: CR H2133-2136; text: CR H2134-2135)
+- 2006-05-04 — Amendment (A002) offered by Mr. Ruppersberger. (consideration: CR H2136-2137; text: CR H2136)
+- 2006-05-04 — Amendment (A003) offered by Mr. Ruppersberger. (consideration: CR H2137-2138; text: CR H2137)
+- 2006-05-04 — Amendment (A004) offered by Mr. Ruppersberger. (consideration: CR H2138; text: CR H2138)
+- 2006-05-04 — Amendment (A005) offered by Mr. Cuellar. (consideration: CR H2138-2139; text: CR H2138)
+- 2006-05-04 — Amendment (A006) offered by Mr. Ryun (KS). (consideration: CR H2139-2140; text: CR H2139)
+- 2006-05-04 — Amendment (A007) offered by Ms. Hooley. (consideration: CR H2140-2141; text: CR H2140)
+- 2006-05-04 — Amendment (A008) offered by Mr. Thompson (MS). (consideration: CR H2141; text: CR H2141)
+- 2006-05-04 — Amendment (A009) offered by Mr. Shays. (consideration: CR H2141-2142; text: CR H2141)
+- 2006-05-04 — Amendment (A010) offered by Mr. Bass. (consideration: CR H2142-2143; text: CR H2142)
+- 2006-05-04 — Amendment (A011) offered by Ms. Millender-McDonald. (consideration: CR H2143-2144; text: CR H2143)
+- 2006-05-04 — Amendment (A012) offered by Ms. Jackson-Lee (TX). (consideration: CR H2144-2145; text: CR H2144)
+- 2006-05-04 — Amendment (A013) offered by Mr. Weiner. (consideration: CR H2145-2146; text: CR H2145-2146)
+- 2006-05-04 — Amendment (A014) offered by Mr. Flake. (consideration: CR H2146-2148; text: CR H2147)
+- 2006-05-04 — Amendment (A015) offered by Ms. Sanchez, Loretta. (consideration: CR H2148-2150; text: CR H2148)
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment agreed to Committee of the Whole
+- 2006-05-04 — Amendment failed in Committee of the Whole
+- 2006-05-04 — Amendment failed in Committee of the Whole
+- 2006-05-04 — Considered under the provisions of rule H. Res. 789. (consideration: CR H2107-2153)
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Bass amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Flake (AZ) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Hooley amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson-Lee (TX) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the King (NY) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez (CA) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Millender-McDonald amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Ruppersberger amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Ruppersberger amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Ruppersberger amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Ryun (KS) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Shays amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (MS) amendment.
+- 2006-05-04 — DEBATE - Pursuant to the provisions of H. Res. 789, the Committee of the Whole proceeded with 10 minutes of debate on the Weiner amendment.
+- 2006-05-04 — DEBATE - The House proceeded with 10 minutes of debate on the Nadler motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments which revamp the bill's requirements relating to entry of containers into the United States.
+- 2006-05-04 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4954.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Bass amendment (A010) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Cuellar amendment (A005) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Hooley amendment (A007) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Jackson-Lee (TX) amendment (A012) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the King (NY) amendment (A001) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Millender-McDonald amendment (A011) as modified Agreed to by voice vote.(text as modified: CR H2143)
+- 2006-05-04 — House amendment agreed to: On agreeing to the Ruppersberger amendment (A002) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Ruppersberger amendment (A003) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Ruppersberger amendment (A004) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Ryun (KS) amendment (A006) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Shays amendment (A009) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Thompson (MS) amendment (A008) Agreed to by voice vote.
+- 2006-05-04 — House amendment agreed to: On agreeing to the Weiner amendment (A013) Agreed to by voice vote.
+- 2006-05-04 — House amendment not agreed to: On agreeing to the Flake amendment (A014) Failed by voice vote.
+- 2006-05-04 — House amendment not agreed to: On agreeing to the Sanchez, Loretta amendment (A015) Failed by recorded vote: 195 - 230 (Roll no. 125).
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered
+- 2006-05-04 — House amendment offered/reported by : Amendment (A001) offered by Mr. King (NY).(consideration: CR H2133-2136; text: CR H2134-2135)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A002) offered by Mr. Ruppersberger.(consideration: CR H2136-2137; text: CR H2136)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A003) offered by Mr. Ruppersberger.(consideration: CR H2137-2138; text: CR H2137)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A004) offered by Mr. Ruppersberger.(consideration: CR H2138; text: CR H2138)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cuellar.(consideration: CR H2138-2139; text: CR H2138)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A006) offered by Mr. Ryun (KS).(consideration: CR H2139-2140; text: CR H2139)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A007) offered by Ms. Hooley.(consideration: CR H2140-2141; text: CR H2140)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A008) offered by Mr. Thompson (MS).(consideration: CR H2141; text: CR H2141)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A009) offered by Mr. Shays.(consideration: CR H2141-2142; text: CR H2141)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A010) offered by Mr. Bass.(consideration: CR H2142-2143; text: CR H2142)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A011) offered by Ms. Millender-McDonald.(consideration: CR H2143-2144; text: CR H2143)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A012) offered by Ms. Jackson-Lee (TX).(consideration: CR H2144-2145; text: CR H2144)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A013) offered by Mr. Weiner.(consideration: CR H2145-2146; text: CR H2145-2146)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A014) offered by Mr. Flake.(consideration: CR H2146-2148; text: CR H2147)
+- 2006-05-04 — House amendment offered/reported by : Amendment (A015) offered by Ms. Sanchez, Loretta.(consideration: CR H2148-2150; text: CR H2148)
+- 2006-05-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 789 and Rule XVIII.
+- 2006-05-04 — Millender-McDonald amendment (A011) modified by unanimous consent.
+- 2006-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-04 — Mr. Nadler moved to recommit with instructions to Homeland Security (Select). (consideration: CR H2150-2152; text: CR H2150-2151)
+- 2006-05-04 — On agreeing to the Bass amendment (A010) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Cuellar amendment (A005) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Flake amendment (A014) Failed by voice vote.
+- 2006-05-04 — On agreeing to the Hooley amendment (A007) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Jackson-Lee (TX) amendment (A012) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the King (NY) amendment (A001) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Millender-McDonald amendment (A011) as modified Agreed to by voice vote. (text as modified: CR H2143)
+- 2006-05-04 — On agreeing to the Ruppersberger amendment (A002) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Ruppersberger amendment (A003) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Ruppersberger amendment (A004) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Ryun (KS) amendment (A006) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Sanchez, Loretta amendment (A015) Failed by recorded vote: 195 - 230 (Roll no. 125).
+- 2006-05-04 — On agreeing to the Shays amendment (A009) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Thompson (MS) amendment (A008) Agreed to by voice vote.
+- 2006-05-04 — On agreeing to the Weiner amendment (A013) Agreed to by voice vote.
+- 2006-05-04 — On motion to recommit with instructions Failed by the Yeas and Nays: 202 - 222 (Roll no. 126).
+- 2006-05-04 — On passage Passed by recorded vote: 421 - 2 (Roll no. 127).
+- 2006-05-04 — Passed/agreed to in House: On passage Passed by recorded vote: 421 - 2 (Roll no. 127).
+- 2006-05-04 — Roll call votes on amendments in House
+- 2006-05-04 — Rule provides for consideration of H.R. 4954 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2006-05-04 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2121-2135)
+- 2006-05-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4954.
+- 2006-05-04 — The Speaker designated the Honorable Shelley Moore Capito to act as Chairwoman of the Committee.
+- 2006-05-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2152)
+- 2006-05-04 — The previous question was ordered pursuant to the rule.
+- 2006-05-08 — Received in the Senate.
+- 2006-05-15 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2006-05-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
+- 2006-09-07 — Amendment SA 4919 agreed to in Senate by Unanimous Consent.
+- 2006-09-07 — Amendment SA 4919 proposed by Senator Frist. (consideration: CR S9098) To provide a complete substitute.
+- 2006-09-07 — Measure laid before Senate by unanimous consent. (consideration: CR S9098-9104)
+- 2006-09-07 — Senate amendment agreed to: Amendment SA 4919 agreed to in Senate by Unanimous Consent.
+- 2006-09-07 — Senate amendment proposed (on the floor): Amendment SA 4919 proposed by Senator Frist.(consideration: CR S9098)
+- 2006-09-07 — Senate amendment submitted
+- 2006-09-07 — Senate amendment submitted
+- 2006-09-08 — Amendment SA 4921 proposed by Senator Stevens for Senator DeMint. (consideration: CR S9232-9234) To establish a unified national hazard alert system, and for other purposes.
+- 2006-09-08 — Amendment SA 4922 proposed by Senator McCain. (consideration: CR S9234-9236, S9236-9240; text as modified: CR S9236-9239) To provide increased rail transportation security.
+- 2006-09-08 — Considered by Senate. (consideration: CR S9230-9240)
+- 2006-09-08 — Senate amendment proposed (on the floor): Amendment SA 4921 proposed by Senator Stevens for Senator DeMint.(consideration: CR S9232-9234)
+- 2006-09-08 — Senate amendment proposed (on the floor): Amendment SA 4922 proposed by Senator McCain.(consideration: CR S9234-9236, S9236-9240; text as modified: CR S9236-9239)
+- 2006-09-08 — Senate amendment submitted
+- 2006-09-08 — Senate amendment submitted
+- 2006-09-11 — Amendment SA 4922 as modified agreed to in Senate by Voice Vote.
+- 2006-09-11 — Amendment SA 4926 agreed to in Senate by Voice Vote.
+- 2006-09-11 — Amendment SA 4926 proposed by Senator Stevens to Amendment SA 4922. (consideration: CR S9287)
+- 2006-09-11 — Amendment SA 4927 agreed to in Senate by Voice Vote.
+- 2006-09-11 — Amendment SA 4927 proposed by Senator Stevens for Senator DeMint to Amendment SA 4921. (consideration: CR S9287-9288) Of a perfecting nature.
+- 2006-09-11 — Amendment SA 4927, previously agreed to, was modified by Unanimous Consent.
+- 2006-09-11 — Considered by Senate. (consideration: CR S9287)
+- 2006-09-11 — Considered by Senate. (consideration: CR S9287, S9288-9289)
+- 2006-09-11 — Considered by Senate. (consideration: CR S9287-9289)
+- 2006-09-11 — Senate amendment agreed to: Amendment SA 4922 as modified agreed to in Senate by Voice Vote.
+- 2006-09-11 — Senate amendment agreed to: Amendment SA 4926 agreed to in Senate by Voice Vote.
+- 2006-09-11 — Senate amendment agreed to: Amendment SA 4927 agreed to in Senate by Voice Vote.
+- 2006-09-11 — Senate amendment proposed (on the floor): Amendment SA 4926 proposed by Senator Stevens to Amendment SA 4922.(consideration: CR S9287)
+- 2006-09-11 — Senate amendment proposed (on the floor): Amendment SA 4927 proposed by Senator Stevens for Senator DeMint to Amendment SA 4921.(consideration: CR S9287-9288)
+- 2006-09-11 — Senate amendment submitted
+- 2006-09-11 — Senate amendment submitted
+- 2006-09-11 — Senate amendment submitted
+- 2006-09-11 — Senate amendment submitted
+- 2006-09-11 — Senate amendment submitted
+- 2006-09-12 — Amendment SA 4921 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 240.
+- 2006-09-12 — Amendment SA 4929 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9343)
+- 2006-09-12 — Amendment SA 4929 proposed by Senator Murray. (consideration: CR S9327-9330, S9343; text: CR S9327) To extend the merchandise processing fees, and for other purposes.
+- 2006-09-12 — Amendment SA 4930 proposed by Senator Schumer. (consideration: CR S9332-9333; text: CR S9332) To improve maritime container security by ensuring that foreign ports participating in the Container Security Initiative scan all containers shipped to the United States for nuclear and radiological weapons before loading.
+- 2006-09-12 — Amendment SA 4931 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 242.
+- 2006-09-12 — Amendment SA 4931 proposed by Senator Hutchison. (consideration: CR S9339-9341, S9348; text: CR S9339-9340) To strengthen national security by adding an additional 275 Customs and Border Protection officers at United States ports.
+- 2006-09-12 — Amendment SA 4935 agreed to in Senate by Voice Vote.
+- 2006-09-12 — Amendment SA 4935 proposed by Senator Salazar. (consideration: CR S9336-9337, S9348-9349; text: CR S9336) To create a Rural Policing Institute as part of the Federal Law Enforcement Training Center.
+- 2006-09-12 — Amendment SA 4936 proposed by Senator Reid. (consideration: CR S9330-9331, S9341-9343, S9343-9346) To provide real national security, restore United States leadership, and implement tough and smart policies to win the war on terror.
+- 2006-09-12 — Amendment SA 4937 agreed to in Senate by Unanimous Consent.
+- 2006-09-12 — Amendment SA 4937 proposed by Senator Dorgan. (consideration: CR S9331-9332, S9346-9347; text: CR S9331) To prohibit the United States Trade Representative from negotiating any future trade agreement that limits the Congress in its ability to restrict the operations or ownership of United States ports by a foreign country or person, and for other purposes.
+- 2006-09-12 — Amendment SA 4940 agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 241.
+- 2006-09-12 — Amendment SA 4940 proposed by Senator Lautenberg. (consideration: CR S9337-9339, S9348; text: CR S9337) To provide that the limitation on the number of Transportation Security Administration employees shall not apply after the date of enactment of this Act, and for other purposes.
+- 2006-09-12 — Amendment SA 4956 agreed to in Senate by Voice Vote.
+- 2006-09-12 — Amendment SA 4956 proposed by Senator Shelby. (consideration: CR S9349-9350) To improve mass transit security.
+- 2006-09-12 — Cloture motion on the bill presented in Senate. (consideration: CR S9353; text: CR S9353)
+- 2006-09-12 — Considered by Senate. (consideration: CR S9327, S9335)
+- 2006-09-12 — Considered by Senate. (consideration: CR S9327-9353)
+- 2006-09-12 — Roll call votes on amendments in Senate: Amendment SA 4921 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 240.
+- 2006-09-12 — Roll call votes on amendments in Senate: Amendment SA 4931 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 242.
+- 2006-09-12 — Roll call votes on amendments in Senate: Amendment SA 4940 agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 241.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4921 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 240.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4929 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9343)
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4931 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 242.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4935 agreed to in Senate by Voice Vote.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4937 agreed to in Senate by Unanimous Consent.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4940 agreed to in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 241.
+- 2006-09-12 — Senate amendment agreed to: Amendment SA 4956 agreed to in Senate by Voice Vote.
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4929 proposed by Senator Murray.(consideration: CR S9327-9330, S9343; text: CR S9327)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4930 proposed by Senator Schumer.(consideration: CR S9332-9333; text: CR S9332)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4931 proposed by Senator Hutchison.(consideration: CR S9339-9341, S9348; text: CR S9339-9340)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4935 proposed by Senator Salazar.(consideration: CR S9336-9337, S9348-9349; text: CR S9336)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4936 proposed by Senator Reid.(consideration: CR S9330-9331, S9341-9343, S9343-9346)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4937 proposed by Senator Dorgan.(consideration: CR S9331-9332, S9346-9347; text: CR S9331)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4940 proposed by Senator Lautenberg.(consideration: CR S9337-9339, S9348; text: CR S9337)
+- 2006-09-12 — Senate amendment proposed (on the floor): Amendment SA 4956 proposed by Senator Shelby.(consideration: CR S9349-9350)
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-12 — Senate amendment submitted
+- 2006-09-13 — Amendment SA 4924 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9567-9568)
+- 2006-09-13 — Amendment SA 4924 proposed by Senator Stevens for Senator Rockefeller. (consideration: CR S9567-9574) To establish a competitive research program within the Department of Homeland Security.
+- 2006-09-13 — Amendment SA 4928 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4928 proposed by Senator Stevens for Senator Bingaman. (consideration: CR S9567-9574; text: CR S9568) To provide a pilot program to extend the hours of commercial operations at Santa Teresa, New Mexico.
+- 2006-09-13 — Amendment SA 4932 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4932 proposed by Senator Stevens for Senator Domenici. (consideration: CR S9567-9574; text: CR S9568-9569) To establish a Domestic Nuclear Detection Office with the Department of Homeland Security, and for other purposes.
+- 2006-09-13 — Amendment SA 4933 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4933 proposed by Senator Stevens for Senator Domenici. (consideration: CR S9567-9574; text: CR S9569) To provide for coordination between the Department of Homeland Security and the Department of Energy, and for other purposes.
+- 2006-09-13 — Amendment SA 4936 ruled out of order by the chair.
+- 2006-09-13 — Amendment SA 4939 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9569)
+- 2006-09-13 — Amendment SA 4939 proposed by Senator Stevens for Senator Kerry. (consideration: CR S9567-9574) To require the Secretary of Homeland Security to create port security training and exercise programs for law enforcement and seaport personnel.
+- 2006-09-13 — Amendment SA 4943 proposed by Senator Clinton. (consideration: CR S9476-9477; text: CR S9476-9477) To fund additional research to improve the detection of explosive materials at airport security checkpoints.
+- 2006-09-13 — Amendment SA 4945 proposed by Senator Nelson NE. (consideration: CR S9454-9456, S9458, S9461, S9496-9497; text as modified CR S9496-9497) To provide emergency agricultural disaster assistance, and for other purposes.
+- 2006-09-13 — Amendment SA 4946 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9569)
+- 2006-09-13 — Amendment SA 4946 proposed by Senator Stevens for Senator Burns. (consideration: CR S9567-9574) To require the Assistant Secretary for the Transportation Security Administration to submit to Congress a security plan for Essential Air Service airports.
+- 2006-09-13 — Amendment SA 4947 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9573-9574)
+- 2006-09-13 — Amendment SA 4947 proposed by Senator Stevens for Senator Burns. (consideration: CR S9567-9574) To promote and enhance public safety and to encourage the rapid deployment of IP-enabled voice services.
+- 2006-09-13 — Amendment SA 4949 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4949 proposed by Senator Stevens for Senator Cantwell. (consideration: CR S9567-9574; text: CR S9569) Of a technical nature.
+- 2006-09-13 — Amendment SA 4950 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9569)
+- 2006-09-13 — Amendment SA 4950 proposed by Senator Stevens for Senator Cantwell. (consideration: CR S9567-9574) To establish an Intermodal Rail Radiation Detection Test Center.
+- 2006-09-13 — Amendment SA 4951 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4951 proposed by Senator Stevens for Senator McCain. (consideration: CR S9567-9574; text: CR S9569) To require disclosures regarding homeland security grants.
+- 2006-09-13 — Amendment SA 4953 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4953 proposed by Senator Stevens for Senator Vitter. (consideration: CR S9567-9574; text: CR S9569) To provide for additional security relating to foreign vessels working on the outer Continental Shelf.
+- 2006-09-13 — Amendment SA 4954 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9569-9570)
+- 2006-09-13 — Amendment SA 4954 proposed by Senator Stevens for Senator Snowe. (consideration: CR S9567-9574) To establish a deadline for the Coast Guard to complete inspection of foreign ports and validate compliance with the International Ship and Port Facility Security Code, and for other purposes.
+- 2006-09-13 — Amendment SA 4955 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4955 proposed by Senator Stevens for Senator Allard. (consideration: CR S9567-9574; text: CR S9570) To include the Transportation Technology Center in the National Domestic Preparedness Consortium.
+- 2006-09-13 — Amendment SA 4957 proposed by Senator Clinton. (consideration: CR S9475-9476; text: CR S9475-9476) To facilitate nationwide availability of 2-1-1 telephone service for information on and referral to human services, including volunteer opportunities related to human services, and for other purposes.
+- 2006-09-13 — Amendment SA 4958 proposed by Senator Clinton. (consideration: CR S9477, S9477-9482, S9491; text: CR S9477) To establish a grant program for individuals still suffering health effects as a result of the September 11, 2001, attacks in New York City.
+- 2006-09-13 — Amendment SA 4959 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9570)
+- 2006-09-13 — Amendment SA 4959 proposed by Senator Stevens for Senator Pryor. (consideration: CR S9567-9574) To require the Secretary of Transportation to issue regulations to improve trucking security.
+- 2006-09-13 — Amendment SA 4962 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9494-9495)
+- 2006-09-13 — Amendment SA 4962 proposed by Senator Voinovich. (consideration: CR S9459-9460, S9494-9496) To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to authorize the President to carry out a program for the protection of the health and safety of residents, workers, volunteers, and others in a disaster area.
+- 2006-09-13 — Amendment SA 4964 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4964 proposed by Senator Stevens for Senator Burns. (consideration: CR S9567-9574; text: CR S9570) to extend the requirement for air carriers to honor tickets for suspended air passenger service.
+- 2006-09-13 — Amendment SA 4967 proposed by Senator Murray for Senator Stabenow. (consideration: CR S9454; text: CR S9454) To authorize grants for interoperable communications.
+- 2006-09-13 — Amendment SA 4968 agreed to in Senate by Voice Vote.
+- 2006-09-13 — Amendment SA 4968 proposed by Senator Nelson FL. (consideration: CR S9483-9485; text: CR S9483) To require the Department of Homeland Security provide Congress with a strategy for deploying radiation detection capabilities to all United States ports of entry.
+- 2006-09-13 — Amendment SA 4970 proposed by Senator DeMint. (consideration: CR S9456-4958; text: CR S9457-9458) To prohibit the issuance of transportation security cards to individuals who have been convicted of certain crimes.
+- 2006-09-13 — Amendment SA 4972 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9493)
+- 2006-09-13 — Amendment SA 4972 proposed by Senator Obama. (consideration: CR S9493-9494) To ensure the evacuation of individuals with special needs in times of emergency.
+- 2006-09-13 — Amendment SA 4975 proposed by Senator Biden. (consideration: CR S9461-9462, S9469, S9482) To establish a Homeland Security and Neighborhood Safety trust Fund and refocus Federal priorities toward securing the Homeland, and for other purposes.
+- 2006-09-13 — Amendment SA 4976 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 4976 proposed by Senator Stevens for Senator Boxer. (consideration: CR S9567-9574; text: CR S9570) To protect commercial aircraft from the threat of Man-Portable Air Defense Systems.
+- 2006-09-13 — Amendment SA 4982 agreed to in Senate by Yea-Nay Vote. 95 - 3. Record Vote Number: 245.
+- 2006-09-13 — Amendment SA 4982 proposed by Senator Coleman. (consideration: CR S9487-9490; text: CR S9487) To require the Secretary of Homeland Security to ensure that all cargo containers are screened before arriving at a United States seaport, that all high-risk containers are scanned before leaving a United States seaport, and that integrated scanning systems are fully deployed to scan all cargo containers entering the United States before they arrive in the United States.
+- 2006-09-13 — Amendment SA 4985 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9570)
+- 2006-09-13 — Amendment SA 4985 proposed by Senator Stevens for Senator Baucus. (consideration: CR S9567-9574) To authorize an additional $200,000,000 to be appropriated for fiscal year 2007 for the operating expenses of the Northern Border Air Wing.
+- 2006-09-13 — Amendment SA 4988 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9570-9573)
+- 2006-09-13 — Amendment SA 4988 proposed by Senator Stevens for Senator Lautenberg. (consideration: CR S9567-9574) To provide improved intercity bus, hazardous materials, pipeline, and motor carrier security.
+- 2006-09-13 — Amendment SA 4990 proposed by Senator Santorum. (consideration: CR S9492-9493) To provide for comprehensive border security and for other purposes.
+- 2006-09-13 — Amendment SA 4999 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 246.
+- 2006-09-13 — Amendment SA 4999 proposed by Senator Menendez. (consideration: CR S9485-9487, S9490-9491; text: CR S9485) To improve the security of cargo containers destined for the United States.
+- 2006-09-13 — Amendment SA 5000 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Amendment SA 5000 proposed by Senator Stevens for Senator Snowe. (consideration: CR S9567-9574; text: CR S9573) To conduct a study to identify redundancies and inefficiencies in connection with Federal background checks.
+- 2006-09-13 — Considered by Senate. (consideration: CR S9454, S9456, S9458-9459, S9460-9461, S9462-9463, S9468)
+- 2006-09-13 — Considered by Senate. (consideration: CR S9454, S9469-9475; text as modified: CR S9469-9475)
+- 2006-09-13 — Considered by Senate. (consideration: CR S9454-9501, S9567-9574)
+- 2006-09-13 — Motion to table amendment SA 4975 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 244.
+- 2006-09-13 — Motion to table amendment SA 4975 made in Senate.
+- 2006-09-13 — Motion to waive the Budget Act with respect to amendment SA 4936 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 243.
+- 2006-09-13 — Point of order raised in Senate with respect to amendment SA 4936.
+- 2006-09-13 — Proposed amendment SA 4990 withdrawn in Senate.
+- 2006-09-13 — Roll call votes on amendments in Senate: Amendment SA 4982 agreed to in Senate by Yea-Nay Vote. 95 - 3. Record Vote Number: 245.
+- 2006-09-13 — Roll call votes on amendments in Senate: Amendment SA 4999 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 246.
+- 2006-09-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 4975 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 244.
+- 2006-09-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4936 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 243.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4924 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9567-9568)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4928 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4932 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4933 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4939 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9569)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4946 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9569)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4947 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9573-9574)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4949 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4950 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9569)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4951 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4953 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4954 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9569-9570)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4955 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4959 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9570)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4962 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9494-9495)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4964 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4968 agreed to in Senate by Voice Vote.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4972 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9493)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4976 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4982 agreed to in Senate by Yea-Nay Vote. 95 - 3. Record Vote Number: 245.
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4985 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9570)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 4988 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9570-9573)
+- 2006-09-13 — Senate amendment agreed to: Amendment SA 5000 agreed to in Senate by Unanimous Consent.
+- 2006-09-13 — Senate amendment not agreed to: Amendment SA 4999 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 246.
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4924 proposed by Senator Stevens for Senator Rockefeller.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4928 proposed by Senator Stevens for Senator Bingaman.(consideration: CR S9567-9574; text: CR S9568)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4932 proposed by Senator Stevens for Senator Domenici.(consideration: CR S9567-9574; text: CR S9568-9569)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4933 proposed by Senator Stevens for Senator Domenici.(consideration: CR S9567-9574; text: CR S9569)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4939 proposed by Senator Stevens for Senator Kerry.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4943 proposed by Senator Clinton.(consideration: CR S9476-9477; text: CR S9476-9477)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4945 proposed by Senator Nelson NE.(consideration: CR S9454-9456, S9458, S9461, S9496-9497; text as modified CR S9496-9497)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4946 proposed by Senator Stevens for Senator Burns.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4947 proposed by Senator Stevens for Senator Burns.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4949 proposed by Senator Stevens for Senator Cantwell.(consideration: CR S9567-9574; text: CR S9569)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4950 proposed by Senator Stevens for Senator Cantwell.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4951 proposed by Senator Stevens for Senator McCain.(consideration: CR S9567-9574; text: CR S9569)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4953 proposed by Senator Stevens for Senator Vitter.(consideration: CR S9567-9574; text: CR S9569)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4954 proposed by Senator Stevens for Senator Snowe.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4955 proposed by Senator Stevens for Senator Allard.(consideration: CR S9567-9574; text: CR S9570)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4957 proposed by Senator Clinton.(consideration: CR S9475-9476; text: CR S9475-9476)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4958 proposed by Senator Clinton.(consideration: CR S9477, S9477-9482, S9491; text: CR S9477)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4959 proposed by Senator Stevens for Senator Pryor.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4962 proposed by Senator Voinovich.(consideration: CR S9459-9460, S9494-9496)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4964 proposed by Senator Stevens for Senator Burns.(consideration: CR S9567-9574; text: CR S9570)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4967 proposed by Senator Murray for Senator Stabenow.(consideration: CR S9454; text: CR S9454)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4968 proposed by Senator Nelson FL.(consideration: CR S9483-9485; text: CR S9483)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4970 proposed by Senator DeMint.(consideration: CR S9456-4958; text: CR S9457-9458)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4972 proposed by Senator Obama.(consideration: CR S9493-9494)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4975 proposed by Senator Biden.(consideration: CR S9461-9462, S9469, S9482)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4976 proposed by Senator Stevens for Senator Boxer.(consideration: CR S9567-9574; text: CR S9570)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4982 proposed by Senator Coleman.(consideration: CR S9487-9490; text: CR S9487)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4985 proposed by Senator Stevens for Senator Baucus.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4988 proposed by Senator Stevens for Senator Lautenberg.(consideration: CR S9567-9574)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4990 proposed by Senator Santorum.(consideration: CR S9492-9493)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 4999 proposed by Senator Menendez.(consideration: CR S9485-9487, S9490-9491; text: CR S9485)
+- 2006-09-13 — Senate amendment proposed (on the floor): Amendment SA 5000 proposed by Senator Stevens for Senator Snowe.(consideration: CR S9567-9574; text: CR S9573)
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-13 — Senate amendment submitted
+- 2006-09-14 — Amendment SA 4923 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9585)
+- 2006-09-14 — Amendment SA 4923 proposed by Senator Isakson. (consideration: CR S9585) To reduce the radiation exposure of maritime workers and to reimburse maritime terminal operators for additional costs associated with illnesses or injuries for which exposure to ionizing or non-ionizing radiation from cargo screening procedures required under Federal law is a contributing cause.
+- 2006-09-14 — Amendment SA 4942 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4942 proposed by Senator Stevens for Senator Lautenberg. (consideration: CR S9604-9605, S9606-9607) To require the Secretary of Homeland Security to implement a threat assessment screening program for port truck drivers.
+- 2006-09-14 — Amendment SA 4943 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4945 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4952 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4952 proposed by Senator Stevens for Senator Vitter. (consideration: CR S9604-9605) To provide for a process for interim security clearance for certain workers.
+- 2006-09-14 — Amendment SA 4957 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4958 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4961 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4961 proposed by Senator Stevens for Senator Vitter. (consideration: CR S9604-9605) To ensure that ports that play a critical role in our national energy policy remain eligible for port security grants.
+- 2006-09-14 — Amendment SA 4966 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4966 proposed by Senator Stevens for Senator Rockefeller. (consideration: CR S9604-9605) To require a report on the implementation status of the aircraft charter customer and lessee prescreening program, and for other purposes.
+- 2006-09-14 — Amendment SA 4967 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4970 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 4983 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4983 proposed by Senator Stevens for Senator Schumer. (consideration: CR S9604-9605) To carry out an "Apollo Project" to research and develop new technology for the accurate and effective detection and prevention of nuclear and radiological threats to United States seaports.
+- 2006-09-14 — Amendment SA 4986 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9585)
+- 2006-09-14 — Amendment SA 4986 proposed by Senator Collins for Senator Baucus. (consideration: CR S9585) To require that as part of the annual performance plan required in the budget submission of the Bureau of Customs and Border Protection under section 1115 of title 31, United States Code, the Commissioner of Customs establish performance indicators relating to the seizure of methamphetamine and methamphetamine precursor chemicals in order to evaluate the performance goals of the Bureau with respect to the interdiction of illegal drugs entering the United States, and for other purposes.
+- 2006-09-14 — Amendment SA 4995 proposed by Senator Boxer. (consideration: CR S9605-9606; text: CR S9605) To require the placement of blast-resistant cargo containers on all commercial passenger aircraft.
+- 2006-09-14 — Amendment SA 4995 ruled non-germane by the chair.
+- 2006-09-14 — Amendment SA 4997 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9605)
+- 2006-09-14 — Amendment SA 4997 proposed by Senator Stevens for Senator Menendez. (consideration: CR S9604-9605) To standardize the risk-based funding of port security grants.
+- 2006-09-14 — Amendment SA 5001 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 5001 proposed by Senator Stevens for Senator Wyden. (consideration: CR S9584-9585; text: CR S9584-9585) To modify the definition of the term "container security device".
+- 2006-09-14 — Amendment SA 5007 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 5007 proposed by Senator Stevens for Senator DeMint to Amendment SA 4970. (consideration: CR S9604-9605; text: CR S9604-9605) To prohibit the issuance of transportation security cards to individuals who have been convicted of certain crimes.
+- 2006-09-14 — Amendment SA 5016 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 5016 proposed by Senator Stevens. (consideration: CR S9584-9585; text: CR S9584) To provide a phased and temporary anchor movement exception for Alaska.
+- 2006-09-14 — Amendment SA 5017 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 5017 proposed by Senator Stevens for Senator Grassley. (consideration: CR S9584-9585; text: CR S9584) To make technical corrections.
+- 2006-09-14 — Amendment SA 5018 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Amendment SA 5018 proposed by Senator Stevens for Senator Snowe. (consideration: CR S9584-9585; text: CR S9584) To change a conveyance date for Coast Guard property in Portland, Maine.
+- 2006-09-14 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 247. (consideration: CR S9586; text: CR S9586)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582, S9590)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582, S9590-9603, S9607)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582, S9604-9605; text: CR S9604)
+- 2006-09-14 — Considered by Senate. (consideration: CR S9582-9617)
+- 2006-09-14 — Motion to table amendment SA 4930 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 248.
+- 2006-09-14 — Motion to table amendment SA 4930 made in Senate.
+- 2006-09-14 — Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 249. (text: CR 9/20/2006 S9820-9847)
+- 2006-09-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 249.(text: CR 9/20/2006 S9820-9847)
+- 2006-09-14 — Roll call votes on amendments in Senate: Motion to table amendment SA 4930 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 248.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4923 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9585)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4942 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4952 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4961 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4966 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4970 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4983 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4986 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9585)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 4997 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9605)
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 5001 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 5007 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 5016 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 5017 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment agreed to: Amendment SA 5018 agreed to in Senate by Unanimous Consent.
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4923 proposed by Senator Isakson.(consideration: CR S9585)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4942 proposed by Senator Stevens for Senator Lautenberg.(consideration: CR S9604-9605, S9606-9607)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4952 proposed by Senator Stevens for Senator Vitter.(consideration: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4961 proposed by Senator Stevens for Senator Vitter.(consideration: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4966 proposed by Senator Stevens for Senator Rockefeller.(consideration: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4983 proposed by Senator Stevens for Senator Schumer.(consideration: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4986 proposed by Senator Collins for Senator Baucus.(consideration: CR S9585)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4995 proposed by Senator Boxer.(consideration: CR S9605-9606; text: CR S9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 4997 proposed by Senator Stevens for Senator Menendez.(consideration: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 5001 proposed by Senator Stevens for Senator Wyden.(consideration: CR S9584-9585; text: CR S9584-9585)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 5007 proposed by Senator Stevens for Senator DeMint to Amendment SA 4970.(consideration: CR S9604-9605; text: CR S9604-9605)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 5016 proposed by Senator Stevens.(consideration: CR S9584-9585; text: CR S9584)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 5017 proposed by Senator Stevens for Senator Grassley.(consideration: CR S9584-9585; text: CR S9584)
+- 2006-09-14 — Senate amendment proposed (on the floor): Amendment SA 5018 proposed by Senator Stevens for Senator Snowe.(consideration: CR S9584-9585; text: CR S9584)
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-14 — Senate amendment submitted
+- 2006-09-18 — Amendment SA 4997, previously agreed to as modified, was further modified by Unanimous Consent. (consideration: CR S9665-9666; text as further modified: CR S9665-9666)
+- 2006-09-19 — Senate appointed conferee(s) Collins; Coleman; Bennett; Lieberman; Levin from the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-19 — Senate appointed conferee(s) Grassley; Hatch; Baucus from the Committee on Finance.
+- 2006-09-19 — Senate appointed conferee(s) Murray as an additional conferee.
+- 2006-09-19 — Senate appointed conferee(s) Shelby; Sarbanes from the Committee on Banking, Housing, and Urban Affairs.
+- 2006-09-19 — Senate appointed conferee(s) Stevens; Lott; Hutchison; Inouye; Lautenberg from the Committee on Commerce, Science, and Transportation.
+- 2006-09-19 — Senate insisted on its amendment, requested a conference. (consideration: CR S9734)
+- 2006-09-20 — Message on Senate action sent to the House.
+- 2006-09-28 — DEBATE - The House proceeded with one hour of debate on the Thompson (MS) motion to instruct conferees on H.R. 4954. The instructions contained in the motion seek to require managers on the part of the House to agree to the provisions contained of the Senate amendment relating to the Rail Security Act of 2006; the National Alert System; mass transit security; improved motor carrier, bus and hazardous material security; and specified Sections of Title XI.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. King (NY) asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference.
+- 2006-09-28 — Mr. Thompson (MS) moved that the House instruct conferees.
+- 2006-09-28 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2006-09-28 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 281 - 140 (Roll no. 500). (consideration: CR H7770-7775, H7850-7851; text: CR H7770-7775)
+- 2006-09-28 — POSTPONED PROCEEDINGS - At the conclusion of the debate on the Thompson (MS) motion to insturct conferees, the Chair put the question on adoption of the motion and by voice vote announced noes had prevailed. Mr. Thompson (MS) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2006-09-28 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of Titles VI and X and sec. 1104 of the Senate amendment, and modifications committed to conference: Barton (TX), Upton, and Dingell.
+- 2006-09-28 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of the House bill and the Senate amendment, and modifications committed to conference: King (NY), Young (AK), Lungren, Daniel E., Linder, Simmons, McCaul (TX), Reichert, Thompson (MS), Sanchez, Loretta, Markey, Harman, and Pascrell.
+- 2006-09-28 — The Speaker appointed conferees - from the Committee on Science for consideration of secs. 201 and 401 of the House bill, and secs. 111, 121, 302, 303, 305, 513, 607, 608, 706, 801, 802, and 1107 of the Senate amendment, and modifications committed to conference: Boehlert, Sodrel, and Melancon.
+- 2006-09-28 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 101-104, 107-109, and 204 of the House bill, and secs. 101-104, 106-108, 111, 202, 232, 234, 235, 503, 507-512, 514, 517-519, Title VI, secs. 703, 902, 905, 906, 1103, 1104, 1107-1110, 1114, and 1115 of the Senate amendment, and modifications committed to conference: LoBiondo, Shuster, and Oberstar.
+- 2006-09-28 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of secs. 102, 121, 201, 203 and 301 of the House bill, and secs. 201, 203, 304, 401-404, 407, and 1105 of the Senate amendment, and modifications committed to conference: Thomas, Shaw, and Rangel.
+- 2006-09-28 — The previous question was ordered without objection. (consideration: CR H7775)
+- 2006-09-29 — Conference report H. Rept. 109-711 filed. (text of conference report: CR H8540-8569)
+- 2006-09-29 — Conference report filed: Conference report H. Rept. 109-711 filed.(text of conference report: CR H8540-8569)
+- 2006-09-29 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 4954.
+- 2006-09-29 — DEBATE - The House resumed debate on the conference report to accompany H.R. 4954. (consideration: CR H8020, H8026-8038, H8540-8569)
+- 2006-09-29 — Mr. King (NY) brought up conference report H. Rept. 109-711 for consideration under the provisions of H. Res. 1064. (consideration: CR H8020, H8026-8038)
+- 2006-09-29 — Rules Committee Resolution H. Res. 1064 Reported to House. Rule provides for consideration of the conference report to H.R. 4954. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
+- 2006-09-30 — Conference report agreed to in House: On agreeing to the conference report Agreed to by recorded vote: 409 - 2 (Roll no. 516).
+- 2006-09-30 — Conference report agreed to in Senate: Senate agreed to conference report by Unanimous Consent.(consideration: CR 9/29/2006 S10810-10817)
+- 2006-09-30 — Motions to reconsider laid on the table Agreed to without objection.
+- 2006-09-30 — On agreeing to the conference report Agreed to by recorded vote: 409 - 2 (Roll no. 516).
+- 2006-09-30 — Senate agreed to conference report by Unanimous Consent. (consideration: CR 9/29/2006 S10810-10817)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-03 — Presented to President.
+- 2006-10-03 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-347.
+- 2006-10-13 — Became Public Law No: 109-347.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
