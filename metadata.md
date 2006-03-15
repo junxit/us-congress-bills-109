@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4826
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4826
@@ -57,3 +57,4 @@ To extend through December 31, 2006, the authority of the Secretary of the Army 
 - 2006-03-14 — Mr. Boustany moved to suspend the rules and pass the bill.
 - 2006-03-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H892)
 - 2006-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H892)
+- 2006-03-15 — Received in the Senate, read twice.
