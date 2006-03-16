@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4943
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4943
@@ -16,7 +16,7 @@ Prevention of Fraudulent Access to Phone Records Act
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -46,6 +46,7 @@ Prevention of Fraudulent Access to Phone Records Act
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Shadegg, John B. [R-AZ-3] (S000275)
 
 ## Committees (1)
 
@@ -56,3 +57,6 @@ Prevention of Fraudulent Access to Phone Records Act
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Referred to the House Committee on Energy and Commerce.
+- 2006-03-16 — Placed on the Union Calendar, Calendar No. 217.
+- 2006-03-16 — Reported by the Committee on Energy and Commerce. H. Rept. 109-398.
+- 2006-03-16 — Reported by the Committee on Energy and Commerce. H. Rept. 109-398.
