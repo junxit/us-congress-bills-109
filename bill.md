@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 5008
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5008
+
+> To authorize the Under Secretary of Technology of the Department of Commerce to award grants to establish up to eight Nanoscience to Commercialization Institutes throughout the United States to develop commercial applications for nanotechnology.
+
+## § 1. Short title
+
+This Act may be cited as the “Nanoscience to Commercialization Institutes Act of 2006”.
+
+## § 2. Nanoscience to Commercialization Institutes
+
+- **(a)** *Grants authorized*
+  - **(1)** *In general* The Under Secretary of Technology of the Department of Commerce (referred to in this Act as the “Under Secretary”) is authorized to award grants to eligible entities to establish up to 8 Nanoscience to Commercialization Institutes (referred to in this Act as “Institutes”) throughout the United States to assist in the commercialization of nanotechnology.
+  - **(2)** *Maximum amount* The Under Secretary shall not award a grant under this section in an amount which exceeds $1,500,000 for any year of the grant period.
+  - **(3)** *Duration* The Under Secretary shall award grants under this section for a period not to exceed 3 years.
+  - **(4)** *Location* The Under Secretary shall ensure that each Institute is located at either a public university or Federal laboratory.
+- **(b)** *Use of funds*
+  - **(1)** *In general* Grants awarded pursuant to subsection (a) shall be used to establish at least 1 Institute in each of the following areas of nanotechnology or microtechnology:
+    - **(A)** Energy, including clean coal liquification, gasification, and filtration, nuclear energy, biofuels, or fuel processing.
+    - **(B)** Printable electronics, including electronic displays.
+    - **(C)** Medical, including diagnostics, imaging, or medical devices.
+    - **(D)** Transportation, including materials or coatings.
+    - **(E)** Textiles, including heat resistance, waterproofing, insulation, or fireproofing.
+    - **(F)** Agriculture.
+  - **(2)** *Limitation* Not more than 20 percent of each grant award may be used for administrative expenses or other overhead costs.
+  - **(3)** *Matching requirement* For-profit manufacturing companies conducting research and development in micro- and nanotechnologies shall provide—
+    - **(A)** not less than 20 percent of the funding for each Institute; and
+    - **(B)** in addition to the funding under subparagraph (A), in-kind contributions equal to not less than 15 percent of the operating costs of the Institute.
+- **(c)** *Application*
+  - **(1)** *In general* Each entity desiring a grant under this section shall submit an application to the Under Secretary at such time, in such manner, and containing such information as the Under Secretary may reasonably require.
+  - **(2)** *Collaboration* The application submitted under paragraph (1) shall include a business plan that—
+    - **(A)** describes how each grant recipient will collaborate with the private sector entities that will contribute expertise and matching funds; and
+    - **(B)** includes goals for the first year of the grant period.
+  - **(3)** *Ineligible entities* Any institution of higher education that has a federally funded nanotechnology center or is the primary lead of a nanotechnology center is not eligible for a grant under this section.
+  - **(4)** *Peer review committee* The Under Secretary shall establish a peer review committee, consisting of representatives from the micro- and nanotechnology industry and early stage venture capital firms, to review the goals and progress made by each Institute during the grant period.
+  - **(5)** *Renewal of grants*
+    - **(A)** Each entity that receives an initial 1-year grant under this section shall, as a condition of continued grant funding, submit a report, not later than 1 year after the beginning of the grant period and annually for the next 2 years, to the peer review committee established under paragraph (4).
+    - **(B)** The report submitted under subparagraph (A) shall describe the Institute’s accomplishments during the preceding year and the Institute’s goals for the subsequent year.
+
+## § 3. Authorization of appropriations
+
+There are authorized to be appropriated $24,000,000 during the 3-year period beginning on the date of enactment of this Act to carry out the provisions of this Act.
