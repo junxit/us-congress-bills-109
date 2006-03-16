@@ -1,7 +1,7 @@
 ---
 measure: S. 598
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 598
@@ -16,6 +16,10 @@ A bill to reauthorize provisions in the Native American Housing Assistance and S
 
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 
+## Cosponsors (1)
+
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+
 ## Committees (1)
 
 - Senate — Indian Affairs Committee
@@ -25,3 +29,7 @@ A bill to reauthorize provisions in the Native American Housing Assistance and S
 - 2005-03-10 — Introduced in Senate
 - 2005-03-10 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S2495)
 - 2005-03-10 — Sponsor introductory remarks on measure. (CR S2494-2495)
+- 2005-06-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2006-03-16 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-221.
+- 2006-03-16 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-221.
+- 2006-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
