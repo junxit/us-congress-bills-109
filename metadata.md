@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4805
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4805
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 105 Nor
 - 2006-02-28 — Introduced in House
 - 2006-02-28 — Introduced in House
 - 2006-02-28 — Referred to the House Committee on Government Reform.
+- 2006-03-09 — Committee Consideration and Mark-up Session Held.
+- 2006-03-09 — Ordered to be Reported by Unanimous Consent.
+- 2006-03-28 — Considered under suspension of the rules. (consideration: CR H1140-1141)
+- 2006-03-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4805.
+- 2006-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-28 — Mr. Dent moved to suspend the rules and pass the bill.
+- 2006-03-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1140-1141)
+- 2006-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1140-1141)
