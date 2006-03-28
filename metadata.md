@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4805
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4805
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 105 Nor
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 - Rep. Hyde, Henry J. [R-IL-6] (H001022)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,15 @@ To designate the facility of the United States Postal Service located at 105 Nor
 - 2006-03-28 — Mr. Dent moved to suspend the rules and pass the bill.
 - 2006-03-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1140-1141)
 - 2006-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1140-1141)
+- 2006-03-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-06 — Presented to President.
+- 2006-10-06 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-346.
+- 2006-10-13 — Became Public Law No: 109-346.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
