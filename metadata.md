@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3440
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3440
@@ -25,3 +25,11 @@ To designate the facility of the United States Postal Service located at 100 Ave
 - 2005-07-26 — Introduced in House
 - 2005-07-26 — Introduced in House
 - 2005-07-26 — Referred to the House Committee on Government Reform.
+- 2005-09-15 — Committee Consideration and Mark-up Session Held.
+- 2005-09-15 — Ordered to be Reported by Unanimous Consent.
+- 2006-03-28 — Considered under suspension of the rules. (consideration: CR H1140)
+- 2006-03-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3440.
+- 2006-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-28 — Mr. Dent moved to suspend the rules and pass the bill.
+- 2006-03-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1140)
+- 2006-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1140)
