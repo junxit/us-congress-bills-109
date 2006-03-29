@@ -16,7 +16,7 @@ A resolution designating April 2006 as "Financial Literacy Month".
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (15)
+## Cosponsors (18)
 
 - Sen. Sarbanes, Paul S. [D-MD] (S000064)
 - Sen. Cochran, Thad [R-MS] (C000567)
@@ -33,9 +33,21 @@ A resolution designating April 2006 as "Financial Literacy Month".
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 - Sen. DeMint, Jim [R-SC] (D000595)
 - Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Allen, George [R-VA] (A000121)
 
 ## Actions
 
 - 2006-03-28 — Introduced in Senate
 - 2006-03-28 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2480-2481; text as passed Senate: CR S2481; text of measure as introduced: CR S2474-2475)
 - 2006-03-28 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2480-2481; text as passed Senate: CR S2481; text of measure as introduced: CR S2474-2475)
+- 2006-03-29 — Amendment SA 3190 agreed to in Senate by Unanimous Consent.
+- 2006-03-29 — Amendment SA 3190 proposed by Senator Sessions for Senator Akaka. (consideration: CR S2541; text: CR S2541) Of a technical nature.
+- 2006-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S2541-2542)
+- 2006-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text as passed Senate: CR S2541)
+- 2006-03-29 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text as passed Senate: CR S2541)
+- 2006-03-29 — Senate amendment agreed to: Amendment SA 3190 agreed to in Senate by Unanimous Consent.
+- 2006-03-29 — Senate amendment proposed (on the floor): Amendment SA 3190 proposed by Senator Sessions for Senator Akaka.(consideration: CR S2541; text: CR S2541)
+- 2006-03-29 — Senate amendment submitted
+- 2006-03-29 — Senate vitiated previous passage.

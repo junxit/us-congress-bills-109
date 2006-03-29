@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the personal savings rate of United States citizens in 2005 was negative 0.5 percent, marking the first time that the rate has been negative since the Great Depression year of 1933;
 - Whereas in 2005, only 42 percent of workers or their spouses calculated the amount that they needed to save for retirement, down from 53 percent in 2000;
 - Whereas the 2005 Retirement Confidence Survey found that a majority of workers believe that they are behind schedule on their retirement savings and that their debt is a problem;
-- Whereas during the third quarter of 2005, the household debt of United States citizens reached $11,000,000,000;
+- Whereas during the third quarter of 2005, the household debt of United States citizens reached $11,000,000,000,000;
 - Whereas during the third quarter of 2005, individuals serviced their debt with a record 13.75 percent of after-tax income;
 - Whereas nearly 1,600,000 individuals filed for bankruptcy in 2004;
 - Whereas approximately 75,000,000 individuals remain credit-challenged and unbanked, or are not using insured, mainstream financial institutions;
