@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3127
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 1 executed, 10 stated and not applied.
+18 amendatory instructions. 5 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,42 @@ to guess them.
 | Removed | `Notwithstanding` |
 | Inserted | `(a) General assistance.—Notwithstanding` |
 
+### 50 U.S.C. § 1701
+
+> by striking “areas outside of control of the Government of Sudan” and inserting “southern Sudan, southern Kordofan/Nuba Mountains State, Blue Nile State, and Abyei”;
+
+| | |
+|---|---|
+| Removed | `areas outside of control of the Government of Sudan` |
+| Inserted | `southern Sudan, southern Kordofan/Nuba Mountains State, Blue Nile State, and Abyei` |
+
+### 50 U.S.C. § 1701
+
+> in the heading, by striking “export prohibitions” and inserting “prohibitions in executive order no. 13067”;
+
+| | |
+|---|---|
+| Removed | `export prohibitions` |
+| Inserted | `prohibitions in executive order no. 13067` |
+
+### 50 U.S.C. § 1701
+
+> by striking “any export from an area in Sudan outside of control of the Government of Sudan, or to any necessary transaction directly related to that export” and inserting “activities or related transactions with respect to southern Sudan, southern Kordofan/Nuba Mountains State, Blue Nile State, or Abyei”; and
+
+| | |
+|---|---|
+| Removed | `any export from an area in Sudan outside of control of the Government of Sudan, or to any necessary transaction directly related to that export` |
+| Inserted | `activities or related transactions with respect to southern Sudan, southern Kordofan/Nuba Mountains State, Blue Nile State, or Abyei` |
+
+### 50 U.S.C. § 1701
+
+> by striking “the export or related transaction” and all that follows and inserting “such activities or related transactions would directly benefit the economic recovery and development of those areas and people.”.
+
+| | |
+|---|---|
+| Removed | `the export or related transaction` |
+| Inserted | `such activities or related transactions would directly benefit the economic recovery and development of those areas and people.` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -47,8 +83,11 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1701` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | redesignate | Section 6(d) of the Comprehensive Peace in Sudan Act of 2004 (as redesignated by subsection (a)) is amended by adding at the end the following new sentence: “The President may waive the application of paragraph (1) or (2) of subsection (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | Section 6(b)(2)(C) of the Sudan Peace Act (Public Law 107–245; 50 U.S.C. 1701 note) is amended by inserting “, including by prohibiting the entry at United States ports to cargo ships or oil tankers engaged in business or trade activitie… | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1701` | replace | by striking “Notwithstanding any other provision of law” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | insert | by inserting “civil administrations,” after “indigenous groups,”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1701` | insert | by inserting at the end before the period the following: “, including the Comprehensive Peace Agreement for Sudan”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2394-1` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | amend | Section 2(2) of the Comprehensive Peace in Sudan Act of 2004 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | amend | Section 12(b) of the Sudan Peace Act (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
