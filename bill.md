@@ -1,0 +1,161 @@
+---
+legis-num: H.R. 5039
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5039
+
+> To establish a program to revitalize rural multifamily housing assisted under the Housing Act of 1949.
+
+## § 1. Short title
+
+This Act may be cited as the “Saving America’s Rural Housing Act of 2006”.
+
+## § 2. Findings and purposes
+
+- **(a)** *Findings* The Congress finds that—
+  - **(1)** section 502(c) of the Housing Act of 1949 restricts the rights of certain owners of projects for which loans were made or insured under section 515 of such Act to prepay such loans;
+  - **(2)** expensive litigation against the Department of Agriculture has cost the taxpayers of the United States millions of dollars to date, funds that would be better spent preserving affordable multifamily housing;
+  - **(3)** if such section 502(c) is partially repealed and the prepayment restrictions are eliminated for multifamily housing loans made before 1989 under section 515, it is expected, according to a report, that approximately 10 percent of the portfolio of such loans would be prepaid and those projects would leave the program;
+  - **(4)** the average age of a multifamily housing project with a section 515 loan is 28 years, and therefore much of the portfolio of such projects is aging and in need of revitalization, while the need for affordable rural housing is increasing;
+  - **(5)** section 515 projects house some of the poorest families in rural America, with almost 60 percent of the units occupied by senior citizens or persons with disabilities and an average annual household income among all occupants of approximately $9,000;
+  - **(6)** in many small towns and communities, rental housing financed by direct loans under section 515 is the only decent, affordable rental housing available.; and
+  - **(7)** consequently, any revitalization or disposition of this portfolio, which houses nearly 500,000 low-income families and seniors, should be handled with great care.
+- **(b)** *Purposes* The purposes of this Act are—
+  - **(1)** to authorize the Secretary of Agriculture to carry out a program that encourages, to the extent practicable, the retention of section 515 housing projects developments for long-term use and the repair and preservation of such properties, and ensures that the minimum number of residents are displaced;
+  - **(2)** to repeal a portion of section 502(c) of the Housing Act of 1949 to avoid further costly litigation against the Department of Agriculture;
+  - **(3)** to preserve the availability of affordable rural housing by providing a voluntary mechanism for owners of multifamily rural housing projects with loans under section 515 to enter into loan restructuring agreements with the Secretary to provide capital for revitalization activities; and
+  - **(4)** to provide for affordable rents for tenants who live in such projects that are revitalized under this Act and to protect tenants who live in such projects for which the loan is prepaid.
+
+## § 3. Revitalization of multifamily housing
+
+- **(a)** *Revitalization program* Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding at the end the following new section:
+  > ## § 544. Revitalization and tenant protection vouchers
+  >
+  > - **(a)** *Purpose* The purposes of this section are—
+  >   - **(1)** to protect tenants who live in multifamily housing projects that are subsidized under this title and, in the case of prepayments of loans under section 515, to protect tenants that are displaced when the projects cease being eligible projects;
+  >   - **(2)** to strengthen the long-term viability of eligible projects;
+  >   - **(3)** to promote the revitalization of rural multifamily housing projects; and
+  >   - **(4)** to accomplish such several purposes—
+  >     - **(A)** by providing a voluntary mechanism for project owners to enter into loan restructuring agreements with the Secretary to obtain new types of financial assistance to rehabilitate and maintain the projects; and
+  >     - **(B)** by deregulating certain projects in a manner that still provides measurable performance standards and effective financing and rehabilitation of multifamily housing.
+  > - **(b)** *Revitalization*
+  >   - **(1)** *In general* The Secretary shall, subject to the availability of amounts appropriated, carry out a revitalization program in accordance with this subsection to provide financial incentives and other assistance to owners of eligible projects through voluntary long-term use agreements entered into between the project owners and the Secretary.
+  >   - **(2)** *Applications to participate* The Secretary may accept applications from owners of eligible projects to participate in the revitalization program under this section.
+  >   - **(3)** *Long-term viability plan*
+  >     - **(A)** *Requirement* The Secretary may prepare and approve a long-term viability plan under this paragraph with respect to each eligible project for which the owner requests to participate.
+  >     - **(B)** *Contents* Each long-term viability plan for an eligible project shall include the following information:
+  >       - **(i)** *Comprehensive needs assessment* A comprehensive needs assessment of the project that identifies and projects, for the following 20 years—
+  >         - **(I)** all necessary repairs, improvements, maintenance, and management standards for the project, and when they will be made, in order to meet the requirements of this title; and
+  >         - **(II)** the costs associated with the items referred to in this subparagraph (A).
+  >       - **(ii)** *Financial plan* A financial plan for the project that—
+  >         - **(I)** reviews the financial stability of the project;
+  >         - **(II)** includes the loan restructuring elements, rent adjustments, management and operational efficiencies, and other financial adjustments to the project that are necessary to cover operating expenses for the project and maintain an adequate financial reserve for the future maintenance and capital needs of the project;
+  >         - **(III)** provides the project owner with a long-term rate of return on new capital, including any portion of low-income housing tax credit proceeds used for hard construction costs, as determined by the Secretary, commensurate to comparable commercial multifamily housing projects;
+  >         - **(IV)** meets the comprehensive needs for the project determined under the comprehensive needs assessment; and
+  >         - **(V)** ensures that rents available under the plan are affordable to eligible households in accordance with paragraph (7).
+  >     - **(C)** *Development through participating administrative entities* The Secretary may develop long-term viability plans through the use of third-party participating administrative entities, who may be a private contractor, a State housing finance agency, or a nonprofit organization.
+  >     - **(D)** *Revitalization determination* Based on the long-term viability plan for an eligible project, the Secretary shall determine whether to offer the project owner a financial restructuring plan under paragraph (4) and the financial incentives to be included in any such plan offered.
+  >     - **(E)** *Final review and comment* With respect to any long-term viability plan prepared by the Secretary, the Secretary shall provide the project owner an opportunity to review the plan and discuss the plan with the Secretary or its agent before a determination is made under subparagraph (D).
+  >     - **(F)** *Fees* The Secretary may charge the project owner a fee for preparation of the long-term viability plan.
+  >     - **(G)** *Payment of fees* If a long-term viability for a project is approved, the payment of such fee may be incorporated into a project owner’s financial restructuring plan for the project provided by the Secretary pursuant to paragraph (4)
+  >   - **(4)** *Financial restructuring plan; revitalization incentives* Based on the long-term viability plan for an eligible project, the Secretary may offer a project owner a financial restructuring plan for the project. Such a plan may include one or more of the following revitalization incentives:
+  >     - **(A)** Reduction or elimination of interest on the loan for the project made under section 515.
+  >     - **(B)** Partial or full deferral of payments due under such loan.
+  >     - **(C)** Forgiveness of such loan.
+  >     - **(D)** Subordination of such loan, subject to such terms and conditions as the Secretary shall determine.
+  >     - **(E)** Reamortization of loan payments under such loan over extended terms.
+  >     - **(F)** A grant from the Secretary for the project.
+  >     - **(G)** Payment of project costs associated with developing the long-term viability plan.
+  >     - **(H)** Opportunity for project owners to obtain further investment equity from third parties in the project.
+  >     - **(I)** A direct loan or guarantee of a loan for the project, with a subsidized interest rate without regard to the value of the project.
+  >   - **(5)** *Long-term use agreement*
+  >     - **(A)** *In general* If the owner of an eligible project agrees to the terms of a financial restructuring plan for the project providing revitalization benefits under paragraph (4), in exchange for such benefits, the Secretary and the project owner shall enter into a long-term use agreement under this paragraph for the project.
+  >     - **(B)** *Agreement* A long-term use agreement for an eligible project shall include—
+  >       - **(i)** the terms of the financial restructuring plan for the project, including any revitalization incentives to be provided;
+  >       - **(ii)** an agreement by the project owner—
+  >         - **(I)** to continue the property use restrictions with respect to the project in accordance with this title for a period of (aa) 20 years, or (bb) the remaining term of any loans under this title for the project, whichever ends later;
+  >         - **(II)** to comply with the long-term viability plan for the project;
+  >         - **(III)** to comply with the rent terms under paragraph (7) for the project; and
+  >         - **(IV)** to make value payments under paragraph (6) to the Secretary, and the terms of such payments;
+  >       - **(iii)** provisions terminating the agreement if any revitalization incentives for the project to be provided under the agreement are no longer available and the Secretary determines that such unavailability is not the fault of the owner;
+  >       - **(iv)** any rent terms for the project pursuant to paragraph (7);
+  >       - **(v)** a covenant which runs with the land; and
+  >       - **(vi)** such other terms as the Secretary determines are necessary to implement the purposes of this section.
+  >   - **(6)** *Shared value agreements* Each long-term use agreement shall include a shared value agreement secured by the property of the eligible project that is the subject of the long-term use agreement, which shall determine how proceeds are divided at the end of the term of the loan and shall require the project owner, at the end of such loan term, to pay the lesser of—
+  >     - **(A)** the sum of—
+  >       - **(i)** the amounts of any loan writedowns, write-offs, and interest subsidies provided in connection with the loan restructuring under this subsection, at the closing of revitalization;
+  >       - **(ii)** any outstanding principal and interest; and
+  >       - **(iii)** any non-loan funds provided by the Secretary under this subsection; or
+  >     - **(B)** 75 percent of the appraised value of the eligible project.
+  >   - **(7)** *Rents under long-term use agreement* In any eligible project that is subject to a long-term use agreement, rents for eligible households shall comply with the following requirements:
+  >     - **(A)** *Minimum rent* The Secretary, acting through the director of the applicable local agency or office of the Department responsible for carrying out the programs under this title in such area, may provide that each eligible household is charged a minimum monthly rent in an amount determined by such local director that does not in any case exceed $25. The Secretary may allow exceptions to such minimum rent for an eligible household or groups of eligible households for demonstrated hardship, as determined by the Secretary, which hardship exceptions, if allowed by the Secretary, shall include the hardship exceptions provided or established by the Secretary of Housing and Urban Development, as appropriate, under subclauses (I) through (V) of section 3(a)(3)(B)(i) of the United States Housing Act of 1937 (42 U.S.C. 1437a(a)(3)(B)(i)).
+  >     - **(B)** *Maximum rent* Notwithstanding any minimum monthly rent established pursuant to subparagraph (A), the amount of monthly rent charged to any eligible household may not exceed 30 percent of the adjusted income of the eligible household. Such local director may take such actions as may be necessary to verify tenant incomes for purposes of carrying out this subparagraph.
+  >     - **(C)** *Rent adjustments* The rents for eligible households may be increased or decreased only on an annual basis and only in accordance with standards incorporated in such agreement. The Secretary shall issue regulations establishing such standards, which shall include standards for rents that are considered affordable for eligible households for the area in which a project is located and for establishing rents that conform to such standards.
+  >   - **(8)** *Lowest cost requirement* In determining the terms of a restructuring plan, and the type and amount of revitalization benefits under such plan to approve under this subsection for an eligible project, the Secretary shall, to the extent practicable, approve assistance that imposes the least cost to the Secretary while meeting the requirements of the long-term viability plan for the project.
+  > - **(c)** *Homeownership opportunities* The owner of an eligible project may, in conjunction with revitalization of the project pursuant to this section, propose a sale to a tenant-based condominium or cooperative. Any such proposal shall be subject to a notice to tenants under terms that the Secretary shall establish.
+  > - **(d)** *Determination of ineligibility*
+  >   - **(1)** *Procedure* The Secretary may determine that a project owner is ineligible for participation in the revitalization program under this section in accordance with the standards under paragraph (2).
+  >   - **(2)** *Standards* The Secretary may determine that a project owner is ineligible if—
+  >     - **(A)** the project owner has a history of poor management or maintenance of multifamily housing properties;
+  >     - **(B)** the project owner is in default on a loan made available under the section 514 or 515 housing program;
+  >     - **(C)** the Secretary is unable to enter into a long-term use agreement for the project that is the subject of the application with the project owner within a reasonable time;
+  >     - **(D)** the project owner is suspended or debarred from participating in Federal contracts or programs; or
+  >     - **(E)** the Secretary has other good cause for withholding from the project owner the benefits made available under this section.
+  > - **(e)** *Definitions* For purposes of this section, the following definitions shall apply:
+  >   - **(1)** *Eligible household* The term “eligible household” means a household that, under section 515, is eligible to reside in a project funded with a loan made by the Secretary under such section.
+  >   - **(2)** *Eligible project* The term “eligible project” means a housing project funded with a loan made at any time by the Secretary under section 515, the principal obligation of which has not been fully repaid.
+  >   - **(3)** *Project owner; owner* The terms “project owner” and “owner” mean, with respect to an eligible project, an individual or entity, or principals thereof that own, or plan to purchase, the project.
+
+- **(b)** *Priority for section 515 financing* Subsection (j) of section 515 of the Housing Act of 1949 (42 U.S.C. 1485(j)) is amended—
+  - **(1)** by inserting “(1)” before “For”; and
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(2)** The Secretary may give priority, in entering into contracts under this section involving financing for new construction of a project, for projects located in areas having a need for affordable low-income rental housing due to prepayment of loans made or insured under this section.
+
+- **(c)** *Partial repeal of prepayment restrictions; administration of prepayment requests* Section 502 of the Housing Act of 1949 (42 U.S.C. 1472) is amended—
+  - **(1)** in subsection (c)—
+    - **(A)** by striking “or 515” each place such term appears; and
+    - **(B)** in paragraph (5)(G)(i)(I), by striking “, as the case may be,”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(i)** *Prepayment of section 515 multifamily housing loans*
+    >   - **(1)** *Administration*
+    >     - **(A)** *Plan* The Secretary shall develop a plan to administer requests to prepay (not made in connection with any revitalization under section 544) any loan made under section 515. The plan shall provide for administration of voucher assistance in accordance with paragraph (3). The plan shall encourage and facilitate owners of projects to maintain the projects, or to transfer projects to owners who will maintain projects, as housing affordable to low-income residents.
+    >     - **(B)** *Implementation* The Secretary shall implement this subsection not later than the expiration of the 90-day period beginning on the date of the enactment of the Saving America’s Rural Housing Act of 2006. Notwithstanding that full implementation of this subsection may not have been completed, the Secretary may not delay the processing of any request to prepay a loan made under section 515.
+    >   - **(2)** *Notice of prepayment and sale* As a condition of prepayment of a loan made or insured under section 515, the project owner shall, not less than 90 days before taking any action to prepay the loan or sell the project for which the loan was made, provide the following notices:
+    >     - **(A)** *Notice to tenants* To the tenants of the project, notice of the prepayment, as follows:
+    >       - **(i)** The notice shall include information sufficient to inform tenants of the availability of vouchers pursuant to paragraph (3), actions tenants must take to receive voucher assistance, the date prepayment is expected to take place, a telephone number and electronic mail address at which to contact the owner of the project, and any limitations, use, and other terms the Secretary considers appropriate.
+    >       - **(ii)** In the case of any prepayment involving transfer of the ownership of a project, the notice shall include the name of the transferee, the date that the transfer was agreed to, the date the transfer is to take place, and telephone numbers and electronic mail addresses at which to contact the transferor and transferee.
+    >     - **(B)** *Notice to secretary* To the Secretary, notice that the requirements under subparagraph (A) have been met, which shall identify the date that notice under such subparagraph was made and the names or each tenant to which such notice was provided.
+    >   - **(3)** *Rural tenant protection vouchers*
+    >     - **(A)** *In general* If the owner of a housing project subject to a loan made under section 515 prepays the loan, the Secretary shall, to the extent that amounts for assistance under this paragraph are provided in advance in appropriation Acts, make voucher assistance available to each low-income family who on the date of prepayment is residing in a dwelling unit in the project.
+    >     - **(B)** *Use* A voucher under this paragraph for a family may be used for rental of a dwelling unit in the project that the family resides in on the date of the prepayment referred to in subparagraph (A) or for a dwelling unit elsewhere.
+    >     - **(C)** *Right to use* In the case of a project for which a loan made under section 515 is prepaid, the owner of the project may not refuse to lease, to a family for whom voucher assistance under this paragraph is made available, any available rental dwelling unit in the project a proximate cause of which is the status of such family as a recipient of such assistance.
+    >     - **(D)** *Amount of assistance* The amount of rental assistance provided under a voucher under this paragraph on behalf of a tenant shall be the amount by which—
+    >       - **(i)** the lesser of
+    >         - **(I)** the rent for the dwelling unit rented using such voucher, or
+    >         - **(II)** the rent for a comparable unit in the same market area as the housing project for which the loan was prepaid; exceeds
+    >       - **(ii)** the lesser of
+    >         - **(I)** the amount of rent paid by the tenant for the dwelling unit occupied by the tenant at the time of the prepayment referred to in paragraph (1), or
+    >         - **(II)** the amount equal to 30 percent of the tenant’s adjusted income (as such term is defined in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)).
+    >     - **(E)** *Rural affordable voucher* For communities with insufficient affordable housing alternatives, as determined by the Secretary, voucher assistance under this paragraph may be provided in accordance with section 8(t)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)(1)).
+    >     - **(F)** *Administration* To the maximum extent practicable, the Secretary shall administer voucher assistance under this paragraph in accordance with regulations and administrative guidance for housing vouchers administered by the Secretary of Housing and Urban Development under section 8 of such Act.
+    >     - **(G)** *Homeownership opportunities* A voucher under this paragraph may be used by a tenant to make payments towards the purchase of a single-family home anywhere in the United States, subject to subsidy limits for vouchers under this title and the same limitations applicable under section 8(y) of the United States Housing Act of 1937 (42 U.S.C. 1437f(y) to the use of tenant-based assistance under such section 8 for homeownership.
+    >   - **(4)** *Prepayment standards for pre-1989 loans* In the case of a loan made or insured under section 515 pursuant to a contract entered into before December 15, 1989:
+    >     - **(A)** *In general* Subject to subparagraph (B), the Secretary shall approve any offer to prepay such a loan that meets the following requirements:
+    >       - **(i)** The borrower under the loan has not been provided any assistance to extend low-income use pursuant to section 502(c)(4) of this Act, as such section was in effect before the date of the enactment of the Saving America’s Rural Housing Act of 2006.
+    >       - **(ii)** The loan was not at any time restricted by servicing actions, including transfers.
+    >       - **(iii)** The 20-year period during which the project is subject to use restrictions under the loan has concluded.
+    >     - **(B)** *Prohibition* The Secretary may not approve any offer to prepay such a loan during the 20-year period during which the project is subject to use restrictions under the loan.
+    >   - **(5)** *Sale restrictions* During the period that begins upon the owner providing notice to the Secretary under paragraph (2)(B) and having a duration of 75 days, the owner may not sell the property except to a purchaser who enters into such binding agreements for purchase at market rates as the Secretary considers necessary to continue the property use restrictions with respect to the project in accordance with this title for a period of 20 years. This paragraph may not be construed to prohibit an owner, during such period, from soliciting or receiving any offers of sale or purchase.
+    >   - **(6)** *Database of potential buyers* The Secretary shall establish and maintain a database of potential buyers of projects with loans made under section 515. Such database shall include only persons who have expressed an interest to the Secretary in purchasing such projects at fair market value and maintaining the projects for use as affordable housing.
+
+## § 4. Conforming amendments to title V of the Housing Act of 1949
+
+Title V of the Housing Act of 1949 is amended—
+
+- **(1)** in section 502(b)(2) (42 U.S.C. 1472(b)(2))—
+  - **(A)** by striking “or 515”; and
+  - **(B)** by inserting before the semicolon at the end the following: “and any prepayment of a loan made or insured under section 515 shall be subject to the provisions of subsection (i)”; and
+- **(2)** in section 537(b)(1) (42 U.S.C. 1490p–1(b)(1)), by inserting before the semicolon the following: “ and to administer the revitalization program under section 544”.
