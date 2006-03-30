@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 742
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 742
@@ -16,6 +16,10 @@ Providing for further consideration of the bill (H.R. 609) to amend and extend t
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2006-03-29 — Introduced in House
@@ -23,3 +27,9 @@ Providing for further consideration of the bill (H.R. 609) to amend and extend t
 - 2006-03-29 — Rule provides for consideration of H.R. 609. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2006-03-29 — The House Committee on Rules reported an original measure, H. Rept. 109-401, by Mr. Bishop (UT).
 - 2006-03-29 — The House Committee on Rules reported an original measure, H. Rept. 109-401, by Mr. Bishop (UT).
+- 2006-03-30 — Considered as privileged matter. (consideration: CR H1326-1334)
+- 2006-03-30 — DEBATE - The House proceeded with one hour of debate on H. Res. 742.
+- 2006-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-03-30 — On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 188 (Roll no. 75). (text: CR H1326)
+- 2006-03-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 188 (Roll no. 75).(text: CR H1326)
+- 2006-03-30 — The previous question was ordered without objection. (consideration: CR H1333)
