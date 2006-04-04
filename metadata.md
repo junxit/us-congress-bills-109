@@ -1,7 +1,7 @@
 ---
 measure: S. 598
 congress: 109
-version: Reported to Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 598
@@ -20,9 +20,10 @@ A bill to reauthorize provisions in the Native American Housing Assistance and S
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,7 @@ A bill to reauthorize provisions in the Native American Housing Assistance and S
 - 2006-03-16 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-221.
 - 2006-03-16 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-221.
 - 2006-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
+- 2006-04-04 — Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 390.
+- 2006-04-04 — Referred to the Committee on Banking, Housing, and Urban Affairs by unanimous consent.
+- 2006-04-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2006-04-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
