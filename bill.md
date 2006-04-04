@@ -1,0 +1,49 @@
+---
+legis-num: H.R. 5078
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5078
+
+> To elevate the Environmental Protection Agency to Cabinet-level status and redesignate such agency as the Department of Environmental Protection.
+
+## § 1. Short title
+
+This Act may be cited as the “Department of Environmental Protection Act”.
+
+## § 2. Redesignation of Environmental Protection Agency as Department of Environmental Protection
+
+- **(a)** *Redesignation* The Environmental Protection Agency is redesignated as the Department of Environmental Protection (hereinafter in this Act referred to as the “Department”), and shall be an executive department in the executive branch of the Government.
+- **(b)** *Secretary of Environmental Protection*
+  - **(1)** There shall be at the head of the Department a Secretary of Environmental Protection (hereinafter in this Act referred to as the “Secretary”) who shall be appointed by the President, by and with the advice and consent of the Senate, except as provided in paragraph (2).
+  - **(2)** If so designated by the President, the individual who has been nominated and confirmed and is serving as the Administrator of the Environmental Protection Agency on the date of enactment of this Act shall become the Secretary of Environmental Protection, without reconfirmation by the Senate.
+- **(c)** *Transfer of function, powers, and duties* The functions, powers, and duties of each officer and employee of the Environmental Protection Agency are transferred to and vested in the corresponding officer or employee of the Department.
+- **(d)** *Delegation of authority* The Secretary may, consistent with other laws—
+  - **(1)** delegate any functions, powers, or duties, including the promulgation of regulations, to such officers and employees of the Department as the Secretary may designate; and
+  - **(2)** authorize such successive redelegations of such functions, powers, or duties within the Department as the Secretary considers necessary or appropriate.
+
+## § 3. References
+
+Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
+
+- **(1)** to the Environmental Protection Agency is deemed to refer to the Department of Environmental Protection;
+- **(2)** to the Administrator of the Environmental Protection Agency is deemed to refer to the Secretary of Environmental Protection; and
+- **(3)** to a subordinate official of the Environmental Protection Agency is deemed to refer to the corresponding official of the Department of Environmental Protection.
+
+## § 4. Savings provisions
+
+- **(a)** *Continuing effect of legal documents* All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, privileges, agreements, registrations, and other administrative actions—
+  - **(1)** which have been issued, made, granted or allowed to become effective by the President, the Administrator or other authorized official of the Environmental Protection Agency, or by a court of competent jurisdiction, which relate to functions of the Administrator or any other officer or agent of the Environmental Protection Agency actions; and
+  - **(2)** which are in effect on the date of the enactment of this Act,
+- **(b)** *Proceedings not affected*
+  - **(1)** This Act shall not affect any proceeding, proposed rule, or application for any license, permit, certificate, registration, or financial assistance pending before the Environmental Protection Agency on the date of the enactment of this Act, and the effect of any such proceeding, proposed rule, or application shall continue. Orders shall be issued, and final determinations shall be made, in any such proceeding, proposed rule, or application, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted, and orders issued with respect to any such proceeding, proposed rule, or application shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
+  - **(2)** Nothing in this subsection prohibits the discontinuance or modification of any such proceeding, proposed rule, or application under the same terms and conditions and to the same extent that such proceeding, proposed rule, or application could have been discontinued or modified if this Act had not been enacted.
+- **(c)** *Suits not affected* The provisions of this Act shall not affect suits commenced before the date of enactment of this Act, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+- **(d)** *Nonabatement of actions* No suit, action, or other proceeding commenced before the date of enactment of this Act by or against the Environmental Protection Agency, or by or against any individual in the official capacity of such individual as an officer of the Environmental Protection Agency, shall abate by reason of the enactment of this Act.
+- **(e)** *Property and resources* The contracts, liabilities, records, property, and other assets and interests of the Environmental Protection Agency shall, after the date of enactment of this Act, be considered to be the contracts, liabilities, records, property, and other assets and interests of the Department of Environmental Protection.
+
+## § 5. Conforming amendments
+
+After consultation with the appropriate committees of Congress, the Secretary shall prepare and submit to Congress proposed legislation containing necessary and appropriate technical and conforming amendments to the laws of the United States, to reflect the changes made by this Act. Such proposed legislation shall be submitted not later than one year after the date of enactment of this Act.
