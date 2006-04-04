@@ -1,7 +1,7 @@
 ---
 measure: S. 598
 congress: 109
-version: Reported to Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
