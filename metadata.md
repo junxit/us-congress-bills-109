@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4916
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4916
@@ -31,3 +31,8 @@ To authorize United States participation in, and appropriations for, the United 
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Referred to the House Committee on Financial Services.
+- 2006-03-15 — Committee Consideration and Mark-up Session Held.
+- 2006-03-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-04-04 — Placed on the Union Calendar, Calendar No. 221.
+- 2006-04-04 — Reported by the Committee on Financial Services. H. Rept. 109-403.
+- 2006-04-04 — Reported by the Committee on Financial Services. H. Rept. 109-403.
