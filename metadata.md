@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 319
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 319
@@ -16,7 +16,7 @@ Expressing the sense of the Congress regarding the successful and substantial co
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Boehlert, Sherwood [R-NY-24] (B000586)
@@ -35,6 +35,9 @@ Expressing the sense of the Congress regarding the successful and substantial co
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
 ## Committees (1)
 
@@ -45,3 +48,10 @@ Expressing the sense of the Congress regarding the successful and substantial co
 - 2005-12-16 — Introduced in House
 - 2005-12-16 — Introduced in House
 - 2005-12-16 — Referred to the House Committee on the Judiciary.
+- 2006-02-16 — Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.
+- 2006-03-10 — Subcommittee on Courts, the Internet, and Intellectual Property Discharged.
+- 2006-03-15 — Committee Consideration and Mark-up Session Held.
+- 2006-03-15 — Ordered to be Reported by Voice Vote.
+- 2006-04-05 — Placed on the House Calendar, Calendar No. 162.
+- 2006-04-05 — Reported by the Committee on Judiciary. H. Rept. 109-409.
+- 2006-04-05 — Reported by the Committee on Judiciary. H. Rept. 109-409.

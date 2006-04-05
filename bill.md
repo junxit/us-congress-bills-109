@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 319
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the incentives provided under the Act and the exchange of technology and research between and among the research community, small businesses, and industry, have resulted in new cooperative ventures and the emergence of sophisticated high-technology businesses, which provide a major catalyst for innovation and entrepreneurial activity;
 - Whereas more than 4,000 new companies have been created to develop and market academic research and development since 1980, and it is estimated that nearly 2300 of these companies were still in operation at the end of fiscal year 2003;
 - Whereas Lita Nelsen, director of the Technology Licensing Office at the Massachusetts Institute of Technology, has described the Bayh-Dole Act as “one of the most successful pieces of economic development and job-creation legislation in recent history”;
-- Whereas the Bayh-Dole Act was described in a 2002 article in The Economist (US) as “[p]ossibly the most inspired piece of legislation to be enacted in America over the past half-century … More than anything, this single policy measure helped to reverse America’s precipitous slide into industrial irrelevance”;
+- Whereas the Bayh-Dole Act was described in a 2002 article in The Economist (US) as “[p]ossibly the most inspired piece of legislation to be enacted in America over the past half-century. … More than anything, this single policy measure helped to reverse America’s precipitous slide into industrial irrelevance”;
 - Whereas the Government Accountability Office (GAO) found that university administrators and small business representatives considered the Bayh-Dole Act to have had “a significant impact on their research and innovation efforts”;
 - Whereas a study of business executives found that 9 out of 10 identified the Bayh-Dole Act as an “important factor” in decisions to fund research and development in academia;
 - Whereas Howard Bremer, who served as patent counsel to the Wisconsin Alumni Research Foundation from 1960 to 1988, once observed that, “[o]ne important factor … is that the success was achieved without cost to the taxpayer. In other words, no separate appropriation of government funds was needed to establish or manage the effort”;
