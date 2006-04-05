@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 371
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 371
@@ -16,7 +16,7 @@ A resolution designating July 22, 2006, as "National Day of the American Cowboy"
 
 - Sen. Thomas, Craig [R-WY] (T000162)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
@@ -33,6 +33,10 @@ A resolution designating July 22, 2006, as "National Day of the American Cowboy"
 - Sen. Stevens, Ted [R-AK] (S000888)
 - Sen. Allen, George [R-VA] (A000121)
 - Sen. Ensign, John [R-NV] (E000194)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Frist, William H. [R-TN] (F000439)
+- Sen. Crapo, Mike [R-ID] (C000880)
 
 ## Committees (1)
 
@@ -43,3 +47,7 @@ A resolution designating July 22, 2006, as "National Day of the American Cowboy"
 - 2006-02-14 — Introduced in Senate
 - 2006-02-14 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1179)
 - 2006-02-14 — Sponsor introductory remarks on measure. (CR S1179-1180)
+- 2006-04-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S3160-3161)
+- 2006-04-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S3160-3161)
+- 2006-04-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3160-3161)
+- 2006-04-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3160-3161)
