@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4688
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4688
@@ -40,3 +40,11 @@ To designate the facility of the United States Postal Service located at 1 Boyde
 - 2006-02-01 — Introduced in House
 - 2006-02-01 — Introduced in House
 - 2006-02-01 — Referred to the House Committee on Government Reform.
+- 2006-03-09 — Committee Consideration and Mark-up Session Held.
+- 2006-03-09 — Ordered to be Reported by Unanimous Consent.
+- 2006-04-05 — Considered under suspension of the rules. (consideration: CR H1485-1486)
+- 2006-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4688.
+- 2006-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-05 — Mr. Westmoreland moved to suspend the rules and pass the bill.
+- 2006-04-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1485)
+- 2006-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1485)
