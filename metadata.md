@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 541
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 541
@@ -34,3 +34,9 @@ Honoring Drs. Roy J. Glauber, John L. Hall, and Theodor W. Hansch for being awar
 - 2005-11-08 — Introduced in House
 - 2005-11-08 — Introduced in House
 - 2005-11-08 — Referred to the House Committee on Science.
+- 2006-04-05 — Considered under suspension of the rules. (consideration: CR H1533-1536)
+- 2006-04-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 541.
+- 2006-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-05 — Mr. Ehlers moved to suspend the rules and agree to the resolution.
+- 2006-04-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1533)
+- 2006-04-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1533)
