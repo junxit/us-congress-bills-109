@@ -22,7 +22,7 @@ In this Act:
 - **(2)** *Government of Sudan*
   - **(A)** *In general* The term “Government of Sudan” means the National Congress Party, formerly known as the National Islamic Front, led-government in Khartoum, Sudan, or any successor government formed on or after the date of the enactment of this Act (including the coalition National Unity Government agreed upon in the Comprehensive Peace Agreement for Sudan), except that such term does not include the regional Government of Southern Sudan.
   - **(B)** *Officials of the government of sudan* The term “Government of Sudan”, when used with respect to an official of the Government of Sudan, does not include an individual—
-    - **(i)** who was not a member of such government prior to July 1, 2005; or
+    - **(I)** who was not a member of such government prior to July 1, 2005; or
     - **(ii)** who is a member of the regional Government of Southern Sudan.
 - **(3)** *Comprehensive peace agreement for sudan* The term “Comprehensive Peace Agreement for Sudan” means the peace agreement signed by the Government of Sudan and the Sudan People’s Liberation Movement/Army (SPLM/A) in Nairobi, Kenya, on January 9, 2005.
 
