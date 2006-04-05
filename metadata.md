@@ -1,7 +1,7 @@
 ---
 measure: H.R. 513
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 513
@@ -44,3 +44,15 @@ version: Reported in House
 - 2005-07-22 — Placed on the Union Calendar, Calendar No. 113.
 - 2005-07-22 — Reported (Amended) by the Committee on House Administration. H. Rept. 109-181.
 - 2005-07-22 — Reported (Amended) by the Committee on House Administration. H. Rept. 109-181.
+- 2005-09-22 — Supplemental report filed by the Committee on House Administration, H. Rept. 109-181, Part II.
+- 2005-09-22 — Supplemental report filed by the Committee on House Administration, H. Rept. 109-181, Part II.
+- 2006-04-04 — Rules Committee Resolution H. Res. 755 Reported to House. Rule provides for consideration of H.R. 513 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The bill shall be considered in the House. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. Measure will be considered read.
+- 2006-04-05 — Considered under the provisions of rule H. Res. 755. (consideration: CR H1514-1529; text of measure as reported in House: CR H1514-1516)
+- 2006-04-05 — DEBATE - The House proceeded with one hour of debate on H.R. 513.
+- 2006-04-05 — House amendment offered
+- 2006-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-05 — On passage Passed by the Yeas and Nays: 218 - 209 (Roll no. 88). (text: CR H1516-1518)
+- 2006-04-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 209 (Roll no. 88).(text: CR H1516-1518)
+- 2006-04-05 — Rule H. Res. 755 passed House.
+- 2006-04-05 — Rule provides for consideration of H.R. 513 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The bill shall be considered in the House. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. Measure will be considered read. (consideration: CR H1514-1516)
+- 2006-04-05 — The previous question was ordered pursuant to the rule. (consideration: CR H1528)
