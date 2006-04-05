@@ -1,0 +1,48 @@
+---
+legis-num: S. 2548
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2548
+
+> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to ensure that State and local emergency preparedness operational plans address the needs of individuals with household pets and service animals following a major disaster or emergency.
+
+## § 1. Short title
+
+This Act may be cited as the “Pets Evacuation and Transportation Standards Act of 2006”.
+
+## § 2. Standards for State and local emergency preparedness operational plans
+
+Section 613 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196b) is amended—
+
+- **(1)** by redesignating subsection (g) as subsection (h); and
+- **(2)** by inserting after subsection (f) the following:
+  > - **(g)** *Standards for State and local emergency preparedness operational plans* In approving standards for State and local emergency preparedness operational plans pursuant to subsection (b)(3), the Director shall ensure that such plans take into account the needs of individuals with household pets and service animals prior to, during, and following a major disaster or emergency.
+
+## § 3. Emergency preparedness measures of the Director
+
+Section 611 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196) is amended—
+
+- **(1)** in subsection (e)—
+  - **(A)** in paragraph (2), by striking “and” at the end;
+  - **(B)** in paragraph (3), by striking the period and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(4)** plans that take into account the needs of individuals with pets and service animals prior to, during, and following a major disaster or emergency.
+
+- **(2)** in subsection (j)—
+  - **(A)** by redesignating paragraphs (2) through (8) as paragraphs (3) through (9), respectively; and
+  - **(B)** by inserting after paragraph (1) the following:
+    > - **(2)** The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States and local authorities for animal emergency preparedness purposes, including the procurement, construction, leasing, or renovating of emergency shelter facilities and materials that will accommodate people with pets and service animals.
+
+## § 4. Providing essential assistance to individuals with household pets and service animals following a disaster
+
+Section 403(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b(a)(3)) is amended—
+
+- **(1)** in subparagraph (H), by striking “and” at the end;
+- **(2)** in subparagraph (I), by striking the period and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(J)** provision of rescue, care, shelter, and essential needs—
+  >   - **(i)** to individuals with household pets and service animals; and
+  >   - **(ii)** to such pets and animals.
