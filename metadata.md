@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3127
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3127
@@ -205,3 +205,12 @@ Darfur Peace and Accountability Act of 2006
 - 2006-03-29 — Placed on the Union Calendar, Calendar No. 219.
 - 2006-03-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-392, Part II.
 - 2006-03-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-392, Part II.
+- 2006-04-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-04-05 — Considered as unfinished business. (consideration: CR H1530)
+- 2006-04-05 — Considered under suspension of the rules. (consideration: CR H1461-1475)
+- 2006-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3127.
+- 2006-04-05 — DEBATE EXTENSION - Mr. Lantos asked unanimous consent that debate on H.R. 3127 be extended by 20 minutes equally divided and controlled. Agreed to without objection.
+- 2006-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-05 — Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.
+- 2006-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 90). (text: CR H1461-1463)
+- 2006-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 90).(text: CR H1461-1463)
