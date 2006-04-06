@@ -1,0 +1,299 @@
+---
+measure: H.R. 5122
+congress: 109
+version: Enrolled Bill
+---
+
+# H.R. 5122
+
+John Warner National Defense Authorization Act for Fiscal Year 2007
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Hunter, Duncan [R-CA-52] (H000981)
+
+## Cosponsors (1)
+
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+
+## Committees (1)
+
+- House — Armed Services Committee
+
+## Actions
+
+- 2006-04-06 — Introduced in House
+- 2006-04-06 — Introduced in House
+- 2006-04-06 — Referred to the House Committee on Armed Services.
+- 2006-04-25 — Referred to the Subcommittee on Military Personnel.
+- 2006-04-25 — Referred to the Subcommittee on Projection Forces.
+- 2006-04-25 — Referred to the Subcommittee on Readiness.
+- 2006-04-25 — Referred to the Subcommittee on Strategic Forces.
+- 2006-04-25 — Referred to the Subcommittee on Tactical Air and Land Forces.
+- 2006-04-25 — Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities.
+- 2006-04-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2006-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-04-26 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-04-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-04-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-04-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-05-03 — Committee Consideration and Mark-up Session Held.
+- 2006-05-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 1.
+- 2006-05-05 — Placed on the Union Calendar, Calendar No. 253.
+- 2006-05-05 — Reported (Amended) by the Committee on Armed Services. H. Rept. 109-452.
+- 2006-05-05 — Reported (Amended) by the Committee on Armed Services. H. Rept. 109-452.
+- 2006-05-09 — Rules Committee Resolution H. Res. 806 Reported to House. Rule provides for consideration of H.R. 5122 with 1 hour of general debate. Measure will be considered read. Specified amendments are in order.
+- 2006-05-10 — Amendment (A001) offered by Mr. Hunter. (consideration: CR H2446-2447; text: CR H2446-2447)
+- 2006-05-10 — Amendment (A002) offered by Mr. Andrews. (consideration: CR H2447-2448; text: CR H2447)
+- 2006-05-10 — Amendment (A003) offered by Mr. Andrews. (consideration: CR H2448-2451, H2466-2467; text: CR H2448)
+- 2006-05-10 — Amendment (A005) offered by Mr. Tanner. (consideration: CR H2453; text: CR H2453)
+- 2006-05-10 — Amendment (A006) offered by Mr. Franks (AZ). (consideration: CR H2467-2468; text: CR H2467)
+- 2006-05-10 — Amendment (A007) offered by Mr. Simmons. (consideration: CR H2468-2470; text: CR H2468)
+- 2006-05-10 — Amendment (A008) offered by Mr. Gutknecht. (consideration: CR H2470-2472; text: CR H2470)
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment agreed to Committee of the Whole
+- 2006-05-10 — Amendment failed in Committee of the Whole
+- 2006-05-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 5122 as unfinished business.
+- 2006-05-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 5122 as unfinished business.
+- 2006-05-10 — Considered as unfinished business. (consideration: CR H2466-2472)
+- 2006-05-10 — Considered under the provisions of rule H. Res. 806. (consideration: CR H2360-2366, H2368-2453; text of measure as reported in House: CR H2381-2446)
+- 2006-05-10 — DEBATE - Pursuant to H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Andrews amendment.
+- 2006-05-10 — DEBATE - Pursuant to H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson-Lee amendment.
+- 2006-05-10 — DEBATE - Pursuant to H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Tanner amendment.
+- 2006-05-10 — DEBATE - Pursuant to H. Res. 806, the Committee of the Whole proceeded with 20 minutes of debate on the Andrews amendment.
+- 2006-05-10 — DEBATE - Pursuant to the provisions of H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment.
+- 2006-05-10 — DEBATE - Pursuant to the provisions of H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Gutknecht amendment.
+- 2006-05-10 — DEBATE - Pursuant to the provisions of H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment.
+- 2006-05-10 — DEBATE - Pursuant to the provisions of H. Res. 806, the Committee of the Whole proceeded with 10 minutes of debate on the Simmons amendment.
+- 2006-05-10 — Franks (AZ) amendment (A006) modified by unanimous consent. In the text proposed to be inserted by the amendment, insert "due to operational unobligated balances" before the period at the end.
+- 2006-05-10 — GENERAL DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 2 hours of general debate on H.R. 5122.
+- 2006-05-10 — House amendment agreed to: On agreeing to the Andrews amendment (A002) Agreed to by voice vote.
+- 2006-05-10 — House amendment agreed to: On agreeing to the Franks (AZ) amendment (A006) as modified Agreed to by voice vote.(text as modified: CR H2467)
+- 2006-05-10 — House amendment agreed to: On agreeing to the Gutknecht amendment (A008) Agreed to by voice vote.
+- 2006-05-10 — House amendment agreed to: On agreeing to the Hunter amendment (A001) Agreed to by voice vote.
+- 2006-05-10 — House amendment agreed to: On agreeing to the Simmons amendment Agreed to by voice vote.
+- 2006-05-10 — House amendment agreed to: On agreeing to the Tanner amendment (A005) Agreed to by voice vote.
+- 2006-05-10 — House amendment not agreed to: On agreeing to the Andrews amendment (A003) Failed by recorded vote: 191 - 237 (Roll no. 136).
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered
+- 2006-05-10 — House amendment offered/reported by : Amendment (A001) offered by Mr. Hunter.(consideration: CR H2446-2447; text: CR H2446-2447)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A002) offered by Mr. Andrews.(consideration: CR H2447-2448; text: CR H2447)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A003) offered by Mr. Andrews.(consideration: CR H2448-2451, H2466-2467; text: CR H2448)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A005) offered by Mr. Tanner.(consideration: CR H2453; text: CR H2453)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A006) offered by Mr. Franks (AZ).(consideration: CR H2467-2468; text: CR H2467)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A007) offered by Mr. Simmons.(consideration: CR H2468-2470; text: CR H2468)
+- 2006-05-10 — House amendment offered/reported by : Amendment (A008) offered by Mr. Gutknecht.(consideration: CR H2470-2472; text: CR H2470)
+- 2006-05-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 806 and Rule XVIII.
+- 2006-05-10 — ORDER OF PROCEDURE - Mr. Hunter asked unanimous consent that, during consideration of H.R. 5122 in the Committee of the Whole pursuant to H. Res. 806, general debate shall continue for not to exceed 2 hours. Agreed to without objection.
+- 2006-05-10 — On agreeing to the Andrews amendment (A002) Agreed to by voice vote.
+- 2006-05-10 — On agreeing to the Andrews amendment (A003) Failed by recorded vote: 191 - 237 (Roll no. 136).
+- 2006-05-10 — On agreeing to the Franks (AZ) amendment (A006) as modified Agreed to by voice vote. (text as modified: CR H2467)
+- 2006-05-10 — On agreeing to the Gutknecht amendment (A008) Agreed to by voice vote.
+- 2006-05-10 — On agreeing to the Hunter amendment (A001) Agreed to by voice vote.
+- 2006-05-10 — On agreeing to the Simmons amendment Agreed to by voice vote.
+- 2006-05-10 — On agreeing to the Tanner amendment (A005) Agreed to by voice vote.
+- 2006-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davis (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Davis (CA) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2006-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson-Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Jackson-Lee demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2006-05-10 — Roll call votes on amendments in House
+- 2006-05-10 — Rule H. Res. 806 passed House.
+- 2006-05-10 — Rule provides for consideration of H.R. 5122 with 1 hour of general debate. Measure will be considered read. Specified amendments are in order.
+- 2006-05-10 — Rules Committee Resolution H. Res. 811 Reported to House. Rule provides for consideration of H.R. 5122. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. Rule provides that the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for further consideration of H.R. 5122.
+- 2006-05-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2006-05-10 — The Speaker designated the Honorable Phil Gingrey to act as Chairman of the Committee.
+- 2006-05-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2006-05-11 — Amendment (A011) offered by Mr. Dent. (consideration: CR H2525-2526; text: CR H2525)
+- 2006-05-11 — Amendment (A012) offered by Mr. Goode. (consideration: CR H2526-2528, H2542-2543; text: CR H2526)
+- 2006-05-11 — Amendment (A013) offered by Ms. Millender-McDonald. (consideration: CR H2528-2529; text: CR H2528)
+- 2006-05-11 — Amendment (A014) offered by Mr. Gohmert. (consideration: CR H2529-2530; text: CR H2529)
+- 2006-05-11 — Amendment (A015) offered by Ms. Hooley. (consideration: CR H2530-2531; text: CR H2530)
+- 2006-05-11 — Amendment (A016) offered by Mr. McDermott. (consideration: CR H2531-2532; text: CR H2531)
+- 2006-05-11 — Amendment (A017) offered by Mr. Tierney. (consideration: CR H2532-2537, H2542, H2543-2544; text: CR H2532)
+- 2006-05-11 — Amendment (A018) offered by Mr. Hostettler. (consideration: CR H2537; text: CR H2537)
+- 2006-05-11 — Amendment (A020) offered by Mr. Weldon (PA). (consideration: CR H2540-2541; text: CR H2540)
+- 2006-05-11 — Amendment (A021) offered by Mr. Taylor (MS). (consideration: CR H2541-2542; text: CR H2541)
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment agreed to Committee of the Whole
+- 2006-05-11 — Amendment failed in Committee of the Whole
+- 2006-05-11 — Amendments (A009) offered by Mr. Hunter. (consideration: CR H2519-2522; text: CR H2520-2521)
+- 2006-05-11 — Amendments (A010) offered by Mr. Hunter. (consideration: CR H2522-2525; text: CR H2522-2523)
+- 2006-05-11 — Amendments (A019) offered by Mr. Hunter. (consideration: CR H2537-2540; text: CR H2537-2538)
+- 2006-05-11 — Considered as unfinished business. (consideration: CR H2510-2514, H2519-2551)
+- 2006-05-11 — DEBATE - By unanimous consent, debate on the Hunter amendments en bloc was extended by an additional 8 minutes.
+- 2006-05-11 — DEBATE - By unanimous consent, debate on the Taylor (MS) amendment was extended by 5 additional minutes.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Dent amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Goode amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Hooley amendment, as modified.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Hostettler amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the McDermott amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Taylor (MS) amendment, as modified.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Tierney amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Weldon (PA) amendment.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 20 minutes of debate on the Hunter amendments en bloc.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 20 minutes of debate on the Hunter amendments en bloc.
+- 2006-05-11 — DEBATE - Pursuant to the provisions of H. Res. 811, the Committee of the Whole proceeded with 20 minutes of debate on the Hunter amendments en bloc.
+- 2006-05-11 — DEBATE - Pursuant to the provsions of H. Res. 811, the Committee of the Whole proceeded with 10 minutes of debate on the Millender-McDonald amendment.
+- 2006-05-11 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Salazar motion to recommit with instructions.
+- 2006-05-11 — Hooley amendment (A015) modified by unanimous consent.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Dent amendment (A011) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Gohmert amendment (A014) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Goode amendment (A012) Agreed to by recorded vote: 252 - 171 (Roll no. 141).
+- 2006-05-11 — House amendment agreed to: On agreeing to the Hooley amendment (A015) as modified Agreed to by voice vote.(text as modified: CR H2541)
+- 2006-05-11 — House amendment agreed to: On agreeing to the Hostettler amendment (A018) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Hunter amendments (A009) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Hunter amendments (A010) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Hunter amendments (A019) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Jackson-Lee (TX) amendment (A004) Agreed to by recorded vote: 415 - 9 (Roll no. 143).(consideration: CR H2544; text: CR H2544)
+- 2006-05-11 — House amendment agreed to: On agreeing to the McDermott amendment (A016) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Millender-McDonald amendment (A013) Agreed to by voice vote.
+- 2006-05-11 — House amendment agreed to: On agreeing to the Taylor (MS) amendment (A021) as modified Agreed to by voice vote.(text as modified:  CR H2541)
+- 2006-05-11 — House amendment agreed to: On agreeing to the Weldon (PA) amendment (A020) Agreed to by voice vote.
+- 2006-05-11 — House amendment not agreed to: On agreeing to the Tierney amendment (A017) Failed by recorded vote: 124 - 301 (Roll no. 142).
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered
+- 2006-05-11 — House amendment offered/reported by : Amendment (A011) offered by Mr. Dent.(consideration: CR H2525-2526; text: CR H2525)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A012) offered by Mr. Goode.(consideration: CR H2526-2528, H2542-2543; text: CR H2526)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A013) offered by Ms. Millender-McDonald.(consideration: CR H2528-2529; text: CR H2528)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A014) offered by Mr. Gohmert.(consideration: CR H2529-2530; text: CR H2529)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A016) offered by Mr. McDermott.(consideration: CR H2531-2532; text: CR H2531)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A017) offered by Mr. Tierney.(consideration: CR H2532-2537, H2542, H2543-2544; text: CR H2532)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A018) offered by Mr. Hostettler.(consideration: CR H2537; text: CR H2537)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A020) offered by Mr. Weldon (PA).(consideration: CR H2540-2541; text: CR H2540)
+- 2006-05-11 — House amendment offered/reported by : Amendment (A021) offered by Mr. Taylor (MS).(consideration: CR H2541-2542; text: CR H2541)
+- 2006-05-11 — House amendment offered/reported by : Amendments (A009) offered by Mr. Hunter.(consideration: CR H2519-2522; text: CR H2520-2521)
+- 2006-05-11 — House amendment offered/reported by : Amendments (A010) offered by Mr. Hunter.(consideration: CR H2522-2525; text: CR H2522-2523)
+- 2006-05-11 — House amendment offered/reported by : Amendments (A019) offered by Mr. Hunter.(consideration: CR H2537-2540; text: CR H2537-2538)
+- 2006-05-11 — House amendment offered/reported by: Amendment (A015) offered by Ms. Hooley.(consideration: CR H2530-2531; text: CR H2530)
+- 2006-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-11 — Mr. Salazar moved to recommit with instructions to Armed Services. (consideration: CR H2549-2551; text: CR H2549)
+- 2006-05-11 — ORDER OF PROCEDURE - Mr. Hunter asked unanimous consent that during further consideration of H.R. 5122 in the Committee of the Whole and following consideration of en bloc packages numbered 1 and 2, the following amendments printed in House Report 109-461 may be considered in the following order: Numbers 8, 15, 16, 6, 7, 9, 13, 10, 22, 18, 11, 12, 14, 23, and 21. Agreed to without objection.
+- 2006-05-11 — On agreeing to the Dent amendment (A011) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Gohmert amendment (A014) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Goode amendment (A012) Agreed to by recorded vote: 252 - 171 (Roll no. 141).
+- 2006-05-11 — On agreeing to the Hooley amendment (A015) as modified Agreed to by voice vote. (text as modified: CR H2541)
+- 2006-05-11 — On agreeing to the Hostettler amendment (A018) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Hunter amendments (A009) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Hunter amendments (A010) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Hunter amendments (A019) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Jackson-Lee (TX) amendment (A004) Agreed to by recorded vote: 415 - 9 (Roll no. 143). (consideration: CR H2544; text: CR H2544)
+- 2006-05-11 — On agreeing to the McDermott amendment (A016) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Millender-McDonald amendment (A013) Agreed to by voice vote.
+- 2006-05-11 — On agreeing to the Taylor (MS) amendment (A021) as modified Agreed to by voice vote. (text as modified:  CR H2541)
+- 2006-05-11 — On agreeing to the Tierney amendment (A017) Failed by recorded vote: 124 - 301 (Roll no. 142).
+- 2006-05-11 — On agreeing to the Weldon (PA) amendment (A020) Agreed to by voice vote.
+- 2006-05-11 — On motion to recommit with instructions Failed by recorded vote: 202 - 220 (Roll no. 144).
+- 2006-05-11 — On passage Passed by recorded vote: 396 - 31 (Roll no. 145).
+- 2006-05-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goode amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Reyes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tierney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Tierney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-11 — Passed/agreed to in House: On passage Passed by recorded vote: 396 - 31 (Roll no. 145).
+- 2006-05-11 — Roll call votes on amendments in House
+- 2006-05-11 — Roll call votes on amendments in House
+- 2006-05-11 — Roll call votes on amendments in House
+- 2006-05-11 — Rule H. Res. 811 passed House.
+- 2006-05-11 — Taylor (MS) amendment (A021) modified by unanimous consent. Modification seeks to name the Defense Authorization bill after former Representative G.V. "Sonny" Montgomery.
+- 2006-05-11 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5122.
+- 2006-05-11 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2006-05-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2006-05-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5122.
+- 2006-05-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2550)
+- 2006-05-11 — The previous question was ordered pursuant to the rule. (consideration: CR H2549)
+- 2006-05-11 — The title of the measure was amended. Agreed to without objection.
+- 2006-05-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2006-05-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
+- 2006-06-22 — Measure laid before Senate by unanimous consent. (consideration: CR S6405)
+- 2006-06-22 — Passed Senate with an amendment by Unanimous Consent. (text as passed Senate: CR 6/29/2006 S7069-7169)
+- 2006-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text as passed Senate: CR 6/29/2006 S7069-7169)
+- 2006-06-22 — See also S.2766.
+- 2006-06-22 — Senate insists on its amendment, asks for a conference, appoints conferees Warner; McCain; Inhofe; Roberts; Sessions; Collins; Ensign; Talent; Chambliss; Graham; Dole; Cornyn; Thune; Levin; Kennedy; Byrd; Lieberman; Reed; Akaka; Nelson FL; Nelson NE; Dayton; Bayh; Clinton.
+- 2006-06-22 — Senate struck all after the Enacting Clause and substituted the language of S.2766 amended.
+- 2006-06-29 — Message on Senate action sent to the House.
+- 2006-09-07 — DEBATE - The House proceeded with one hour of debate on the Edwards motion to instruct conferees on H.R. 5122. The instructions contained in the motion seek to require the managers on the part of the House to agree to the provisions contained in sec. 721 of the Senate amendment (relating to treatment of TRICARE retail pharmacy network under Federal procurement of pharmaceuticals).
+- 2006-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-07 — Mr. Edwards moved that the House instruct conferees.
+- 2006-09-07 — Mr. Hefley asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference.
+- 2006-09-07 — Mrs. Drake moved that the House close portions of the conference.
+- 2006-09-07 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H6311)
+- 2006-09-07 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 374 - 30 (Roll no. 434). (consideration: CR H6311-6316, H6337-6338)
+- 2006-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to instruct conferees, the Chair put the question on adoption of the motion and by voice vote, announced that the ayes had prevailed. Mr. Edwards demanded the yeas and nays and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Hunter, Weldon (PA), Hefley, Saxton, McHugh, Everett, Bartlett (MD), Thornberry, Hostettler, Jones (NC), Ryun (KS), Gibbons, Hayes, Calvert, Simmons, Drake, Davis (KY), Skelton, Spratt, Ortiz, Taylor (MS), Abercrombie, Meehan, Reyes, Snyder, Smith (WA), Sanchez, Loretta, Tauscher, Brady (PA), and Andrews.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 571 and 572 of the House bill, and secs. 571, 572, 1081, and 1104 of the Senate amendment, and modifications committed to conference
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 314, 601, 602, 710, 3115, 3117, and 3201 of the House bill, and secs. 332-335, 352, 601, 722, 2842, 3115, and 3201 of the Senate amendment, and modifications committed to conference: Barton (TX), Gillmor, and Dingell.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Government Reform for consideration of secs. 343, 721, 811, 823, 824, 1103, 1104, and 3115 of the House bill, and secs. 371, 619, 806, 823, 922, 1007, 1043, 1054, 1088, 1089, 1101, and 3115 of the Senate amendment, and modifications committed to conference: Davis, Tom, Shays, and Waxman.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of sec. 1026 of the House bill, and sec. 1044 of the Senate amendment, and modifications committed to conference: King (NY), Reichert, and Thompson (MS).
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on International Relations for consideration of secs. 1021-1023, 1201-1204, 1206, Title XIII, secs. 3113 and 3114 of the House bill, and secs. 1014, 1021-1023, 1054, 1092, 1201-1208, 1210, 1214, Title XIII, secs. 3112 and 3113 of the Senate amendment, and modifications committed to conference: Hyde, Leach, and Lantos.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Resources for consideration of secs. 601, 602, and 1036 of the House bill, and sec. 601 of the Senate amendment, and modifications committed to conference: Pombo, Walden (OR), and Grijalva.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Science for consideration of secs. 312 and 911 of the House bill, and secs. 333, 874, and 1082 of the Senate amendment, and modifications committed to conference: Boehlert, Sodrel, and Gordon.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 874 and 1093 of the Senate amendment, and modifications committed to conference: Manzullo, Kelly, and Velazquez.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 312, 551, 601, 602, and 2845 of the House bill, and secs. 333, 584, 601, 1042, 1095, 2842, 2851-2853, and 2855 of the Senate amendment, and modifications committed to conference: Young (AK), LoBiondo, and Oberstar.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 666, 682, 683, 687, 721, and 923 of the Senate amendment, and modifications committed to conference: Buyer, Boozman, and Herseth.
+- 2006-09-07 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of sec. 1021 of the House bill, and secs. 666, 1044, 1086, 1089, 1091, and 1094 of the Senate amendment, and modifications committed to conference: Sensenbrenner, Coble, and Conyers.
+- 2006-09-07 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Hoekstra, LaHood, and Harman.
+- 2006-09-12 — Conference committee actions: Conference held.
+- 2006-09-12 — Conference held.
+- 2006-09-29 — Conferees agreed to file conference report.
+- 2006-09-29 — Conference committee actions: Conferees agreed to file conference report.
+- 2006-09-29 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2006-09-29 — Conference report H. Rept. 109-702 filed. (text of conference report: CR H8061-8540)
+- 2006-09-29 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 398 - 23 (Roll no. 510).
+- 2006-09-29 — Conference report filed: Conference report H. Rept. 109-702 filed.(text of conference report: CR H8061-8540)
+- 2006-09-29 — DEBATE - The House proceeded with one hour of debate on the Conference Report to accompany H.R. 5122.
+- 2006-09-29 — Motions to reconsider laid on the table Agreed to without objection.
+- 2006-09-29 — Mr. Hunter brought up conference report H. Rept. 109-702 for consideration under the provisions of H. Res. 1062.
+- 2006-09-29 — On agreeing to the conference report Agreed to by the Yeas and Nays: 398 - 23 (Roll no. 510).
+- 2006-09-29 — POSTPONED PROCEEDINGS - At the conclusion of the debate on the Conference Report to accompany H.R. 5122, the Chair put the question on adoption of the conference report and by voice vote, announced that the Ayes had prevailed. Mr Hefley demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
+- 2006-09-29 — Rule H. Res. 1062 passed House.
+- 2006-09-29 — Rules Committee Resolution H. Res. 1062 Reported to House. Rule provides for consideration of the conference report to H.R. 5122 with 1 hour of general debate.
+- 2006-09-29 — The House proceeded to consider the conference report H.Rept. 109-702 as unfinished business. (consideration: CR H7976-7989, H7990, H8061-8540)
+- 2006-09-29 — The previous question was ordered without objection.
+- 2006-09-30 — Conference report agreed to in Senate: Senate agreed to conference report by Unanimous Consent.(consideration: CR 9/29/2006 S10805-10810)
+- 2006-09-30 — Senate agreed to conference report by Unanimous Consent. (consideration: CR 9/29/2006 S10805-10810)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-05 — Presented to President.
+- 2006-10-05 — Presented to President.
+- 2006-10-17 — Became Public Law No: 109-364.
+- 2006-10-17 — Became Public Law No: 109-364.
+- 2006-10-17 — Signed by President.
+- 2006-10-17 — Signed by President.
