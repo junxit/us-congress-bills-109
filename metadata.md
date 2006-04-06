@@ -1,0 +1,28 @@
+---
+measure: H.R. 5113
+congress: 109
+version: Introduced in House
+---
+
+# H.R. 5113
+
+Fairness and Accountability in Reorganizations Act of 2006
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2006-04-06 — Introduced in House
+- 2006-04-06 — Introduced in House
+- 2006-04-06 — Referred to the House Committee on the Judiciary.
+- 2006-04-06 — Sponsor introductory remarks on measure. (CR E545)
