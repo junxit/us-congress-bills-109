@@ -2,7 +2,7 @@
 legis-num: H. RES. 764
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 764
@@ -21,6 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas more than 340 firefighters died responding to the terrorist attacks on September 11, 2001;
 - Whereas firefighters respond to more than 24,000,000 calls during an average year;
 - Whereas firefighters also provide emergency medical services and life safety education; and
-- Whereas it is estimated that on April 7, 2005, more than 2,000 firefighters will attend the 17th Annual National Fire and Emergency Services Dinner and Seminars: Now, therefore, be it
+- Whereas it is estimated that on April 6, 2006, more than 2,000 firefighters will attend the 18th Annual National Fire and Emergency Services Dinner and Seminars: Now, therefore, be it
 
 That the House of Representatives honors and recognizes the more than 1,100,000 firefighters in the United States for their contributions to and sacrifice for the Nation.
