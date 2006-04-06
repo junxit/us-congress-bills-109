@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5020
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5020
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2007
 - 2006-03-28 — Introduced in House
 - 2006-03-28 — Introduced in House
 - 2006-03-28 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2006-03-30 — Committee Consideration and Mark-up Session Held.
+- 2006-03-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-04-06 — Placed on the Union Calendar, Calendar No. 225.
+- 2006-04-06 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 109-411.
+- 2006-04-06 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 109-411.
