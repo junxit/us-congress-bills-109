@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4973
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4973
@@ -30,3 +30,6 @@ Flood Insurance Reform and Modernization Act of 2006
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Ordered to be Reported (Amended) by Voice Vote.
 - 2006-03-16 — Referred to the House Committee on Financial Services.
+- 2006-04-06 — Placed on the Union Calendar, Calendar No. 224.
+- 2006-04-06 — Reported by the Committee on Financial Services. H. Rept. 109-410.
+- 2006-04-06 — Reported by the Committee on Financial Services. H. Rept. 109-410.
