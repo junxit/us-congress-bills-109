@@ -1,7 +1,7 @@
 ---
 measure: S. 1970
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1970
@@ -29,3 +29,8 @@ A bill to amend the National Trails System Act to update the feasibility and sui
 
 - 2005-11-07 — Introduced in Senate
 - 2005-11-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-02-16 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-361.
+- 2006-03-08 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 with an amendment in the nature of a substitute. With written report No. 109-239.
+- 2006-04-20 — Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 with an amendment in the nature of a substitute. With written report No. 109-239.
+- 2006-04-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.
