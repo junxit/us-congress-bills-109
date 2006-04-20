@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1288
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,10 +15,11 @@ This Act may be cited as the “Natural Resource Protection Cooperative Agreemen
 
 ## § 2. Cooperative agreements for national park natural resource protection
 
-- **(a)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) may enter into cooperative agreements with State, local, or tribal governments, other public entities, educational institutions, private nonprofit organizations, or willing private landowners to protect natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
+- **(a)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) may enter into cooperative agreements with State, local, or tribal governments, other Federal agencies, other public entities, educational institutions, private nonprofit organizations, or willing private landowners to protect natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
 - **(b)** *Terms and conditions* A cooperative agreement entered into under subsection (a) shall—
   - **(1)** provide for—
     - **(A)** the conservation of natural resources in units of the National Park System;
+    - **(A)** clear and direct benefits to natural resources of a unit of the National Park System;
     - **(B)** the preservation, conservation, and restoration of coastal and riparian systems, watersheds, and wetlands;
     - **(C)** preventing, controlling or eradicating invasive exotic species that occupy land within a unit of the National Park System or adjacent to a unit of the National Park System; or
     - **(D)** restoration of natural resources, including native wildlife habitat;
@@ -32,5 +33,5 @@ This Act may be cited as the “Natural Resource Protection Cooperative Agreemen
   - **(5)** describe any financial assistance to be provided by the Secretary or the partners to implement the agreement;
   - **(6)** ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to support the purposes of natural resource stewardship at a unit of the National Park System; and
   - **(7)** shall include such terms and conditions that are agreed to by the Secretary and the other parties to the agreement.
-- **(c)** *Limitations* The Secretary shall not use any amounts associated with an agreement entered into under subsection (b) for the purposes of land acquisition, regulatory activity, or the development, maintenance, or operation of infrastructure, except for ancillary support facilities that the Secretary determines to be necessary for the completion of projects or activities identified in the agreement.
+- **(c)** *Limitations* The Secretary shall not use any amounts associated with an agreement entered into under subsection (b)(a) for the purposes of land acquisition, regulatory activity, or the development, maintenance, or operation of infrastructure, except for ancillary support facilities that the Secretary determines to be necessary for the completion of projects or activities identified in the agreement.
 - **(d)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act.
