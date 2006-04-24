@@ -1,7 +1,7 @@
 ---
 measure: S. 2197
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2197
@@ -16,7 +16,7 @@ PACE-Energy Act
 
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 
-## Cosponsors (46)
+## Cosponsors (66)
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Alexander, Lamar [R-TN] (A000360)
@@ -64,6 +64,26 @@ PACE-Energy Act
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Frist, William H. [R-TN] (F000439)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Sarbanes, Paul S. [D-MD] (S000064)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Crapo, Mike [R-ID] (C000880)
 
 ## Committees (1)
 
@@ -73,3 +93,8 @@ PACE-Energy Act
 
 - 2006-01-26 — Introduced in Senate
 - 2006-01-26 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S212-214)
+- 2006-02-15 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 109-358.
+- 2006-03-08 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-04-24 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-249.
+- 2006-04-24 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-249.
+- 2006-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.

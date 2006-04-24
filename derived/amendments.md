@@ -1,7 +1,7 @@
 ---
 measure: S. 2197
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,6 +38,16 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after section 3162 the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 3169, by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subsection (d) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3168 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 3162 the following: | the bill names no machine-readable US Code section |
+| — | replace | in section 3169, by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
