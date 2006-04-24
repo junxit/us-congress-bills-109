@@ -16,7 +16,7 @@ This Act may be cited as the “Indian Youth Telemental Health Demonstration Pro
 ## § 2. Findings and purpose
 
 - **(a)** *Findings* Congress finds that—
-  - **(1)** suicide for Indians and Alaska Natives is 2 1/2 times higher than the national average and the highest for all ethnic groups in the United States, at a rate of more than 16 per 100,000 males of all age groups, and 27.9 per 100,000 for males aged 15 through 24, according to data for 2002;
+  - **(1)** suicide for Indians and Alaska Natives is 21/2 times higher than the national average and the highest for all ethnic groups in the United States, at a rate of more than 16 per 100,000 males of all age groups, and 27.9 per 100,000 for males aged 15 through 24, according to data for 2002;
   - **(2)** according to national data for 2002, suicide was the second-leading cause of death for Indians and Alaska Natives aged 15 through 34 and the fourth-leading cause of death for Indians and Alaska Natives aged 10 through 14;
   - **(3)** the suicide rates of Indian and Alaska Native males aged 15 through 24 are nearly 4 times greater than suicide rates of Indian and Alaska Native females of that age group;
   - **(4)**
