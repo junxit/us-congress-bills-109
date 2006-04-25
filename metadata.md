@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4080
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4080
@@ -31,3 +31,11 @@ Glendo Unit of the Missouri River Basin Project Contract Extension Act of 2005
 - 2005-10-19 — Introduced in House
 - 2005-10-19 — Introduced in House
 - 2005-10-19 — Referred to the House Committee on Resources.
+- 2005-10-25 — Referred to the Subcommittee on Water and Power.
+- 2006-02-08 — Subcommittee Hearings Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported by Unanimous Consent.
+- 2006-03-29 — Subcommittee on Water and Power Discharged.
+- 2006-04-25 — Placed on the Union Calendar, Calendar No. 240.
+- 2006-04-25 — Reported by the Committee on Resources. H. Rept. 109-432.
+- 2006-04-25 — Reported by the Committee on Resources. H. Rept. 109-432.
