@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4709
 congress: 109
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `18 U.S.C. § 1038` | insert | Chapter 47 of title 18, United States Code, is amended by inserting after section 1038 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1038` | amend | The table of sections for chapter 47 of title 18, United States Code, is amended by adding after the item relating to section 1038 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
