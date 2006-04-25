@@ -16,12 +16,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas William Rehnquist presided as Chief Justice from September 1986 until September 2005 for a total of 19 years, making him the fourth-longest-serving Chief Justice after Melville W. Fuller, Roger B. Taney, and John Marshall, and the longest-serving Chief Justice who had previously served as an Associate Justice;
 - Whereas Chief Justice Rehnquist ably presided as chief administrator of the United States courts to insure the due administration of justice during times of rising caseloads and fiscal constraints;
 - Whereas Chief Justice Rehnquist was respected for his intellect, fairness, and humor by his fellow Justices and by members of the other branches of government; and
-- Whereas despite the debilitating effects of thyroid cancer, Chief Justice Rehnquist continued his service to the court and the country, and administered the oath of office to President George W. Bush at his second inauguration on January 20, 2005: Now, therefore, it is
+- Whereas despite the debilitating effects of thyroid cancer, Chief Justice Rehnquist continued his service to the court and the country, and administered the oath of office to President George W. Bush at his second inauguration on January 20, 2005: Now, therefore, be it
 
-## § 1. acknowledgment and honor
+## § 1. Acknowledgment and honor
 
 The United States, acting through Congress, authorizes and directs the Curator of the Supreme Court, subject to the direction and approval of the Chief Justice of the United States, to procure a marble bust, including pedestal, of the late Chief Justice William H. Rehnquist, and to cause them to be placed in the Supreme Court building to honor his memory and legacy to the Supreme Court of the United States.
 
-## § 2. authorization of appropriations
+## § 2. Authorization of appropriations
 
 There is authorized to be appropriated $50,000 to carry out this Act.

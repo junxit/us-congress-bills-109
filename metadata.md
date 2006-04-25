@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 83
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 83
@@ -26,3 +26,10 @@ To memorialize and honor the contribution of Chief Justice William H. Rehnquist.
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Referred to the House Committee on Resources.
 - 2006-04-04 — Sponsor introductory remarks on measure. (CR E508-509)
+- 2006-04-06 — Executive Comment Requested from Supreme Court.
+- 2006-04-25 — Considered under suspension of the rules. (consideration: CR H1686-1687)
+- 2006-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 83.
+- 2006-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-25 — Mr. Renzi moved to suspend the rules and pass the resolution.
+- 2006-04-25 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H1686)
+- 2006-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H1686)
