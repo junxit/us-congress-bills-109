@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 776
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 776
+
+> Supporting the observance of a “National Day of the American Cowboy”.
+
+## Preamble
+
+- Whereas pioneering men and women, recognized as cowboys, helped establish the American West;
+- Whereas that cowboy spirit continues to infuse this country with its solid character, sound family values, and good common sense;
+- Whereas the cowboy embodies honesty, integrity, courage, compassion, respect, a strong work ethic, and patriotism;
+- Whereas the cowboy loves, lives off of, and depends on the land and its creatures, and is an excellent steward, protecting and enhancing the environment;
+- Whereas the cowboy continues to play a significant role in the culture and economy of the United States;
+- Whereas approximately 800,000 ranchers are conducting business in all 50 States and are contributing to the economic well being of nearly every county in the Nation;
+- Whereas rodeo is the sixth most-watched sport in the United States;
+- Whereas membership in rodeo and other organizations encompassing the livelihood of a cowboy transcends race and sex and spans every generation;
+- Whereas the cowboy is an American icon;
+- Whereas to recognize the American cowboy is to acknowledge the ongoing commitment of the United States to an esteemed and enduring code of conduct;
+- Whereas the ongoing contributions made by cowboys to their communities should be recognized and encouraged; and
+- Whereas the fourth Saturday in July has been proposed as an annual celebration of the American cowboy: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the observance of a “National Day of the American Cowboy”; and
+- **(2)** encourages the people of the United States to celebrate the day with appropriate ceremonies and activities.
