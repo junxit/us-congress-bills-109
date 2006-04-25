@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4709
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4709
@@ -50,3 +50,11 @@ Telephone Records and Privacy Protection Act of 2006
 - 2006-03-16 — Placed on the Union Calendar, Calendar No. 215.
 - 2006-03-16 — Reported by the Committee on Judiciary. H. Rept. 109-395.
 - 2006-03-16 — Reported by the Committee on Judiciary. H. Rept. 109-395.
+- 2006-04-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-04-25 — Considered as unfinished business. (consideration: CR H1704-1705)
+- 2006-04-25 — Considered under suspension of the rules. (consideration: CR H1690-1694)
+- 2006-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4709.
+- 2006-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-25 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2006-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 101). (text: CR H1690-1691)
+- 2006-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 101).(text: CR H1690-1691)
