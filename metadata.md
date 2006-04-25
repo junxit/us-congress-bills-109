@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4912
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4912
@@ -16,13 +16,14 @@ Rural Health Care Capital Access Act of 2006
 
 - Rep. Ney, Robert W. [R-OH-18] (N000081)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Davis, Artur [D-AL-7] (D000602)
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
 ## Committees (1)
 
@@ -33,3 +34,8 @@ Rural Health Care Capital Access Act of 2006
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Referred to the House Committee on Financial Services.
+- 2006-03-15 — Committee Consideration and Mark-up Session Held.
+- 2006-03-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-04-25 — Placed on the Union Calendar, Calendar No. 233.
+- 2006-04-25 — Reported by the Committee on Financial Services. H. Rept. 109-424.
+- 2006-04-25 — Reported by the Committee on Financial Services. H. Rept. 109-424.
