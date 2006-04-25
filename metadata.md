@@ -1,7 +1,7 @@
 ---
 measure: H.R. 374
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 374
@@ -25,3 +25,8 @@ To direct the Secretary of the Interior to take certain tribally-owned reservati
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Resources.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2006-04-25 — Placed on the Union Calendar, Calendar No. 231.
+- 2006-04-25 — Reported (Amended) by the Committee on Resources. H. Rept. 109-422.
+- 2006-04-25 — Reported (Amended) by the Committee on Resources. H. Rept. 109-422.

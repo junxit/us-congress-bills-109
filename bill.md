@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 374
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,24 +9,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Secretary of the Interior to take certain tribally-owned reservation land into trust for the Puyallup Tribe.
 
-## § 1. Findings
+## § 1. Puyallup Indian Tribe land claims settlement
 
-Congress finds as follows:
-
-- **(1)** Congress supports the goals of Indian self-determination and economic development.
-- **(2)** Congress supports the efforts of Indian tribes to promote their economic development efforts, wherever possible, in cooperation with State and local governments and others.
-- **(3)** The Puyallup tribe, a signatory to the 1854 Treaty of Medicine Creek, has a reservation in Washington State.
-- **(4)** The Puyallup tribe, which operates gaming facilities pursuant to a compact with the State of Washington, is a significant source of jobs in the area of Tacoma, Washington.
-- **(5)** The Port of Tacoma is an independent, municipal corporation that operates under State enabling legislation.
-- **(6)** The Port of Tacoma is also a significant source of jobs in the area of Tacoma, Washington.
-- **(7)** The Port of Tacoma is in the process of expanding its operations to provide greater economic opportunities for the City of Tacoma, Pierce County, and the State of Washington.
-- **(8)** The Port of Tacoma’s expansion requires the closure of the primary access road for one of the Puyallup tribe’s gaming operations. Without this access road, the Puyallup tribe’s gaming facility will no longer be economically viable at its current location. To avoid economic dislocation, including for the employees of the current facility, the Puyallup tribe has identified land on the Puyallup Reservation that would provide a suitable substitute location for its gaming facility.
-- **(9)** The Puyallup tribe, as a result of the Port of Tacoma’s road closure, seeks to have certain land taken into trust within its reservation.
-- **(10)** The Puyallup tribe has worked closely and cooperatively with all affected entities, and the State of Washington, Pierce County, the City of Tacoma, the City of Fife, and the Port of Tacoma all support the Puyallup tribe in connection with this trust land acquisition.
-
-## § 2. Trust land acquisition
-
-The Secretary shall accept the conveyance of and take into trust for the benefit of the Puyallup Tribe the following land located within the Puyallup Reservation:
-
-- **(1)** Approximately 10.5 acres in Fife, Washington, consisting of the following parcels:
-- **(2)** An area of up to approximately 20 acres located within the Puyallup Indian Reservation in Tacoma, Washington, and abutting other trust land of the Puyallup tribe consisting of the following parcels:
+- **(a)** *In General* The Secretary of the Interior shall—
+  - **(1)** accept the conveyance of the parcels of land within the Puyallup Reservation described in subsection (b); and
+  - **(2)** hold the land in trust for the benefit of the Puyallup Indian tribe.
+- **(b)** *Land Description* The parcels of land referred to in subsection (a) are as follows:
+  - **(1)** *Parcel A* Lot B, boundary line adjustment 9508150496, as depicted on the map dated August 15, 1995, held in the records of the Pierce County Auditor, situated in the city of Fife, county of Pierce, State of Washington.
+  - **(2)** *Parcel B*
+    - **(A)** *In general* Parcel B shall be comprised of land situated in the city of Fife, county of Pierce, State of Washington, more particularly described as follows:
+      - **(i)** Lots 3 and 4, Pierce County Short Plat No. 8908020412, as depicted on the map dated August 2, 1989, held in the records of the Pierce County Auditor, together with portion of SR 5 abutting lot 4, conveyed by the deed recorded under Recording No. 9309070433, described as follows:
+        - **(I)** That portion of Government lot 1, sec. 07, T. 20 N., R. 4 E., of the Willamette Meridian, described as commencing at Highway Engineer’s Station AL 26 6+38.0 P.O.T. on the AL26 line survey of SR 5, Tacoma to King County line.
+        - **(II)** Thence S88°54′30" E., along the north line of said lot 1 a distance of 95 feet to the true point of beginning.
+        - **(III)** Thence S01°05′30" W87.4′ feet.
+        - **(IV)** Thence westerly to a point opposite Highway Engineer’s Station AL26 5+50.6 P.O.T. on said AL26 line survey and 75 feet easterly therefrom.
+        - **(V)** Thence northwesterly to a point opposite AL26 5+80.6 on said AL26 line survey and 55 feet easterly therefrom.
+        - **(VI)** Thence northerly parallel with said line survey to the north line of said lot 1.
+        - **(VII)** Thence N88°54′30" E., to the true point of beginning.
+      - **(ii)** Chicago Title Insurance Company Order No. 4293514 lot A boundary line adjustment recorded under Recording No. 9508150496, as depicted on the map dated August 15, 1995, held in the records of the Pierce County Auditor.
+    - **(B)** *Exclusion* Excluded from Parcel B shall be that portion of lot 4 conveyed to the State of Washington by deed recorded under recording number 9308100165 and more particularly described as follows:
+      - **(i)** Commencing at the northeast corner of said lot 4.
+      - **(ii)** Thence N89°53′30" W., along the north line of said lot 4 a distance of 147.44 feet to the true point of beginning and a point of curvature.
+      - **(iii)** Thence southwesterly along a curve to the left, the center of which bears S0°06′30" W., 55.00 feet distance, through a central angle of 89°01′00", an arc distance of 85.45 feet.
+      - **(iv)** Thence S01°05′30" W., 59.43 feet.
+      - **(v)** Thence N88°54′30" W., 20.00 feet to a point on the westerly line of said lot 4.
+      - **(vi)** Thence N0°57′10" E., along said westerly line 113.15 feet to the northwest corner of said lot 4.
+      - **(vii)** Thence S89°53′30" east along said north line, a distance of 74.34 feet to the true point of beginning.
+  - **(3)** *Additional lots* Any lots acquired by the Puyallup Indian tribe located in block 7846, 7850, 7945, 7946, 7949, 7950, 8045, or 8049 in the Indian Addition to the city of Tacoma, State of Washington.
