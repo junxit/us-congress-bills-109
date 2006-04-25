@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2341
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2341
@@ -25,3 +25,12 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2005-05-12 — Introduced in House
 - 2005-05-12 — Introduced in House
 - 2005-05-12 — Referred to the House Committee on Resources.
+- 2005-05-17 — Executive Comment Requested from Interior.
+- 2005-05-17 — Referred to the Subcommittee on Water and Power.
+- 2005-10-06 — Subcommittee Hearings Held.
+- 2006-04-25 — Considered under suspension of the rules. (consideration: CR H1689-1690)
+- 2006-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2341.
+- 2006-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-25 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
+- 2006-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1689)
+- 2006-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1689)
