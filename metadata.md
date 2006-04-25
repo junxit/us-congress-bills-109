@@ -1,7 +1,7 @@
 ---
 measure: H.R. 122
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 122
@@ -30,3 +30,11 @@ Eastern Municipal Water District Recycled Water System Pressurization and Expans
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Referred to the House Committee on Resources.
+- 2005-02-03 — Referred to the Subcommittee on Water and Power.
+- 2005-10-06 — Subcommittee Hearings Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2006-03-29 — Subcommittee on Water and Power Discharged.
+- 2006-04-25 — Placed on the Union Calendar, Calendar No. 232.
+- 2006-04-25 — Reported (Amended) by the Committee on Resources. H. Rept. 109-423.
+- 2006-04-25 — Reported (Amended) by the Committee on Resources. H. Rept. 109-423.
