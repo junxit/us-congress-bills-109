@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2978
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2978
@@ -25,3 +25,12 @@ To allow the Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation to
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Referred to the House Committee on Resources.
+- 2005-06-28 — Executive Comment Requested from Interior.
+- 2005-06-28 — Referred to the Subcommittee on Water and Power.
+- 2005-12-07 — Subcommittee Hearings Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported by Unanimous Consent.
+- 2006-03-29 — Subcommittee on Water and Power Discharged.
+- 2006-04-25 — Placed on the Union Calendar, Calendar No. 228.
+- 2006-04-25 — Reported by the Committee on Resources. H. Rept. 109-419.
+- 2006-04-25 — Reported by the Committee on Resources. H. Rept. 109-419.
