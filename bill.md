@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 282
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -14,3 +14,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 This Act may be cited as the “Iran Freedom Support Act”.
 
 ## § 2. Table of contents
+
+The table of contents for this Act is as follows:
