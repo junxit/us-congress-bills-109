@@ -37,7 +37,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas since the promulgation of the Regulations on Religious Affairs, the Government of China has stepped up its efforts to eliminate unregistered religious activity, with raids on “house church” Christian groups in several provinces, resulting in detention of hundreds of leaders of the house church, dozens of whom remain in custody; and
 - Whereas the Government of China has, on several occasions, stated a commitment to ratify the International Covenant on Civil and Political Rights, but has delayed ratification since signing the document in 1998: Now, therefore, be it
 
-That —
+That—
 
 - **(1)** Congress—
   - **(A)** commends “rights defense” lawyers and activists of China for their courage and integrity, and expresses moral support for this grass-roots “rights defense” movement in China;
