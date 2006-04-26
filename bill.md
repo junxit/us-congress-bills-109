@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3496
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,7 +31,7 @@ The National Capital Transportation Act of 1969 (sec. 9–1111.01 et seq., D.C. 
 > - **(d)** *Amendments to Compact* No amounts may be provided to the Transit Authority pursuant to the authorization under this section until the Transit Authority notifies the Secretary of Transportation that each of the following amendments to the Compact (and any further amendments which may be required to implement such amendments) have taken effect:
 >   - **(1)** An amendment requiring all payments made by the local signatory governments for the Transit Authority and for the cost of operating and maintaining the adopted regional system are made from amounts derived from dedicated funding sources. For purposes of this paragraph, a “dedicated funding source” is any source of funding which is earmarked and required under State or local law to be used for payments to the Transit Authority.
 >   - **(2)** An amendment establishing the Office of the Inspector General of the Transit Authority in accordance with section 3 of the National Capital Transportation Amendments Act of 2005.
->   - **(3)** An amendment expanding the Board of Directors of the Transit Authority to include two additional Directors appointed by the Administrator of General Services, one of whom shall be nonvoting.
+>   - **(3)** An amendment expanding the Board of Directors of the Transit Authority to include 4 additional Directors appointed by the Administrator of General Services, of whom 2 shall be nonvoting and 2 shall be voting, and requiring one of the voting members so appointed to be a regular passenger and customer of the bus or rail service of the Transit Authority.
 > - **(e)** *Amount* There are authorized to be appropriated to the Secretary of Transportation for grants under this section an aggregate amount not to exceed $1,500,000,000 to be available in increments over 10 fiscal years beginning in fiscal year 2007, or until expended.
 > - **(f)** *Availability* Amounts appropriated pursuant to the authorization under this section—
 >   - **(1)** shall remain available until expended; and
@@ -51,7 +51,7 @@ The National Capital Transportation Act of 1969 (sec. 9–1111.01 et seq., D.C. 
   - **(2)** *Conducting annual audit of financial statements* The Inspector General shall be responsible for conducting the annual audit of the financial accounts of the Transit Authority, either directly or by contract with an independent external auditor selected by the Inspector General.
   - **(3)** *Reports*
     - **(A)** *Semiannual reports to Transit Authority* The Inspector General shall prepare and submit semiannual reports summarizing the activities of the Office in the same manner, and in accordance with the same deadlines, terms, and conditions, as an Inspector General of an establishment under section 5 of the Inspector General Act of 1978 (5 U.S.C. App. 5). For purposes of applying section 5 of such Act to the Inspector General, the Board of Directors of the Transit Authority shall be considered the head of the establishment, except that the Inspector General shall transmit to the General Manager of the Transit Authority a copy of any report submitted to the Board pursuant to this paragraph.
-    - **(B)** *Annual reports to local signatory governments and Congress* Not later than March 31 of each year, the Inspector General shall prepare and submit a report summarizing the activities of the Office during the previous year, and shall submit such reports to the Governor of Maryland, the Governor of Virginia, the Mayor of the District of Columbia, the chair of the Committee on Government Reform of the House of Representatives, and the chair of the Committee on Homeland Security and Governmental Affairs of the Senate.
+    - **(B)** *Annual reports to local signatory governments and Congress* Not later than January 15 of each year, the Inspector General shall prepare and submit a report summarizing the activities of the Office during the previous year, and shall submit such reports to the Governor of Maryland, the Governor of Virginia, the Mayor of the District of Columbia, the chair of the Committee on Government Reform of the House of Representatives, and the chair of the Committee on Homeland Security and Governmental Affairs of the Senate.
   - **(4)** *Investigations of complaints of employees and members*
     - **(A)** *Authority* The Inspector General may receive and investigate complaints or information from an employee or member of the Transit Authority concerning the possible existence of an activity constituting a violation of law, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety.
     - **(B)** *Nondisclosure* The Inspector General shall not, after receipt of a complaint or information from an employee or member, disclose the identity of the employee or member without the consent of the employee or member, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
@@ -72,7 +72,9 @@ The National Capital Transportation Act of 1969 (sec. 9–1111.01 et seq., D.C. 
 ## § 4. Restrictions on Disposition of Certain Properties
 
 - **(a)** *Prohibition on Disposition of Certain Property*
-  - **(1)** *In general* The Washington Metropolitan Area Transit Authority (hereafter in this section referred to as the “Transit Authority”) may not sell, lease, or otherwise convey or dispose of the property described in paragraph (2).
+  - **(1)** *In general* The Washington Metropolitan Area Transit Authority (hereafter in this section referred to as the “Transit Authority”) may not sell, lease, or otherwise convey or dispose of the property described in paragraph (2) unless the Transit Authority meets each of the following conditions:
+    - **(A)** The Transit Authority has held a separate, additional public hearing after October 20, 2005, regarding the disposition of the property at which members of the general public had the opportunity to comment.
+    - **(B)** The Transit Authority has submitted a report to the Committee on Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the costs and benefits associated with the disposition of the property, the impact of the disposition on parking facilities available at the Vienna Metrorail station, and the effect of the disposition on the capacity of the Vienna Metrorail station and the entire Metrorail system.
   - **(2)** *Property Described* The property described in this subsection consists of approximately 3.75 acres located in Fairfax County, Virginia, and is contained in all or part of the following parcels on the Fairfax County tax map:
     - **(A)** Parcel 48—1((1)), 90 Portion.
     - **(B)** Parcel 48—1((1)), 91B Portion.
@@ -81,10 +83,11 @@ The National Capital Transportation Act of 1969 (sec. 9–1111.01 et seq., D.C. 
     - **(E)** Parcel 48—1((24)), 38A.
 - **(b)** *Conditions For Disposition of Certain Property*
   - **(1)** *In general* The Transit Authority may not sell, lease, or otherwise convey or dispose of the property described in paragraph (2) unless the Transit Authority meets each of the following conditions:
-    - **(A)** The Transit Authority has met with the Mayor and members of the Council of the City of Takoma Park, Maryland, and community representatives designated by the Mayor to discuss concerns related to the disposition of such property.
-    - **(B)** The Transit Authority has presented a development plan for the property which—
-      - **(i)** facilitates the movement of buses and other vehicular traffic, pedestrians, and bicycles to and from the Takoma Metrorail station, and provides sufficient bus bays so that the development of the property will not cause a direct increase in traffic, congestion, or pollution in neighborhoods surrounding the station; and
-      - **(ii)** preserves and enhances public green space on the property.
+    - **(A)** The Transit Authority has met with the Mayor and members of the Council of the City of Takoma Park, Maryland, and community representatives to discuss each of the following issues related to the disposition of such property:
+      - **(i)** The movement of buses and other vehicles, pedestrians, and bicycles to and from the Takoma Park Metrorail station.
+      - **(ii)** The provision of bus bays, based on recommendations of the Transit Authority and the Maryland Transit Administration’s Ride-On program.
+      - **(iii)** The enhancement of public green space on the property, based on the Central District Plan for Takoma DC.
+    - **(B)** The Transit Authority will work with residents and elected officials of Takoma Park, Maryland, and the Takoma area of the District of Columbia throughout the planning phase of the development of such property.
     - **(C)** The Transit Authority has submitted a statement to the Committee on Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate certifying that the Transit Authority has met the conditions described in subparagraphs (A) and (B).
   - **(2)** *Property described* The property described in this paragraph consists of Lots 820, 821, 822, 823, 829, 831, 832, 833, 839, 840, 841, 845, 846, 847, 848, 849, 850, and 851 in Square 3352 and Lots 811, 812, and 813 in Square 3353 of the District of Columbia Real Property Assessment Database.
 - **(c)** *Restrictions on Development of Certain Properties*
