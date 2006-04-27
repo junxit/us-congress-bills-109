@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 349
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 349
@@ -46,3 +46,8 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2006-04-25 — Placed on the House Calendar, Calendar No. 165.
 - 2006-04-25 — Reported by the Committee on Transportation. H. Rept. 109-416.
 - 2006-04-25 — Reported by the Committee on Transportation. H. Rept. 109-416.
+- 2006-04-27 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.
+- 2006-04-27 — Considered as unfinished business. (consideration: CR H1877)
+- 2006-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-04-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 4/25/2006 H1696-1697)
+- 2006-04-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 4/25/2006 H1696-1697)
