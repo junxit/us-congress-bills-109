@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4686
@@ -29,3 +29,12 @@ Multi-State and International Fisheries Conservation and Management Act of 2006
 - 2006-02-01 — Introduced in House
 - 2006-02-01 — Introduced in House
 - 2006-02-01 — Referred to the House Committee on Resources.
+- 2006-02-06 — Executive Comment Requested from Commerce.
+- 2006-02-06 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2006-02-16 — Subcommittee Hearings Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2006-03-29 — Subcommittee on Fisheries and Oceans Discharged.
+- 2006-04-27 — Placed on the Union Calendar, Calendar No. 248.
+- 2006-04-27 — Reported (Amended) by the Committee on Resources. H. Rept. 109-444.
+- 2006-04-27 — Reported (Amended) by the Committee on Resources. H. Rept. 109-444.

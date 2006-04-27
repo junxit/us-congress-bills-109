@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+11 amendatory instructions. 4 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,30 @@ to guess them.
 
 ### 16 U.S.C. § 4107
 
-> in subsection (c) by striking “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” and inserting “$1,050,000 for each of fiscal years 2007 and 2008, $1,200,000 for each of fiscal years 2009 and 2010, and $1,350,000 for each of fiscal years 2011 and 2012”.
+> in subsection (c) by striking “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” and inserting “$900,000 for each of fiscal years 2007 through 2012”.
 
 | | |
 |---|---|
 | Removed | `$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006` |
-| Inserted | `$1,050,000 for each of fiscal years 2007 and 2008, $1,200,000 for each of fiscal years 2009 and 2010, and $1,350,000 for each of fiscal years 2011 and 2012` |
+| Inserted | `$900,000 for each of fiscal years 2007 through 2012` |
 
 ### 16 U.S.C. § 1856
 
-> in subsection (i) by striking “2006” and inserting “2012”;
+> in subsection (i) by striking “2006” and inserting “2016”;
 
 | | |
 |---|---|
 | Removed | `2006` |
-| Inserted | `2012` |
+| Inserted | `2016` |
+
+### 16 U.S.C. § 1856
+
+> by striking “health” and inserting “status”; and
+
+| | |
+|---|---|
+| Removed | `health` |
+| Inserted | `status` |
 
 ### 16 U.S.C. § 5610
 
@@ -62,6 +71,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 4107` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 757d` | amend | Section 4 of the Anadromous Fish Conservation Act (16 U.S.C. 757d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1856` | insert | in subsection (j) by inserting “Report.—” after “(j)”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1856` | insert | by inserting “Report.—” after “(j)”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1856` | replace | by striking “California.” and inserting | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1856` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 971h` | replace | Section 10 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971h) is amended by striking so much as precedes subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 971a` | add-at-end | Section 3 of such Act (16 U.S.C. 971a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
