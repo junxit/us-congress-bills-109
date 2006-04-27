@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 412
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 412
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that public servants should be c
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -25,6 +25,8 @@ A resolution expressing the sense of the Senate that public servants should be c
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ A resolution expressing the sense of the Senate that public servants should be c
 - 2006-03-29 — Introduced in Senate
 - 2006-03-29 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2537)
 - 2006-03-29 — Sponsor introductory remarks on measure. (CR S2537-2538)
+- 2006-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3760-3761; text as passed Senate: CR S3760-3761)
+- 2006-04-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3760-3761; text as passed Senate: CR S3760-3761)
+- 2006-04-27 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2006-04-27 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
