@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 415
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 415
@@ -24,3 +24,7 @@ A resolution expressing the continuing support of the Senate to the Junior Reser
 
 - 2006-03-30 — Introduced in Senate
 - 2006-03-30 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S2612)
+- 2006-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2006-05-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2006-05-01 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S3848; text as passed Senate: CR S3848)
+- 2006-05-01 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S3848; text as passed Senate: CR S3848)
