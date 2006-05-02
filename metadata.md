@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4674
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4674
@@ -32,3 +32,11 @@ To designate the facility of the United States Postal Service located at 110 Nor
 - 2006-01-31 — Introduced in House
 - 2006-01-31 — Referred to the House Committee on Government Reform.
 - 2006-01-31 — Sponsor introductory remarks on measure. (CR E28)
+- 2006-03-09 — Committee Consideration and Mark-up Session Held.
+- 2006-03-09 — Ordered to be Reported by Unanimous Consent.
+- 2006-05-02 — Considered under suspension of the rules. (consideration: CR H1930-1931)
+- 2006-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4674.
+- 2006-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-02 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2006-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1930)
+- 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1930)

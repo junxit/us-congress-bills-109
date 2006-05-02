@@ -9,7 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To designate the facility of the United States Postal Service located at 110 North Chestnut Street in Olathe, Kansas, as the “Governor John Anderson, Jr. Post Office Building”.
 
-## § 1. Governor John Anderson, Jr. Post Office Building
+## § 1. Designation
 
-- **(a)** *Designation* The facility of the United States Postal Service located at 110 North Chestnut Street in Olathe, Kansas, shall be known and designated as the “Governor John Anderson, Jr. Post Office Building”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Governor John Anderson, Jr. Post Office Building”.
+The facility of the United States Postal Service located at 110 North Chestnut Street in Olathe, Kansas, shall be known and designated as the “Governor John Anderson, Jr. Post Office Building”.
+
+## § 2. References
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in section 1 shall be deemed to be a reference to the “Governor John Anderson, Jr. Post Office Building”.
