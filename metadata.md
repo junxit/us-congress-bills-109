@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 392
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 392
@@ -16,7 +16,7 @@ Recognizing the 58th anniversary of the independence of the State of Israel.
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Cosponsors (86)
+## Cosponsors (102)
 
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
@@ -104,6 +104,22 @@ Recognizing the 58th anniversary of the independence of the State of Israel.
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
 
 ## Committees (1)
 
@@ -114,3 +130,11 @@ Recognizing the 58th anniversary of the independence of the State of Israel.
 - 2006-04-26 — Introduced in House
 - 2006-04-26 — Introduced in House
 - 2006-04-26 — Referred to the House Committee on International Relations.
+- 2006-05-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-05-02 — Considered as unfinished business. (consideration: CR H1950)
+- 2006-05-02 — Considered under suspension of the rules. (consideration: CR H1941-1944)
+- 2006-05-02 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 392.
+- 2006-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-02 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.
+- 2006-05-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 112). (text: CR H1941)
+- 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 112).(text: CR H1941)
