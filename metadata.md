@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4674
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4674
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 110 Nor
 - Rep. Ryun, Jim [R-KS-2] (R000566)
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,15 @@ To designate the facility of the United States Postal Service located at 110 Nor
 - 2006-05-02 — Ms. Foxx moved to suspend the rules and pass the bill.
 - 2006-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1930)
 - 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1930)
+- 2006-05-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-05 — Presented to President.
+- 2006-10-05 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-328.
+- 2006-10-12 — Became Public Law No: 109-328.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
