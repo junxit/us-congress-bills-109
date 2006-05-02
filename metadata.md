@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2720
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2720
@@ -54,3 +54,9 @@ Salt Cedar and Russian Olive Control Demonstration Act
 - 2005-12-13 — Placed on the Union Calendar, Calendar No. 190.
 - 2005-12-13 — Reported by the Committee on Resources. H. Rept. 109-341, Part I.
 - 2005-12-13 — Reported by the Committee on Resources. H. Rept. 109-341, Part I.
+- 2006-05-02 — Considered under suspension of the rules. (consideration: CR H1936-1938)
+- 2006-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2720.
+- 2006-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-02 — Mr. Pearce moved to suspend the rules and pass the bill.
+- 2006-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1936-1937)
+- 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1936-1937)

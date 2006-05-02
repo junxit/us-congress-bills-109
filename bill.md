@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2720
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -84,7 +84,7 @@ This Act may be cited as the “Salt Cedar and Russian Olive Control Demonstrati
   - **(3)** the demonstration projects under subsection (e); and
   - **(4)** the analysis under subsection (f).
 - **(j)** *Reporting*
-  - **(1)** *In general* The Secretary shall submit to Congress an annual report that describes the results of carrying out this Act, including a synopsis of any independent review under subsection (i) and details of the manner and purposes for which funds are expended.
+  - **(1)** *In general* The Secretary shall submit to Congress an annual report that describes the results of carrying out this Act, including a synopsis of any independent review under subsection (I) and details of the manner and purposes for which funds are expended.
   - **(2)** *Public access* The Secretary shall facilitate public access to all information that results from carrying out this Act.
 - **(k)** *Authorization of appropriations*
   - **(1)** *In general* There are authorized to be appropriated to carry out this Act—
