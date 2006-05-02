@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2720
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2720
@@ -90,5 +90,5 @@ This Act may be cited as the “Salt Cedar and Russian Olive Control Demonstrati
   - **(1)** *In general* There are authorized to be appropriated to carry out this Act—
     - **(A)** $20,000,000 for fiscal year 2006; and
     - **(B)** $15,000,000 for each of fiscal years 2007 through 2010.
-  - **(2)** *Administrative costs* Not more 15 percent of amounts made available under paragraph (1) shall be used to pay the administrative costs of carrying out the program established under subsection (a).
+  - **(2)** *Administrative costs* Not more than 15 percent of amounts made available under paragraph (1) shall be used to pay the administrative costs of carrying out the program established under subsection (a).
 - **(l)** *Termination of authority* This Act and the authority provided by this Act terminate on the date that is 5 years after the date of the enactment of this Act.
