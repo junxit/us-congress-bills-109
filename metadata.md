@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3929
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3929
@@ -45,3 +45,9 @@ Dana Point Desalination Project Authorization Act
 - 2005-12-12 — Placed on the Union Calendar, Calendar No. 185.
 - 2005-12-12 — Reported (Amended) by the Committee on Resources. H. Rept. 109-335, Part I.
 - 2005-12-12 — Reported (Amended) by the Committee on Resources. H. Rept. 109-335, Part I.
+- 2006-05-02 — Considered under suspension of the rules. (consideration: CR H1938-1939)
+- 2006-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3929.
+- 2006-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-02 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2006-05-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1938)
+- 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1938)
