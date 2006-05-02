@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5107
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5107
@@ -52,3 +52,9 @@ To designate the facility of the United States Postal Service located at 1400 We
 - 2006-04-05 — Introduced in House
 - 2006-04-05 — Introduced in House
 - 2006-04-05 — Referred to the House Committee on Government Reform.
+- 2006-05-02 — Considered under suspension of the rules. (consideration: CR H1927-1928)
+- 2006-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5107.
+- 2006-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-02 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2006-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1927)
+- 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1927)
