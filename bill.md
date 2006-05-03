@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1773
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -91,7 +91,7 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
   - **(1)** for the Settlement Area Land and Water System Land, the consideration agreed upon in the Settlement Agreement; and
   - **(2)** for the Los Alamos Townsite Land, the current market value based on an appraisal approved by the Forest Service as being in conformity with the latest edition of the Uniform Appraisal Standards for Federal Land Acquisitions.
 - **(c)** *Disposition of receipts*
-  - **(1)** *In general* All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this Act, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State of New Mexico.
+  - **(1)** *In general* All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this Act, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State of New Mexico, and for associated administrative costs.
   - **(2)** *Use of funds* Funds deposited in a Sisk Act fund pursuant to this Act shall not be subject to transfer or reprogramming for wildlands fire management or any other emergency purposes, or used to reimburse any other account.
   - **(3)** *Acquisitions of land* In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 12(b)(2)(A), the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
 - **(d)** *Valid existing rights and reservations*
@@ -214,7 +214,7 @@ Subject to valid existing rights, the land referenced in the notices of withdraw
 
 ## § 14. Distribution of funds plan
 
--  Not later than 2 years after the date of enactment of this Act, the Secretary of the Interior shall act in accordance with the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.) with respect to the award entered in the compromise and settlement of claims under the case styled Pueblo of San Ildefonso v. United States, No. 660–87L, United States Court of Federal Claims.
+Not later than 2 years after the date of enactment of this Act, the Secretary of the Interior shall act in accordance with the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.) with respect to the award entered in the compromise and settlement of claims under the case styled Pueblo of San Ildefonso v. United States, No. 660–87L, United States Court of Federal Claims.
 
 ## § 15. Rule of construction and judicial review
 
@@ -222,12 +222,12 @@ Notwithstanding any provision of State law, the Settlement Agreement and the Los
 
 ## § 16. Effective date
 
--  This Act shall take effect on the date of enactment of this Act.
+This Act shall take effect on the date of enactment of this Act.
 
 ## § 17. Timing of actions
 
-It is the intent of Congress that the land conveyances and adjustments contemplated in this Act shall be completed not later than 180 days after the date of enactment of this Act.
+It is the intent of Congress that the land conveyances and adjustments contemplated in this Act (except the conveyances and adjustments relating to Los Alamos Townsite Land) shall be completed not later than 180 days after the date of enactment of this Act.
 
 ## § 18. Authorization of appropriations
 
--  There are authorized to be appropriated such funds as are necessary to carry out this Act.
+There are authorized to be appropriated such funds as are necessary to carry out this Act.
