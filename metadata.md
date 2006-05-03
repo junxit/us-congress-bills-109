@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 99
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 99
@@ -16,7 +16,7 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
-## Cosponsors (102)
+## Cosponsors (123)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -120,6 +120,27 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Jenkins, William L. [R-TN-1] (J000082)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
 
 ## Committees (1)
 
@@ -130,3 +151,10 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 - 2005-03-15 — Introduced in House
 - 2005-03-15 — Introduced in House
 - 2005-03-15 — Referred to the House Committee on Energy and Commerce.
+- 2005-03-22 — Referred to the Subcommittee on Health.
+- 2006-05-03 — Considered under suspension of the rules. (consideration: CR H2007-2009)
+- 2006-05-03 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 99.
+- 2006-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-03 — Mr. Deal (GA) moved to suspend the rules and agree to the resolution.
+- 2006-05-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2008)
+- 2006-05-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2008)
