@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 245
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 245
@@ -21,7 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas nurses bear the primary responsibility for the care and well-being of hospital patients;
 - Whereas unfortunately, too few nurses are caring for too many patients in our Nation’s hospitals;
 - Whereas according to a report from the Department of Health and Human Services, the United States currently has a nurse shortage of nearly 150,000 RNs and will have a shortage of more than 800,000 RNs by the year 2020;
-- Whereas nursing salaries are inadequate as compared to other professions and the profession is lacking incentives for new recruits;
 - Whereas cutting-edge technologies are useless without a staff of trained professionals to implement them; and
 - Whereas nurses are the unsung heroines and heroes of the medical profession: Now, therefore, be it
 
