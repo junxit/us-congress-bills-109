@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 752
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 752
@@ -16,7 +16,7 @@ Requesting the President to transmit to the House of Representatives not later t
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Owens, Major R. [D-NY-11] (O000159)
@@ -28,6 +28,7 @@ Requesting the President to transmit to the House of Representatives not later t
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
 
 ## Committees (1)
 
@@ -39,3 +40,8 @@ Requesting the President to transmit to the House of Representatives not later t
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Referred to the House Committee on Government Reform.
 - 2006-03-30 — Sponsor introductory remarks on measure. (CR E474-476)
+- 2006-05-04 — Committee Consideration and Mark-up Session Held.
+- 2006-05-04 — Ordered to be Reported Unfavorably by the Yeas and Nays: 15 - 13.
+- 2006-05-09 — Placed on the House Calendar, Calendar No. 172.
+- 2006-05-09 — Reported adversely by the Committee on Government Reform. H. Rept. 109-457.
+- 2006-05-09 — Reported adversely by the Committee on Government Reform. H. Rept. 109-457.
