@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4912
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4912
@@ -39,3 +39,9 @@ Rural Health Care Capital Access Act of 2006
 - 2006-04-25 — Placed on the Union Calendar, Calendar No. 233.
 - 2006-04-25 — Reported by the Committee on Financial Services. H. Rept. 109-424.
 - 2006-04-25 — Reported by the Committee on Financial Services. H. Rept. 109-424.
+- 2006-05-09 — Considered under suspension of the rules. (consideration: CR H2194-2195)
+- 2006-05-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4912.
+- 2006-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-09 — Mr. Renzi moved to suspend the rules and pass the bill.
+- 2006-05-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2194)
+- 2006-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2194)
