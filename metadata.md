@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3829
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3829
@@ -23,9 +23,10 @@ To designate the Department of Veterans Affairs Medical Center in Muskogee, Okla
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Istook, Ernest J., Jr. [R-OK-5] (I000047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,15 @@ To designate the Department of Veterans Affairs Medical Center in Muskogee, Okla
 - 2006-05-09 — Mr. Buyer moved to suspend the rules and pass the bill.
 - 2006-05-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 130). (text: CR H2208)
 - 2006-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 130).(text: CR H2208)
+- 2006-05-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2006-05-26 — Message on Senate action sent to the House.
+- 2006-05-26 — Passed Senate without amendment by Unanimous Consent.
+- 2006-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-05-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5394)
+- 2006-05-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5394)
+- 2006-06-08 — Presented to President.
+- 2006-06-08 — Presented to President.
+- 2006-06-15 — Became Public Law No: 109-231.
+- 2006-06-15 — Became Public Law No: 109-231.
+- 2006-06-15 — Signed by President.
+- 2006-06-15 — Signed by President.
