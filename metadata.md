@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5143
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5143
@@ -16,7 +16,7 @@ H-Prize Act of 2006
 
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 
-## Cosponsors (14)
+## Cosponsors (26)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Kingston, Jack [R-GA-1] (K000220)
@@ -32,6 +32,18 @@ H-Prize Act of 2006
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Weldon, Curt [R-PA-7] (W000268)
+- Rep. Johnson, Nancy L. [R-CT-5] (J000163)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Wicker, Roger F. [R-MS-1] (W000437)
+- Rep. Doolittle, John T. [R-CA-4] (D000429)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
 
 ## Committees (1)
 
@@ -42,3 +54,9 @@ H-Prize Act of 2006
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Referred to the House Committee on Science.
+- 2006-04-27 — Committee Hearings Held.
+- 2006-05-03 — Committee Consideration and Mark-up Session Held.
+- 2006-05-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-05-09 — Placed on the Union Calendar, Calendar No. 254.
+- 2006-05-09 — Reported (Amended) by the Committee on Science. H. Rept. 109-456.
+- 2006-05-09 — Reported (Amended) by the Committee on Science. H. Rept. 109-456.
