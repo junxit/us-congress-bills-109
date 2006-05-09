@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4912
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4912
@@ -25,9 +25,10 @@ Rural Health Care Capital Access Act of 2006
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,15 @@ Rural Health Care Capital Access Act of 2006
 - 2006-05-09 — Mr. Renzi moved to suspend the rules and pass the bill.
 - 2006-05-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2194)
 - 2006-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2194)
+- 2006-05-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2006-06-28 — Passed Senate without amendment by Unanimous Consent.
+- 2006-06-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-06-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6726)
+- 2006-06-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6726)
+- 2006-06-29 — Message on Senate action sent to the House.
+- 2006-06-30 — Presented to President.
+- 2006-06-30 — Presented to President.
+- 2006-07-10 — Became Public Law No: 109-240.
+- 2006-07-10 — Became Public Law No: 109-240.
+- 2006-07-10 — Signed by President.
+- 2006-07-10 — Signed by President.

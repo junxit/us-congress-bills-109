@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4912
-congress: 109th CONGRESS
-session: 2d Session
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
