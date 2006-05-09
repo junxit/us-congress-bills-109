@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4902
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4902
@@ -321,9 +321,10 @@ Byron Nelson Congressional Gold Medal Act
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Norwood, Charles W. [R-GA-9] (N000159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -337,3 +338,15 @@ Byron Nelson Congressional Gold Medal Act
 - 2006-05-09 — Mr. Renzi moved to suspend the rules and pass the bill.
 - 2006-05-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2196)
 - 2006-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2196)
+- 2006-05-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10793)
+- 2006-09-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10793)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-06 — Presented to President.
+- 2006-10-06 — Presented to President.
+- 2006-10-16 — Became Public Law No: 109-357.
+- 2006-10-16 — Became Public Law No: 109-357.
+- 2006-10-16 — Signed by President.
+- 2006-10-16 — Signed by President.
