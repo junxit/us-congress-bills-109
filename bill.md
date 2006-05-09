@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “American River Pump Station Project Transfer Act of 2005”.
+This Act may be cited as the “American River Pump Station Project Transfer Act of 2006”.
 
 ## § 2. Authority to transfer
 
