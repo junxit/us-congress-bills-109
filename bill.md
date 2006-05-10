@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 5341
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5341
+
+> To amend section 5313 of title 31, United States Code, to reform certain requirements for reporting cash transactions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Seasoned Customer CTR Exemption Act of 2006”.
+
+## § 2. Exception from currency transaction reports for seasoned customers
+
+- **(a)** *Findings* The Congress finds as follows:
+  - **(1)** The completion of and filing of currency transaction reports under section 5313 of title 31, United States Code, poses a compliance burden on the financial industry.
+  - **(2)** Due to the nature of the transactions or the persons and entities conducting such transactions, some reports as currently filed may not be relevant to the detection, deterrence, or investigation of financial crimes, including money laundering and the financing of terrorism.
+  - **(3)** However, the data contained in such reports can provide valuable context for the analysis of other data derived pursuant to subchapter II of chapter 53 of title 31, United States Code, as well as investigative data, which provide invaluable and indispensable information supporting efforts to combat money laundering and other financial crimes.
+  - **(4)** An appropriate exemption process from the reporting requirements for certain currency transactions that are of little or no value to ongoing efforts of law enforcement agencies, financial regulatory agencies, and the financial services industry to investigate, detect, or deter financial crimes would continue to fulfill the compelling need to produce and provide meaningful information to policy-makers, financial regulators, law enforcement, and intelligence agencies, while potentially lowering the compliance burden placed on financial institutions by the need to file such reports.
+  - **(5)** The Secretary of the Treasury has by regulation, and in accordance with section 5313 of title 31, United States Code, implemented a process by which institutions may seek exemptions from filing certain currency transaction reports based on appropriate circumstances; however, the financial industry has not taken full advantage of these provisions and has contended that they are unduly burdensome.
+  - **(6)** The act of providing notice to the Secretary of the Treasury of designations of exemption—
+    - **(A)** provides meaningful information to law enforcement officials on exempt customers and enables law enforcement to obtain account information through appropriate legal process; and
+    - **(B)** complements other sections of title 31, United States Code, whereby law enforcement can locate financial institutions with relevant records relating to a person of investigative interest, such as information requests made pursuant to regulations implementing section 314(a) of the USA PATRIOT Act of 2001.
+  - **(7)** A designation of exemption has no effect on requirements for depository institutions to apply the full range of anti-money laundering controls required under subchapter II of chapter 53 of title 31, United States Code, and related provisions of law, including the requirement to apply the customer identification program pursuant to section 5326 of such title, and the requirement to identify, monitor, and, if appropriate, report suspicious activity in accordance with section 5318(g) of such title.
+  - **(8)** The Federal banking agencies and the Financial Crimes Enforcement Network have recently provided guidance through the Federal Financial Institutions Examination Council Bank Secrecy Act/Anti-Money Laundering Examination Manual on applying appropriate levels of due diligence and identifying suspicious activity by the types of cash-intensive businesses that generally will be subject to exemption.
+- **(b)** *Seasoned customer exemption* Section 5313(e) of title 31, United States Code, is amended to read as follows:
+  > - **(e)** *Qualified customer exemption*
+  >   - **(1)** *In general* Before the end of the 270-day period beginning on the date of the enactment of the Seasoned Customer CTR Exemption Act of 2006, the Secretary of the Treasury shall prescribe regulations that exempt any depository institution from filing a report pursuant to this section in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes) with a qualified customer of the depository institution.
+  >   - **(2)** *Qualified customer defined* For purposes of this section, the term “qualified customer”, with respect to a depository institution, has such meaning as the Secretary of the Treasury shall prescribe, which shall include any person that—
+  >     - **(A)** is incorporated or organized under the laws of the United States or any State, including a sole proprietorship (as defined in 31 C.F.R. 103.22(d)(6)(vii), as in effect on May 10, 2006), or is registered as and eligible to do business within the United States or a State;
+  >     - **(B)** has maintained a deposit account with the depository institution for at least 12 months; and
+  >     - **(C)** has engaged, using such account, in multiple currency transactions that are subject to the reporting requirements of subsection (a).
+  >   - **(3)** *Regulations*
+  >     - **(A)** *In general* The Secretary of the Treasury shall prescribe regulations requiring a depository institution to file a 1-time notice of designation of exemption for each qualified customer of the depository institution.
+  >     - **(B)** *Form and content of exemption notice* The Secretary shall by regulation prescribe the form, manner, content, and timing of the qualified customer exemption notice and such notice shall include information sufficient to identify the qualified customer and the accounts of the customer.
+  >     - **(C)** *Authority of secretary*
+  >       - **(i)** *In general* The Secretary may suspend, reject, or revoke any qualified customer exemption notice, in accordance with criteria prescribed by the Secretary by regulation.
+  >       - **(ii)** *Conditions* The Secretary may establish conditions, in accordance with criteria prescribed by regulation, under which exempt qualified customers of an insured depository institution that is merged with or acquired by another insured depository institution will continue to be treated as designated exempt qualified customers of the surviving or acquiring institution.
+
+- **(c)** *3-year review and report* Before the end of the 3-year period beginning on the date of the enactment of this Act, the Secretary of the Treasury, in consultation with the Attorney General, the Secretary of Homeland Security, the Federal banking agencies, the banking industry, and such other persons as the Secretary deems appropriate, shall evaluate the operations and effect of the provisions of the amendment made by subsection (a) and make recommendations to Congress as to any legislative action with respect to such provision as the Secretary may determine to be appropriate.
