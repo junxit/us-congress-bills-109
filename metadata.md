@@ -1,0 +1,55 @@
+---
+measure: H.R. 5347
+congress: 109
+version: Introduced in House
+---
+
+# H.R. 5347
+
+HOPE VI Reauthorization Act of 2006
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+
+## Cosponsors (25)
+
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Leach, James A. [R-IA-2] (L000169)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Ford, Harold E., Jr. [D-TN-9] (F000262)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Evans, Lane [D-IL-17] (E000250)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Boehlert, Sherwood [R-NY-24] (B000586)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Owens, Major R. [D-NY-11] (O000159)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Johnson, Nancy L. [R-CT-5] (J000163)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+
+## Committees (1)
+
+- House — Financial Services Committee
+
+## Actions
+
+- 2006-05-10 — Introduced in House
+- 2006-05-10 — Introduced in House
+- 2006-05-10 — Referred to the House Committee on Financial Services.
