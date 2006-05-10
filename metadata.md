@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5143
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5143
@@ -60,3 +60,11 @@ H-Prize Act of 2006
 - 2006-05-09 — Placed on the Union Calendar, Calendar No. 254.
 - 2006-05-09 — Reported (Amended) by the Committee on Science. H. Rept. 109-456.
 - 2006-05-09 — Reported (Amended) by the Committee on Science. H. Rept. 109-456.
+- 2006-05-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-05-10 — Considered as unfinished business. (consideration: CR H2366-2367)
+- 2006-05-10 — Considered under suspension of the rules. (consideration: CR H2346-2354)
+- 2006-05-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5143.
+- 2006-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-10 — Mr. Inglis (SC) moved to suspend the rules and pass the bill, as amended.
+- 2006-05-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 6, 1 Present (Roll no. 131). (text: CR H2346-2347)
+- 2006-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 6, 1 Present (Roll no. 131).(text: CR H2346-2347)
