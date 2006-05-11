@@ -2,7 +2,7 @@
 legis-num: H. RES. 811
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 811
@@ -13,8 +13,9 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 ## § 2.
 
-- **(a)** Notwithstanding clause 11 of rule XVIII, no further amendment to the committee amendment in the nature of a substitute shall be in order except those printed in the report of the Committee on Rules accompanying this resolution and amendments en bloc described in section 3 of this resolution.
-- **(b)** Each amendment printed in the report of the Committee on Rules shall be considered only in the order printed in the report (except as specified in section 4 of this resolution), may be offered only be a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to amendment (except that the chairman and ranking minority member of the Committee on Armed Services each may offer one pro forma amendment for the purpose of further debate on any pending amendment), and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole.
+(a) Notwithstanding clause 11 of rule XVIII, no further amendment to the committee amendment in the nature of a substitute shall be in order except those printed in the report of the Committee on Rules accompanying this resolution and amendments en bloc described in section 3 of this resolution.
+
+- **(b)** Each amendment printed in the report of the Committee on Rules shall be considered only in the order printed in the report (except as specified in section 4 of this resolution), may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, shall not be subject to amendment (except that the chairman and ranking minority member of the Committee on Armed Services each may offer one pro forma amendment for the purpose of further debate on any pending amendment), and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole.
 - **(c)** All points of order against amendments printed in the report of the Committee on Rules or amendments en bloc described in section 3 of this resolution are waived.
 
 ## § 3.
