@@ -1,0 +1,30 @@
+---
+measure: S. 2796
+congress: 109
+version: Introduced in Senate
+---
+
+# S. 2796
+
+H-Prize Act of 2006
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Graham, Lindsey [R-SC] (G000359)
+
+## Cosponsors (1)
+
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
+## Actions
+
+- 2006-05-12 — Introduced in Senate
+- 2006-05-12 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S4524-4525)
