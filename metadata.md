@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 788
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 788
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Peace Officers Memorial Day.
 
 - Rep. Hefley, Joel [R-CO-5] (H000444)
 
-## Cosponsors (51)
+## Cosponsors (61)
 
 - Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
@@ -69,6 +69,16 @@ Supporting the goals and ideals of Peace Officers Memorial Day.
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Ney, Robert W. [R-OH-18] (N000081)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
 ## Committees (1)
 
@@ -79,3 +89,11 @@ Supporting the goals and ideals of Peace Officers Memorial Day.
 - 2006-05-02 — Introduced in House
 - 2006-05-02 — Introduced in House
 - 2006-05-02 — Referred to the House Committee on Government Reform.
+- 2006-05-04 — Committee Consideration and Mark-up Session Held.
+- 2006-05-04 — Ordered to be Reported by Unanimous Consent.
+- 2006-05-16 — Considered under suspension of the rules. (consideration: CR H2608-2610)
+- 2006-05-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 788.
+- 2006-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-16 — Mr. Davis, Tom moved to suspend the rules and agree to the resolution.
+- 2006-05-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2608)
+- 2006-05-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2608)
