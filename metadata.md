@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 751
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 751
@@ -31,3 +31,9 @@ Recognizing the cultural and educational contributions of American Ballet Theatr
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Referred to the House Committee on Education and the Workforce.
+- 2006-05-16 — Considered under suspension of the rules. (consideration: CR H2610-2611)
+- 2006-05-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 751.
+- 2006-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-16 — Mr. Kuhl (NY) moved to suspend the rules and agree to the resolution.
+- 2006-05-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2610)
+- 2006-05-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2610)
