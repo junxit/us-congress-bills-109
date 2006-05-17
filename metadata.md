@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5252
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5252
@@ -16,7 +16,7 @@ Communications Act of 2006
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Cosponsors (16)
+## Cosponsors (55)
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -34,6 +34,45 @@ Communications Act of 2006
 - Rep. Shimkus, John [R-IL-19] (S000364)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Bass, Charles F. [R-NH-2] (B000220)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Baker, Richard H. [R-LA-6] (B000072)
+- Rep. Oxley, Michael G. [R-OH-4] (O000163)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Everett, Terry [R-AL-2] (E000268)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Wicker, Roger F. [R-MS-1] (W000437)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
 ## Committees (1)
 
@@ -44,3 +83,6 @@ Communications Act of 2006
 - 2006-05-01 — Introduced in House
 - 2006-05-01 — Introduced in House
 - 2006-05-01 — Referred to the House Committee on Energy and Commerce.
+- 2006-05-17 — Placed on the Union Calendar, Calendar No. 259.
+- 2006-05-17 — Reported by the Committee on Energy and Commerce. H. Rept. 109-470.
+- 2006-05-17 — Reported by the Committee on Energy and Commerce. H. Rept. 109-470.
