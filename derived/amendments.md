@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5401
 congress: 109
-version: Introduced in House
+version: Enrolled Bill
 derived: true
 ---
 
