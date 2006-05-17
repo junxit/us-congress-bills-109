@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 817
 congress: 109
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 817
