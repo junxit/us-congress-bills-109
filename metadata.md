@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 816
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 816
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 4200) to improve the ability of th
 - 2006-05-16 — Placed on the House Calendar, Calendar No. 178.
 - 2006-05-16 — The House Committee on Rules reported an original measure, H. Rept. 109-467, by Mr. Bishop (UT).
 - 2006-05-16 — The House Committee on Rules reported an original measure, H. Rept. 109-467, by Mr. Bishop (UT).
+- 2006-05-17 — Considered as privileged matter. (consideration: CR H2648-2659)
+- 2006-05-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 816.
+- 2006-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-17 — On agreeing to the resolution Agreed to by voice vote. (text: CR H2648)
+- 2006-05-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H2648)
+- 2006-05-17 — The previous question was ordered without objection. (consideration: CR H2659)
