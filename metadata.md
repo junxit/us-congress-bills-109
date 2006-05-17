@@ -1,0 +1,260 @@
+---
+measure: H.R. 4200
+congress: 109
+version: Engrossed in House
+---
+
+# H.R. 4200
+
+Forest Emergency Recovery and Research Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Walden, Greg [R-OR-2] (W000791)
+
+## Cosponsors (149)
+
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Peterson, John E. [R-PA-5] (P000263)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Shadegg, John B. [R-AZ-3] (S000275)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Wicker, Roger F. [R-MS-1] (W000437)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Pombo, Richard W. [R-CA-11] (P000419)
+- Rep. Jindal, Bobby [R-LA-1] (J000287)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
+- Rep. Norwood, Charles W. [R-GA-9] (N000159)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Hayworth, J. D. [R-AZ-5] (H000413)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Gibbons, Jim [R-NV-2] (G000152)
+- Rep. Deal, Nathan [R-GA-10] (D000168)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Cannon, Chris [R-UT-3] (C000116)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. McMorris, Cathy [R-WA-5] (M001159)
+- Rep. Taylor, Charles H. [R-NC-11] (T000067)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. McCrery, Jim [R-LA-4] (M000388)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Hefley, Joel [R-CO-5] (H000444)
+- Rep. Doolittle, John T. [R-CA-4] (D000429)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Boehner, John A. [R-OH-8] (B000589)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Hunter, Duncan [R-CA-52] (H000981)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
+- Rep. Gutknecht, Gil [R-MN-1] (G000536)
+- Rep. Sherwood, Don [R-PA-10] (S001146)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Cantor, Eric [R-VA-7] (C001046)
+- Rep. Beauprez, Bob [R-CO-7] (B001240)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Everett, Terry [R-AL-2] (E000268)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Linder, John [R-GA-7] (L000321)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Thomas, William M. [R-CA-22] (T000188)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Bass, Charles F. [R-NH-2] (B000220)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Green, Mark [R-WI-8] (G000545)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Osborne, Tom [R-NE-3] (O000165)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Hyde, Henry J. [R-IL-6] (H001022)
+- Rep. Cunningham, Randy (Duke) [R-CA-50] (C000994)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Sweeney, John E. [R-NY-20] (S001149)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Jenkins, William L. [R-TN-1] (J000082)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Kolbe, Jim [R-AZ-8] (K000306)
+- Rep. Kennedy, Mark R. [R-MN-6] (K000358)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+
+## Committees (3)
+
+- House — Transportation and Infrastructure Committee
+- House — Agriculture Committee
+- House — Natural Resources Committee
+
+## Actions
+
+- 2005-11-02 — Introduced in House
+- 2005-11-02 — Introduced in House
+- 2005-11-02 — Referred to the Committee on Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-11-02 — Referred to the Committee on Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-11-02 — Referred to the Committee on Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-11-02 — Referred to the Committee on Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-11-02 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-11-03 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2005-11-03 — Referred to the Subcommittee on Water Resources and Environment.
+- 2005-11-08 — Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.
+- 2005-11-10 — Subcommittee Hearings Held.
+- 2005-12-07 — Committee Hearings Held.
+- 2006-03-15 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 13.
+- 2006-03-29 — Subcommittee on Forests and Forest Health Discharged.
+- 2006-04-05 — Committee Consideration and Mark-up Session Held.
+- 2006-04-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 3.
+- 2006-04-05 — Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.
+- 2006-05-04 — Committee on Agriculture discharged.
+- 2006-05-04 — Committee on Agriculture discharged.
+- 2006-05-04 — Committee on Transportation discharged.
+- 2006-05-04 — Committee on Transportation discharged.
+- 2006-05-04 — Placed on the Union Calendar, Calendar No. 252.
+- 2006-05-04 — Reported (Amended) by the Committee on Resources. H. Rept. 109-451, Part I.
+- 2006-05-04 — Reported (Amended) by the Committee on Resources. H. Rept. 109-451, Part I.
+- 2006-05-16 — Rules Committee Resolution H. Res. 816 Reported to House. Rule provides for consideration of H.R. 4200 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. In lieu of the amendment recommended by the Committee on Resources now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of the amendment in the nature of a substitute printed in the Congressional Record and numbered 1 pursuant to clause 8 of rule XVIII.
+- 2006-05-17 — Amendment (A001) offered by Mr. Rahall. (consideration: CR H2673-2675, H2687-2688; text: CR H2673)
+- 2006-05-17 — Amendment (A002) offered by Mr. DeFazio. (consideration: CR H2675-2677, H2688; text: CR H2675)
+- 2006-05-17 — Amendment (A003) offered by Mr. Inslee. (consideration: CR H2677-2679, H2688-2689; text: CR H2677)
+- 2006-05-17 — Amendment (A004) offered by Mr. Udall (NM). (consideration: CR H2679-2680, H2689-2690; text: CR H2679)
+- 2006-05-17 — Amendment failed in Committee of the Whole
+- 2006-05-17 — Amendment failed in Committee of the Whole
+- 2006-05-17 — Amendment failed in Committee of the Whole
+- 2006-05-17 — Amendment failed in Committee of the Whole
+- 2006-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 4200 as unfinished business.
+- 2006-05-17 — Considered as unfinished business. (consideration: CR H2687-2691)
+- 2006-05-17 — Considered under the provisions of rule H. Res. 816. (consideration: CR H2659-2680)
+- 2006-05-17 — DEBATE - Pursuant to the provisions of H. Res. 816, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment.
+- 2006-05-17 — DEBATE - Pursuant to the provisions of H. Res. 816, the Committee of the Whole proceeded with 10 minutes of debate on the Inslee amendment.
+- 2006-05-17 — DEBATE - Pursuant to the provisions of H. Res. 816, the Committee of the Whole proceeded with 10 minutes of debate on the Rahall amendment.
+- 2006-05-17 — DEBATE - Pursuant to the provisions of H. Res. 816, the Committee of the Whole proceeded with 10 minutes of debate on the Udall (NM) amendment.
+- 2006-05-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4200.
+- 2006-05-17 — House amendment not agreed to: On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 184 - 240 (Roll no. 148).
+- 2006-05-17 — House amendment not agreed to: On agreeing to the Inslee amendment (A003) Failed by recorded vote: 191 - 231 (Roll no. 149).
+- 2006-05-17 — House amendment not agreed to: On agreeing to the Rahall amendment (A001) Failed by recorded vote: 189 - 236 (Roll no. 147).
+- 2006-05-17 — House amendment not agreed to: On agreeing to the Udall (NM) amendment (A004) Failed by recorded vote: 197 - 228 (Roll no. 150).
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered
+- 2006-05-17 — House amendment offered/reported by : Amendment (A001) offered by Mr. Rahall.(consideration: CR H2673-2675, H2687-2688; text: CR H2673)
+- 2006-05-17 — House amendment offered/reported by : Amendment (A002) offered by Mr. DeFazio.(consideration: CR H2675-2677, H2688; text: CR H2675)
+- 2006-05-17 — House amendment offered/reported by : Amendment (A003) offered by Mr. Inslee.(consideration: CR H2677-2679, H2688-2689; text: CR H2677)
+- 2006-05-17 — House amendment offered/reported by : Amendment (A004) offered by Mr. Udall (NM).(consideration: CR H2679-2680, H2689-2690; text: CR H2679)
+- 2006-05-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 816 and Rule XVIII.
+- 2006-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-17 — Mr. Walden (OR) moved that the Committee rise.
+- 2006-05-17 — On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 184 - 240 (Roll no. 148).
+- 2006-05-17 — On agreeing to the Inslee amendment (A003) Failed by recorded vote: 191 - 231 (Roll no. 149).
+- 2006-05-17 — On agreeing to the Rahall amendment (A001) Failed by recorded vote: 189 - 236 (Roll no. 147).
+- 2006-05-17 — On agreeing to the Udall (NM) amendment (A004) Failed by recorded vote: 197 - 228 (Roll no. 150).
+- 2006-05-17 — On motion that the Committee rise Agreed to by voice vote.
+- 2006-05-17 — On passage Passed by recorded vote: 243 - 182 (Roll No. 151).
+- 2006-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Inslee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Inslee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rahall amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Udall (NM) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Udall (NM) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-05-17 — Passed/agreed to in House: On passage Passed by recorded vote: 243 - 182 (Roll No. 151).
+- 2006-05-17 — Roll call votes on amendments in House
+- 2006-05-17 — Roll call votes on amendments in House
+- 2006-05-17 — Roll call votes on amendments in House
+- 2006-05-17 — Roll call votes on amendments in House
+- 2006-05-17 — Rule H. Res. 816 passed House.
+- 2006-05-17 — Rule provides for consideration of H.R. 4200 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. In lieu of the amendment recommended by the Committee on Resources now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of the amendment in the nature of a substitute printed in the Congressional Record and numbered 1 pursuant to clause 8 of rule XVIII.
+- 2006-05-17 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2667-2673)
+- 2006-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2006-05-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4200.
+- 2006-05-17 — The Speaker designated the Honorable Mark Foley to act as Chairman of the Committee.
+- 2006-05-17 — The previous question was ordered pursuant to the rule.
