@@ -1,7 +1,7 @@
 ---
 measure: S. 1899
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1899
@@ -16,11 +16,12 @@ Indian Child Protection and Family Violence Prevention Act Amendments of 2006
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Johnson, Tim [D-SD] (J000177)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Indian Child Protection and Family Violence Prevention Act Amendments of 2006
 - 2005-10-20 — Introduced in Senate
 - 2005-10-20 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S11667-11669)
 - 2005-10-20 — Sponsor introductory remarks on measure. (CR S11666-11667)
+- 2006-03-15 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 109-478.
+- 2006-03-29 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-05-18 — Committee on Indian Affairs. Reported by Senator McCain with an amendment in the nature of a substitute. With written report No. 109-255.
+- 2006-05-18 — Committee on Indian Affairs. Reported by Senator McCain with an amendment in the nature of a substitute. With written report No. 109-255.
+- 2006-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
