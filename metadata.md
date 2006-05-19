@@ -1,0 +1,47 @@
+---
+measure: H.R. 5434
+congress: 109
+version: Introduced in House
+---
+
+# H.R. 5434
+
+To designate the facility of the United States Postal Service located at 40 South Walnut Street in Chillicothe, Ohio, as the "Larry Cox Post Office".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Ney, Robert W. [R-OH-18] (N000081)
+
+## Cosponsors (17)
+
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Hobson, David L. [R-OH-7] (H000666)
+- Rep. Strickland, Ted [D-OH-6] (S001004)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Regula, Ralph [R-OH-16] (R000141)
+- Rep. Brown, Sherrod [D-OH-13] (B000944)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Oxley, Michael G. [R-OH-4] (O000163)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Boehner, John A. [R-OH-8] (B000589)
+
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2006-05-19 — Introduced in House
+- 2006-05-19 — Introduced in House
+- 2006-05-19 — Referred to the House Committee on Government Reform.
