@@ -96,3 +96,7 @@ Section 203(b)(1) of the Voting Rights Act of 1965 (42 U.S.C. 1973aa–1a(b)(1))
 ## § 8. Use of American Community Survey census data
 
 Section 203(b)(2)(A) of the Voting Rights Act of 1965 (42 U.S.C. 1973aa–1a(b)(2)(A)) is amended by striking “census data” and inserting “the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data”.
+
+## § 9. Study and report
+
+The Comptroller General shall study the implementation, effectiveness, and efficiency of the current section 203 of the Voting Rights Act of 1965 and alternatives to the current implementation consistent with that section. The Comptroller General shall report the results of that study to Congress not later than 1 year after the date of the enactment of this Act.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -96,8 +96,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 7324` | amend | Section 8 of the Voting Rights Act of 1965 (42 U.S.C. 1973f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7324` | amend | Section 13 of the Voting Rights Act of 1965 (42 U.S.C. 1973k) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973f` | amend | Section 8 of the Voting Rights Act of 1965 (42 U.S.C. 1973f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973k` | amend | Section 13 of the Voting Rights Act of 1965 (42 U.S.C. 1973k) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1973d` | repeal | Sections 6, 7, and 9 of the Voting Rights Act of 1965 (42 U.S.C. 1973d, 1973e and 1973g) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1973b` | insert | Section 4(a)(1)(C) of the Voting Rights Act of 1965 (42 U.S.C. 1973b(a)(1)(C)) is amended by inserting “or observers” after “examiners”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1973j` | strike | Subsections (a) and (c) of section 12 of the Voting Rights Act of 1965 (42 U.S.C. 1973j(a) and 1973j(c)) are each amended by striking “7,”. | the bill quotes the text struck but describes what replaces it |
