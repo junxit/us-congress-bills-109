@@ -1,7 +1,7 @@
 ---
 measure: S. 2784
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2784
@@ -102,3 +102,7 @@ Fourteenth Dalai Lama Congressional Gold Medal Act
 - 2006-05-11 — Introduced in Senate
 - 2006-05-11 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
 - 2006-05-11 — Sponsor introductory remarks on measure. (CR S4471-4472)
+- 2006-05-18 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.
+- 2006-05-23 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Shelby without amendment. Without written report.
+- 2006-05-23 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Shelby without amendment. Without written report.
+- 2006-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.
