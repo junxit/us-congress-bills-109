@@ -1,0 +1,40 @@
+---
+legis-num: H.R. 5458
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5458
+
+> To provide for the National Science Foundation to make grants for the establishment of summer science and mathematics camps for middle school and high school students.
+
+## § 1. Summer camps
+
+- **(a)** *Program*
+  - **(1)** *In general* The Director shall carry out a program to award grants to institutions of higher education or eligible nonprofit organizations (or consortia of such institutions and organizations) to develop and operate summer science and mathematics camps for middle school and high school students. The camps shall be designed to promote the interest of children in science, mathematics, and technology and to increase their knowledge of these subjects.
+  - **(2)** *Distribution of awards* The Director shall, in awarding grants under this section, consider the distribution of awards among institutions and organizations of different sizes and geographic locations.
+  - **(3)** *Merit review* Grants shall be provided under this section on a competitive, merit-reviewed basis.
+  - **(4)** *Use of grants* Grant funds may be used to—
+    - **(A)** develop educational programs and materials for use in the summer science and mathematics camps; and
+    - **(B)** cover the costs of operating the summer camps, including the cost of attendance for students selected to attend the camps in accordance with subsection (b)(3).
+- **(b)** *Selection process*
+  - **(1)** *Application* An applicant for an award under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
+    - **(A)** a description of the educational program that will be offered by the science or mathematics summer camp that the applicant intends to operate;
+    - **(B)** a description of the process by which students will be selected to attend the summer camp;
+    - **(C)** the duration of the camp and the number of students who can be accommodated in the program each year;
+    - **(D)** identification of the individuals who will be involved in designing and implementing the educational program at the summer camp; and
+    - **(E)** evidence of the agreement required under paragraph (3).
+  - **(2)** *Review of applications* In evaluating the applications submitted under paragraph (1), the Director shall consider, at a minimum—
+    - **(A)** the ability of the applicant to effectively carry out the program;
+    - **(B)** the novelty and educational value of the program to be offered at the summer camp;
+    - **(C)** the number of the students that will be served by the program; and
+    - **(D)** the extent to which the program is tailored to the needs of individuals from groups underrepresented in science and technology careers.
+  - **(3)** *Eligibility requirement* To be eligible to receive a grant under this section, an institution of higher education or eligible nonprofit organization (or consortia of such institutions and organizations) must enter into an agreement with one or more urban high-need local educational agencies to develop a process for selecting students from schools administered by the educational agencies to attend the science or mathematics summer camp.
+- **(c)** *Definitions* In this section—
+  - **(1)** The term “Director” means the Director of the National Science Foundation.
+  - **(2)** The term “eligible nonprofit organization” means a nonprofit organization, such as a museum or science center, that has expertise and experience in providing informal science and mathematics education for the public.
+  - **(3)** The term “urban high-need local educational agency” means a local educational agency that—
+    - **(A)** is located in one of the 25 United States cities with the greatest numbers of children aged 5 to 17 living in poverty, based on data from the Census Bureau; and
+    - **(B)** has at least 1 school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the National Science Foundation for the purposes of this section, $2,000,000 for fiscal year 2007, $2,050,000 for fiscal year 2008, $2,100,000 for fiscal year 2009, $2,150,000 for fiscal year 2010, and $2,200,000 for fiscal year 2011.
