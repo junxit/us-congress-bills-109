@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5403
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5403
@@ -16,7 +16,7 @@ Safe and Timely Interstate Placement of Foster Children Act of 2006
 
 - Rep. DeLay, Tom [R-TX-22] (D000217)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -25,6 +25,9 @@ Safe and Timely Interstate Placement of Foster Children Act of 2006
 - Rep. Hart, Melissa A. [R-PA-4] (H001033)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 - Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Thomas, William M. [R-CA-22] (T000188)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
 
 ## Committees (1)
 
@@ -35,3 +38,10 @@ Safe and Timely Interstate Placement of Foster Children Act of 2006
 - 2006-05-17 — Introduced in House
 - 2006-05-17 — Introduced in House
 - 2006-05-17 — Referred to the House Committee on Ways and Means.
+- 2006-05-24 — Considered under suspension of the rules. (consideration: CR H3149-3154)
+- 2006-05-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5403.
+- 2006-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-24 — Mr. Herger moved to suspend the rules and pass the bill.
+- 2006-05-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3149-3150)
+- 2006-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3149-3150)
+- 2006-05-24 — Received in the Senate.
