@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 832
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 832
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 5427) making appropriations for en
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2006-05-23 — Considered by motion. (consideration: CR H3119-3123)
@@ -28,3 +32,7 @@ Providing for consideration of the bill (H.R. 5427) making appropriations for en
 - 2006-05-23 — Rule provides for consideration of H.R. 5427 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments.
 - 2006-05-23 — The House Committee on Rules reported an original measure, H. Rept. 109-479, by Mr. Hastings (WA).
 - 2006-05-23 — The House Committee on Rules reported an original measure, H. Rept. 109-479, by Mr. Hastings (WA).
+- 2006-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-24 — On agreeing to the resolution Agreed to by recorded vote: 254 - 165 (Roll no. 195). (text: CR 5/23/2006 H3119)
+- 2006-05-24 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 190 (Roll no. 194). (consideration: CR H3154-3156)
+- 2006-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 254 - 165 (Roll no. 195).(text: CR 5/23/2006 H3119)
