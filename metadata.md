@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5403
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5403
@@ -45,3 +45,14 @@ Safe and Timely Interstate Placement of Foster Children Act of 2006
 - 2006-05-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3149-3150)
 - 2006-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3149-3150)
 - 2006-05-24 — Received in the Senate.
+- 2006-05-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2006-06-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.
+- 2006-06-23 — Message on Senate action sent to the House.
+- 2006-06-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6463)
+- 2006-06-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6463)
+- 2006-06-29 — Presented to President.
+- 2006-06-29 — Presented to President.
+- 2006-07-03 — Became Public Law No: 109-239.
+- 2006-07-03 — Became Public Law No: 109-239.
+- 2006-07-03 — Signed by President.
+- 2006-07-03 — Signed by President.
