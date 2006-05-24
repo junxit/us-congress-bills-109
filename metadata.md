@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5466
 congress: 109
-version: Engrossed in House
+version: Introduced in House
 ---
 
 # H.R. 5466
