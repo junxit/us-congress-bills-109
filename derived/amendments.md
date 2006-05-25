@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5429
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4332` | repeal | Section 1003 of the Alaska National Interest Lands Conservation Act of 1980 (16 U.S.C. 3143) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4332` | strike | The table of contents in section 1 of such Act is amended by striking the item relating to section 1003. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3143` | repeal | Section 1003 of the Alaska National Interest Lands Conservation Act of 1980 (16 U.S.C. 3143) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3143` | strike | The table of contents in section 1 of such Act is amended by striking the item relating to section 1003. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
