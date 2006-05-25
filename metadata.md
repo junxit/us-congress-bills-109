@@ -1,7 +1,7 @@
 ---
 measure: S. 2560
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2560
@@ -32,3 +32,7 @@ Office of National Drug Control Policy Reauthorization Act of 2006
 - 2006-04-06 — Introduced in Senate
 - 2006-04-06 — Read twice and referred to the Committee on the Judiciary.
 - 2006-04-06 — Sponsor introductory remarks on measure. (CR S3217-3218)
+- 2006-05-25 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-05-25 — Committee on the Judiciary. Reported by Senator Specter with an amendment in the nature of a substitute. Without written report.
+- 2006-05-25 — Committee on the Judiciary. Reported by Senator Specter with an amendment in the nature of a substitute. Without written report.
+- 2006-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
