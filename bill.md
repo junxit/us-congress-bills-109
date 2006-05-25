@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1950
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “United States-India Energy Security Cooperation Act of 2005”.
+This Act may be cited as the “United States-India Energy Security Cooperation Act of 20052006”.
 
 ## § 2. Findings
 
@@ -41,7 +41,7 @@ It is the policy of the United States—
 - **(a)** *Authorization* The President is authorized to establish programs in support of greater energy cooperation between the United States and India.
 - **(b)** *Activities* Assistance may be provided under this section for cooperation related to—
   - **(1)** research, development, and deployment of clean coal and emission reduction technologies and carbon sequestration projects;
-  - **(2)** research, development, and deployment of alternative fuel sources, such as ethanol, bio-mass, coal-based fuels, and hydrogen;
+  - **(2)** research, development, and deployment of alternative fuel sources, such as ethanol, bio-mass, and coal-based fuels, and hydrogen;
   - **(3)** research, development, and deployment of energy efficiency projects;
   - **(4)** research related to commercially available technologies that promote the clean and efficient use of energy in India; and
   - **(5)** technical assistance in support of the development by the Government of India of a strategic oil reserve to allow India to cope with short-term disruptions to global oil supplies without causing shocks to India's market or the global market.
