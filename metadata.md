@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 836
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 836
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 5441) making appropriations for th
 - 2006-05-24 — Rule provides for consideration of H.R. 5441 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments.
 - 2006-05-24 — The House Committee on Rules reported an original measure, H. Rept. 109-481, by Mr. Sessions.
 - 2006-05-24 — The House Committee on Rules reported an original measure, H. Rept. 109-481, by Mr. Sessions.
+- 2006-05-25 — Considered as privileged matter. (consideration: CR H3259-3266)
+- 2006-05-25 — Considered as unfinished business. (consideration: CR H3268)
+- 2006-05-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 836.
+- 2006-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-05-25 — On agreeing to the resolution Agreed to by voice vote. (text: CR H3259-3260)
+- 2006-05-25 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 195 (Roll no. 210). (consideration: CR H3266, H3268; text: CR H3266)
+- 2006-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 836, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Ms. Slaughter demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.
+- 2006-05-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H3259-3260)
