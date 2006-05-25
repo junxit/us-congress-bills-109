@@ -30,7 +30,7 @@ Congress makes the following findings:
 
 ## § 3. United States-Poland parliamentary youth exchange program
 
-- **(a)** *Authority* The President, acting through the Secretary of State and in cooperation with the Government of Poland, may establish and carry out a parliamentary exchange program for youth of the United States and Poland.
+- **(a)** *Authority* The President, acting through the Secretary of State and Secretary of State, in cooperation with the Government of Poland, may establish and carry out a parliamentary exchange program for youth of the United States and Poland.
 - **(b)** *Designation* The youth exchange program carried out under this subsection shall be known as the “United States-Poland Parliamentary Youth Exchange Program”.
 - **(c)** *Purpose* The purpose of the youth exchange program is to demonstrate to the youth of the United States and Poland the benefits of friendly cooperation between the United States and Poland based on common political and cultural values.
 - **(d)** *Eligible participants* An individual is eligible for participation in the youth exchange program if the individual—
@@ -38,7 +38,7 @@ Congress makes the following findings:
   - **(2)** is under the age of 19 years;
   - **(3)** is a student who is enrolled and in good standing at a secondary school in the United States or Poland;
   - **(4)** has been accepted for up to one academic year of study in a program of study abroad approved for credit at such school; and
-  - **(5)** meets any other qualifications that the President may establish for purposes of the program.
+  - **(5)** meets any other qualifications that the President Secretary of State may establish for purposes of the program.
 - **(e)** *Program elements* Under the youth exchange program, eligible participants selected for participation in the program shall—
   - **(1)** live in and attend a public secondary school in the host country for a period of one academic year;
   - **(2)** while attending public school in the host country, undertake academic studies in the host country, with particular emphasis on the history, constitution, and political development of the host country;
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 ## § 4. Annual report to Congress
 
-The Secretary of State shall submit to Congress an annual report on the United States-Poland Parliamentary Youth Exchange Program established under this Act. Each annual report shall include—
+The Secretary of State shall submit to Congress the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives an annual report on the United States-Poland Parliamentary Youth Exchange Program established under this Act. Each annual report shall include—
 
 - **(1)** information on the implementation of the Program during the preceding year:
 - **(2)** the number of participants in the Program during such year;
