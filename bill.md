@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 312
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -22,6 +22,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas climate-friendly technologies can improve air quality by reducing harmful pollutants from stationary and mobile sources, and can enhance energy security by reducing reliance on imported oil, diversifying energy sources, and reducing the vulnerability of energy delivery infrastructure;
 - Whereas other industrialized countries are undertaking measures to reduce greenhouse gas emissions, which provides the industries in those countries with a competitive advantage in the growing global market for climate-friendly technologies;
 - Whereas efforts to limit emissions growth in developing countries in a manner that is consistent with the development needs of those countries could establish significant markets for climate-friendly technologies and contribute to international efforts to address climate change;
+- Whereas the U.S. Climate Change Science Program launched by President George W. Bush concluded in April 2006 that there is no longer a discrepancy between the rates of global average temperature increase observed at the Earth’s surface and in the atmosphere, thereby strengthening the scientific evidence that human activity contributes significantly to global temperature increases;
+- Whereas President Bush, in his State of the Union Address in January 2006, called on the United States to reduce its “addiction” to oil and focus its attention on developing cleaner, renewable, and sustainable energy sources;
+- Whereas President Bush has launched the Asia-Pacific Partnership on Clean Development and Climate to cooperatively develop new and cleaner energy technologies and promote their use in fast developing nations like India and China;
+- Whereas the national security of the United States will increasingly depend on the deployment of diplomatic, military, scientific, and economic resources toward solving the problem of the over-reliance of the United States and the world on high-carbon energy;
+- Whereas, at the December 2005 United Nations Climate Change Conference in Montreal, parties to the United Nations Framework Convention on Climate Change, with the concurrence of the United States, initiated a new dialogue on long-term cooperative action to address climate change;
 - Whereas the United States is a party to the United Nations Framework Convention on Climate Change, done at New York May 9, 1992, and entered into force in 1994 (hereinafter referred to as the “Convention”);
 - Whereas the Convention sets a long-term objective of stabilizing greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system;
 - Whereas the Convention establishes that parties bear common but differentiated responsibilities for efforts to achieve the objective of stabilizing greenhouse gas concentrations;

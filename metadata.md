@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 312
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 312
@@ -28,3 +28,7 @@ A resolution expressing the sense of the Senate regarding the need for the Unite
 
 - 2005-11-15 — Introduced in Senate
 - 2005-11-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S12851-12852)
+- 2006-05-23 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2006-05-25 — Committee on Foreign Relations. Reported by Senator Lugar without amendment and with an amended preamble. Without written report.
+- 2006-05-25 — Committee on Foreign Relations. Reported by Senator Lugar without amendment and with an amended preamble. Without written report.
+- 2006-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
