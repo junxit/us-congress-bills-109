@@ -1,7 +1,7 @@
 ---
 measure: S. 2566
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,5 +34,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “should ensure that” and inserting “shall ensure that, beginning in fiscal year 2007,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “expended” and inserting “obligated”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “that originate from, and are destined for, other countries” and inserting “to states and non-state actors of proliferation concern”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by adding at the end of part II the following new chapter: | the bill names no machine-readable US Code section |
+| — | replace | by striking “should ensure that” and inserting “shall ensure that, beginning in fiscal year 2007,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “expended” and inserting “obligated”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “that originate from, and are destined for, other countries” and inserting “to non-state actors and states of proliferation concern”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by adding at the end of part II the following new chapter: | the bill names no machine-readable US Code section |
