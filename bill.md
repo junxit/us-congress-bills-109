@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “United States Ambassador for ASEAN Act”.
+This Act may be cited as the “United States Ambassador for ASEAN Affairs Act”.
 
 ## § 2. Findings
 
@@ -36,5 +36,5 @@ Congress makes the following findings:
 
 ## § 3. United States Ambassador for ASEAN
 
-- **(a)** *Appointment* There is established in the Department of State the position of United States Ambassador for ASEAN, who shall be appointed by the President, subject to the advice and consent of the Senate.
-- **(b)** *Sense of Congress* It is the sense of Congress that a Deputy Assistant Secretary of State for East Asia and the Pacific should be designated as the Ambassador for ASEAN.
+- **(a)** *Appointment* There is established in the Department of State the position of United States Ambassador for ASEAN Affairs, who shall be appointed by the President, subject to the advice and consent of the Senate.
+- **(b)** *Sense of Congress* It is the sense of Congress that a Deputy Assistant Secretary of State for East Asia and the Pacific should be designated as the Ambassador for ASEAN Affairs.
