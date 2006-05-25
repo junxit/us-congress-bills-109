@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5483
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5483
+
+> To increase the disability earning limitation under the Railroad Retirement Act and to index the amount of allowable earnings consistent with increases in the substantial gainful activity dollar amount under the Social Security Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Railroad Retirement Disability Earnings Act”.
+
+## § 2. Reform of disability earnings limitation provisions
+
+- **(a)** *In general* Section 2(e)(4) of the Railroad Retirement Act of 1974 is amended—
+  - **(1)** by striking “$400 in earnings” in the first sentence and inserting “the monthly allowable earnings as defined in the section”;
+  - **(2)** by striking “$4,800” in the fourth sentence and inserting “the amount of earnings computed by totaling the monthly allowable earnings as determined under this section for each month in the year”; and
+  - **(3)** by striking the fifth sentence and inserting “If the total amount of such individual’s earnings during such year (exclusive of earnings for services as described in subdivision (3) and after deduction of disability related work expenses) is in excess of the annual allowable earnings amount, the number of months in such year with respect to which an annuity is not payable by reason of the first and third sentences shall not exceed the number of months derived by dividing the amount by which such annual earnings exceed the annual allowable earnings amount by the monthly allowable earning amount determined under this section. If the computation under the preceding sentence results in a remainder greater than or equal to one-half, the number of months for which an annuity is not payable as determined under the preceding sentence shall be increased by one. The annual allowable earnings amount shall be computed by totaling the amount of monthly allowable earnings as determined under the first sentence of this subdivision for each month in the calender year. If the amount of the individual’s annuity has changed during the calendar year, any payment of annuities which become payable solely by reason of the limitations in the preceding three sentences shall be made first with respect to the month or months for which the annuity is larger. For purposes of this subdivision, “the monthly allowable earnings” shall be $700, except that for each year after 2007, “the monthly allowable earnings” amount shall be the larger of the amount for the previous year or the amount calculated by multiplying $700 by the ratio of the national average wage index for the year 2 calender years before the year for which the amount is being calculated to the national average wage index for the year 2005. The amount so computed will be rounded to the next higher multiple of $10 where such amount is a multiple of $5 but not of $10 and to the nearest multiple of $10 in any other case.”.
+- **(b)** *Effective date* The amendments made by this section take effect January 1, 2007.
