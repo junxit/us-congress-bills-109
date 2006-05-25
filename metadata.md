@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 809
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 809
@@ -25,3 +25,8 @@ Directing the Secretary of the Department of Homeland Security to transmit to th
 - 2006-05-09 — Introduced in House
 - 2006-05-09 — Introduced in House
 - 2006-05-09 — Referred to the House Committee on Homeland Security.
+- 2006-05-24 — Committee Consideration and Mark-up Session Held.
+- 2006-05-24 — Ordered to be Reported by Voice Vote.
+- 2006-05-25 — Placed on the House Calendar, Calendar No. 187.
+- 2006-05-25 — Reported adversely by the Committee on Homeland Security. H. Rept. 109-484.
+- 2006-05-25 — Reported adversely by the Committee on Homeland Security. H. Rept. 109-484.
