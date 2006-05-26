@@ -1,0 +1,23 @@
+---
+legis-num: S.J. RES. 38
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 38
+
+> Approving the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.
+
+## § 1. Amendment to Burmese Freedom and Democracy Act of 2003
+
+Section 9(b)(3) of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by striking “three years” and inserting “six years”.
+
+## § 2. Renewal of import restrictions under Burmese Freedom and Democracy Act of 2003
+
+- **(a)** *In General* Congress approves the renewal of import restrictions contained in section 3(a)(1) of the Burmese Freedom and Democracy Act of 2003.
+- **(b)** *Rule of Construction* This joint resolution shall be deemed to be a “renewal resolution” for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.
+
+## § 3. Effective date
+
+This Act and the amendments made by this Act shall take effect on the date of the enactment of this Act or July 26, 2006, whichever occurs first.
