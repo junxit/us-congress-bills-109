@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 422
 congress: 109
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 422
