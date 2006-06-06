@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5126
 congress: 109
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 5126
