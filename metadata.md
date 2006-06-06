@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 729
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 729
@@ -16,7 +16,7 @@ Supporting National Tourism Week.
 
 - Rep. Foley, Mark [R-FL-16] (F000238)
 
-## Cosponsors (44)
+## Cosponsors (56)
 
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -62,6 +62,18 @@ Supporting National Tourism Week.
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Harris, Katherine [R-FL-13] (H001035)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
 ## Committees (1)
 
@@ -72,3 +84,11 @@ Supporting National Tourism Week.
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Referred to the House Committee on Government Reform.
+- 2006-05-04 — Committee Consideration and Mark-up Session Held.
+- 2006-05-04 — Ordered to be Reported by Unanimous Consent.
+- 2006-06-06 — Considered under suspension of the rules. (consideration: CR H3408-3409)
+- 2006-06-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 729.
+- 2006-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-06 — Mr. Issa moved to suspend the rules and agree to the resolution.
+- 2006-06-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3408)
+- 2006-06-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3408)
