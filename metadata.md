@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 833
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 833
@@ -31,3 +31,10 @@ Expressing the sense of the House of Representatives with regard to the importan
 - 2006-05-23 — Introduced in House
 - 2006-05-23 — Introduced in House
 - 2006-05-23 — Referred to the House Committee on Energy and Commerce.
+- 2006-06-05 — Referred to the Subcommittee on Health.
+- 2006-06-06 — Considered under suspension of the rules. (consideration: CR H3391-3393)
+- 2006-06-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 833.
+- 2006-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-06 — Mr. Deal (GA) moved to suspend the rules and agree to the resolution, as amended.
+- 2006-06-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3391-3392)
+- 2006-06-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H3391-3392)

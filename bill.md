@@ -2,7 +2,7 @@
 legis-num: H. RES. 833
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 833
@@ -15,11 +15,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas significant disparities exist in the prevalence of disease among women of different backgrounds, including women with disabilities, African American women, Asian/Pacific Islander women, Latinas, and American Indian/Alaska Native women;
 - Whereas since healthy habits should begin at a young age, and preventive care saves Federal dollars designated to health care, it is important to raise awareness among women and girls of key female health issues;
 - Whereas National Women’s Health Week begins on Mother’s Day annually and celebrates the efforts of national and community organizations working with partners and volunteers to improve awareness of key women’s health issues; and
-- Whereas in 2006, the week of May 14 through May 20, is dedicated as the National Women’s Health Week: Now therefore, be it
+- Whereas in 2006, the week of May 14 through May 20, is dedicated as the National Women’s Health Week: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** recognizes the importance of preventing diseases that commonly affect women;
 - **(2)** calls on the people of the United States to use National Women’s Health Week as an opportunity to learn about health issues that face women;
 - **(3)** calls on the women of the United States to observe National Women’s Check-Up Day by receiving preventive screenings from their health care providers; and
-- **(4)** recognizes the importance of federally funded programs that provide research and collect data on common diseases in women and highlight racial disparities in the rates of these diseases.
+- **(4)** recognizes the importance of programs that provide research and collect data on common diseases in women.
