@@ -22,4 +22,4 @@ That it is the sense of Congress that—
 - **(1)** mathematics and science education programs across Federal agencies should be better coordinated;
 - **(2)** there should be minimal duplication among these programs and consistent standards of evaluation;
 - **(3)** the Department of Education should be commended for its rapid response in creating the Academic Competitiveness Council; and
-- **(4)** Federal funding for mathematics and science education programs should reflect the recommendations of the Academic Competitiveness Council.
+- **(4)** the recommendations of the Academic Competitiveness Council should be closely examined when making decisions about Federal funding for mathematics and science education programs.

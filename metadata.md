@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 421
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 421
@@ -38,3 +38,9 @@ Expressing the sense of Congress and support for Greater Opportunities for Scien
 - 2006-05-25 — Introduced in House
 - 2006-05-25 — Introduced in House
 - 2006-05-25 — Referred to the House Committee on Education and the Workforce.
+- 2006-06-07 — Considered under suspension of the rules. (consideration: CR H3445-3449)
+- 2006-06-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 421.
+- 2006-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-07 — Mr. Price (GA) moved to suspend the rules and agree to the resolution, as amended.
+- 2006-06-07 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3446)
+- 2006-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H3446)
