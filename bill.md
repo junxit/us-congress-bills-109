@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 851
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 851
+
+> Providing for consideration of the bill (H.R. 5522) making appropriations for foreign operations, export financing, and related programs for the fiscal year ending September 30, 2007, and for other purposes.
+
+That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 5522) making appropriations for foreign operations, export financing, and related programs for the fiscal year ending September 30, 2007, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chairman and ranking minority member of the Committee on Appropriations. After general debate the bill shall be considered for amendment under the five-minute rule. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived except as follows: the number “5” on page 60, line 4; section 526; beginning with “Of” on page 86, line 1 through “That” on line 16; section 538; beginning with the semicolon in section 565(a)(2) through “501)” in section 565(a)(3); and sections 570 and 579. Where points of order are waived against part of a paragraph or section, points of order against a provision in another part of such paragraph or section may be made only against such provision and not against the entire paragraph or section. During consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII. Amendments so printed shall be considered as read. When the committee rises and reports the bill back to the House with a recommendation that the bill do pass, the previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.
