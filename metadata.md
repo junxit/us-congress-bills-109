@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 699
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 699
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Entrepreneurship Week and encouragin
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Cosponsors (18)
+## Cosponsors (26)
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -36,6 +36,14 @@ Supporting the goals and ideals of National Entrepreneurship Week and encouragin
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
 ## Committees (1)
 
@@ -46,3 +54,11 @@ Supporting the goals and ideals of National Entrepreneurship Week and encouragin
 - 2006-02-28 — Introduced in House
 - 2006-02-28 — Introduced in House
 - 2006-02-28 — Referred to the House Committee on Education and the Workforce.
+- 2006-05-01 — Referred to the Subcommittee on 21st Century Competitiveness.
+- 2006-05-01 — Referred to the Subcommittee on Education Reform.
+- 2006-06-07 — Considered under suspension of the rules. (consideration: CR H3458-3460)
+- 2006-06-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 699.
+- 2006-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-07 — Mr. Osborne moved to suspend the rules and agree to the resolution.
+- 2006-06-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3458-3459)
+- 2006-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3458-3459)
