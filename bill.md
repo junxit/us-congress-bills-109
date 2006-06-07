@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5547
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5547
+
+> To direct the Secretary of Homeland Security to establish a Gulf Coast Long-Term Recovery Office to administer amounts available to the Department for providing assistance to the residents of the Gulf Coast region for recovering from Hurricanes Katrina and Rita, and for other purposes.
+
+## § 1. Gulf Coast Long-Term Recovery Office
+
+- **(a)** *Establishment* The Secretary of Homeland Security shall establish in the Department of Homeland Security a Gulf Coast Long-Term Recovery Office to administer amounts available to the Department for providing assistance to the residents of the Gulf Coast region for recovering from Hurricanes Katrina and Rita.
+- **(b)** *Director* The Office shall be headed by a Director, who shall be appointed by the Secretary of Homeland Security.
+- **(c)** *Responsibilities* The Director of the Gulf Coast Long-Term Recovery Office shall work with State, local, and tribal governments, the private sector, and nongovernmental organizations, including faith-based and other community humanitarian relief entities, to provide assistance to residents of the Gulf Coast region for recovering from Hurricanes Katrina and Rita, including the following:
+  - **(1)** To assess the social and economic consequences in the areas affected by Hurricanes Katrina and Rita and coordinate Federal efforts to address long-term community recovery issues.
+  - **(2)** To advise the Secretary of Homeland Security on the long-term community recovery implications of response activities.
+  - **(3)** To conduct comprehensive market disruption and loss analysis and develop a forward looking market-based comprehensive long-term recovery plan for the affected areas.
+  - **(4)** To identify appropriate Federal programs and agencies to support the implementation of the long-term community recovery plan, to ensure coordination across appropriate Federal departments and agencies, and to identify any gaps in the available resources.
+  - **(5)** To avoid duplication of assistance, to coordinate, to the extent possible, program application processes and planning requirements in order to streamline assistance, and to identify and coordinate the resolution of policy and program issues.
+  - **(6)** To determine responsibilities for recovery activities, to provide a method of maintaining continuity in the delivery of assistance under programs administered by various Federal departments and agencies, and to oversee coordination with State, local, and tribal governments and other involved parties, to ensure follow-through of recovery and hazard mitigation efforts.
+  - **(7)** To encourage implementation of mitigation measures during recovery.
+  - **(8)** To carry out such other activities as determined appropriate by the Secretary of Homeland Security.
+- **(d)** *Termination* The Gulf Coast Long-Term Recovery Office established under subsection (a) shall terminate at the discretion of the Secretary.
