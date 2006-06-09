@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 503
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 503
@@ -30,3 +30,7 @@ A resolution mourning the loss of life caused by the earthquake that occurred on
 
 - 2006-06-07 — Introduced in Senate
 - 2006-06-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S5604)
+- 2006-06-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5685; text as passed Senate: CR S5685)
+- 2006-06-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5685; text as passed Senate: CR S5685)
+- 2006-06-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2006-06-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
