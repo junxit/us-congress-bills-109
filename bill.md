@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4162
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -50,7 +50,6 @@ This Act may be cited as the “Los Padres National Forest Land Exchange Act of 
   - **(1)** *Equal value exchange* The land exchange under this section shall be conducted on an equal value basis, as determined by the appraisal done in conformity with the Uniform Appraisal Standards for Federal Lands Standards for Acquisition and Forest Service appraisal instructions.
   - **(2)** *Title standards* The Secretary shall require that title to the District lands to be acquired by the Secretary under this section is in conformity with the title standards of the Attorney General.
   - **(3)** *Completion* The Secretary shall endeavor to complete the land exchange under this section within one year after the date of the enactment of this Act.
-  - **(4)** *Environmental analyses* Congress finds that the Forest Service has conducted adequate analyses and reviews of the environmental impacts of the land exchange authorized under this section. No further administrative or environmental analyses or examinations are required to carry out the land exchange or any other activities authorized by this section.
 - **(f)** *Easements and access*
   - **(1)** *Reservation* In the conveyance of the National Forest System lands under this section, the Secretary shall reserve easements for all roads and trails that the Secretary considers to be necessary or desirable to provide for administrative purposes and to ensure public access to National Forest System lands. In particular, the Secretary shall reserve perpetual unrestricted rights of pedestrian and equestrian access over all existing roads and trails.
   - **(2)** *Construction of parking lot* As a condition on the receipt of National Forest System lands under this section, the District shall agree to construct a gravel parking area upon District lands to provide access to the Potholes trail of the Los Padres National Forest. The site design for the parking area shall be subject to the approval by the Secretary. The District may reasonably regulate vehicular access to the parking area in accordance with rules and regulations promulgated in accordance with applicable law.

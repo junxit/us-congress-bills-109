@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4162
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4162
@@ -25,3 +25,10 @@ Los Padres National Forest Land Exchange Act of 2005
 - 2005-10-27 — Introduced in House
 - 2005-10-27 — Introduced in House
 - 2005-10-27 — Referred to the House Committee on Resources.
+- 2005-11-02 — Referred to the Subcommittee on Forests and Forest Health.
+- 2006-06-12 — Considered under suspension of the rules. (consideration: CR H3727-3728)
+- 2006-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4162.
+- 2006-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-12 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
+- 2006-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3737-3728)
+- 2006-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3737-3728)
