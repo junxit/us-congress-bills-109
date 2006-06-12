@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4013
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4013
@@ -38,3 +38,9 @@ To amend the Reclamation Projects Authorization and Adjustment Act of 1992 to pr
 - 2006-04-27 — Placed on the Union Calendar, Calendar No. 247.
 - 2006-04-27 — Reported by the Committee on Resources. H. Rept. 109-443.
 - 2006-04-27 — Reported by the Committee on Resources. H. Rept. 109-443.
+- 2006-06-12 — Considered under suspension of the rules. (consideration: CR H3726-3727)
+- 2006-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4013.
+- 2006-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-12 — Mr. Renzi moved to suspend the rules and pass the bill.
+- 2006-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3726)
+- 2006-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3726)
