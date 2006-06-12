@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3967
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Pactola Reservoir Reallocation Authorization Act of 2005”.
+This Act may be cited as the “Pactola Reservoir Reallocation Authorization Act of 2006”.
 
 ## § 2. Findings
 
