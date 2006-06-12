@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4894
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `28 U.S.C. § 534` | redesignate | Section 534 of title 28, United States Code, as amended by section 905(a) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Pub. Law 109–162), is further amended by redesignating the second subsection (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | redesignate | Section 534 of title 28, United States Code, as amended by section 905(a) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Pub. Law 109–162), is further amended by redesignating the second subsection (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | redesignate | Section 534 of title 28, United States Code, as amended by section 905(a) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162), is further amended by redesignating the second subsection… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
