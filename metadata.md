@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5169
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5169
@@ -37,3 +37,11 @@ To designate the facility of the United States Postal Service located at 1310 Hi
 - 2006-04-25 — Introduced in House
 - 2006-04-25 — Referred to the House Committee on Government Reform.
 - 2006-04-25 — Sponsor introductory remarks on measure. (CR E596-597)
+- 2006-06-08 — Committee Consideration and Mark-up Session Held.
+- 2006-06-08 — Ordered to be Reported by Unanimous Consent.
+- 2006-06-12 — Considered under suspension of the rules. (consideration: CR H3741)
+- 2006-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5169.
+- 2006-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-12 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2006-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3741)
+- 2006-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3741)
