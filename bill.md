@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas on June 29, 1956, President Dwight D. Eisenhower signed the Federal-Aid Highway Act of 1956 to establish a 41,000-mile National System of Interstate and Defense Highways, known as the Interstate Highway System, and the Highway Revenue Act of 1956 to create a Highway Trust Fund;
-- Whereas in 1990, the National System of Interstate and Defense Highways was renamed the Dwight D. Eisenhower National System of Interstate and Defense Highways to recognize President Eisenhower’s role in the creation of the System;
+- Whereas on June 29, 1956, President Dwight D. Eisenhower signed the Federal-Aid Highway Act of 1956 to establish a 41,000-mile National System of Interstate and Defense Highways, known as the “Interstate Highway System”, and the Highway Revenue Act of 1956 to create a Highway Trust Fund;
+- Whereas in 1990, the National System of Interstate and Defense Highways was renamed the “Dwight D. Eisenhower National System of Interstate and Defense Highways” to recognize President Eisenhower’s role in the creation of the system;
 - Whereas in 2006, this web of superhighways, now spanning a total of 46,876 miles throughout the United States, has had a powerful and positive impact on our national life;
 - Whereas the Interstate Highway System has proven vital in transporting people and goods from one region to another speedily and safely;
 - Whereas the Interstate Highway System has facilitated trade both within our national borders and globally and helped create unprecedented economic expansion and opportunities for millions of Americans;
@@ -24,6 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** recognizes the Golden Anniversary Year of the Dwight D. Eisenhower National System of Interstate and Defense Highways;
-- **(2)** recognizes the achievements of State departments of transportation and the highway construction industry, including contractors, designers, engineers, laborers, materials producers, and equipment companies, for their contributions to the construction of the Interstate Highway System and the quality of life of the citizens of the United States; and
+- **(1)** recognizes the golden anniversary year of the Dwight D. Eisenhower National System of Interstate and Defense Highways;
+- **(2)** recognizes the achievements of the Federal Highway Administration (and its predecessor, the Bureau of Public Roads), the State departments of transportation, and the highway construction industry, including contractors, designers, engineers, laborers, materials producers, and equipment companies, for their contributions to the construction of the Interstate Highway System and the quality of life of the citizens of the United States; and
 - **(3)** encourages citizens, communities, government agencies, and other organizations to promote and participate in celebratory and educational activities marking this uniquely important and historic milestone.

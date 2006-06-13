@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 372
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 372
@@ -101,3 +101,17 @@ Recognizing the 50th Anniversary of the Interstate Highway System.
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-03-31 — Referred to the Subcommittee on Highways, Transit and Pipelines.
+- 2006-04-05 — Committee Consideration and Mark-up Session Held.
+- 2006-04-05 — Ordered to be Reported by Voice Vote.
+- 2006-04-05 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-04-05 — Subcommittee on Highways, Transit and Pipelines Discharged.
+- 2006-06-13 — Considered under suspension of the rules. (consideration: CR H3809-3813)
+- 2006-06-13 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 372.
+- 2006-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-13 — Mr. Petri moved to suspend the rules and agree to the resolution, as amended.
+- 2006-06-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3809-3810)
+- 2006-06-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H3809-3810)
+- 2006-06-13 — Placed on the House Calendar, Calendar No. 193.
+- 2006-06-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-499.
+- 2006-06-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-499.
