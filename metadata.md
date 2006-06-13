@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4894
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4894
@@ -78,6 +78,10 @@ To provide for certain access to national crime information databases by schools
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2006-06-13 — [House 109-2-259](votes/house-109-2-0259.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–1)
+
 ## Actions
 
 - 2006-03-07 — Introduced in House
@@ -91,3 +95,11 @@ To provide for certain access to national crime information databases by schools
 - 2006-06-12 — Placed on the Union Calendar, Calendar No. 278.
 - 2006-06-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-497.
 - 2006-06-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-497.
+- 2006-06-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-06-13 — Considered as unfinished business. (consideration: CR H3816-3817)
+- 2006-06-13 — Considered under suspension of the rules. (consideration: CR H3805-3808)
+- 2006-06-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4894.
+- 2006-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-13 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2006-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 259). (text: CR H3805)
+- 2006-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 259).(text: CR H3805)
