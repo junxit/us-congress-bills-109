@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 318
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 318
@@ -16,9 +16,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in a study of fathers’ interaction with their children in intact two-parent families, nearly 90 percent of the fathers surveyed said that being a father is the most fulfilling role a man can have;
 - Whereas a broad array of the Nation’s leading family and child development experts agree that it is in the best interests of children and the Nation as a whole to encourage more two-parent families where the father is actively involved with his children;
 - Whereas promoting responsible fatherhood can help increase the chances that children will grow up with two caring parents;
-- Whereas children with fathers at home tend to do better in school, to be less prone to emotional and behavioral problems and to have more successful relationships;
+- Whereas children with fathers at home tend to do better in school, to be less prone to emotional and behavioral problems, and to have more successful relationships;
 - Whereas boys and girls alike demonstrate greater self-control and ability to take initiative when fathers are actively involved in their upbringing;
-- Whereas who apart from their biological fathers are, in comparison to other children, 5 times more likely to live in poverty, and more likely to bring weapons and drugs into the classroom, commit other crimes, drop out of school, commit suicide, abuse alcohol or drugs, or become pregnant as teenagers;
+- Whereas children who are apart from their biological fathers are, in comparison to other children, 5 times more likely to live in poverty, and more likely to bring weapons and drugs into the classroom, commit other crimes, drop out of school, commit suicide, abuse alcohol or drugs, or become pregnant as teenagers;
 - Whereas the promotion of responsible fatherhood should not denigrate the standing or parenting efforts of single mothers, whose efforts are heroic, lessen the protection of children from abusive parents, cause women to remain in, or enter into, abusive relationships, or compromise the health or safety of a custodial parent; and
 - Whereas Father’s Day is the third Sunday in June: Now, therefore, be it
 
