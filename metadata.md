@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 868
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 868
@@ -27,3 +27,10 @@ Providing for consideration of the resolution (H. Res. 861) declaring that the U
 - 2006-06-14 — Placed on the House Calendar, Calendar No. 195.
 - 2006-06-14 — The House Committee on Rules reported an original measure, H. Rept. 109-502, by Mr. Cole (OK).
 - 2006-06-14 — The House Committee on Rules reported an original measure, H. Rept. 109-502, by Mr. Cole (OK).
+- 2006-06-15 — Considered as privileged matter. (consideration: CR H4014-4024)
+- 2006-06-15 — DEBATE - The House proceeded with one hour of debate on H. Res. 868.
+- 2006-06-15 — DEBATE - The House resumed debate on H. Res. 868.
+- 2006-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-15 — On agreeing to the resolution Agreed to by recorded vote: 222 - 194 (Roll no. 287). (text: CR H4014-4015)
+- 2006-06-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 222 - 194 (Roll no. 287).(text: CR H4014-4015)
+- 2006-06-15 — The previous question was ordered without objection. (consideration: CR H4023)
