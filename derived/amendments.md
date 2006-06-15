@@ -1,0 +1,43 @@
+---
+measure: S. 3517
+congress: 109
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 3517 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+10 amendatory instructions. 0 executed, 10 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (e), (f), (g), and (h), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following new subsection (d): | the bill names no machine-readable US Code section |
+| — | replace | in the subsection heading, by striking “Report” and inserting “Reports”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following new paragraph (1): | the bill names no machine-readable US Code section |
+| — | replace | by striking “the report under paragraph (1)” and inserting “a report under paragraph (1)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the report as” and inserting “such report as”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “the report from the task force under subsection (e)(1)” and inserting “a report from the task force under subsection (f)(1)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “contained in such report” after “the task force” the second place it appears. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “with respect to the assessment and recommendations required by subsection (d)” after “the task force”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (e)(2)” and inserting “subsection (f)(2)”. | the bill names no machine-readable US Code section |
