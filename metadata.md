@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5504
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5504
@@ -31,3 +31,14 @@ To designate the facility of the United States Postal Service located at 6029 Br
 - 2006-05-25 — Introduced in House
 - 2006-05-25 — Introduced in House
 - 2006-05-25 — Referred to the House Committee on Government Reform.
+- 2006-05-26 — Sponsor introductory remarks on measure. (CR E980)
+- 2006-06-08 — Committee Consideration and Mark-up Session Held.
+- 2006-06-08 — Ordered to be Reported by Unanimous Consent.
+- 2006-06-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-06-19 — Considered as unfinished business. (consideration: CR H4198-4199)
+- 2006-06-19 — Considered under suspension of the rules. (consideration: CR H4193-4195)
+- 2006-06-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5504.
+- 2006-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-19 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2006-06-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 305 - 0 (Roll no. 290). (text: CR H4193-4194)
+- 2006-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 305 - 0 (Roll no. 290).(text: CR H4193-4194)
