@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5341
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5341
@@ -16,7 +16,7 @@ Seasoned Customer CTR Exemption Act of 2006
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 
-## Cosponsors (18)
+## Cosponsors (22)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
@@ -36,6 +36,10 @@ Seasoned Customer CTR Exemption Act of 2006
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Israel, Steve [D-NY-2] (I000057)
 
 ## Committees (1)
 
@@ -46,3 +50,11 @@ Seasoned Customer CTR Exemption Act of 2006
 - 2006-05-10 — Introduced in House
 - 2006-05-10 — Introduced in House
 - 2006-05-10 — Referred to the House Committee on Financial Services.
+- 2006-05-16 — Referred to the Subcommittee on Financial Institutions and Consumer Credit.
+- 2006-05-19 — Subcommittee Hearings Held.
+- 2006-05-19 — Subcommittee on Financial Institutions and Consumer Credit Discharged.
+- 2006-05-24 — Committee Consideration and Mark-up Session Held.
+- 2006-05-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-06-19 — Placed on the Union Calendar, Calendar No. 282.
+- 2006-06-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-506.
+- 2006-06-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-506.
