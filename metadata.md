@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5504
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5504
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 6029 Br
 - Rep. Ryun, Jim [R-KS-2] (R000566)
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,15 @@ To designate the facility of the United States Postal Service located at 6029 Br
 - 2006-06-19 — Ms. Foxx moved to suspend the rules and pass the bill.
 - 2006-06-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 305 - 0 (Roll no. 290). (text: CR H4193-4194)
 - 2006-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 305 - 0 (Roll no. 290).(text: CR H4193-4194)
+- 2006-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-330.
+- 2006-10-12 — Became Public Law No: 109-330.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
