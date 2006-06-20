@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 235
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 235
@@ -16,6 +16,32 @@ Expressing the sense of the Congress that States should require candidates for d
 
 - Rep. Evans, Lane [D-IL-17] (E000250)
 
+## Cosponsors (23)
+
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Baker, Richard H. [R-LA-6] (B000072)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +51,10 @@ Expressing the sense of the Congress that States should require candidates for d
 - 2005-09-07 — Introduced in House
 - 2005-09-07 — Introduced in House
 - 2005-09-07 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-09-08 — Referred to the Subcommittee on Highways, Transit and Pipelines.
+- 2006-04-05 — Committee Consideration and Mark-up Session Held.
+- 2006-04-05 — Ordered to be Reported by Voice Vote.
+- 2006-04-05 — Subcommittee on Highways, Transit and Pipelines Discharged.
+- 2006-06-20 — Placed on the House Calendar, Calendar No. 198.
+- 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-513.
+- 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-513.
