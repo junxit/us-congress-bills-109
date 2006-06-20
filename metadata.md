@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 235
 congress: 109
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 235
@@ -42,9 +42,10 @@ Expressing the sense of the Congress that States should require candidates for d
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -58,3 +59,15 @@ Expressing the sense of the Congress that States should require candidates for d
 - 2006-06-20 — Placed on the House Calendar, Calendar No. 198.
 - 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-513.
 - 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-513.
+- 2006-07-25 — Considered under suspension of the rules. (consideration: CR H5763-5765)
+- 2006-07-25 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 235.
+- 2006-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-25 — Mr. Petri moved to suspend the rules and agree to the resolution.
+- 2006-07-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5763-5764)
+- 2006-07-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5763-5764)
+- 2006-07-26 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
+- 2006-09-25 — Message on Senate action sent to the House.
+- 2006-09-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2006-09-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2006-09-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S10100)
+- 2006-09-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S10100)
