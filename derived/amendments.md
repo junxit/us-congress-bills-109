@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5574
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 3 executed, 10 stated and not applied.
+13 amendatory instructions. 4 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 256e
 
-> in the matter before subparagraph (A), by striking “subsection (b)(1)(A)” and inserting “(b)(1)(B)”;
+> in the matter before subparagraph (A), by striking “subsection (b)(1)(A)” and inserting “subsection (b)(1)(B)”;
 
 | | |
 |---|---|
 | Removed | `subsection (b)(1)(A)` |
-| Inserted | `(b)(1)(B)` |
+| Inserted | `subsection (b)(1)(B)` |
+
+### 42 U.S.C. § 256e
+
+> in paragraph (1), in the matter before subparagraph (A), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (2)` |
+| Inserted | `paragraphs (2) and (3)` |
 
 ### 42 U.S.C. § 256e
 
@@ -63,10 +72,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 256e` | insert | in subsection (a), by inserting “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 256e` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 256e` | replace | in clause (iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 256e` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 256e` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 256e` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 256e` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 256e` | replace | in paragraph (1), in the matter before subparagraph (A), by striking “paragraph (2)” inserting “paragraphs (2) and (3)”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `42 U.S.C. § 256e` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 256e` | strike | in subsection (e)(2), by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

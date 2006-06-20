@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5574
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5574
@@ -16,7 +16,7 @@ Children's Hospital GME Support Reauthorization Act of 2006
 
 - Rep. Deal, Nathan [R-GA-10] (D000168)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Rep. Brown, Sherrod [D-OH-13] (B000944)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
@@ -38,6 +38,7 @@ Children's Hospital GME Support Reauthorization Act of 2006
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Ross, Mike [D-AR-4] (R000573)
 
 ## Committees (1)
 
@@ -48,3 +49,9 @@ Children's Hospital GME Support Reauthorization Act of 2006
 - 2006-06-09 — Introduced in House
 - 2006-06-09 — Introduced in House
 - 2006-06-09 — Referred to the House Committee on Energy and Commerce.
+- 2006-06-12 — Referred to the Subcommittee on Health.
+- 2006-06-15 — Committee Consideration and Mark-up Session Held.
+- 2006-06-15 — Ordered to be Reported (Amended).
+- 2006-06-20 — Placed on the Union Calendar, Calendar No. 284.
+- 2006-06-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-508.
+- 2006-06-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-508.
