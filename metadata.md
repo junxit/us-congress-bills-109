@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 867
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 867
@@ -16,7 +16,7 @@ Honoring the life and accomplishments of James Cameron.
 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 
-## Cosponsors (91)
+## Cosponsors (95)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
@@ -109,6 +109,10 @@ Honoring the life and accomplishments of James Cameron.
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
 
 ## Committees (1)
 
@@ -119,3 +123,9 @@ Honoring the life and accomplishments of James Cameron.
 - 2006-06-14 — Introduced in House
 - 2006-06-14 — Introduced in House
 - 2006-06-14 — Referred to the House Committee on Government Reform.
+- 2006-06-20 — Considered under suspension of the rules. (consideration: CR H4226-4228)
+- 2006-06-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 867.
+- 2006-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-20 — Mr. Dent moved to suspend the rules and agree to the resolution, as amended.
+- 2006-06-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4227)
+- 2006-06-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4227)
