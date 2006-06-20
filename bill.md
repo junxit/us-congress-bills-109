@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1285
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1285
@@ -25,4 +25,4 @@ Section 2 of the Nursing Relief for Disadvantaged Areas Act of 1999 (8 U.S.C. 11
 
 ## § 3. Exemption from Administrative Procedure Act
 
-The requirements of chapter 5 of title 5, United States Code (commonly referred to as the “Administrative Procedure Act” ) or any other law relating to rulemaking, information collection or publication in the Federal Register, shall not apply to any action to implement the amendments made by section 2 to the extent the Secretary Homeland of Security, the Secretary of Labor, or the Secretary of Health and Human Services determines that compliance with any such requirement would impede the expeditious implementation of such amendments.
+The requirements of chapter 5 of title 5, United States Code (commonly referred to as the “Administrative Procedure Act”) or any other law relating to rulemaking, information collection or publication in the Federal Register, shall not apply to any action to implement the amendments made by section 2 to the extent the Secretary Homeland of Security, the Secretary of Labor, or the Secretary of Health and Human Services determines that compliance with any such requirement would impede the expeditious implementation of such amendments.

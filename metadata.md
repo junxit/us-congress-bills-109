@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1285
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1285
@@ -20,9 +20,10 @@ Nursing Relief for Disadvantaged Areas Reauthorization Act of 2005
 
 - Rep. Hyde, Henry J. [R-IL-6] (H001022)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,15 @@ Nursing Relief for Disadvantaged Areas Reauthorization Act of 2005
 - 2006-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4237)
 - 2006-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4237)
 - 2006-06-20 — The title of the measure was amended. Agreed to without objection.
+- 2006-06-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11386)
+- 2006-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11386)
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-423.
+- 2006-12-20 — Became Public Law No: 109-423.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.
