@@ -24,14 +24,14 @@ This Act may be cited as the “Children’s Hospital GME Support Reauthorizatio
       > - **(iv)** for each of fiscal years 2007 through 2011, $100,000,000.
 
   - **(3)** in subsection (f)(2)—
-    - **(A)** in the matter before subparagraph (A), by striking “subsection (b)(1)(A)” and inserting “(b)(1)(B)”;
+    - **(A)** in the matter before subparagraph (A), by striking “subsection (b)(1)(A)” and inserting “subsection (b)(1)(B)”;
     - **(B)** in subparagraph (B), by striking “and” at the end;
     - **(C)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
     - **(D)** by adding at the end the following:
       > - **(D)** for each of fiscal years 2007 through 2011, $200,000,000.
 
 - **(b)** *Reduction in payments for failure to file annual report* Subsection (b) of section 340E of the Public Health Service Act (42 U.S.C. 256e) is amended—
-  - **(1)** in paragraph (1), in the matter before subparagraph (A), by striking “paragraph (2)” inserting “paragraphs (2) and (3)”; and
+  - **(1)** in paragraph (1), in the matter before subparagraph (A), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
   - **(2)** by adding at the end the following:
     > - **(3)** *Annual reporting required*
     >   - **(A)** *Reduction in payment for failure to report*
@@ -39,15 +39,18 @@ This Act may be cited as the “Children’s Hospital GME Support Reauthorizatio
     >       - **(I)** the hospital has failed to provide the Secretary, as an addendum to the hospital’s application under this section for such fiscal year, the report required under subparagraph (B) for the previous fiscal year; or
     >       - **(II)** such report fails to provide the information required under any clause of such subparagraph.
     >     - **(ii)** *Notice and opportunity to provide missing information* Before imposing a reduction under clause (i) on the basis of a hospital’s failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure and the Secretary’s intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
-    >   - **(B)** *Annual report* The report required under this subparagraph for a children’s hospital for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information relating to the residency training program sponsored by the hospital and supported under this section for the residency academic year completed immediately prior to such fiscal year:
-    >     - **(i)** The types of resident training programs that the hospital sponsored, such as general pediatrics, internal medicine/pediatrics, and pediatric subspecialties, including both medical subspecialties certified by the American Board of Pediatrics (such as pediatric gastroenterology) and non-medical subspecialties approved by other medical certification boards (such as pediatric surgery).
-    >     - **(ii)** The number of full-time equivalent resident training positions in each training program sponsored by the hospital, the number of such positions the hospital recruited to fill, and the number of such positions filled.
-    >     - **(iii)** The types of training that the hospital provided for residents in its own sponsored programs related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural, exurban, and urban areas.
-    >     - **(iv)** The changes in residency training the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
-    >       - **(I)** changes in curricula and types of training programs, and benefits that have resulted from such changes; and
-    >       - **(II)** changes for purposes of training the residents in its own sponsored programs in the measurement and improvement of the quality and safety of patient care.
-    >     - **(v)** The numbers of residents who, upon completion of a hospital’s sponsored training program at the end of such residency academic year, care for children within the borders of the service area of the hospital or within the borders of the State in which the hospital is located. Such numbers shall be disaggregated with respect to residents who completed initial board certification, subspecialty residencies, and dental residencies.
-    >   - **(C)** *Report to Congress* Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+    >   - **(B)** *Annual report* The report required under this subparagraph for a children’s hospital for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
+    >     - **(i)** The types of resident training programs that the hospital provided for residents described in subparagraph (C), such as general pediatrics, internal medicine/pediatrics, and pediatric subspecialties, including both medical subspecialties certified by the American Board of Pediatrics (such as pediatric gastroenterology) and non-medical subspecialties approved by other medical certification boards (such as pediatric surgery).
+    >     - **(ii)** The number of training positions for residents described in subparagraph (C), the number of such positions recruited to fill, and the number of such positions filled.
+    >     - **(iii)** The types of training that the hospital provided for residents described in subparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
+    >     - **(iv)** The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
+    >       - **(I)** changes in curricula, training experiences, and types of training programs, and benefits that have resulted from such changes; and
+    >       - **(II)** changes for purposes of training the residents in the measurement and improvement of the quality and safety of patient care.
+    >     - **(v)** The numbers of residents described in subparagraph (C) who completed their residency training at the end of such residency academic year and care for children within the borders of the service area of the hospital or within the borders of the State in which the hospital is located. Such numbers shall be disaggregated with respect to residents who completed residencies in general pediatrics or internal medicine/pediatrics, subspecialty residencies, and dental residencies.
+    >   - **(C)** *Residents* The residents described in this subparagraph are those who—
+    >     - **(i)** are in full-time equivalent resident training positions in any training program sponsored by the hospital; or
+    >     - **(ii)** are in a training program sponsored by an entity other than the hospital, but who spend more than 75 percent of their training time at the hospital.
+    >   - **(D)** *Report to Congress* Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
     >     - **(i)** summarizing the information submitted in reports to the Secretary under subparagraph (B);
     >     - **(ii)** describing the results of the program carried out under this section; and
     >     - **(iii)** making recommendations for improvements to the program.
