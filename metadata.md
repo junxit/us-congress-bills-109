@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5076
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5076
@@ -31,3 +31,10 @@ National Transportation Safety Board Reauthorization Act of 2006
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-04-05 — Committee Consideration and Mark-up Session Held.
+- 2006-04-05 — Ordered to be Reported by Voice Vote.
+- 2006-04-05 — Referred to the Subcommittee on Aviation.
+- 2006-04-05 — Subcommittee on Aviation Discharged.
+- 2006-06-20 — Placed on the Union Calendar, Calendar No. 287.
+- 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-512.
+- 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-512.
