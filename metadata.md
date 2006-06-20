@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5573
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5573
@@ -16,7 +16,7 @@ Health Centers Renewal Act of 2006
 
 - Rep. Deal, Nathan [R-GA-10] (D000168)
 
-## Cosponsors (25)
+## Cosponsors (27)
 
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Bilirakis, Michael [R-FL-9] (B000463)
@@ -43,6 +43,8 @@ Health Centers Renewal Act of 2006
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
 
 ## Committees (1)
 
@@ -53,3 +55,9 @@ Health Centers Renewal Act of 2006
 - 2006-06-09 — Introduced in House
 - 2006-06-09 — Introduced in House
 - 2006-06-09 — Referred to the House Committee on Energy and Commerce.
+- 2006-06-12 — Referred to the Subcommittee on Health.
+- 2006-06-15 — Committee Consideration and Mark-up Session Held.
+- 2006-06-15 — Ordered to be Reported.
+- 2006-06-20 — Placed on the Union Calendar, Calendar No. 285.
+- 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-509.
+- 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-509.
