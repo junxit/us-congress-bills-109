@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5076
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `the balance` |
 | Inserted | `The balance` |
 
-### 49 U.S.C. § 1131
+### 46 U.S.C. § 2101
 
 > by striking “on the navigable waters or territorial sea of the United States,” and inserting “on or under waters subject to the jurisdiction of the United States,”; and
 
@@ -94,10 +94,10 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 1118` | insert | in the matter preceding subparagraph (A) by inserting “, refund, or reimbursement” after “fee”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 1118` | insert | in each of subparagraphs (A) and (B) by inserting before the semicolon at the end the following: “or with which the refund or reimbursement is associated”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 1118` | strike | Section 1118 of such title is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | insert | Section 1111(e)(1) of title 49, United States Code, is amended by inserting before the semicolon at the end the following: “, except that each member of the Board shall appoint employees on the member’s personal staff”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 1111(e)(1) of title 49, United States Code, is amended by inserting before the semicolon at the end the following: “, except that each member of the Board shall appoint employees on the member’s personal staff”. | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 1111` | add-at-end | Section 1111(g) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1117` | strike | by striking “and” at the end of paragraph (2); | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 1117` | replace | by striking the period at the end of paragraph (3) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 1117` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking “and” at the end of paragraph (2); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (3) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `46 U.S.C. § 2101` | insert | by inserting “(as defined in section 2101(46) of title 46)” after “vessel of the United States”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 1137` | strike | Effective October 1, 2006, section 1137 of title 49, United States Code, is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
