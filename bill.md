@@ -1,7 +1,7 @@
 ---
 legis-num: S.J. RES. 12
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -9,4 +9,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > Proposing an amendment to the Constitution of the United States authorizing Congress to prohibit the physical desecration of the flag of the United States.
 
-That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within 7 years after the date of its submission by the Congress:
+That the following article is proposed as an amendment to the Constitution of the United States, which shall be valid to all intents and purposes as part of the Constitution when ratified by the legislatures of three-fourths of the several States within 7 years after the date of its submission by the Congresswithin seven years after the date of its submission for ratification:

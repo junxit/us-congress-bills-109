@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 12
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 12
@@ -16,7 +16,7 @@ A joint resolution proposing an amendment to the Constitution of the United Stat
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (50)
+## Cosponsors (59)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Thune, John [R-SD] (T000250)
@@ -68,6 +68,15 @@ A joint resolution proposing an amendment to the Constitution of the United Stat
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Dayton, Mark [D-MN] (D000596)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (1)
 
@@ -78,3 +87,8 @@ A joint resolution proposing an amendment to the Constitution of the United Stat
 - 2005-04-14 — Introduced in Senate
 - 2005-04-14 — Read twice and referred to the Committee on the Judiciary.
 - 2005-04-14 — Sponsor introductory remarks on measure. (CR S3686-3687)
+- 2006-05-04 — Committee on the Judiciary Subcommittee on Constitution, Civil Rights and Property Rights. Approved for full committee consideration without amendment favorably.
+- 2006-06-15 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2006-06-20 — Committee on the Judiciary. Reported by Senator Specter with an amendment. Without written report.
+- 2006-06-20 — Committee on the Judiciary. Reported by Senator Specter with an amendment. Without written report.
+- 2006-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
