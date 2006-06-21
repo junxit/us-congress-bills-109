@@ -15,7 +15,7 @@ This Act may be cited as the “Children’s Hospital GME Support Reauthorizatio
 
 ## § 2. Program of payments to children’s hospitals that operate graduate medical education programs
 
-- **(a)** *In general* Section 340E of the Public Health Service Act (42 U.S.C. 256e) is amended—
+- **(a)** *In General* Section 340E of the Public Health Service Act (42 U.S.C. 256e) is amended—
   - **(1)** in subsection (a), by inserting “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”;
   - **(2)** in subsection (f)(1)(A)—
     - **(A)** in clause (ii), by striking “and” at the end;
@@ -30,7 +30,7 @@ This Act may be cited as the “Children’s Hospital GME Support Reauthorizatio
     - **(D)** by adding at the end the following:
       > - **(D)** for each of fiscal years 2007 through 2011, $200,000,000.
 
-- **(b)** *Reduction in payments for failure to file annual report* Subsection (b) of section 340E of the Public Health Service Act (42 U.S.C. 256e) is amended—
+- **(b)** *Reduction in Payments for Failure to File Annual Report* Subsection (b) of section 340E of the Public Health Service Act (42 U.S.C. 256e) is amended—
   - **(1)** in paragraph (1), in the matter before subparagraph (A), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
   - **(2)** by adding at the end the following:
     > - **(3)** *Annual reporting required*
@@ -50,12 +50,12 @@ This Act may be cited as the “Children’s Hospital GME Support Reauthorizatio
     >   - **(C)** *Residents* The residents described in this subparagraph are those who—
     >     - **(i)** are in full-time equivalent resident training positions in any training program sponsored by the hospital; or
     >     - **(ii)** are in a training program sponsored by an entity other than the hospital, but who spend more than 75 percent of their training time at the hospital.
-    >   - **(D)** *Report to Congress* Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+    >   - **(D)** *Report to congress* Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
     >     - **(i)** summarizing the information submitted in reports to the Secretary under subparagraph (B);
     >     - **(ii)** describing the results of the program carried out under this section; and
     >     - **(iii)** making recommendations for improvements to the program.
 
-- **(c)** *Technical amendments* Section 340E of the Public Health Service Act (42 U.S.C. 256e) is further amended—
+- **(c)** *Technical Amendments* Section 340E of the Public Health Service Act (42 U.S.C. 256e) is further amended—
   - **(1)** in subsection (c)(2)(E)(ii), by striking “described in subparagraph (C)(ii)” and inserting “applied under section 1886(d)(3)(E) of the Social Security Act for discharges occurring during the preceding fiscal year”;
   - **(2)** in subsection (e)(2), by striking the first sentence; and
   - **(3)** in subsection (e)(3), by striking “made to pay” and inserting “made and pay”.
