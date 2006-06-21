@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 426
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 426
@@ -34,3 +34,9 @@ Recognizing the Food and Drug Administration of the Department of Health and Hum
 - 2006-06-20 — Placed on the House Calendar, Calendar No. 197.
 - 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-511.
 - 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-511.
+- 2006-06-21 — Considered under suspension of the rules. (consideration: CR H4357-4359)
+- 2006-06-21 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 426.
+- 2006-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-21 — Mr. Deal (GA) moved to suspend the rules and agree to the resolution, as amended.
+- 2006-06-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4357)
+- 2006-06-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4357)
