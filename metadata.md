@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5573
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5573
@@ -61,3 +61,11 @@ Health Centers Renewal Act of 2006
 - 2006-06-20 — Placed on the Union Calendar, Calendar No. 285.
 - 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-509.
 - 2006-06-20 — Reported by the Committee on Energy and Commerce. H. Rept. 109-509.
+- 2006-06-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-06-21 — Considered as unfinished business. (consideration: CR H4371-4372)
+- 2006-06-21 — Considered under suspension of the rules. (consideration: CR H4359-4365)
+- 2006-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5573.
+- 2006-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-21 — Mr. Deal (GA) moved to suspend the rules and pass the bill.
+- 2006-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 3 (Roll no. 306). (text: CR H4359-4360)
+- 2006-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 3 (Roll no. 306).(text: CR H4359-4360)
