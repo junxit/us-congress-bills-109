@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5574
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5574
@@ -55,3 +55,11 @@ Children's Hospital GME Support Reauthorization Act of 2006
 - 2006-06-20 — Placed on the Union Calendar, Calendar No. 284.
 - 2006-06-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-508.
 - 2006-06-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-508.
+- 2006-06-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-06-21 — Considered as unfinished business. (consideration: CR H4372)
+- 2006-06-21 — Considered under suspension of the rules. (consideration: CR H4365-4368)
+- 2006-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5574.
+- 2006-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-21 — Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.
+- 2006-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 4 (Roll no. 307). (text: CR H4365-4366)
+- 2006-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 4 (Roll no. 307).(text: CR H4365-4366)
