@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5603
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5603
@@ -40,3 +40,12 @@ Second Higher Education Extension Act of 2006
 - 2006-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4338)
 - 2006-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4338)
 - 2006-06-22 — Received in the Senate, read twice.
+- 2006-06-23 — Message on Senate action sent to the House.
+- 2006-06-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6462)
+- 2006-06-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6462)
+- 2006-06-29 — Presented to President.
+- 2006-06-29 — Presented to President.
+- 2006-06-30 — Became Public Law No: 109-238.
+- 2006-06-30 — Became Public Law No: 109-238.
+- 2006-06-30 — Signed by President.
+- 2006-06-30 — Signed by President.
