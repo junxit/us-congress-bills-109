@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 323
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 323
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the incidence of cancer among children in the United States is rising by about one percent each year;
 - Whereas 1 in every 330 Americans develops cancer before age 20;
 - Whereas approximately 8 percent of deaths of those between 1 and 19 years old are caused by cancer;
-- Whereas while some progress has been made, a number of opportunities for childhood cancer research still remain unfunded or underfunded;
+- Whereas while some progress has been made, a number of promising opportunities for childhood cancer research still remain untapped;
 - Whereas limited resources for childhood cancer research can hinder the recruitment of investigators and physicians to pediatric oncology;
 - Whereas peer-reviewed clinical trials are the standard of care for pediatrics and have improved cancer survival rates among children;
 - Whereas the number of survivors of childhood cancers continues to grow, with about 1 in 640 adults between ages 20 to 39 who have a history of cancer;
@@ -28,9 +28,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That it is the sense of the House of Representatives that the Congress should support—
 
 - **(1)** public and private sector efforts to promote awareness about the incidence of cancer among children, the signs and symptoms of cancer in children, treatment options, and long-term follow-up;
-- **(2)** increased public and private investment in childhood cancer research to improve prevention, diagnosis, treatment, rehabilitation, post-treatment monitoring, and long-term survival;
-- **(3)** policies that provide incentives to encourage medical trainees and investigators to enter the field of pediatric oncology;
-- **(4)** policies that provide incentives to encourage the development of drugs and biologics designed to treat pediatric cancers;
+- **(2)** pediatric cancer research to improve prevention, diagnosis, treatment, rehabilitation, post-treatment monitoring, and long-term survival;
+- **(3)** policies that encourage medical trainees and investigators to enter the field of pediatric oncology;
+- **(4)** policies that encourage the development of drugs and biologics designed to treat pediatric cancers;
 - **(5)** policies that encourage participation in clinical trials;
-- **(6)** medical education curricula designed to improve pain management for cancer patients; and
+- **(6)** efforts to encourage the incorporation of pain management for pediatric cancer patients into medical education curricula; and
 - **(7)** policies that enhance education, services, and other resources related to late effects from treatment.
