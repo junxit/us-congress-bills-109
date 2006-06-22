@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5603
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5603
@@ -39,3 +39,4 @@ Second Higher Education Extension Act of 2006
 - 2006-06-21 — Mr. Keller moved to suspend the rules and pass the bill.
 - 2006-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4338)
 - 2006-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4338)
+- 2006-06-22 — Received in the Senate, read twice.
