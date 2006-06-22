@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5603
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 5603
