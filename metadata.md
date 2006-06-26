@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4416
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4416
@@ -89,10 +89,11 @@ To reauthorize permanently the use of penalty and franked mail in efforts relati
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -109,3 +110,15 @@ To reauthorize permanently the use of penalty and franked mail in efforts relati
 - 2006-06-26 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
 - 2006-06-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4532)
 - 2006-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4532)
+- 2006-06-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-07 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-07 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S11548)
+- 2006-12-07 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S11548)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-426.
+- 2006-12-20 — Became Public Law No: 109-426.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.
