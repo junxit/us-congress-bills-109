@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 887
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 887
@@ -43,3 +43,9 @@ Congratulating the Miami Heat for winning the 2006 NBA Championship.
 - 2006-06-22 — Introduced in House
 - 2006-06-22 — Introduced in House
 - 2006-06-22 — Referred to the House Committee on Government Reform.
+- 2006-06-26 — Considered under suspension of the rules. (consideration: CR H4530-4532)
+- 2006-06-26 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 887.
+- 2006-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-26 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.
+- 2006-06-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4530-4531)
+- 2006-06-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4530-4531)
