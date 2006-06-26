@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4761
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 3 executed, 35 stated and not applied.
+40 amendatory instructions. 1 executed, 39 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 43 U.S.C. § 1337
-
-> by striking “27” and inserting “50”; and
-
-| | |
-|---|---|
-| Removed | `27` |
-| Inserted | `50` |
-
-### 43 U.S.C. § 1337
-
-> by striking “15” and inserting “200”;
-
-| | |
-|---|---|
-| Removed | `15` |
-| Inserted | `200` |
 
 ### 43 U.S.C. § 1337
 
@@ -65,10 +47,11 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1331` | replace | by striking “; and” at the end of paragraph (p) and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | insert | in paragraph (a), by inserting after “control” the following: “or lying within the United States exclusive economic zone adjacent to the Territories of the United States”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1333` | replace | Section 4(a)(2)(A) of the Outer Continental Shelf Lands Act (43 U.S.C. 1333(a)(2)(A)) is amended in the first sentence by striking “, and the President” and all that follows through the end of the sentence and inserting the following: “T… | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1333` | replace | Section 4(a)(2)(A) of the Outer Continental Shelf Lands Act (43 U.S.C. 1333(a)(2)(A)) is amended in the first sentence by striking “, and the President” and all that follows through the end of the sentence and inserting the following: “.… | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1334` | add-at-end | Section 5 of the Outer Continental Shelf Lands Act (43 U.S.C. 1334) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | insert | in subsection (a)(1) by inserting after the first sentence the following: “Further, the Secretary may grant natural gas leases in a manner similar to the granting of oil and gas leases and under the various bidding systems available for … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | add-at-end | by adding at the end of subsection (b) the following: “The Secretary may issue more than one lease for a given tract if each lease applies to a separate and distinct range of vertical depths, horizontal surface area, or a combination of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1337` | add-at-end | by adding at the end of subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1337` | amend | by amending subsection (p)(2)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | redesignate | by striking subsection (a)(3)(A) and redesignating the subsequent subparagraphs as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | strike | by striking all after “(g)”, except paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -92,6 +75,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 15912` | repeal | by repealing section 357 (119 Stat. 720; 42 U.S.C. 15912); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15912` | strike | in the table of contents in section 1(b), by striking the item relating to such section 357. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1221` | amend | Public Law 98-409 (30 U.S.C. 1221 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 191` | add-at-end | Section 4 of the Geothermal Steam Act of 1970 (30 USC 1003) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1267` | add-at-end | Section 517 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1267) is amended by adding adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1356a` | repeal | Section 31 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356a) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15927` | repeal | Section 369(o) of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 728; 42 U.S.C. 15927) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 241` | add-at-end | Section 21 of the Mineral Leasing Act (30 U.S.C. 241) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1338` | insert | Section 9 of the Outer Continental Shelf Lands Act (43 U.S.C. 1338) is amended by inserting after subsection (i), as added by section 7 of this Act, the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
