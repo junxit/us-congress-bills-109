@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4125
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4125
@@ -30,3 +30,10 @@ To permit the Administrator of General Services to make repairs and lease space 
 - 2005-10-25 — Introduced in House
 - 2005-10-25 — Introduced in House
 - 2005-10-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-10-26 — Committee Consideration and Mark-up Session Held.
+- 2005-10-26 — Ordered to be Reported by Voice Vote.
+- 2005-10-26 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2005-10-26 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2006-06-27 — Placed on the Union Calendar, Calendar No. 296.
+- 2006-06-27 — Reported by the Committee on Transportation. H. Rept. 109-532.
+- 2006-06-27 — Reported by the Committee on Transportation. H. Rept. 109-532.
