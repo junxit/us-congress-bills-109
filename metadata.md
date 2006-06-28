@@ -1,7 +1,7 @@
 ---
 measure: H.R. 413
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 413
@@ -31,3 +31,11 @@ Bleeding Kansas National Heritage Area Act
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Resources.
+- 2005-02-08 — Referred to the Subcommittee on National Parks.
+- 2005-11-10 — Subcommittee Hearings Held.
+- 2006-03-29 — Committee Consideration and Mark-up Session Held.
+- 2006-03-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2006-03-29 — Subcommittee on National Parks Discharged.
+- 2006-06-28 — Placed on the Union Calendar, Calendar No. 298.
+- 2006-06-28 — Reported (Amended) by the Committee on Resources. H. Rept. 109-534.
+- 2006-06-28 — Reported (Amended) by the Committee on Resources. H. Rept. 109-534.
