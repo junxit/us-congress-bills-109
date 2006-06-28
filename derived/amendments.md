@@ -1,7 +1,7 @@
 ---
 measure: S. 3569
 congress: 109
-version: Referral Instructions Senate
+version: Reported to Senate
 derived: true
 ---
 
