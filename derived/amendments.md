@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5632
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 575` | insert | Chapter 301 of title 49, United States Code, is amended by inserting after section 30123 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 575` | add-at-end | Section 30165(a) of such chapter is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 575` | amend | The table of contents for chapter 301 of title 49 is amended by adding the following new item after the item relating to section 30123: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 575` | insert | Chapter 301 of title 49, United States Code, is amended by inserting after section 30123 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 575` | add-at-end | Section 30165(a) of such chapter is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 575` | amend | The table of contents for chapter 301 of title 49, United States Code, is amended by adding the following new item after the item relating to section 30123: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
