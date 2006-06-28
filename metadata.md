@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5632
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5632
@@ -16,10 +16,12 @@ To amend Chapter 301 of title 49, United States Code, to establish a national ti
 
 - Rep. Shimkus, John [R-IL-19] (S000364)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
 ## Committees (1)
 
@@ -30,3 +32,9 @@ To amend Chapter 301 of title 49, United States Code, to establish a national ti
 - 2006-06-16 — Introduced in House
 - 2006-06-16 — Introduced in House
 - 2006-06-16 — Referred to the House Committee on Energy and Commerce.
+- 2006-06-19 — Referred to the Subcommittee on Energy and Air Quality.
+- 2006-06-20 — Committee Consideration and Mark-up Session Held.
+- 2006-06-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-06-28 — Placed on the Union Calendar, Calendar No. 301.
+- 2006-06-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-537.
+- 2006-06-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-537.
