@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5646
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5646
@@ -25,3 +25,6 @@ To study and promote the use of energy efficient computer servers in the United 
 - 2006-06-20 — Introduced in House
 - 2006-06-20 — Introduced in House
 - 2006-06-20 — Referred to the House Committee on Energy and Commerce.
+- 2006-06-28 — Placed on the Union Calendar, Calendar No. 302.
+- 2006-06-28 — Reported by the Committee on Energy and Commerce. H. Rept. 109-538.
+- 2006-06-28 — Reported by the Committee on Energy and Commerce. H. Rept. 109-538.
