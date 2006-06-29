@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5417
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 12
 
-> by amending subsection (a) and the 1st sentence of subsection (b) of section 11 by striking “and 8” and inserting “8, and 29”.
+> by amending subsection (a) and the 1st sentence of subsection (b) of section 11 by striking “and 8” and inserting “8, and 28”.
 
 | | |
 |---|---|
 | Removed | `and 8` |
-| Inserted | `8, and 29` |
+| Inserted | `8, and 28` |
 
 ## Stated, not applied
 
