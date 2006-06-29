@@ -2,7 +2,7 @@
 legis-num: H. RES. 895
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 895
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Terrorist Finance Tracking Program is firmly rooted in sound legal authority based on Executive Orders and statutory mandates, including the International Emergency Economic Powers Act of 1977 and the United Nations Participation Act;
 - Whereas the Terrorist Finance Tracking Program consists of the appropriate and limited use of transaction information while maintaining respect for individual privacy;
 - Whereas the Terrorist Finance Tracking Program has rigorous safeguards and protocols to protect privacy in that record searches must identify a terrorism-related basis, and regular, independent audits of the program have confirmed that the United States Government has consistently observed the established safeguards and protocols;
-- Whereas appropriate Members of Congress, including the members of the Committees on Intelligence of the Senate and House of Representatives, have been briefed on the Terrorist Finance Tracking Program and have conducted oversight of the Program;
+- Whereas appropriate Members of Congress, including the members of the Committees on Intelligence of the Senate and House of Representatives have been briefed on the Terrorist Finance Tracking Program and have conducted oversight of the Program;
 - Whereas the Terrorist Finance Tracking Program has successfully provided vital intelligence in support of the global war on terrorism, including information leading to the capture of Hambali, the Operations Chief of Jemaah Islamiyah, an al Qaeda affiliate, who masterminded the 2002 nightclub bombing in Indonesia that killed over 200 people;
 - Whereas the Terrorist Finance Tracking Program has helped authorities uncover terrorist financiers worldwide and find Uzair Paracha, an al Qaeda money launderer operating in the United States;
 - Whereas Congress has authorized the Secretary of the Treasury to explore the implementation of systems to review all cross-border wire transactions;
