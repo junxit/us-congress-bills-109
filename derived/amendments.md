@@ -1,7 +1,7 @@
 ---
 measure: S. 1554
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Subtitle H of title VIII of the Homeland Security Act of 2002 (6 U.S.C. 451 et seq.) is amended by inserting after section 890 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections under section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by inserting after the item relating to section 890 the following: | the bill names no machine-readable US Code section |
+| — | insert | The Homeland Security Act of 2002 is amended by inserting after section 313 (6 U.S.C. 193) the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 313 the following: | the bill names no machine-readable US Code section |
