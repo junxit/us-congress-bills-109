@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 896
 congress: 109
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 896
