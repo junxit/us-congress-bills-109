@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 895
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 895
@@ -25,3 +25,14 @@ Supporting intelligence and law enforcement programs to track terrorists and ter
 - 2006-06-28 — Introduced in House
 - 2006-06-28 — Introduced in House
 - 2006-06-28 — Referred to the House Committee on Financial Services.
+- 2006-06-29 — Considered as unfinished business. (consideration: CR H4892-4893)
+- 2006-06-29 — Considered under the provisions of rule H. Res. 896. (consideration: CR H4875-4890)
+- 2006-06-29 — DEBATE - The House proceeded with one hour of debate on H. Res. 895.
+- 2006-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-06-29 — On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 183 (Roll no. 357). (text as passed House: CR H4875-4876)
+- 2006-06-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the resolution the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes had prevailed. Mr. Oxley demanded the yeas and nays and the Chair postponed further proceedings on adoption of the resolution until later in the legislative day.
+- 2006-06-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 183 (Roll no. 357).(text as passed House: CR H4875-4876)
+- 2006-06-29 — Rule H. Res. 896 passed House.
+- 2006-06-29 — Rule provides for consideration of H. Res. 895 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2006-06-29 — Rules Committee Resolution H. Res. 896 Reported to House. Rule provides for consideration of H. Res. 895 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2006-06-29 — The previous question was ordered pursuant to the rule.
