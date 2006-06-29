@@ -1,7 +1,7 @@
 ---
 measure: S. 1554
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1554
@@ -28,3 +28,7 @@ Promoting Antiterrorism Capabilities Through International Cooperation Act of 20
 
 - 2005-07-29 — Introduced in Senate
 - 2005-07-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-06-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2006-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2006-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
