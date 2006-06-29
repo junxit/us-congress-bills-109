@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 408
 congress: 109
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 408
@@ -68,3 +68,5 @@ Commending the Government of Canada for its renewed commitment to the Global War
 - 2006-06-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 256). (text: CR 6/12/2006 H3738-3739)
 - 2006-06-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 256).(text: CR 6/12/2006 H3738-3739)
 - 2006-06-13 — The title of the measure was amended. Agreed to without objection.
+- 2006-06-14 — Received in the Senate.
+- 2006-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
