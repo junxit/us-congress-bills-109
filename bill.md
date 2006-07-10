@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3085
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,4 +15,8 @@ Section 5(a)(16) of the National Trails System Act (16 U.S.C. 1244(a)(16)) is am
 
 - **(1)** in subparagraph (B), by striking “subsections” and inserting “sections”; and
 - **(2)** by adding at the end the following new subparagraph:
-  > - **(C)** Not later than one complete fiscal year after the date of the enactment of this subparagraph, the Secretary of the Interior shall submit to Congress a study regarding the feasibility and suitability of designating, as additional components of the Trail of Tears National Historic Trail, the Benge and Bell routes, the land components of the designated water routes in Tennessee, Alabama, Arkansas, and Oklahoma, the routes from the collection forts in Alabama, Georgia, North Carolina, and Tennessee to the emigration depots, and related campgrounds located along such routes and in such land components, by which the Cherokee Nation was removed to Oklahoma. Upon completion of the study, if the Secretary determines that such routes, land components, and campgrounds are a feasible and suitable addition to the Trail of Tears National Historic Trail, the Secretary shall designate such routes, land components, and campgrounds as components of the Trail of Tears National Historic Trail. The Secretary shall publish notice of the designation in the Federal Register.
+  > - **(C)** Not later than 6 months after the date of the enactment of this Act, the Secretary of the Interior shall complete the remaining criteria and submit to Congress a study regarding the feasibility and suitability of designating, as additional components of the Trail of Tears National Historic Trail, the following routes and land components by which the Cherokee Nation was removed to Oklahoma:
+  >   - **(i)** The Benge and Bell routes.
+  >   - **(ii)** The land components of the designated water routes in Alabama, Arkansas, Oklahoma, and Tennessee.
+  >   - **(iii)** The routes from the collection forts in Alabama, Georgia, North Carolina, and Tennessee to the emigration depots.
+  >   - **(iv)** The related campgrounds located along the routes and land components described in clauses (i) through (iii).

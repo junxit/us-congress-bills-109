@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3085
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3085
@@ -16,7 +16,7 @@ To amend the National Trails System Act to update the feasibility and suitabilit
 
 - Rep. Wamp, Zach [R-TN-3] (W000119)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Rep. Berry, Marion [D-AR-1] (B000420)
 - Rep. Taylor, Charles H. [R-NC-11] (T000067)
@@ -36,6 +36,8 @@ To amend the National Trails System Act to update the feasibility and suitabilit
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Norwood, Charles W. [R-GA-9] (N000159)
 
 ## Committees (1)
 
@@ -46,3 +48,11 @@ To amend the National Trails System Act to update the feasibility and suitabilit
 - 2005-06-28 — Introduced in House
 - 2005-06-28 — Introduced in House
 - 2005-06-28 — Referred to the House Committee on Resources.
+- 2005-07-01 — Referred to the Subcommittee on National Parks.
+- 2006-04-27 — Subcommittee Hearings Held.
+- 2006-06-21 — Committee Consideration and Mark-up Session Held.
+- 2006-06-21 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-06-21 — Subcommittee on National Parks Discharged.
+- 2006-07-10 — Placed on the Union Calendar, Calendar No. 309.
+- 2006-07-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-549.
+- 2006-07-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-549.
