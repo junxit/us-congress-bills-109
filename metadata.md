@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5589
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5589
@@ -30,3 +30,10 @@ To direct the Secretary of Homeland Security to transfer to United States Immigr
 - 2006-06-12 — Introduced in House
 - 2006-06-12 — Introduced in House
 - 2006-06-12 — Referred to the House Committee on Homeland Security.
+- 2006-06-15 — Referred to the Subcommittee on Economic Security, Infrastructure Protection, and Cybersecurity.
+- 2006-07-10 — Considered under suspension of the rules. (consideration: CR H4928-4930)
+- 2006-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5589.
+- 2006-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-10 — Mr. Souder moved to suspend the rules and pass the bill.
+- 2006-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4928)
+- 2006-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4928)
