@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3085
 congress: 109
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3085
@@ -39,9 +39,10 @@ To amend the National Trails System Act to update the feasibility and suitabilit
 - Rep. Linder, John [R-GA-7] (L000321)
 - Rep. Norwood, Charles W. [R-GA-9] (N000159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -56,3 +57,36 @@ To amend the National Trails System Act to update the feasibility and suitabilit
 - 2006-07-10 — Placed on the Union Calendar, Calendar No. 309.
 - 2006-07-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-549.
 - 2006-07-10 — Reported (Amended) by the Committee on Resources. H. Rept. 109-549.
+- 2006-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-07-17 — Considered as unfinished business. (consideration: CR H5245-5246)
+- 2006-07-17 — Considered under suspension of the rules. (consideration: CR H5232-5234)
+- 2006-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3085.
+- 2006-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-17 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
+- 2006-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 5 (Roll no. 375). (text: CR H5232-5233)
+- 2006-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 5 (Roll no. 375).(text: CR H5232-5233)
+- 2006-07-18 — Received in the Senate.
+- 2006-08-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-09-29 — Amendment SA 5113 agreed to in Senate by Unanimous Consent.
+- 2006-09-29 — Amendment SA 5113 proposed by Senator Hutchison for Senator Domenici. (consideration: CR S10539; text: CR S10539) To clarify that additional funds are not authorized to be appropriated to carry out the feasibility and suitability study.
+- 2006-09-29 — Measure laid before Senate by unanimous consent. (consideration: CR S10539)
+- 2006-09-29 — Message on Senate action sent to the House.
+- 2006-09-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2006-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2006-09-29 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2006-09-29 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2006-09-29 — Senate amendment agreed to: Amendment SA 5113 agreed to in Senate by Unanimous Consent.
+- 2006-09-29 — Senate amendment proposed (on the floor): Amendment SA 5113 proposed by Senator Hutchison for Senator Domenici.(consideration: CR S10539; text: CR S10539)
+- 2006-09-29 — Senate amendment submitted
+- 2006-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 5, rule I, the chair announced that further proceedings on the motion would be postponed.
+- 2006-11-13 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3085.
+- 2006-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-11-13 — Mr. Radanovich moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8583-8584, H8604-8605)
+- 2006-11-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 383 - 3 (Roll no. 517). (text as House agreed to Senate amendment: CR H8583)
+- 2006-11-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 383 - 3 (Roll no. 517).(text as House agreed to Senate amendment: CR H8583)
+- 2006-11-21 — Presented to President.
+- 2006-11-21 — Presented to President.
+- 2006-12-01 — Became Public Law No: 109-378.
+- 2006-12-01 — Became Public Law No: 109-378.
+- 2006-12-01 — Signed by President.
+- 2006-12-01 — Signed by President.
