@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5061
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5061
@@ -38,3 +38,11 @@ Paint Bank and Wytheville National Fish Hatcheries Conveyance Act
 - 2006-06-28 — Placed on the Union Calendar, Calendar No. 297.
 - 2006-06-28 — Reported by the Committee on Resources. H. Rept. 109-533.
 - 2006-06-28 — Reported by the Committee on Resources. H. Rept. 109-533.
+- 2006-07-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-07-10 — Considered as unfinished business. (consideration: CR H4931)
+- 2006-07-10 — Considered under suspension of the rules. (consideration: CR H4924-4925)
+- 2006-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5061.
+- 2006-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-10 — Mr. Radanovich moved to suspend the rules and pass the bill.
+- 2006-07-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 359). (text: CR H4924)
+- 2006-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 359).(text: CR H4924)
