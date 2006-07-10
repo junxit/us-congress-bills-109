@@ -7,15 +7,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3897
 
-> To authorize the Secretary of the Interior, acting through the Bureau of Reclamation to enter into a cooperative agreement with the Madera Irrigation District for purposes of supporting the Madera Water Supply and Groundwater Enhancement Project.
+> To authorize the Secretary of the Interior, acting through the Bureau of Reclamation to enter into a cooperative agreement with the Madera Irrigation District for purposes of supporting the Madera Water Supply Enhancement Project.
 
 ## § 1. Short title
 
-This Act may be cited as the “Madera Water Supply and Groundwater Enhancement Project Act”.
+This Act may be cited as the “Madera Water Supply Enhancement Act”.
 
 ## § 2. Definitions
 
-- **(a)** The term District means the Madera Water District, Madera, California.
+- **(a)** The term District means the Madera Irrigation District, Madera, California.
 - **(b)** The term Project means the “Madera Water Supply and Enhancement Project”.
 - **(c)** The term Secretary means the Secretary of the United States Department of the Interior.
 
@@ -25,7 +25,7 @@ This Act may be cited as the “Madera Water Supply and Groundwater Enhancement 
 - **(b)** *Report*
   - **(1)** *Transmission* Upon completion of the study authorized by subsection (a), the Secretary shall transmit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the results of the study, together with recommendations regarding any recommendation to construct the project.
   - **(2)** *Use of available materials* In developing the report under this section, the Secretary shall make use of reports and any other relevant information supplied by the District.
-  - **(3)** *Deadline* No later than June 30, 2006, the Secretary shall complete the report and transmit the report to Congress pursuant to subsection (b)(2).
+  - **(3)** *Deadline* No later than December 30, 2006, the Secretary shall complete the report and transmit the report to Congress pursuant to subsection (b)(2).
 - **(c)** *Cost Share*
   - **(1)** *Federal share* The Federal share of the costs of the feasibility study authorized by this section shall not exceed 50 percent of the total cost of the study.
   - **(2)** *In-kind contribution for non-federal share* The Secretary may accept as part of the non-Federal cost share the contribution of such in-kind services by the District as the Secretary determines will contribute to the conduct and completion of the study.
