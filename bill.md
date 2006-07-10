@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Eastern Municipal Water District Recycled Water System Pressurization and Expansion Project”.
+This Act may be cited as the “Eastern Municipal Water District Recycled Water System Pressurization and Expansion Project”
 
 ## § 2. Project authorization
 
