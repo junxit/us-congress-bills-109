@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4855
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4855
@@ -29,3 +29,8 @@ To amend the District of Columbia College Access Act of 1999 to reauthorize for 
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Referred to the House Committee on Government Reform.
+- 2006-03-09 — Committee Consideration and Mark-up Session Held.
+- 2006-03-09 — Ordered to be Reported by Voice Vote.
+- 2006-07-11 — Placed on the Union Calendar, Calendar No. 310.
+- 2006-07-11 — Reported by the Committee on Government Reform. H. Rept. 109-553.
+- 2006-07-11 — Reported by the Committee on Government Reform. H. Rept. 109-553.
