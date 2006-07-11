@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 576
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 576
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas Advancement Via Individual Determination (AVID) has provided academic and motivational support that has enabled more than 95 percent of the over 257,000 underperforming students who have been in its program to go on to college;
 - Whereas Advancement Via Individual Determination has grown over 25 years to more than 2,200 middle and high schools in 36 States and Department of Defense schools in 15 countries;
-- Whereas Advancement Via Individual Determination started in 1980 with one teacher, Mary Catherine Swanson, and 32 high school students in San Diego, California, and developed into an easily replicated program that promotes academic success;
+- Whereas Advancement Via Individual Determination started in 1980 with one teacher and 32 high school students in San Diego, California, and developed into an easily replicated program that promotes academic success;
 - Whereas students are selected because they are low-income, first-generation, college-going students who are underperforming academically;
 - Whereas college students support the program with individual academic coaching;
 - Whereas students are required to take a rigorous, college preparatory curriculum including advanced level courses;

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 576
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 576
@@ -16,7 +16,7 @@ Celebrating Advancement Via Individual Determination's 25 years of success.
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
@@ -31,6 +31,7 @@ Celebrating Advancement Via Individual Determination's 25 years of success.
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
 ## Committees (1)
 
@@ -41,3 +42,10 @@ Celebrating Advancement Via Individual Determination's 25 years of success.
 - 2005-11-18 — Introduced in House
 - 2005-11-18 — Introduced in House
 - 2005-11-18 — Referred to the House Committee on Education and the Workforce.
+- 2006-03-27 — Referred to the Subcommittee on 21st Century Competitiveness.
+- 2006-07-11 — Considered under suspension of the rules. (consideration: CR H5008-5010)
+- 2006-07-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 576.
+- 2006-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-11 — Mr. Castle moved to suspend the rules and agree to the resolution, as amended.
+- 2006-07-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5008-5009)
+- 2006-07-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5008-5009)
