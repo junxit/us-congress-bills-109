@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5640
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 16 executed, 40 stated and not applied.
+61 amendatory instructions. 17 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -125,16 +125,25 @@ to guess them.
 
 ### 42 U.S.C. § 620
 
-> by striking “such activities” and inserting “activities specified in subsection (c)”.
+> by striking “No” and inserting “Except as provided in paragraph (2), no”;
+
+| | |
+|---|---|
+| Removed | `No` |
+| Inserted | `Except as provided in paragraph (2), no` |
+
+### 42 U.S.C. § 620
+
+> by striking “such activities” and inserting “activities specified in subsection (c)(1)”.
 
 | | |
 |---|---|
 | Removed | `such activities` |
-| Inserted | `activities specified in subsection (c)` |
+| Inserted | `activities specified in subsection (c)(1)` |
 
 ### 42 U.S.C. § 620
 
-> Section 424(a) of such Act, as so redesignated by subsection (b)(1) of this section, is amended by striking “per centum” and inserting “percent”.
+> Section 424(a) of such Act, as so redesignated by subsection (b)(2) of this section, is amended by striking “per centum” and inserting “percent”.
 
 | | |
 |---|---|
@@ -179,39 +188,43 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 629` | replace | Section 430 of the Social Security Act (42 U.S.C. 629) is amended by striking all through “(b) Purpose.—The purpose” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629` | insert | in subsection (a), by inserting “, subject to subsection (d),” after “shall”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 629` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629b` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629` | insert | Section 432(b)(2) of such Act (42 U.S.C. 629(b)(b)(2)), as amended by subsection (f) of this section, is amended by inserting before subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629` | insert | by inserting before subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629` | insert | by inserting “or tribal consortium” after “Indian tribe”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 629` | insert | by inserting “and tribal consortia” after “Indian tribes”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629c` | add-at-end | Section 436(b) of the Social Security Act (42 U.S.C. 629f(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629c` | insert | in subsection (d), by inserting “subsection (a), (b), or (c) of” before “this section” the 1st and 2nd places it appears; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 629c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629d` | replace | Section 434(a) of such Act (42 U.S.C. 629d(a)), as amended by section 2(b)(1) of this Act, is amended by striking “the lesser of—” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 629c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629d` | replace | Section 434(a) of such Act (42 U.S.C. 629d(a)), as amended by section 3(b)(1) of this Act, is amended by striking “the lesser of—” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 620` | replace | Subpart 1 of part B of title IV of the Social Security Act (42 U.S.C. 620–628b) is amended by striking sections 420 and 425 and inserting after section 424 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 620` | strike | by striking section 424; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | redesignate | by redesignating sections 421 and 423 as sections 423 and 424, respectively, and by transferring section 423 (as so redesignated) so that it appears after section 422; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | insert | by inserting after the subpart heading the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | replace | by striking paragraphs (3) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | replace | by striking paragraph (6) and inserting after paragraph (3) (as added by subparagraph (A) of this paragraph) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | redesignate | by redesignating paragraphs (7) through (9) as paragraphs (5) through (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 622` | redesignate | by striking subparagraph (A) and redesignating subparagraph (B) as subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 622` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 622` | insert | in subparagraph (B)(iii)(II), by inserting “, which may include a residential educational program” after “in some other planned, permanent living arrangement”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 622` | redesignate | by redesignating subparagraph (B) as subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | replace | by striking subparagraph (C) and inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | strike | in paragraph (14), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 622` | replace | in paragraph (15), by striking the period and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | redesignate | by redesignating paragraphs (10) through (15) as paragraphs (8) through (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 622` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 622` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 622` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | insert | by inserting “In general.—” after “(a)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 620` | insert | by inserting “Determination of State allotment percentages.—” after “(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 620` | insert | in subsection (c), by inserting “Promulgation of State allotment percentages.—” after “(c)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 620` | insert | by inserting “United States defined.—” after “(d)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 620` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 620` | strike | by striking “(1)”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 620` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | strike | by striking “, for any fiscal year beginning after September 30, 1979,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 620` | strike | in subparagraph (A), by striking “necessary” and all that follows through “living”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 620` | strike | in subparagraph (C), by striking “, to the extent” and all that follows through “1979”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 620` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 620` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | strike | by striking “(excluding expenditures for activities specified in subsection (c)(1))”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 620` | redesignate | Section 424 of such Act (42 U.S.C. 623), as so redesignated by subsection (b)(1) of this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 626` | redesignate | Section 426 (42 U.S.C. 626) is amended by striking subsection (b) and redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 620` | redesignate | Section 424 of such Act (42 U.S.C. 623), as so redesignated by subsection (b)(2) of this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 626` | redesignate | Section 426 of such Act (42 U.S.C. 626) is amended by striking subsection (b) and redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 628a` | strike | by striking the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 438 of the Social Security Act (42 U.S.C. 629h) is amended in each of subsections (c)(1)(A) and (d) by striking “2006” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “2002 through 2006” and inserting “2007 through 2011”; and | the bill names no machine-readable US Code section |
