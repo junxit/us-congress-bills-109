@@ -13,7 +13,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Child and Family Services Improvement Act of 2006”.
 
-## § 2. Reauthorization of the safe and stable families program
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** For Federal fiscal year 2004, child protective services (CPS) staff nationwide reported investigating or assessing an estimated 3,000,000 allegations of child maltreatment, and determined that 872,000 children had been abused or neglected by their parents or other caregivers.
+- **(2)** Combined, the Child Welfare Services (CWS) and Promoting Safe and Stable Families (PSSF) programs provide States about $700,000,000 per year for services intended to ensure the safety, permanency, and well-being of children. These programs are considered the largest source of targeted Federal funding in the child protection system for prevention—that is, for services to ensure that children are not abused or neglected and, whenever possible, help children remain safely with their families.
+- **(3)** States have broad flexibility in directing CWS dollars to protect children from abuse and neglect. Under the PSSF program, States must invest significant portions of program funds in family preservation services, family support services, time-limited reunification services, and post-adoption support services.
+- **(4)** However, a 2003 report by the Government Accountability Office (GAO) reported that little research is available on the effectiveness of activities supported by CWS funds—evaluations of services supported by PSSF funds have generally shown little or no effect.
+- **(5)** Further, the Department of Health and Human Services recently completed initial Child and Family Service Reviews (CFSRs) in each State. No State was in full compliance with all measures of the CFSRs. The CFSRs also revealed that States need to work to prevent repeat abuse and neglect of children, improve services provided to families to reduce the risk of future harm (including by better monitoring the participation of families in services), and strengthen upfront services provided to families to prevent unnecessary family break-up and protect children who remain at home.
+- **(6)** Federal policy should ensure that States are appropriately targeting CWS and PSSF funds to assist at-risk families and protect abused and neglected children to address issues found in the CFSRs. Encouraging States to invest their CWS and PSSF funds in services that promote and protect the welfare of children, support strong, healthy families, and reduce the reliance on out-of-home care, will help ensure all children are raised in safe, loving families.
+- **(7)** CFSRs also found a strong correlation between frequent caseworker visits with children and positive outcomes for these children, such as timely achievement of permanency and other indicators of child well-being.
+- **(8)** However, a December 2005 report by the Department of Health and Human Services Office of Inspector General found that only 20 States were able to produce reports to show whether caseworkers actually visited children in foster care on at least a monthly basis, despite the fact that nearly all States had written standards suggesting monthly visits were State policy. In fact, 7 of these 20 States indicated that fewer than half of the children in foster care were visited on a monthly basis.
+- **(9)** The Deficit Reduction Act of 2005 provided $40,000,000 in fiscal year 2006 for the PSSF program which this Act ensures will be available and which the Congressional Budget Office estimates will increase mandatory budget authority by $40,000,000 each year from 2006 through 2015, for a total of $400,000,000.
+- **(10)** A 2003 GAO report found that the average tenure for a child welfare caseworker is less than 2 years and this level of turnover negatively affects safety and permanency for children.
+- **(11)** Targeting additional PSSF funds to ensure children in foster care are visited on at least a monthly basis will promote better outcomes for vulnerable children, including by preventing further abuse and neglect.
+
+## § 3. Reauthorization of the safe and stable families program
 
 - **(a)** *Elimination of findings* Section 430 of the Social Security Act (42 U.S.C. 629) is amended by striking all through “(b) Purpose.—The purpose” and inserting the following:
   > ## § 430. Purpose
@@ -33,12 +49,16 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
 - **(f)** *Collection of data on tribal promoting safe and stable families plans* Section 432(b)(2) of such Act (42 U.S.C. 629b(b)(2)) is amended—
   - **(1)** by striking subparagraph (A); and
   - **(2)** in subparagraph (B), by striking “Notwithstanding subparagraph (A) of this paragraph, the” and inserting “The”.
-- **(g)** *Authority of intertribal consortia to apply for grants* Section 432(b)(2) of such Act (42 U.S.C. 629(b)(b)(2)), as amended by subsection (f) of this section, is amended by inserting before subparagraph (B) the following:
-  > - **(A)** *Intertribal consortia* This subpart shall not be interpreted to preclude the development and submission of a single tribal plan under this subpart by the participating tribes of an intertribal consortium.
+- **(g)** *Authority of intertribal consortia To apply for grants* Section 432(b)(2) of such Act (42 U.S.C. 629(b)(b)(2)), as amended by subsection (f) of this section, is amended—
+  - **(1)** by inserting before subparagraph (B) the following:
+    > - **(A)** *Intertribal consortia* This subpart shall not be interpreted to preclude the development and submission of a single tribal plan under this subpart by the participating tribes of an intertribal consortium.
 
+  - **(2)** in subparagraph (B)—
+    - **(A)** by inserting “or tribal consortium” after “Indian tribe”; and
+    - **(B)** by inserting “and tribal consortia” after “Indian tribes”.
 - **(h)** *Technical correction* Section 431(a)(6) of such Act (42 U.S.C. 629a(a)(6)) is amended by striking “1986” and inserting “1996”.
 
-## § 3. Targeting of increased safe and stable families program resources to support monthly caseworker visits
+## § 4. Targeting of increased safe and stable families program resources to support monthly caseworker visits
 
 - **(a)** *Reservation and use of funds*
   - **(1)** *In general* Section 436(b) of the Social Security Act (42 U.S.C. 629f(b)) is amended by adding at the end the following:
@@ -52,7 +72,7 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
 - **(b)** *Allotment of funds* Section 433 of such Act (42 U.S.C. 629c) is amended—
   - **(1)** in subsection (d), by inserting “subsection (a), (b), or (c) of” before “this section” the 1st and 2nd places it appears; and
   - **(2)** by adding at the end the following:
-    > - **(e)** *Special rules applicable to funds reserved to support monthly caseworker visits*
+    > - **(e)** *Special rules applicable to funds reserved To support monthly caseworker visits*
     >   - **(1)** *Allotments*
     >     - **(A)** *Territories* From the amount reserved pursuant to section 436(b)(4)(A) for fiscal year 2006 or any succeeding fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section that meets the requirements of paragraph (2) of this subsection for the fiscal year an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 423 (without regard to the initial allotment of $70,000 to each State).
     >     - **(B)** *Other States* From the amount reserved pursuant to section 436(b)(4)(A) for fiscal year 2006 or any succeeding fiscal year that remains after applying subparagraph (A) of this paragraph for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section that meets the requirements of paragraph (2) of this subsection for the fiscal year an amount equal to such remaining amount multiplied by the food stamp percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, “subsection (e)(1)(B)” shall be substituted for “such paragraph (1)”.
@@ -69,7 +89,7 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
     >       - **(ii)** *State ability to verify frequency of caseworker visits* The Secretary has verified that the State has in effect such policies and standards as may be necessary to enable the State to determine whether, for at least 90 percent of the children in foster care under the responsibility of the State, a caseworker visited the child at least once each month during the fiscal year.
     >       - **(iii)** *Verification of nonsupplantation compliance* The State has provided to the Secretary such documentation as may be necessary to verify that the State has complied with section 436(b)(4)(B)(ii) during the fiscal year.
 
-- **(c)** *Payments to States* Section 434(a) of such Act (42 U.S.C. 629d(a)), as amended by section 2(b)(1) of this Act, is amended by striking “the lesser of—” and all that follows and inserting the following:
+- **(c)** *Payments to States* Section 434(a) of such Act (42 U.S.C. 629d(a)), as amended by section 3(b)(1) of this Act, is amended by striking “the lesser of—” and all that follows and inserting the following:
   > the sum of—
   > - **(1)** the lesser of—
   >   - **(A)** 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
@@ -78,7 +98,7 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
   >   - **(A)** 75 percent of the total expenditures by the State in accordance with section 436(b)(4)(B) during the fiscal year or the immediately succeeding fiscal year; or
   >   - **(B)** the allotment of the State under section 433(e) for the fiscal year.
 
-## § 4. Improvements to the child welfare services program
+## § 5. Improvements to the child welfare services program
 
 - **(a)** *Funding* Subpart 1 of part B of title IV of the Social Security Act (42 U.S.C. 620–628b) is amended by striking sections 420 and 425 and inserting after section 424 the following:
   > ## § 425. Limitations on authorization of appropriations
@@ -86,8 +106,9 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
   > To carry out this subpart, there are authorized to be appropriated to the Secretary not more than $325,000,000 for each of fiscal years 2007 through 2011.
 
 - **(b)** *Purpose of program* Such subpart is further amended—
-  - **(1)** by redesignating sections 421 and 423 as sections 423 and 424, respectively, and by transferring section 423 (as so redesignated) so that it appears after section 422; and
-  - **(2)** by inserting after the subpart heading the following:
+  - **(1)** by striking section 424;
+  - **(2)** by redesignating sections 421 and 423 as sections 423 and 424, respectively, and by transferring section 423 (as so redesignated) so that it appears after section 422; and
+  - **(3)** by inserting after the subpart heading the following:
     > ## § 421. Purpose
     >
     > The purpose of this subpart is to promote State flexibility in the development and expansion of a coordinated child and family services program that utilizes community-based agencies and ensures all children are raised in safe, loving families, by—
@@ -110,8 +131,10 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
 
     - **(C)** by redesignating paragraphs (7) through (9) as paragraphs (5) through (7), respectively;
     - **(D)** in paragraph (10)—
-      - **(i)** by striking subparagraph (A) and redesignating subparagraph (B) as subparagraph (A); and
-      - **(ii)** by striking subparagraph (C) and inserting after subparagraph (A) the following:
+      - **(i)** by striking subparagraph (A);
+      - **(ii)** in subparagraph (B)(iii)(II), by inserting “, which may include a residential educational program” after “in some other planned, permanent living arrangement”;
+      - **(iii)** by redesignating subparagraph (B) as subparagraph (A); and
+      - **(iv)** by striking subparagraph (C) and inserting after subparagraph (A) the following:
         > - **(B)** has in effect policies and administrative and judicial procedures for children abandoned at or shortly after birth which enable permanent decisions to be made expeditiously with respect to the placement of the children;
 
     - **(E)** in paragraph (14), by striking “and” at the end;
@@ -128,7 +151,7 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
     >   - **(1)** *Administrative costs* The term administrative costs means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processing and computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
     >   - **(2)** *Other terms* For definitions of other terms used in this part, see section 475.
 
-- **(d)** *Provisions relating to State allotments* Section 423 of such Act, as so redesignated by subsection (b)(1) of this section, is amended—
+- **(d)** *Provisions relating to State allotments* Section 423 of such Act, as so redesignated by subsection (b)(2) of this section, is amended—
   - **(1)** in subsection (a)—
     - **(A)** by inserting “In general.—” after “(a)”;
     - **(B)** by striking “420” and inserting “425”; and
@@ -152,22 +175,26 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
     >   - **(3)** *Amounts reallotted to a State amounts deemed part of State allotment* Any amount so reallotted to a State is deemed part of the allotment of the State under this section.
 
 - **(e)** *Payments to States*
-  - **(1)** *Exclusion of expenditures for day care, foster care, and adoption assistance from allowable expenditures* Section 424 of such Act, as so redesignated by subsection (b)(1) of this section, is amended—
+  - **(1)** *Exclusion of expenditures for child day care, foster care maintenance payments, and adoption assistance payments from allowable expenditures* Section 424 of such Act, as so redesignated by subsection (b)(2) of this section, is amended—
     - **(A)** in subsection (c)—
       - **(i)** in paragraph (1)—
-        - **(I)** by striking “(1)”;
+        - **(I)** by striking “No” and inserting “Except as provided in paragraph (2), no”;
         - **(II)** by striking “, for any fiscal year beginning after September 30, 1979,”;
         - **(III)** in subparagraph (A), by striking “necessary” and all that follows through “living”; and
         - **(IV)** in subparagraph (C), by striking “, to the extent” and all that follows through “1979”; and
-      - **(ii)** by striking paragraph (2); and
+      - **(ii)** by striking paragraph (2) and inserting the following:
+        > - **(2)** In the case of a State which demonstrates to the Secretary that the State made an expenditure described in paragraph (1) in fiscal year 2005, the Secretary shall not make a payment to the State under this part for any fiscal year beginning after September 30, 2006, with respect to the State expenditures so described, to the extent that the Federal payment with respect to the expenditures so described for the fiscal year exceeds the lesser of—
+        >   - **(A)** the total amount of the Federal payment under this part for fiscal year 1979; or
+        >   - **(B)** the total amount of the Federal payment with respect to the expenditures so described for fiscal year 2005.
+
     - **(B)** in subsection (d)—
       - **(i)** by striking “(excluding expenditures for activities specified in subsection (c)(1))”; and
-      - **(ii)** by striking “such activities” and inserting “activities specified in subsection (c)”.
-  - **(2)** *Limitation on administrative cost reimbursement* Section 424 of such Act (42 U.S.C. 623), as so redesignated by subsection (b)(1) of this section, is amended by adding at the end the following:
+      - **(ii)** by striking “such activities” and inserting “activities specified in subsection (c)(1)”.
+  - **(2)** *Limitation on administrative cost reimbursement* Section 424 of such Act (42 U.S.C. 623), as so redesignated by subsection (b)(2) of this section, is amended by adding at the end the following:
     > - **(e)** *Limitation on reimbursement for administrative costs* The Secretary shall not make a payment to a State under this section with respect to expenditures during a fiscal year for administrative costs, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year for activities funded from amounts provided under this subpart.
 
-  - **(3)** *Technical amendment* Section 424(a) of such Act, as so redesignated by subsection (b)(1) of this section, is amended by striking “per centum” and inserting “percent”.
-- **(f)** *Elimination of obsolete provision* Section 426 (42 U.S.C. 626) is amended by striking subsection (b) and redesignating subsection (c) as subsection (b).
+  - **(3)** *Technical amendment* Section 424(a) of such Act, as so redesignated by subsection (b)(2) of this section, is amended by striking “per centum” and inserting “percent”.
+- **(f)** *Elimination of obsolete provision* Section 426 of such Act (42 U.S.C. 626) is amended by striking subsection (b) and redesignating subsection (c) as subsection (b).
 - **(g)** *Conforming amendments*
   - **(1)** Section 428(b) of such Act (42 U.S.C. 628(b)) is amended by striking “421” and inserting “423”.
   - **(2)** Section 429 of such Act (42 U.S.C. 628a) is amended—
@@ -185,11 +212,11 @@ This Act may be cited as the “Child and Family Services Improvement Act of 200
   - **(4)** Section 433(b) of such Act (42 U.S.C. 629c(b)) is amended by striking “421” and inserting “423”.
   - **(5)** Section 437(c)(2) of such Act (42 U.S.C. 629g(c)(2)) is amended by striking “421” and inserting “423”.
 
-## § 5. Reauthorization of the court improvement program
+## § 6. Reauthorization of the court improvement program
 
 Section 438 of the Social Security Act (42 U.S.C. 629h) is amended in each of subsections (c)(1)(A) and (d) by striking “2006” and inserting “2011”.
 
-## § 6. Reauthorization of program for mentoring children of prisoners
+## § 7. Reauthorization of program for mentoring children of prisoners
 
 Section 439 of the Social Security Act (42 U.S.C. 629i) is amended—
 
@@ -197,12 +224,12 @@ Section 439 of the Social Security Act (42 U.S.C. 629i) is amended—
 - **(2)** in subsection (h), by striking paragraph (1) and inserting the following:
   > - **(1)** *Limitations on authorization of appropriations; reservation of certain amounts* To carry out this section, there are authorized to be appropriated to the Secretary such sums as may be necessary for fiscal years 2007 through 2011.
 
-## § 7. Availability of additional promoting safe and stable families resources for fiscal year 2006
+## § 8. Availability of additional promoting safe and stable families resources for fiscal year 2006
 
 - **(a)** *Appropriation* Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary of Health and Human Services $40,000,000 for fiscal year 2006 to carry out subpart 2 of part B of title IV of the Social Security Act, in addition to any amount otherwise made available for fiscal year 2006 to carry out such subpart.
 - **(b)** *Availability of funds* Notwithstanding section 434(b)(2) of such Act, the amounts paid to States from the amount appropriated under subsection (a) of this section shall remain available for expenditure by the States through fiscal year 2008.
 
-## § 8. Reports
+## § 9. Reports
 
 Section 435 of the Social Security Act (42 U.S.C. 629e) is amended by adding at the end the following:
 
@@ -213,8 +240,8 @@ Section 435 of the Social Security Act (42 U.S.C. 629e) is amended by adding at 
 >     - **(C)** how spending under the programs has helped achieve the goals identified by each such State, territory, and Indian tribe as part of the annual planning process undertaken in developing plans pursuant to this part.
 >   - **(2)** *Timing* The Secretary shall submit the biennial reports required by paragraph (1) not later than July 1, 2008, and not later than July 1 of every other calendar year thereafter.
 
-## § 9. Effective dates
+## § 10. Effective dates
 
 - **(a)** *In general* Except as otherwise provided in this section, the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under part B of title IV of the Social Security Act for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 - **(b)** *Delay permitted if State legislation required* If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B, or a State plan approved under subpart 2 of part B, of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
-- **(c)** *Availability of additional promoting safe and stable families resources for fiscal year 2006* Section 7 shall take effect on the date of the enactment of this Act.
+- **(c)** *Availability of additional promoting safe and stable families resources for fiscal year 2006* Section 8 shall take effect on the date of the enactment of this Act.
