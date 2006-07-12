@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 86
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 86
@@ -55,3 +55,4 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2006-07-11 — Mr. Shaw moved to suspend the rules and pass the resolution.
 - 2006-07-11 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H5010)
 - 2006-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H5010)
+- 2006-07-12 — Received in the Senate, read twice.
