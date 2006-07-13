@@ -1,7 +1,7 @@
 ---
 legis-num: S. 418
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -147,10 +147,11 @@ Section 15A(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3(i)) is 
 
 ## § 12. Sense of Congress
 
--  It is the sense of the Congress that the Federal and State agencies responsible for insurance and securities regulation should provide advice to the appropriate Federal entities to consider—
-  - **(1)** significantly increasing the life insurance coverage made available through the Federal Government to members of the Armed Forces;
-  - **(2)** implementing appropriate procedures to encourage members of the Armed Forces to improve their financial literacy objectives; and
-  - **(3)** improving the benefits and matching contributions provided under the Federal Thrift Savings Plan (established under section 8437 of title 5, United States Code) to members of the Armed Forces.
+It is the sense of the Congress that the Federal and State agencies responsible for insurance and securities regulation should provide advice to the appropriate Federal entities to consider—
+
+- **(1)** significantly increasing the life insurance coverage made available through the Federal Government to members of the Armed Forces;
+- **(2)** implementing appropriate procedures to encourage members of the Armed Forces to improve their financial literacy objectives; and
+- **(3)** improving the benefits and matching contributions provided under the Federal Thrift Savings Plan (established under section 8437 of title 5, United States Code) to members of the Armed Forces.
 
 ## § 13. Definitions
 
