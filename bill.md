@@ -1,8 +1,8 @@
 ---
 legis-num: S. 260
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 260
@@ -32,7 +32,7 @@ In this Act:
 
 - **(1)** *Federal trust species* The term Federal trust species means migratory birds, threatened species, endangered species, interjurisdictional fish, marine mammals, and other species of concern.
 - **(2)** *Habitat enhancement*
-  - **(A)** *In general* The term habitat enhancement means the manipulation of the physical, chemical, or biological characteristics of a native habitat to change a specific function or seral stage of the native habitat.
+  - **(A)** *In general* The term habitat enhancement means the manipulation of the physical, chemical, or biological characteristics of a habitat to change a specific function or seral stage of the habitat.
   - **(B)** *Inclusions* The term habitat enhancement includes—
     - **(i)** an activity conducted to increase or decrease a specific function for the purpose of benefitting species, including—
       - **(I)** increasing the hydroperiod and water depth of a stream or wetland beyond what would naturally occur;
@@ -48,7 +48,7 @@ In this Act:
 - **(3)** *Habitat establishment* The term habitat establishment means the manipulation of physical, chemical, or biological characteristics of a project site to create and maintain habitat that did not previously exist on the project site, including construction of—
   - **(A)** shallow water impoundments on non-hydric soils; and
   - **(B)** side channel spawning and rearing habitat.
-- **(4)** *Habitat improvement* The term habitat improvement means restoring or artificially providing, enhancing, or establishing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
+- **(4)** *Habitat improvement* The term habitat improvement means restoring, enhancing, or establishing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
 - **(5)** *Habitat restoration*
   - **(A)** *In general* The term habitat restoration means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
   - **(B)** *Inclusions* The term habitat restoration includes—
@@ -62,16 +62,12 @@ In this Act:
       - **(II)** the placement of streambank or instream habitat diversity structures in streams that cannot be restored to original conditions or profile; and
     - **(iii)** removal of a disturbing or degrading element to enable the native habitat to reestablish or become fully functional.
 - **(6)** *Private land*
-  - **(A)** *In general* The term “private land” means any land that is not owned by the Federal Government, a State, or a political subdivision of a Stateor a State.
-  - **(B)** *Inclusions* The term “private land” includes tribal land and Hawaiian homeland.
-- **(7)** *Project* The term “project” means a project carried out under the Partners for Fish and Wildlife Program established by section 4.
+  - **(A)** *In general* The term private land means any land that is not owned by the Federal Government or a State.
+  - **(B)** *Inclusions* The term private land includes tribal land and Hawaiian homeland.
+- **(7)** *Project* The term project means a project carried out under the Partners for Fish and Wildlife Program established by section 4.
 - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 4. Partners for fish and wildlife program
-
--  The Secretary shall carry out the Partners for Fish and Wildlife Program within the United States Fish and Wildlife Service to provide technical and financial assistance to private landowners for the conduct of voluntary projects to benefit Federal trust species by promoting habitat improvement, habitat restoration, habitat enhancement, and habitat establishment.
-
-## § 4. Partners for fish and wildlife program
+## § 4. Partners for Fish and Wildlife Program
 
 The Secretary shall carry out the Partners for Fish and Wildlife Program within the United States Fish and Wildlife Service to provide—
 
