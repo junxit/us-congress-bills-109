@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1036
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1036
@@ -23,7 +23,7 @@ Chapter 8 of title 17, United States Code, is amended as follows:
 
 - **(1)** Section 801(b)(1) is amended, in the matter preceding subparagraph (A), by striking “119 and 1004” and inserting “119, and 1004”.
 - **(2)** Section 801 is amended by adding at the end the following:
-  > - **(f)** *Effective date of actions* On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
+  > - **(f)** *Effective Date of Actions* On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
 - **(3)** Section 802(f)(1)(A) is amended—
   - **(A)** in clause (i), by striking “clause (ii) of this subparagraph and subparagraph (B)” and inserting “subparagraph (B) and clause (ii) of this subparagraph”; and
@@ -50,8 +50,7 @@ Chapter 8 of title 17, United States Code, is amended as follows:
       >     - **(II)** a statement that the petitioner (individually or as a group) will not seek a distribution of more than $1000, in which case the amount distributed to the petitioner shall not exceed $1000.
 
   - **(C)** in paragraph (3)(A)—
-    - **(i)** by striking “(A) In general.—Promptly” and inserting
-      > (A) Commencement of proceedings.—
+    - **(i)** by striking “(A) In general.—Promptly” and inserting “(A) Commencement of proceedings.—
       > - **(i)** *Rate adjustment proceeding* Promptly
 
     - **(ii)** by adding at the end the following:
@@ -64,7 +63,8 @@ Chapter 8 of title 17, United States Code, is amended as follows:
       - **(II)** in the first sentence, by striking “which may” and inserting “which, in the case of written direct statements, may”; and
       - **(III)** by striking “clause (iii)” and inserting “clause (iv)”;
     - **(ii)** by amending clause (ii)(I) to read as follows:
-      > - **(ii)(I)** Following the submission to the Copyright Royalty Judges of written direct statements and written rebuttal statements by the participants in a proceeding under paragraph (2), the Copyright Royalty Judges, after taking into consideration the views of the participants in the proceeding, shall determine a schedule for conducting and completing discovery.
+      > - **(ii)**
+      >   - **(I)** Following the submission to the Copyright Royalty Judges of written direct statements and written rebuttal statements by the participants in a proceeding under paragraph (2), the Copyright Royalty Judges, after taking into consideration the views of the participants in the proceeding, shall determine a schedule for conducting and completing discovery.
 
     - **(iii)** by amending clause (iv) to read as follows:
       > - **(iv)** Discovery in connection with written direct statements shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period. The Copyright Royalty Judges may order a discovery schedule in connection with written rebuttal statements.
@@ -88,7 +88,7 @@ Chapter 8 of title 17, United States Code, is amended as follows:
 
 ## § 4. Additional technical amendments
 
-- **(a)** *Distribution of royalty fees* Section 111(d) of title 17, United States Code, is amended—
+- **(a)** *Distribution of Royalty Fees* Section 111(d) of title 17, United States Code, is amended—
   - **(1)** in the second sentence of paragraph (2), by striking all that follows “Librarian of Congress” and inserting “upon authorization by the Copyright Royalty Judges.”;
   - **(2)** in paragraph (4)—
     - **(A)** in subparagraph (B)—
@@ -97,36 +97,51 @@ Chapter 8 of title 17, United States Code, is amended as follows:
     - **(B)** by striking subparagraph (C) and inserting the following:
       > - **(C)** During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy.
 
-- **(b)** *Sound recordings* Section 114(f) of title 17, United States Code, is amended—
+- **(b)** *Sound Recordings* Section 114(f) of title 17, United States Code, is amended—
   - **(1)** in paragraph (1)(A), in the first sentence, by striking “except where” and all that follows through the end period and inserting “except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree.”;
   - **(2)** by amending paragraph (2)(A) to read as follows:
-    > - **(2)(A)** Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmission services and new subscription services specified by subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced, except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of eligible nonsubscription transmission services and new subscription services then in operation and shall include a minimum fee for each such type of service. Any copyright owners of sound recordings or any entities performing sound recordings affected by this paragraph may submit to the Copyright Royalty Judges licenses covering such eligible nonsubscription transmissions and new subscription services with respect to such sound recordings. The parties to each proceeding shall bear their own costs.
+    > - **(2)**
+    >   - **(A)** Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmission services and new subscription services specified by subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced, except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of eligible nonsubscription transmission services and new subscription services then in operation and shall include a minimum fee for each such type of service. Any copyright owners of sound recordings or any entities performing sound recordings affected by this paragraph may submit to the Copyright Royalty Judges licenses covering such eligible nonsubscription transmissions and new subscription services with respect to such sound recordings. The parties to each proceeding shall bear their own costs.
 
   - **(3)** in paragraph (2)(B), in the last sentence, by striking “negotiated under” and inserting “described in”.
-- **(c)** *Phonorecords of nondramatic musical works* Section 115(c)(3) of title 17, United States Code, is amended—
+- **(c)** *Phonorecords of Nondramatic Musical Works* Section 115(c)(3) of title 17, United States Code, is amended—
   - **(1)** in subparagraph (B), by striking “subparagraphs (B) through (F)” and inserting “this subparagraph and subparagraphs (C) through (E)”;
   - **(2)** in subparagraph (D), in the third sentence, by inserting “in subparagraphs (B) and (C)” after “described”; and
   - **(3)** in subparagraph (E), in clauses (i) and (ii)(I), by striking “(C) or (D)” each place it appears and inserting “(C) and (D)”.
-- **(d)** *Noncommercial broadcasting* Section 118 of title 17, United States Code, is amended—
+- **(d)** *Noncommercial Broadcasting* Section 118 of title 17, United States Code, is amended—
   - **(1)** in subsection (b)(3), by striking “copyright owners in works” and inserting “owners of copyright in works”; and
   - **(2)** in subsection (c)—
     - **(A)** in the matter preceding paragraph (1), by striking “established by” and all that follows through “engage” and inserting “established by the Copyright Royalty Judges under subsection (b)(4), engage”; and
     - **(B)** in paragraph (1), by striking “(g)” and inserting “(f)”.
-- **(e)** *Satellite carriers* Section 119 of title 17, United States Code, is amended—
+- **(e)** *Satellite Carriers* Section 119 of title 17, United States Code, is amended—
   - **(1)** in subsection (b)(4)—
     - **(A)** in subparagraph (B), by striking the second sentence and inserting the following: “If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall authorize the Librarian of Congress to proceed to distribute such fees to the copyright owners entitled to receive them, or to their designated agents, subject to the deduction of reasonable administrative costs under this section.”; and
     - **(B)** by amending subparagraph (C) to read as follows:
       > - **(C)** *Withholding of fees during controversy* During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy.
 
   - **(2)** in subsection (c)(1)(F)(i), in the last sentence, by striking “arbitrary” and inserting “arbitration”.
-- **(f)** *Digital audio recording devices* Section 1007 of title 17, United States Code, is amended—
+- **(f)** *Digital Audio Recording Devices* Section 1007 of title 17, United States Code, is amended—
   - **(1)** in subsection (b)—
     - **(A)** in the second sentence, by striking “Librarian of Congress” and inserting “Copyright Royalty Judges”; and
     - **(B)** in the last sentence, by striking “by the Librarian”; and
   - **(2)** in subsection (c), in the last sentence, by striking “by the Librarian”.
-- **(g)** *Removal of inconsistent provisions* The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 shall be deemed never to have been enacted.
-- **(h)** *Effective date* Section 6(b)(1) of the Copyright Royalty and Distribution Reform Act of 2004 (Public Law 108–419) is amended by striking “commenced before the date of enactment of this Act” and inserting “commenced before the effective date provided in subsection (a)”.
+- **(g)** *Removal of Inconsistent Provisions* The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 shall be deemed never to have been enacted.
+- **(h)** *Effective Date* Section 6(b)(1) of the Copyright Royalty and Distribution Reform Act of 2004 (Public Law 108–419) is amended by striking “commenced before the date of enactment of this Act” and inserting “commenced before the effective date provided in subsection (a)”.
 
 ## § 5. Effective date
 
 This Act and the amendments made by this Act shall be effective as if included in the Copyright Royalty and Distribution Reform Act of 2004.
+
+## § 5. Partial distribution of royalty fees
+
+Section 801(b)(3)(C) of title 17, United States Code, is amended—
+
+- **(1)** by striking all that precedes clause (i) and inserting the following:
+  > - **(C)** Notwithstanding section 804(b)(8), the Copyright Royalty Judges, at any time after the filing of claims under section 111, 119, or 1007, may, upon motion of one or more of the claimants and after publication in the Federal Register of a request for responses to the motion from interested claimants, make a partial distribution of such fees, if, based upon all responses received during the 30-day period beginning on the date of such publication, the Copyright Royalty Judges conclude that no claimant entitled to receive such fees has stated a reasonable objection to the partial distribution, and all such claimants—
+
+- **(2)** in clause (i), by striking “such” and inserting “the”.
+
+## § 6. Effective date
+
+- **(a)** *In general* Except as provided under subsection (b), this Act and the amendments made by this Act shall be effective as if included in the Copyright Royalty and Distribution Reform Act of 2004.
+- **(b)** *Partial distribution of royalty fees* Section 5 shall take effect on the date of enactment of this Act.
