@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4376
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Springfield Armory National Historic Site, Massachusetts Act of 2005.”
+This Act may be cited as the “Springfield Armory National Historic Site, Massachusetts Act of 2006”.
 
 ## § 2. Findings
 
@@ -30,4 +30,4 @@ For purposes of this Act, the term Preservation Control Area means that portion 
 
 ## § 4. Cooperative agreement with respect to the preservation control area
 
-Not later than 6 months after the date of the enactment of this Act, the Secretary of the Interior, acting through the National Park Service, shall enter into a cooperative agreement with the Commonwealth of Massachusetts on behalf of Springfield Technical Community College to provide financial assistance to that college for the purpose of maintaining, preserving, renovating, and rehabilitating any historic structures within the Springfield Armory National Historic Site, including historic structures located within the Preservation Control Area.
+The Secretary of the Interior, acting through the National Park Service, may enter into a cooperative agreement with the Commonwealth of Massachusetts on behalf of Springfield Technical Community College to provide financial assistance to that college for the purpose of maintaining, preserving, renovating, and rehabilitating any historic structures within the Springfield Armory National Historic Site, including historic structures located within the Preservation Control Area.
