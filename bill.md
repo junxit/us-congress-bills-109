@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4294
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,8 +15,8 @@ This Act may be cited as the “Natural Resource Protection Cooperative Agreemen
 
 ## § 2. Cooperative agreements for national park natural resource protection
 
-- **(a)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) may enter into cooperative agreements with State, local, or tribal governments, other public entities, educational institutions, private nonprofit organizations, or participating private landowners for the purpose of protecting natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
-- **(b)** *Terms and conditions* A cooperative agreement entered into under subsection (a) shall provide clear and direct benefits to park natural resources and—
+- **(a)** *In General* The Secretary of the Interior (referred to in this Act as the “Secretary”) may enter into cooperative agreements with State, local, or tribal governments, other Federal agencies, other public entities, educational institutions, private nonprofit organizations, or participating private landowners for the purpose of protecting natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
+- **(b)** *Terms and Conditions* A cooperative agreement entered into under subsection (a) shall provide clear and direct benefits to park natural resources and—
   - **(1)** provide for—
     - **(A)** the preservation, conservation, and restoration of coastal and riparian systems, watersheds, and wetlands;
     - **(B)** preventing, controlling, or eradicating invasive exotic species that are within a unit of the National Park System or adjacent to a unit of the National Park System; or
