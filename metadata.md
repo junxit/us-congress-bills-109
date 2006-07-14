@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4132
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4132
@@ -29,3 +29,8 @@ Law Enforcement Cooperation Act of 2006
 - 2005-10-25 — Introduced in House
 - 2005-10-25 — Introduced in House
 - 2005-10-25 — Referred to the House Committee on the Judiciary.
+- 2006-07-12 — Committee Consideration and Mark-up Session Held.
+- 2006-07-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-07-14 — Placed on the Union Calendar, Calendar No. 320.
+- 2006-07-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-564.
+- 2006-07-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-564.
