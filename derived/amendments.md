@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5068
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-59 amendatory instructions. 18 executed, 41 stated and not applied.
+67 amendatory instructions. 18 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `clause (vii)` |
 | Inserted | `clause` |
 
-### 12 U.S.C. § 635g
+### 12 U.S.C. § 635
 
 > in subsection (b)(2)(B), by striking “2(b)(1)(E)(vii)” and inserting “2(b)(1)(E)(vi)”; and
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `2(b)(1)(E)(vii)` |
 | Inserted | `2(b)(1)(E)(vi)` |
 
-### 12 U.S.C. § 635g
+### 12 U.S.C. § 635
 
 > in subsection (c), by striking “(E)(x)” and inserting “(E)(ix)”.
 
@@ -195,39 +195,39 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 635a` | add-at-end | Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | add-at-end | Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2(b)(1)(E)(vii)(I) of such Act (12 U.S.C. 635(b)(1)(E)(vii)(I)) is amended by adding at the end the following: “The Bank shall work in coordination with the entities described in the preceding sentence to streamline the processin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635g` | add-at-end | Section 8 of such Act (12 U.S.C. 635g) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635g` | add-at-end | Section 8 of such Act (12 U.S.C. 635g), as amended by subsection (b) of this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | amend | Section 8 of such Act (12 U.S.C. 635g), as amended by subsection (b) of this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | strike | by striking clause (iii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | redesignate | by redesignating clauses (iv) through (x) as clauses (iii) through (ix), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | strike | in clause (iv), by striking “(as defined under section 3 of the Small Business Act)”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 635` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635a` | redesignate | Section 3(f) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(f)), as added by section 4(a) of this Act, is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | redesignate | Section 2(b)(1)(E)(iv) of such Act (12 U.S.C. 635(b)(1)(E)(iv)), as so redesignated by section 4(d)(1)(A)(vi) of this Act, is amended by adding at the end the following: “From the amount made available under the preceding sentence, it sh… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635g` | insert | Section 8(g) of such Act (12 U.S.C. 635g(g)), as added by section 4(c) of this Act, is amended by inserting “and to finance exports by small business concerns referred to in section 3(f)(4)(A),” before “and to the extent”. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 635g` | insert | Section 8(g)(1) of such Act (12 U.S.C. 635g(g)(1)), as added by section 4(c) of this Act, is amended by inserting “and to finance exports by small business concerns referred to in section 3(f)(4)(A),” before “and, to the extent”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 635g` | add-at-end | Section 8 of such Act (12 U.S.C. 635g), as amended by section 4 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2(b)(9) of such Act (12 U.S.C. 635(b)(9)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2(b)(9) of such Act (12 U.S.C. 635(b)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | amend | Section 2(b)(9) of such Act (12 U.S.C. 635(b)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2(b)(9) of such Act (12 U.S.C. 635(b)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635` | add-at-end | Section 2(b)(9) of such Act (12 U.S.C. 635(b)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635a` | add-at-end | Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | add-at-end | Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2(e) of such Act (12 U.S.C. 635(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2 of such Act (12 U.S.C. 635) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | add-at-end | Section 2 of such Act (12 U.S.C. 635) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635g` | amend | Section 8(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635g(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635i-5` | insert | Section 11(a)(1) of the Export-Import Bank Act of 1945 (12 U.S.C. 635i–5(a)(1)) is amended by inserting after the 1st sentence the following: “Such procedures shall require the public disclosure of documents in addition to environmental … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | amend | Section 8(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635g(c)), as amended by section 4(d)(1)(B)(ii) of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635i-5` | insert | Section 11(a)(1) of the Export-Import Bank of 1945 (12 U.S.C. 635i–5(a)(1)) is amended by inserting after the first sentence the following: “Such procedures shall provide for the public disclosure of environmental assessments and supplem… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 3511` | insert | The Export-Import Bank Act of 1945 (12 U.S.C. 635—635i–9) is amended by inserting after section 8 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635` | strike | Section 2(b)(1)(A) of such Act (12 U.S.C. 635(b)(1)(A)) is amended by striking all that follows the 3rd sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635g` | add-at-end | Section 8 of such Act (12 U.S.C. 635g), as amended by sections 4 and 5 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635i-3` | strike | in subparagraph (A)(iv), by striking “and”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 635i-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635i-3` | insert | in the matter preceding subparagraph (A), by inserting “including those that are not a party to the Arrangement” after “countries”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 635i-3` | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 635i-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635i-3` | amend | in subparagraph (B), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635i-3` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635i-3` | strike | in paragraph (2)(A), by striking “in consultation with the Secretary and”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 635i-3` | strike | in the matter preceding subclause (I), by striking “Secretary and the”; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 635i-3` | insert | in subclause (I), by inserting “, and to bring into the Arrangement those countries that are not a party to the Arrangement”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 635i-3` | insert | in subclause (I), by inserting “, and to bring into the Arrangement those countries that are not a party to the Arrangement” before the period; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 635i-3` | add-at-end | in subclause (III), by adding at the end the following “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unava… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635i-3` | add-at-end | in clause (ii), by adding at the end the following: “The President of the United States shall notify the Congress of such a determination within 30 days, including an explanation for the determination.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635i-3` | strike | in subparagraph (C), by striking “the Secretary and”; and | the bill quotes the text struck but describes what replaces it |
@@ -235,4 +235,12 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 635i-3` | add-at-end | Section 10 of such Act (12 U.S.C. 635i–3) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 635a` | insert | in subparagraph (B), by inserting “environment,” before “production,”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 635a` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 635` | redesignate | Section 2(b)(2)(B)(ii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)(B)(ii)) is amended by striking subclauses (I), (III), (VII), (VIII), and (IX), and redesignating subclauses (II), (IV), (V), and (VI) as subclauses (I) thr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635a` | add-at-end | Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a), as amended by section 4(a)(1) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | add-at-end | Section 2(e) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)), as amended by section 8(b) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | insert | Section 2(e)(2)(C) of such Act (12 U.S.C. 635(e)(2)(C)) is amended by inserting “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 635` | amend | in paragraph (1), by adding after and below the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | add-at-end | in paragraph (2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 635` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by sections 4, 5, and 10(b) of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 635` | add-at-end | Section 2(b) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | Section 2(b)(2)(B)(ii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)(B)(ii)) is amended by striking subclauses (I), (III), (VII), (VIII), and (IX), and redesignating subclauses (II), (IV), (V), and (VI) as subclauses (I) thr… | the bill names no machine-readable US Code section |

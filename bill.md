@@ -103,9 +103,10 @@ Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is amended by s
   > - **(4)** *Office of financing for socially and economically disadvantaged small business concerns and small business concerns owned by women*
   >   - **(A)** *Establishment* The President of the Bank shall establish in the division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially and economically disadvantaged small business concerns (as defined in section 8(a)(4) of the Small Business Act) and small business concerns owned by women.
   >   - **(B)** *Management* The office shall be managed by a Bank officer of appropriate rank who shall report to the Bank officer designated under section 3(f)(2).
+  >   - **(C)** *Staffing* To the maximum extent practicable, the President of the Bank shall ensure that qualified minority and women applicants are considered when filling any position in the office.
 
-- **(b)** *financing directed toward small businesses owned by minorities or women* Section 2(b)(1)(E)(iv) of such Act (12 U.S.C. 635(b)(1)(E)(iv)), as so redesignated by section 4(d)(1)(A)(vi) of this Act, is amended by adding at the end the following: “From the amount made available under the preceding sentence, it shall be a goal of the Bank to make available not less than 10 percent of the amount to finance exports directly by small business concerns referred to in section 3(f)(4)(A).”.
-- **(c)** *Report on financing directed toward small businesses owned by minorities or women* Section 8(g) of such Act (12 U.S.C. 635g(g)), as added by section 4(c) of this Act, is amended by inserting “and to finance exports by small business concerns referred to in section 3(f)(4)(A),” before “and to the extent”.
+- **(b)** *Financing directed toward small businesses owned by minorities or women* Section 2(b)(1)(E)(iv) of such Act (12 U.S.C. 635(b)(1)(E)(iv)), as so redesignated by section 4(d)(1)(A)(vi) of this Act, is amended by adding at the end the following: “From the amount made available under the preceding sentence, it shall be a goal of the Bank to make available not less than 15 percent of the amount to finance exports directly by small business concerns referred to in section 3(f)(4)(A).”.
+- **(c)** *Report on financing directed toward small businesses owned by minorities or women* Section 8(g)(1) of such Act (12 U.S.C. 635g(g)(1)), as added by section 4(c) of this Act, is amended by inserting “and to finance exports by small business concerns referred to in section 3(f)(4)(A),” before “and, to the extent”.
 - **(d)** *Report on Bank efforts to support exports by socially and economically disadvantaged small business concerns and small business concerns owned by women* Section 8 of such Act (12 U.S.C. 635g), as amended by section 4 of this Act, is amended by adding at the end the following:
   > - **(h)** *Report on efforts to support exports by small- and medium-sized businesses owned by women or minorities* Not later than March 1 of each year, the Director appointed under section 3(c)(8)(B) of this Act shall prepare and submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Bank shall include in a separate section of the annual report submitted pursuant to subsection (a) of this section, a written report that describes the progress made by the Bank in supporting exports by socially and economically disadvantaged small business concerns (as defined in section 8(a)(4) of the Small Business Act) and small business concerns owned by women.
 
@@ -135,6 +136,7 @@ Section 1(c) of Public Law 103–428 (12 U.S.C. 635 note) is amended by striking
 
 - **(a)** *Frequency of meetings* Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following:
   > - **(9)** The Board of Directors shall meet not less frequently than biweekly.
+  > - **(10)** At the request of any 2 members of the Board of Directors, the Chairman shall place an item on the agenda for consideration by the Board. Within 30 days after the date such a request is made, the Chairman shall hold a meeting of the Board at which the item will be considered.
 
 - **(b)** *Voting required in cases involving economic impact analysis* Section 2(e) of such Act (12 U.S.C. 635(e)) is amended by adding at the end the following:
   > - **(5)** *Board vote required* Within 60 days after completing a review, pursuant to this subsection, of a proposed loan or guarantee (including any applicable comment period), the Board of Directors shall hold a vote to determine whether or not to proceed with the proposed loan or guarantee, unless the applicant has withdrawn the application for the loan or guarantee.
@@ -145,8 +147,8 @@ Section 1(c) of Public Law 103–428 (12 U.S.C. 635 note) is amended by striking
   >   - **(2)** informing applicants that their applications are complete or, if incomplete or containing a minor defect, of the additional material or changes that, if supplied or made, would make the application eligible for consideration; and
   >   - **(3)** keeping applicants informed of the status of their applications, including a clear and timely notification of approval or disapproval, and, in the case of disapproval, the reason for disapproval, as appropriate.
 
-- **(d)** *Response to application for financing; implementation of on-line loan request and tracking process* Section 2 of such Act (12 U.S.C. 635) is further amended by adding at the end the following:
-  > - **(h)** Within 45 days after receipt of an application for financing from the Bank, the Bank shall notify the applicant that the application has been received, and shall include in the notice a request for such additional information as may be necessary to make the application complete, the name of a Bank employee who may be contacted with questions relating to the application, and a unique identification number which may be used to review the status of the application at a website established as provided in the next sentence. Not later than September 1, 2006, the Bank shall use the authorities provided by subparagraphs (E)(ix) and (J) of subsection (b)(1) of this section to establish, and thereafter to maintain, a website through which any Bank product may be applied for, information may be obtained about the status of any such application, about the small business division of the Bank, or about incentives, preferences, targets, and goals relating to small business concerns referred to in section 3(f)(4)(A) or small business concerns exporting to Africa.
+- **(d)** *Response to application for financing; implementation of online loan request and tracking process* Section 2 of such Act (12 U.S.C. 635) is further amended by adding at the end the following:
+  > - **(h)** *Response to application for financing; implementation of online loan request and tracking process* Within 5 days after receipt of an application for financing from the Bank, the Bank shall notify the applicant that the application has been received, and shall include in the notice a request for such additional information as may be necessary to make the application complete, the name of a Bank employee who may be contacted with questions relating to the application, and a unique identification number which may be used to review the status of the application at a website established as provided in the next sentence. Not later than September 1, 2006, the Bank shall use the authorities provided by subparagraphs (E)(ix) and (J) of subsection (b)(1) of this section to establish, and thereafter to maintain, a website through which any Bank product may be applied for, information may be obtained about the status of any such application, about the small business division of the Bank, or about incentives, preferences, targets, and goals relating to small business concerns referred to in section 3(f)(4)(A) or small business concerns exporting to Africa.
 
 - **(e)** *Reports relating to technology to assist small businesses*
   - **(1)** *Reports by the Bank*
@@ -156,7 +158,7 @@ Section 1(c) of Public Law 103–428 (12 U.S.C. 635 note) is amended by striking
         - **(I)** an analysis of the reasons therefor;
         - **(II)** what the Bank is doing to achieve, and the date by which the Banks expects to have achieved, such compliance; and
         - **(III)** the name of each Bank officer who is responsible for ensuring that the Bank achieves, and the name of the person to whom the Bank officer reports on progress in achieving, such compliance.
-    - **(B)** *Subsequent annual reports* Section 8(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635g(c)) is amended to read as follows:
+    - **(B)** *Subsequent annual reports* Section 8(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635g(c)), as amended by section 4(d)(1)(B)(ii) of this Act, is amended to read as follows:
       > - **(c)** *Technology to assist small businesses* The Bank shall include in its annual report to the Congress under subsection (a) of this section for each of fiscal years 2007 through 2011 a separate section that contains—
       >   - **(1)** a report on the efforts made by the Bank to carry out subparagraphs (E)(ix) and (J) of section 2(b)(1) of this Act, the total amount expended in the fiscal year to do so, and how the efforts are assisting small business concerns (as defined under section 3(a) of the Small Business Act); and
       >   - **(2)** if the Bank has been unable to comply fully with such subparagraphs—
@@ -170,7 +172,7 @@ Section 1(c) of Public Law 103–428 (12 U.S.C. 635 note) is amended by striking
       - **(i)** an analysis of the reasons therefor;
       - **(ii)** a description of what the Bank is doing to achieve, and the date by which the Banks expects to have achieved, such compliance; and
       - **(iii)** the name of each Bank officer who is responsible for ensuring that the Bank achieves, and the name of the person to whom the Bank officer reports on progress in achieving, such compliance.
-- **(f)** *Public disclosure of certain documents* Section 11(a)(1) of the Export-Import Bank Act of 1945 (12 U.S.C. 635i–5(a)(1)) is amended by inserting after the 1st sentence the following: “Such procedures shall require the public disclosure of documents in addition to environmental assessments, including environmental monitoring documents and supplementary environmental documents and consultants’ reports that the Bank generates or requires clients to generate.”.
+- **(f)** *Public disclosure of certain documents* Section 11(a)(1) of the Export-Import Bank of 1945 (12 U.S.C. 635i–5(a)(1)) is amended by inserting after the first sentence the following: “Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in section 1905 of title 18, United States Code.”.
 
 ## § 9. Effect of the Bank on the budget of the United States
 
@@ -183,7 +185,7 @@ Within 90 days after the date of the enactment of this Act, the Export-Import Ba
     > ## § 8A. Annual competitiveness report
     >
     > - **(a)** *In general* Not later than June 30 of each year, the Bank shall submit to the appropriate committees of the Congress a report that includes the following:
-    >   - **(1)** *Actions of Bank in providing financing on a competitive basis, and to minimize competition in government-supported export financing* A description of the actions of the Bank in complying with the 2nd and 3rd sentences of section 2(b)(1)(A). In this part of the report, the Bank shall include a survey of all other major export-financing facilities available from other governments and government-related agencies through which foreign exporters compete with United States exporters (including through use of market windows (as defined in section 10(h)(7)) and indicate in specific terms the ways in which the Bank's rates, terms, and other conditions compare with those offered from such other governments directly or indirectly. With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency. In this part of the report, the Bank shall include a survey of a representative number of United States exporters and United States commercial lending institutions which provide export credit to determine the experience of the exporters and institutions in meeting financial competition from other countries whose exporters compete with United States exporters.
+    >   - **(1)** *Actions of Bank in providing financing on a competitive basis, and to minimize competition in government-supported export financing* A description of the actions of the Bank in complying with the 2nd and 3rd sentences of section 2(b)(1)(A). In this part of the report, the Bank shall include a survey of all other major export-financing facilities available from other governments and government-related agencies through which foreign exporters compete with United States exporters (including through use of market windows (as defined in section 10(h)(7)) and indicate in specific terms the ways in which the Bank's rates, terms, and other conditions compare with those offered from such other governments directly or indirectly. With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each such government and government-related agency. In this part of the report, the Bank shall include a survey of a representative number of United States exporters and United States commercial lending institutions which provide export credit to determine the experience of the exporters and institutions in meeting financial competition from other countries whose exporters compete with United States exporters.
     >   - **(2)** *Role of Bank in implementing strategic plan prepared by the Trade Promotion Coordinating Committee* A description of the role of the Bank in implementing the strategic plan prepared by the Trade Promotion Coordinating Committee in accordance with section 2312 of the Export Enhancement Act of 1988.
     >   - **(3)** *Tied Aid Credit Program and Fund* The report required by section 10(g).
     >   - **(4)** *Purpose of all Bank transactions* A description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support.
@@ -194,7 +196,7 @@ Within 90 days after the date of the enactment of this Act, the Export-Import Ba
     >   - **(7)** *Co-financing programs of the Bank and of other export credit agencies* A separate section which describes the co-financing programs of the Bank and of the other major export-financing facilities referred to in paragraph (1), which shall include a list of which countries with which the United States has in effect a memorandum of understanding relating to export credit agency co-financing and an explanation of why such a memorandum is not in effect with the countries with which such a memorandum is not in effect.
     >   - **(8)** *After-market services support by the Bank and by other export credit agencies* A separate section which describes the participation of the Bank in providing funding, guarantees, or insurance for after-market services, which shall include appropriate information on the involvement of the other major export-financing facilities referred to in paragraph (1) in providing such support for after-market services, and an explanation of any differences among the facilities in providing the support.
     >   - **(9)** *Export finance cases not in compliance with the Arrangement* Detailed information on cases of export finance that are not in compliance with the Arrangement (as defined in section 10(h)(3)) or that exploit loopholes in the Arrangement for the purpose of obtaining a commercial competitive advantage.
-    >   - **(10)** *Foreign export credit agency activities not consistent with the WTO Agreement on Subsidies and Countervailing Measures* A description of the extent to which the activities of foreign export credit agencies, particularly those that are not members of the Arrangement (as defined in section 10(h)(3)), are not in compliance with the Arrangement and may not be consistent with the terms of the Agreement on Subsidies and Countervailing Measures referred to in section 101(d)(12) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(12)), and a description of the actions taken by the United States Government to address the activities.
+    >   - **(10)** *Foreign export credit agency activities not consistent with the WTO Agreement on Subsidies and Countervailing Measures* A description of the extent to which the activities of foreign export credit agencies and other entities sponsored by a foreign government, particularly those that are not members of the Arrangement (as defined in section 10(h)(3)), are not in compliance with the Arrangement and may not be consistent with the terms of the Agreement on Subsidies and Countervailing Measures referred to in section 101(d)(12) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(12)), and a description of the actions taken by the United States Government to address the activities.
     > - **(b)** *Board vote on report required* The Board of Directors shall vote to approve and shall sign each report required by subsection (a).
     > - **(c)** *Inclusion of dissenting views, etc* Each report required by subsection (a) shall include such dissenting views and additional comments as any member of the Board of Directors may submit to the Board for inclusion in the report.
 
@@ -205,19 +207,19 @@ Within 90 days after the date of the enactment of this Act, the Export-Import Ba
   >   - **(2)** the size of similar programs of all other major export-financing facilities available from other governments and government-related agencies through which foreign exporters compete with United States exporters (including through use of market windows (as defined in section 10(h)(7)); and
   >   - **(3)** as a detailed explanation, with respect to the programs, of the working relationship between the Bank and the Small Business Administration, the Department of Commerce, and other United States Government agencies concerned with increasing the number of export-related jobs in the United States.
 
-- **(c)** *Clarification of use of Tied Aid Credit Fund to match* Section 10 of the Export-Import Bank Act of 1945 (12 U.S.C. 635i-3) is amended—
+- **(c)** *Clarification of use of Tied Aid Credit Fund to match* Section 10 of the Export-Import Bank Act of 1945 (12 U.S.C. 635i–3) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (5)—
       - **(i)** in the matter preceding subparagraph (A), by striking “two” and inserting “3”;
       - **(ii)** in subparagraph (A)(iv), by striking “and”; and
       - **(iii)** by adding at the end the following:
-        > - **(C)** third, the Bank should support United States exporters when the exporters face foreign competition that is supported by foreign export credit agencies that are not party to the Arrangement; and
+        > - **(C)** third, the Bank should support United States exporters when the exporters face foreign competition that is supported by foreign export credit agencies or other entities sponsored by a foreign government that are not party to the Arrangement; and
 
     - **(B)** in paragraph (6)—
       - **(i)** in the matter preceding subparagraph (A), by inserting “including those that are not a party to the Arrangement” after “countries”;
-      - **(ii)** in subparagraph (B), by striking the period and inserting “; and”; and
-      - **(iii)** by adding at the end the following:
-        > - **(C)** promoting compliance with Arrangement rules among foreign export credit agencies that are not a party to the Arrangement.
+      - **(ii)** in subparagraph (B), by adding “and” at the end; and
+      - **(iii)** by inserting after subparagraph (B) the following:
+        > - **(C)** promoting compliance with Arrangement rules among foreign export credit agencies that are not a party to the Arrangement,
 
   - **(2)** in subsection (b)—
     - **(A)** in paragraph (2)(A), by striking “in consultation with the Secretary and”; and
@@ -226,7 +228,7 @@ Within 90 days after the date of the enactment of this Act, the Export-Import Ba
       - **(ii)** in subparagraph (B)—
         - **(I)** in clause (i)—
           - **(aa)** in the matter preceding subclause (I), by striking “Secretary and the”;
-          - **(bb)** in subclause (I), by inserting “, and to bring into the Arrangement those countries that are not a party to the Arrangement”; and
+          - **(bb)** in subclause (I), by inserting “, and to bring into the Arrangement those countries that are not a party to the Arrangement” before the period; and
           - **(cc)** in subclause (III), by adding at the end the following “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”; and
         - **(II)** in clause (ii), by adding at the end the following: “The President of the United States shall notify the Congress of such a determination within 30 days, including an explanation for the determination.”;
       - **(iii)** in subparagraph (C), by striking “the Secretary and”; and
@@ -250,10 +252,93 @@ Section 3(d) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(d)) is amende
 - **(2)** in paragraph (2), by adding at the end the following:
   > - **(C)** Not less than 2 members appointed to the Advisory Committee shall be representative of the environmental nongovernmental organization community, except that no 2 of the members shall be from the same environmental organization. Environmental organizations represented shall have demonstrated experience with environmental issues associated with the Bank, the Export Credit Group of the Organization for Economic Cooperation and Development, or both.
 
-## § 12. Technical corrections
+## § 12. Study of how Export-Import Bank could assist United States exporters to meet import needs of new or impoverished democracies; reports
+
+- **(a)** *Study* The Export-Import Bank of the United States shall conduct a study designed to assess the needs of new or impoverished democracies such as Liberia and Haiti, for imports from the United States, and shall determine what role the Bank can play a role in helping United States exporters seize the opportunities presented by the need for such imports.
+- **(b)** *Reports to the Congress*
+  - **(1)** *Interim report* Within 6 months after the date of the enactment of this Act, the Bank shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, in writing, an interim report that contains the results of the study required by subsection (a).
+  - **(2)** *Final report* Within 12 months after the date of the enactment of this Act, the Bank shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, in writing a final report that contains the results of the study required by subsection (a).
+
+## § 13. Review of environmental screening requirement
+
+- **(a)** *In general* Within 6 months after the position of Inspector General of the Export-Import Bank of the United States is filled, the Inspector General of the Export-Import Bank of the United States shall submit to the Committee on Resources and the Committee on Financial Services of the House of Representatives, and to the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the implications of limiting the requirement to conduct environmental screenings of projects proposed to be financed by the Bank to only those involving at least $10,000,000.
+- **(b)** *Contents of report* The report shall—
+  - **(1)** determine whether the $10,000,000 limitation prevents the identification of any project that may have an adverse effect on the environment; and
+  - **(2)** propose guidelines for how project applications may be screened more effectively to determine whether a project may have such an effect.
+
+## § 14. Office of Renewable Energy Promotion
+
+Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a), as amended by section 4(a)(1) of this Act, is amended by adding at the end the following:
+
+> - **(i)** *Office of Renewable Energy Promotion*
+>   - **(1)** *Establishment* Within 1 year after the date of the enactment of this subsection, the President of the Bank shall establish and maintain in the Bank an office which shall be known as the “Office of Renewable Energy Promotion” (in this subsection referred to as the “Office”).
+>   - **(2)** *Functions* The Office shall be responsible for proactively identifying new opportunities for renewable energy financing and carrying out section 2(b)(1)(K). In carrying out its function of promoting renewable energy technologies, the Office should, among other things, consider the recommendations made by the Renewable Energy Export Advisory Committee.
+>   - **(3)** *Staff* The President of the Bank shall ensure that the Office has staff with appropriate expertise in renewable energy technologies.
+>   - **(4)** *Annual reports* The Bank shall submit annually to the Committee on Resources and the Committee on Financial Services of the House of Representatives, and to the Committee on Banking, Housing, and Urban Affairs of the Senate, a report that contains, for the fiscal year covered by the report—
+>     - **(A)** a detailed description of the activities of the Office; and
+>     - **(B)** an analysis comparing the level of credit extended by the Bank for renewable energy projects with the level of credit so extended for the preceding fiscal year.
+>   - **(5)** *Renewable energy technologies defined* In this subsection, the term “renewable energy technologies” means technologies for producing power through the use of solar energy, wind energy, and energy from biomass, fuel cells, or geothermal sources, and technologies for producing less than 10 megawatts in hydropower.
+
+## § 15. Transparency
+
+- **(a)** *In general* Section 2(e) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)), as amended by section 8(b) of this Act, is amended by adding at the end the following:
+  > - **(6)** *Procedures to reduce adverse effects of loans and guarantees on industries and employment in United States*
+  >   - **(A)** *Consideration of economic effects of proposed transactions* If, in making a determination under this paragraph with respect to a loan or guarantee, the Bank conducts a detailed economic impact analysis or similar study, the analysis or study, as the case may be, shall include consideration of—
+  >     - **(i)** the factors set forth in subparagraphs (A) and (B) of paragraph (1); and
+  >     - **(ii)** the views of the public and interested parties.
+  >   - **(B)** *Notice and comment requirements*
+  >     - **(i)** *In general* If, in making a determination under this subsection with respect to a loan or guarantee, the Bank intends to conduct a detailed economic impact analysis or similar study, the Bank shall cause to be published in the Federal Register a notice of the intent, and provide a period of not less than 14 days (which, on request by any affected party, shall be extended to a period of not more than 30 days) for the submission to the Bank of comments on the economic effects of the provision of the loan or guarantee. In addition, the Bank shall seek comments on the effects from the Department of Commerce, the International Trade Commission, the Office of Management and Budget, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+  >     - **(ii)** *Content of notice* The notice shall include appropriate, nonproprietary information about—
+  >       - **(I)** the name of the applicant;
+  >       - **(II)** the country to which the goods involved in the transaction will be shipped;
+  >       - **(III)** the type of goods being exported;
+  >       - **(IV)** the amount of the loan or guarantee involved;
+  >       - **(V)** the goods that would be produced as a result of the provision of the loan or guarantee;
+  >       - **(VI)** the amount of increased production that will result from the transaction;
+  >       - **(VII)** the potential sales market for the resulting goods;
+  >       - **(VIII)** the value of the transaction; and
+  >       - **(IX)** any other relevant information.
+  >     - **(iii)** *Procedure regarding materially changed applications*
+  >       - **(I)** *In general* If a material change is made to an application for a loan or guarantee from the Bank after a notice with respect to the intent described in clause (i) is published under this subparagraph, the Bank shall cause to be published in the Federal Register a revised notice of the intent, and shall provide for a comment period, as provided in clauses (i) and (ii).
+  >       - **(II)** *Material change defined* In subclause (I), the term “material change”, with respect to an application, includes—
+  >         - **(aa)** a change of at least 25 percent in the amount of a loan or guarantee requested in the application; and
+  >         - **(bb)** a change in the principal product to be produced as a result of any transaction that would be facilitated by the provision of the loan or guarantee.
+  >   - **(C)** *Requirement to consider and address views of adversely affected persons* Before taking final action on an application for a loan or guarantee from the Bank to which this subsection applies, the Bank shall consider and address in writing the views of any person who may be substantially adversely affected by the provision of the loan or guarantee.
+  >   - **(D)** *Publication of conclusions* Within 30 days after a party affected by a final decision of the Board of Directors with respect to a loan or guarantee makes a written request therefor, the Bank shall provide to the affected party a non-confidential summary of the facts found and conclusions reached in any detailed economic impact analysis or similar study conducted pursuant to subparagraph (B) with respect to the loan or guarantee, that were submitted to the Board of Directors.
+  >   - **(E)** *Rule of interpretation* This paragraph shall not be construed to make subchapter II of chapter 5 of title 5, United States Code, applicable to the Bank.
+  >   - **(F)** *Regulations* The Bank shall implement such regulations and procedures as may be appropriate to carry out this paragraph.
+
+- **(b)** *Conforming amendment* Section 2(e)(2)(C) of such Act (12 U.S.C. 635(e)(2)(C)) is amended by inserting “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
+
+## § 16. Anti-circumvention
+
+Section 2(e) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)), as amended by sections 8(b) and 15(a) of this Act, is amended—
+
+- **(1)** in paragraph (1), by adding after and below the end the following:
+- **(2)** in paragraph (2), by adding at the end the following:
+  > - **(E)** *Anti-circumvention* The Bank shall not provide a loan or guarantee if the Bank determines that providing the loan or guarantee will facilitate circumvention of a trade law order or determination referred to in subparagraph (A).
+
+- **(3)** by adding at the end the following:
+  > - **(7)** *Financial threshold determinations* For purposes of determining whether a proposed transaction exceeds a financial threshold under this subsection or under the procedures or rules of the Bank, the Bank shall aggregate the dollar amount of the proposed transaction and the dollar amounts of all loans and guarantees, approved by the Bank in the preceding 24-month period, that involved the same foreign entity and substantially the same product to be produced.
+
+## § 17. Performance standards applicable to Bank assistance for small businesses, especially those owned by social and economically disadvantaged individuals and those owned by women
+
+- **(a)** *Development of performance standards* Within 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall develop and transmit to the Board of Directors of the Export-Import Bank of the United States—
+  - **(1)** a set of standards which may be used to determine the extent to which the Bank has carried out successfully subparagraphs (E) and (I) of section 2(b)(1) of the Export-Import Bank Act of 1945, and the functions described in subsections (f)(1)(A), (f)(4)(A), and (h)(2) of section 3 of such Act; and
+  - **(2)** a set of rules for measuring the performance of the Bank against the standards.
+- **(b)** *Report on performance* Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by sections 4, 5, and 10(b) of this Act, is amended by adding at the end the following:
+  > - **(j)** *Report on achievement of performance standards applicable to small business concerns, socially and economically disadvantaged small business conerns, and small business concerns owned by women* The Bank shall submit annually to the Congress, and include in a separate section of the annual report to the Congress under subsection (a) of this section, a report on the extent to which the Bank has carried out successfully subparagraphs (E) and (I) of section 2(b)(1), and the functions described in subsections (f)(1)(A), (f)(4)(A), and (h)(2) of section 3, of this Act, using the performance standards and measuring rules developed pursuant to section 12(a) of the Export-Import Bank Reauthorization Act of 2006.
+
+## § 18. Prohibition on assistance to develop or promote any rail connections or railway-related connections that traverse or connect Baku, Azerbaijan, Tbilisi, Georgia, and Kars, Turkey, and that specifically exclude cities in Armenia
+
+Section 2(b) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)) is amended by adding at the end the following:
+
+> - **(13)** The Bank shall not guarantee, insure, extend credit, or participate in an extension of credit in connection with the development or promotion of any rail connections or railway-related connections that do not traverse or connect with Armenia, and do traverse or connect Baku, Azerbaijan, Tbilisi, Georgia, and Kars, Turkey.
+
+## § 19. Technical corrections
 
 Section 2(b)(2)(B)(ii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)(B)(ii)) is amended by striking subclauses (I), (III), (VII), (VIII), and (IX), and redesignating subclauses (II), (IV), (V), and (VI) as subclauses (I) through (IV), respectively.
 
-## § 13. Effective date
+## § 20. Effective date
 
 The amendments made by this Act shall take effect on October 1, 2006.

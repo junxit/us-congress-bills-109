@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5068
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5068
@@ -34,3 +34,8 @@ Export-Import Bank Reauthorization Act of 2006
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Introduced in House
 - 2006-03-30 — Referred to the House Committee on Financial Services.
+- 2006-06-14 — Committee Consideration and Mark-up Session Held.
+- 2006-06-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 322.
+- 2006-07-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-566.
+- 2006-07-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-566.
