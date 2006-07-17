@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1871
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Volunteer Pilot Organization Protection Act of 2005”.
+This Act may be cited as the “Volunteer Pilot Organization Protection Act of 2006”.
 
 ## § 2. Findings and purpose
 
@@ -27,16 +27,22 @@ This Act may be cited as the “Volunteer Pilot Organization Protection Act of 2
 Section 4 of the Volunteer Protection Act of 1997 (42 U.S.C. 14503) is amended—
 
 - **(1)** in subsection (a)(4)—
-  - **(A)** by redesignating subparagraphs (A) and (B) as (i) and (ii), respectively;
+  - **(A)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
   - **(B)** by inserting “(A)” after “(4)”;
-  - **(C)** by striking the period at the end and inserting “; or” and
+  - **(C)** by striking the period at the end and inserting “; or”; and
   - **(D)** by adding at the end the following:
-    > - **(B)** the harm was caused by a volunteer of a nonprofit volunteer pilot organization that flies for public benefit, while the volunteer was flying in furtherance of the purpose of the organization and was operating an aircraft for which the volunteer was properly licensed and insured.
+    > - **(B)** the harm was caused by a volunteer of a nonprofit volunteer pilot organization that flies for public benefit, while the volunteer was flying in furtherance of the purpose of the organization and was operating an aircraft for which the volunteer was properly licensed and insured, unless the conduct constitutes a Federal crime of terrorism (as such term is defined in section 2332b(g)(5) of title 18, United States Code) or an act of domestic terrorism (as such term is defined in section 2331 of such title), or unless the entity has been convicted of an offense under section 2339A of such title.
 
-- **(2)** in subsection (c)—
+- **(2)** in subsection (b)—
+  - **(A)** by amending the heading to read as follows: “Concerning responsibility of volunteers”;
+  - **(B)** by inserting “(1)” before “Nothing”; and
+  - **(C)** by adding at the end the following new paragraph:
+    > - **(2)** Nothing in this section shall be construed to affect the liability for negligence of a volunteer of a nonprofit volunteer pilot organization that flies for public benefit with respect to amounts within the limits of liability insurance coverage that such volunteer is required to obtain pursuant to subsection (a)(4)(B) for liability protection under this section.
+
+- **(3)** in subsection (c)—
   - **(A)** by inserting “(1)” before “Nothing”; and
   - **(B)** by adding at the end the following new paragraph:
-    > - **(2)** Notwithstanding paragraph (1), a nonprofit volunteer pilot organization that flies for public benefit, and the staff, mission coordinators, officers, and directors (whether volunteer or otherwise) of such organization or a referring agency of such organization, shall not be liable with respect to harm caused to any person by a volunteer of such organization, while the volunteer is flying in furtherance of the purpose of the organization and is operating an aircraft for which the volunteer is properly licensed and has certified to such organization that such volunteer has in force insurance for operating such aircraft.
+    > - **(2)** Notwithstanding paragraph (1), a nonprofit volunteer pilot organization that flies for public benefit, and the staff, mission coordinators, officers, and directors (whether volunteer or otherwise) of such organization or a referring agency of such organization, shall not be liable with respect to harm caused to any person by a volunteer of such organization, while the volunteer is flying in furtherance of the purpose of the organization and is operating an aircraft for which the volunteer is properly licensed and has certified to such organization that such volunteer has in force insurance for operating such aircraft. Such referring agency shall include, among others, any nonprofit organization that provides disaster relief services that place staff, volunteers, evacuees, goods, supplies, or cargo on aircraft flights being coordinated by volunteer pilot organizations in circumstances of disaster response and relief.
 
 ## § 4. Report by Attorney General
 
