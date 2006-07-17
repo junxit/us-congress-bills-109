@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5684
 congress: 109
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
