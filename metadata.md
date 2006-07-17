@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2925
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2925
@@ -16,7 +16,7 @@ To amend the Reclamation States Emergency Drought Relief Act of 1991 to extend t
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
 - Rep. Salazar, John T. [D-CO-3] (S001158)
@@ -24,6 +24,10 @@ To amend the Reclamation States Emergency Drought Relief Act of 1991 to extend t
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Rep. Udall, Mark [D-CO-2] (U000038)
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. McMorris, Cathy [R-WA-5] (M001159)
 
 ## Committees (1)
 
@@ -34,3 +38,11 @@ To amend the Reclamation States Emergency Drought Relief Act of 1991 to extend t
 - 2005-06-15 — Introduced in House
 - 2005-06-15 — Introduced in House
 - 2005-06-15 — Referred to the House Committee on Resources.
+- 2005-06-28 — Referred to the Subcommittee on Water and Power.
+- 2005-09-27 — Subcommittee Hearings Held.
+- 2006-06-21 — Committee Consideration and Mark-up Session Held.
+- 2006-06-21 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-06-21 — Subcommittee on Water and Power Discharged.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 324.
+- 2006-07-17 — Reported (Amended) by the Committee on Resources. H. Rept. 109-568.
+- 2006-07-17 — Reported (Amended) by the Committee on Resources. H. Rept. 109-568.
