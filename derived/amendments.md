@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2925
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,11 +24,20 @@ to guess them.
 
 ## Executed
 
-### 43 U.S.C. § 2214
+### 43 U.S.C. § 2210
 
-> Section 104(c) of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2214(c)) is amended by striking “September 30, 2005” and inserting “September 30, 2010”.
+> in section 104(c), by striking “September 30, 2005” and inserting “September 30, 2010”; and
 
 | | |
 |---|---|
 | Removed | `September 30, 2005` |
 | Inserted | `September 30, 2010` |
+
+### 43 U.S.C. § 2210
+
+> in section 301, by striking “fiscal years 1992, 1993, 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2003, and 2004” and inserting “the period of fiscal years 2006 through 2010”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 1992, 1993, 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2003, and 2004` |
+| Inserted | `the period of fiscal years 2006 through 2010` |
