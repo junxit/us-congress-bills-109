@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4075
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Marine Mammal Protection Act Amendments of 2005”.
+This Act may be cited as the “Marine Mammal Protection Act Amendments of 2006”.
 
 ## § 2. Amendment references
 
@@ -85,18 +85,14 @@ Section 103(f) (16 U.S.C. 1373(f)) is amended in the first sentence, by insertin
 
 ## § 9. Marine mammal grants
 
-Section 110 (16 U.S.C. 1380) is amended—
+Section 110(a) (16 U.S.C. 1380(a)) is amended to read as follows:
 
-- **(1)** by amending subsection (a) to read as follows:
-  > - **(a)** *Authorization of assistance; annual report*
-  >   - **(1)** *Authorization of assistance* The Secretary may make grants, or provide financial assistance in such other form as the Secretary considers appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects that are relevant to the protection and conservation of marine mammals.
-  >   - **(2)** *Reports*
-  >     - **(A)** *Reports by Secretary* The Secretary shall include a description of the results of research carried out with assistance under this section in the annual report required under section 103(f).
-  >     - **(B)** *Reports by Federal agencies* The head of each Federal agency that conducts and provides funds for research on marine mammals shall report annually to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on funding provided and research conducted regarding marine mammals during the preceding year.
-  >   - **(3)** *Contributions* For purposes of carrying out this section, the Secretary may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
-
-- **(2)** by striking subsection (c) and inserting the following:
-  > - **(c)** *Authorization of Appropriations* To carry out this section there is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2006 through 2010.
+> - **(a)** *Authorization of assistance; annual report*
+>   - **(1)** *Authorization of assistance* The Secretary may make grants, or provide financial assistance in such other form as the Secretary considers appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects that are relevant to the protection and conservation of marine mammals.
+>   - **(2)** *Reports*
+>     - **(A)** *Reports by Secretary* The Secretary shall include a description of the results of research carried out with assistance under this section in the annual report required under section 103(f).
+>     - **(B)** *Reports by Federal agencies* The head of each Federal agency that conducts and provides funds for research on marine mammals shall report annually to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on funding provided and research conducted regarding marine mammals during the preceding year.
+>   - **(3)** *Contributions* For purposes of carrying out this section, the Secretary may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 
 ## § 10. Fisheries gear development
 
@@ -117,7 +113,6 @@ Section 111 (16 U.S.C. 1381) is amended as follows:
   >   - **(4)** *Consultation regarding criteria* The Secretary shall consult with the Secretary of the Interior and the Marine Mammal Commission regarding the development of criteria for the awarding of grants under this subsection.
   >   - **(5)** *Administrative costs* Of amounts available each fiscal year to carry out this subsection, the Secretary may expend not more than $40,000 to pay the administrative expenses necessary to carry out this subsection.
   >   - **(6)** *Contributions* For purposes of carrying out this section, the Secretary may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
-  > - **(f)** *Authorization of Appropriations* To carry out this section there is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2006 through 2010.
 
 ## § 11. Conforming amendment
 
@@ -129,7 +124,7 @@ Subsection (c) of the Dolphin Protection Consumer Information Act (16 U.S.C. 138
   - **(1)** In subsection (a) by striking “commercial” each place it appears in paragraphs (1) and (5).
   - **(2)** In subsection (c)(1) by striking so much as precedes subparagraph (B) and inserting the following:
     > - **(c)** *Registration and authorization*
-    >   - **(1)** The Secretary shall, within 90 days after the date of enactment of the Marine Mammal Protection Act Amendments of 2005—
+    >   - **(1)** The Secretary shall, within 90 days after the date of enactment of the Marine Mammal Protection Act Amendments of 2006—
     >     - **(A)** publish in the Federal Register for public comment, for a period of not less than 90 days, any necessary changes to the Secretary’s list of fisheries published under section 114(b)(1) in the Federal Register on August 24, 1994 (along with an explanation of such changes and a statement describing the marine mammal stocks interacting with, and the approximate number of vessels or persons actively involved in, each such fishery), with respect to—
     >       - **(i)** commercial and recreational fisheries that have frequent incidental mortality and serious injury of marine mammals;
     >       - **(ii)** commercial and recreational fisheries that have occasional incidental mortality and serious injury of marine mammals; or
@@ -201,8 +196,7 @@ Subsection (c) of the Dolphin Protection Consumer Information Act (16 U.S.C. 138
   - **(3)** by adding at the end the following:
     > - **(E)** potential conservation benefits provided by State and regional fishery management regulations;
 
-- **(c)** *Zero mortality rate goal amendments* Section 118 (16 U.S.C. 1387) is amended in subsections (a)(1) and (b)(1) by striking “within 7 years after the date of enactment of this section” each place it appears.
-- **(d)** *Conforming amendment* Section 101(a)(5)(E) (16 U.S.C. 1371(a)(5)(E)) is amended by inserting “or recreational” after “commercial” each place it appears.
+- **(c)** *Conforming amendment* Section 101(a)(5)(E) (16 U.S.C. 1371(a)(5)(E)) is amended by inserting “or recreational” after “commercial” each place it appears.
 
 ## § 13. Pinniped control program
 
@@ -210,7 +204,7 @@ Section 120 (16 U.S.C. 1389) is amended by adding at the end the following:
 
 > - **(k)** *Nonlethal removal and control*
 >   - **(1)** The Secretary shall conduct a program on the nonlethal removal and control of nuisance pinnipeds. The program shall include a review of measures that have been taken to effect such removal and control, the effectiveness of these measures, and the development of new technologies to deter nuisance pinnipeds.
->   - **(2)** The Secretary shall include, among the individuals that develop the program under this subsection, representatives of the commercial and recreational fishing industries.
+>   - **(2)** The Secretary shall include, among the individuals that develop the program under this subsection, representatives of the commercial and recreational fishing industries and, as appropriate, individuals with scientific proficiency, technical credentials, and expertise.
 >   - **(3)** The Secretary is encouraged, where appropriate, to use independent marine mammal research institutions in developing and in conducting the program.
 >   - **(4)** The Secretary shall, by December 31 of each year, submit an annual report on the results of research under this subsection to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 > - **(l)** *Qualified nonlethal control projects*
@@ -232,8 +226,7 @@ Section 120 (16 U.S.C. 1389) is amended by adding at the end the following:
 >     - **(A)** *Federal share* Except as provided in paragraphs (2) and (3), the Federal share of the cost of a project carried out with a grant under this subsection shall not exceed 75 percent of such cost.
 >     - **(B)** *Application of in-kind contributions* The Secretary may apply to the non-Federal share of costs of a control project carried out with a grant under this subsection the fair market value of services or any other form of in-kind contribution to the project made by non-Federal interests that the Secretary determines to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
 >     - **(C)** *Derivation of non-federal share* The non-Federal share of the cost of a control project carried out with a grant under this subsection may not be derived from a Federal grant program or other Federal funds.
->   - **(8)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2006 through 2010.
->   - **(9)** *Clarification* Nothing in this subsection shall be interpreted as suspending or waiving any requirement under any other provision of this Act.
+>   - **(8)** *Clarification* Nothing in this subsection shall be interpreted as suspending or waiving any requirement under any other provision of this Act.
 
 ## § 14. Marine Mammal Commission
 
@@ -263,9 +256,7 @@ Section 120 (16 U.S.C. 1389) is amended by adding at the end the following:
 
   - **(2)** *Conforming amendment* Section 408(a)(2)(B)(i) (16 U.S.C. 1421f–1(a)(2)(B)(i)) is amended by striking “section 410(6)” and inserting “section 410(7)”.
 - **(e)** *John H. Prescott Marine Mammal Rescue Assistance Grant Program*
-  - **(1)** *Authorization of appropriations for grant program* Section 408(h) (16 U.S.C. 1421f–1(h)) is amended—
-    - **(A)** by striking “$5,000,000 for each of fiscal years 2001 through 2003” and inserting “$7,000,000 for each of fiscal years 2006 through 2010”; and
-    - **(B)** in paragraph (1) by striking “$4,000,000” and inserting “$6,000,000”.
+  - **(1)** *Authorization of appropriations for grant program* Section 408(h) (16 U.S.C. 1421f–1(h)) is amended by striking “$5,000,000 for each of fiscal years 2001 through 2003” and inserting “$5,000,000 for each of fiscal years 2007 through 2010”.
   - **(2)** *Administrative costs and expenses* Section 408 (16 U.S.C. 1421f–1) is amended—
     - **(A)** by adding at the end of subsection (a)(1) the following: “All funds available to implement this section shall be distributed to eligible stranding network participants for the purposes set forth in this paragraph and paragraph (2), except as provided in subsection (f).”; and
     - **(B)** by amending subsection (f) to read as follows:
@@ -294,8 +285,16 @@ Section 120 (16 U.S.C. 1389) is amended by adding at the end the following:
   - **(4)** *Contributions* Section 408 (16 U.S.C. 1421f–1) is amended by adding at the end the following:
     > - **(i)** *Contributions* For purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests.
 
-- **(f)** *Authorization of appropriations for Marine Mammal Unusual Mortality Event Fund* Section 409(3) (16 U.S.C. 1421g(3)) is amended by striking “$500,000 for fiscal year 1993” and inserting “$125,000 for each of fiscal years 2006 through 2010”.
+- **(f)** *Authorization of appropriations for Marine Mammal Unusual Mortality Event Fund* Section 409(3) (16 U.S.C. 1421g(3)) is amended by striking “$500,000 for fiscal year 1993” and inserting “$125,000 for each of fiscal years 2007 through 2010”.
 
 ## § 16. Scrimshaw exemption
 
 Any valid certificate of exemption referred to in section 18 of Public Law 103–238 (16 U.S.C. 1539 note) that was valid under that section on April 29, 1999, shall be valid during the 11-year period beginning October 31, 1999.
+
+## § 17. Polar bears
+
+- **(a)** *In general* The Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is amended by adding at the end thereof the following:
+- **(b)** *Clerical amendment* The table of contents in the first section of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is amended by adding at the end the following:
+- **(c)** *Treatment of containers* Section 107(d)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1377(d)(2)) is amended—
+  - **(1)** by striking “or other conveyance” and inserting “, other conveyance, or container”; and
+  - **(2)** by striking “or conveyance” and inserting “conveyance, or container”.
