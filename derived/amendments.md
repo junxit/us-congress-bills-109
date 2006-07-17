@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4075
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-96 amendatory instructions. 35 executed, 61 stated and not applied.
+97 amendatory instructions. 36 executed, 61 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -305,21 +305,12 @@ to guess them.
 
 ### 16 U.S.C. § 1421f-1
 
-> by striking “$5,000,000 for each of fiscal years 2001 through 2003” and inserting “$7,000,000 for each of fiscal years 2006 through 2010”; and
+> Section 408(h) (16 U.S.C. 1421f–1(h)) is amended by striking “$5,000,000 for each of fiscal years 2001 through 2003” and inserting “$5,000,000 for each of fiscal years 2007 through 2010”.
 
 | | |
 |---|---|
 | Removed | `$5,000,000 for each of fiscal years 2001 through 2003` |
-| Inserted | `$7,000,000 for each of fiscal years 2006 through 2010` |
-
-### 16 U.S.C. § 1421f-1
-
-> in paragraph (1) by striking “$4,000,000” and inserting “$6,000,000”.
-
-| | |
-|---|---|
-| Removed | `$4,000,000` |
-| Inserted | `$6,000,000` |
+| Inserted | `$5,000,000 for each of fiscal years 2007 through 2010` |
 
 ### 16 U.S.C. § 1421f-1
 
@@ -332,12 +323,30 @@ to guess them.
 
 ### 16 U.S.C. § 1421g
 
-> Section 409(3) (16 U.S.C. 1421g(3)) is amended by striking “$500,000 for fiscal year 1993” and inserting “$125,000 for each of fiscal years 2006 through 2010”.
+> Section 409(3) (16 U.S.C. 1421g(3)) is amended by striking “$500,000 for fiscal year 1993” and inserting “$125,000 for each of fiscal years 2007 through 2010”.
 
 | | |
 |---|---|
 | Removed | `$500,000 for fiscal year 1993` |
-| Inserted | `$125,000 for each of fiscal years 2006 through 2010` |
+| Inserted | `$125,000 for each of fiscal years 2007 through 2010` |
+
+### 16 U.S.C. § 1377
+
+> by striking “or other conveyance” and inserting “, other conveyance, or container”; and
+
+| | |
+|---|---|
+| Removed | `or other conveyance` |
+| Inserted | `, other conveyance, or container` |
+
+### 16 U.S.C. § 1377
+
+> by striking “or conveyance” and inserting “conveyance, or container”.
+
+| | |
+|---|---|
+| Removed | `or conveyance` |
+| Inserted | `conveyance, or container` |
 
 ## Stated, not applied
 
@@ -360,8 +369,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1374` | insert | by inserting after the first sentence the following: “The Secretary shall update the inventory on an annual basis.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1374` | insert | in subparagraph (D) by inserting “ownership, or other” after “date of”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1374` | insert | Section 104(c) (16 U.S.C. 1374(c)) is amended in paragraph (2)(E) in the first sentence, and in paragraph (8)(B)(i)(II), by inserting before the period at the end the following: “, except that if the transport is for purposes of public d… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1380` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1380` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1380` | amend | Section 110(a) (16 U.S.C. 1380(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1381` | amend | Subsection (a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1381` | add-at-end | By adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1387` | strike | In subsection (a) by striking “commercial” each place it appears in paragraphs (1) and (5). | the bill quotes the text struck but describes what replaces it |
@@ -388,7 +396,6 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1387` | strike | by striking “and” at the end of subparagraph (C); | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1387` | insert | by inserting “and” at the end of subparagraph (D); and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1387` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1387` | strike | Section 118 (16 U.S.C. 1387) is amended in subsections (a)(1) and (b)(1) by striking “within 7 years after the date of enactment of this section” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1371` | insert | Section 101(a)(5)(E) (16 U.S.C. 1371(a)(5)(E)) is amended by inserting “or recreational” after “commercial” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1389` | add-at-end | Section 120 (16 U.S.C. 1389) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1406` | strike | Section 206(5) (16 U.S.C. 1406(5)) is amended by striking “; except that no fewer than 11 employees must be employed under paragraph (1) at any time”. | the bill quotes the text struck but describes what replaces it |
@@ -409,3 +416,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1421f-1` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421f-1` | redesignate | in subsection (g) by redesignating paragraph (2) as paragraph (3) and inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421f-1` | add-at-end | Section 408 (16 U.S.C. 1421f–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1361` | add-at-end | The Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is amended by adding at the end thereof the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1361` | add-at-end | The table of contents in the first section of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
