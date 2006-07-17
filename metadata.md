@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1871
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1871
@@ -16,7 +16,7 @@ Volunteer Pilot Organization Protection Act of 2006
 
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
 
-## Cosponsors (20)
+## Cosponsors (29)
 
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Cunningham, Randy (Duke) [R-CA-50] (C000994)
@@ -38,6 +38,15 @@ Volunteer Pilot Organization Protection Act of 2006
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 - Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Cox, Christopher [R-CA-48] (C000830)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Ferguson, Mike [R-NJ-7] (F000443)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Chocola, Chris [R-IN-2] (C001052)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
 
 ## Committees (1)
 
@@ -48,3 +57,14 @@ Volunteer Pilot Organization Protection Act of 2006
 - 2005-04-27 — Introduced in House
 - 2005-04-27 — Introduced in House
 - 2005-04-27 — Referred to the House Committee on the Judiciary.
+- 2006-03-02 — Committee Consideration and Mark-up Session Held.
+- 2006-03-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-03-15 — Placed on the Union Calendar, Calendar No. 214.
+- 2006-03-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-394.
+- 2006-03-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-394.
+- 2006-07-17 — Considered under suspension of the rules. (consideration: CR H5242-5244)
+- 2006-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1871.
+- 2006-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-17 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2006-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5242)
+- 2006-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5242)
