@@ -30,4 +30,5 @@ For purposes of this Act, the term Preservation Control Area means that portion 
 
 ## § 4. Cooperative agreement with respect to the preservation control area
 
-The Secretary of the Interior, acting through the National Park Service, may enter into a cooperative agreement with the Commonwealth of Massachusetts on behalf of Springfield Technical Community College to provide financial assistance to that college for the purpose of maintaining, preserving, renovating, and rehabilitating any historic structures within the Springfield Armory National Historic Site, including historic structures located within the Preservation Control Area.
+- **(a)** *In general* The Secretary of the Interior, acting through the National Park Service, may enter into a cooperative agreement with the Commonwealth of Massachusetts on behalf of Springfield Technical Community College to provide financial assistance to that college for the purpose of maintaining, preserving, renovating, and rehabilitating any historic structures within the Springfield Armory National Historic Site, including historic structures located within the Preservation Control Area.
+- **(b)** *Fifty Percent Match* The Federal share of the cost of activities carried out using any assistance or grant under this Act shall not exceed 50 percent.
