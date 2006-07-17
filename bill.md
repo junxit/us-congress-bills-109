@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3043
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Zero Downpayment Pilot Program Act of 2005”.
+This Act may be cited as the “Zero Downpayment Pilot Program Act of 2006”.
 
 ## § 2. Pilot program for insurance for zero-downpayment mortgages
 
@@ -68,3 +68,6 @@ This Act may be cited as the “Zero Downpayment Pilot Program Act of 2005”.
 
 - **(b)** *Mortgage insurance premiums* The second sentence of subparagraph (A) of section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)(A)) is amended by striking “In” and inserting “Except with respect to a mortgage insured under subsection (l), in”.
 - **(c)** *General insurance fund* Section 519(e) of the National Housing Act (12 U.S.C. 1735c(e)) is amended by striking “and 203(i)” and inserting “, 203(i), and 203(l)”.
+- **(d)** *GAO study of expanded or extended program* If at any time authority to insure mortgages under section 203(l) of the National Housing Act (as added by subsection (a) of this section) is—
+  - **(1)** expanded to more than 50,000 mortgages, or
+  - **(2)** extended to a date after September 30, 2010, including any permanent extension of such authority,
