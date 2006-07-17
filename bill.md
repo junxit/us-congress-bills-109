@@ -25,8 +25,8 @@ The Congress finds as follows:
 - **(6)** The Naturalization Oath of Allegiance impresses on new United States citizens—
   - **(A)** the shared American values of liberty, democracy, and equal opportunity; and
   - **(B)** the obligation to respect and abide by the Constitution, including the Bill of Rights.
-- **(8)** Naturalization rewards legal immigrants who have abided by all United States laws and Immigration and Naturalization Service regulations.
-- **(9)** Naturalization bestows all the legal rights, privileges, and responsibilities of a United States citizen.
+- **(7)** Naturalization rewards legal immigrants who have abided by all United States laws and Immigration and Naturalization Service regulations.
+- **(8)** Naturalization bestows all the legal rights, privileges, and responsibilities of a United States citizen.
 
 ## § 3. Independence Day ceremonies for oaths of allegiance
 

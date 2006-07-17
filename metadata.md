@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5323
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5323
@@ -29,3 +29,11 @@ Proud to Be an American Citizen Act
 - 2006-05-09 — Introduced in House
 - 2006-05-09 — Introduced in House
 - 2006-05-09 — Referred to the House Committee on the Judiciary.
+- 2006-06-05 — Referred to the Subcommittee on Immigration, Border Security, and Claims.
+- 2006-06-27 — Subcommittee on Immigration, Border Security, and Claims Discharged.
+- 2006-06-28 — Committee Consideration and Mark-up Session Held.
+- 2006-06-29 — Committee Consideration and Mark-up Session Held.
+- 2006-06-29 — Ordered to be Reported by Voice Vote.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 331.
+- 2006-07-17 — Reported by the Committee on Judiciary. H. Rept. 109-576.
+- 2006-07-17 — Reported by the Committee on Judiciary. H. Rept. 109-576.
