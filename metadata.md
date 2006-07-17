@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5684
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5684
@@ -29,3 +29,6 @@ United States-Oman Free Trade Agreement Implementation Act
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Referred to the House Committee on Ways and Means.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 328.
+- 2006-07-17 — Reported by the Committee on Ways and Means. H. Rept. 109-574.
+- 2006-07-17 — Reported by the Committee on Ways and Means. H. Rept. 109-574.
