@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5074
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5074
@@ -31,3 +31,10 @@ Railroad Retirement Technical Improvement Act of 2006
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-04-05 — Committee Consideration and Mark-up Session Held.
+- 2006-04-05 — Ordered to be Reported by Voice Vote.
+- 2006-04-05 — Referred to the Subcommittee on Railroads.
+- 2006-04-05 — Subcommittee on Railroads Discharged.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 325.
+- 2006-07-17 — Reported by the Committee on Transportation. H. Rept. 109-569.
+- 2006-07-17 — Reported by the Committee on Transportation. H. Rept. 109-569.
