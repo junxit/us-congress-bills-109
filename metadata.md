@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5527
@@ -31,3 +31,11 @@ Mark-to-Market Extension Act of 2006
 - 2006-06-06 — Introduced in House
 - 2006-06-06 — Introduced in House
 - 2006-06-06 — Referred to the House Committee on Financial Services.
+- 2006-06-07 — Referred to the Subcommittee on Housing and Community Opportunity.
+- 2006-06-08 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-06-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-06-14 — Committee Consideration and Mark-up Session Held.
+- 2006-06-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-07-17 — Placed on the Union Calendar, Calendar No. 327.
+- 2006-07-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-572.
+- 2006-07-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-572.
