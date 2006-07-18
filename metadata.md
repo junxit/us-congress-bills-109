@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 905
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 905
@@ -16,7 +16,7 @@ Congratulating Kazakhstan on the 15th anniversary of the closure of the world's 
 
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
-## Cosponsors (24)
+## Cosponsors (27)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -42,6 +42,9 @@ Congratulating Kazakhstan on the 15th anniversary of the closure of the world's 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Weldon, Curt [R-PA-7] (W000268)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Cannon, Chris [R-UT-3] (C000116)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
 ## Committees (1)
 
@@ -52,3 +55,9 @@ Congratulating Kazakhstan on the 15th anniversary of the closure of the world's 
 - 2006-06-29 — Introduced in House
 - 2006-06-29 — Introduced in House
 - 2006-06-29 — Referred to the House Committee on International Relations.
+- 2006-07-18 — Considered under suspension of the rules. (consideration: CR H5332-5338)
+- 2006-07-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 905.
+- 2006-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-18 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.
+- 2006-07-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5333)
+- 2006-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5333)
