@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 721
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 721
@@ -16,7 +16,7 @@ Supporting the goals and ideals of a Salvadoran-American Day (El Dia del Salvado
 
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
 
-## Cosponsors (44)
+## Cosponsors (51)
 
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 - Rep. Moran, James P. [D-VA-8] (M000933)
@@ -62,6 +62,13 @@ Supporting the goals and ideals of a Salvadoran-American Day (El Dia del Salvado
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Shadegg, John B. [R-AZ-3] (S000275)
+- Rep. Sanders, Bernard [I-VT-At Large] (S000033)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Davis, Tom [R-VA-11] (D000136)
 
 ## Committees (1)
 
@@ -73,3 +80,11 @@ Supporting the goals and ideals of a Salvadoran-American Day (El Dia del Salvado
 - 2006-03-09 — Introduced in House
 - 2006-03-09 — Referred to the House Committee on Government Reform.
 - 2006-03-09 — Sponsor introductory remarks on measure. (CR E338)
+- 2006-06-29 — Committee Consideration and Mark-up Session Held.
+- 2006-06-29 — Ordered to be Reported by Unanimous Consent.
+- 2006-07-18 — Considered under suspension of the rules. (consideration: CR H5329-5331)
+- 2006-07-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 721.
+- 2006-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-18 — Mr. Marchant moved to suspend the rules and agree to the resolution.
+- 2006-07-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5329)
+- 2006-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5329)
