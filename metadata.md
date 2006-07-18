@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 435
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 435
@@ -16,7 +16,7 @@ Congratulating Israel's Magen David Adom Society for achieving full membership i
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 
-## Cosponsors (36)
+## Cosponsors (43)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Lantos, Tom [D-CA-12] (L000090)
@@ -54,6 +54,13 @@ Congratulating Israel's Magen David Adom Society for achieving full membership i
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 - Rep. Cardin, Benjamin L. [D-MD-3] (C000141)
 - Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
 
 ## Committees (1)
 
@@ -64,3 +71,13 @@ Congratulating Israel's Magen David Adom Society for achieving full membership i
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Referred to the House Committee on International Relations.
+- 2006-06-27 — Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.
+- 2006-06-27 — Committee Consideration and Mark-up Session Held.
+- 2006-07-18 — Considered under suspension of the rules. (consideration: CR H5341-5345)
+- 2006-07-18 — DEBATE - The House continued with debate on H. Con. Res. 435.
+- 2006-07-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 435.
+- 2006-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-18 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.
+- 2006-07-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5341-5342)
+- 2006-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5341-5342)
+- 2006-07-18 — The title of the measure was amended. Agreed to without objection.
