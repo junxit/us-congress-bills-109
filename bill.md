@@ -2,7 +2,7 @@
 legis-num: H. RES. 908
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 908
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 2006, team Italy (known as “Azzurri” or simply “the Blue”) went undefeated in World Cup play and won the final game in only the second World Cup Championship to be determined by shoot-out;
 - Whereas in winning the World Cup, the Italian National Soccer Team faced adversity and overcame setbacks;
 - Whereas the vibrant culture and heritage of Italy were brought to our Nation by millions of Italian immigrants;
-- Whereas Italian Americans have made significant contributions to our Nation in all fields of endeavor, including the notable scientist and Staten Island resident Antonio Meucci, the inventor of the telephone;
+- Whereas Italian Americans have made significant contributions to our Nation in all fields of endeavor;
 - Whereas Italian Americans rejoiced in the victory of the soccer team of their ancestral homeland, many spontaneously celebrating in American neighborhoods throughout our Nation;
 - Whereas all Americans can take pride in the knowledge that the United States National Soccer Team was the only team that Italy was unable to defeat during this World Cup, needing to settle with a 1–1 tie; and
 - Whereas the fans of the Italian National Soccer team, many hailing from the United States, represent some of the most enthusiastic in the world: Now, therefore, be it
