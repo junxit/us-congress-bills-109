@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “FHA Manufactured Housing Loan Modernization Act of 2006”.
+This title may be cited as the “FHA Manufactured Housing Loan Modernization Act of 2006”.
 
 ## § 2. Findings and purposes
 
@@ -22,69 +22,71 @@ This Act may be cited as the “FHA Manufactured Housing Loan Modernization Act 
   - **(4)** during past downturns the FHA title I insurance program for manufactured homes has filled the lending void by providing stability until the private markets could recover;
   - **(5)** in 1992, during the manufactured housing industry’s last major recession, over 30,000 manufactured home loans were insured under title I;
   - **(6)** in 2004, fewer than 2,000 manufactured housing loans were insured under title I;
-  - **(7)** the dramatic reduction in the use of the title I program is due primarily to certain structural problems of the program, which have resulted in refusal by the Government National Mortgage Association (Ginnie Mae) to accept new participants into the program since 1989, contributing to higher loan costs and fewer loan originators;
-  - **(8)** the loan limits for title I manufactured housing loans have not been adjusted for inflation since 1992; and
-  - **(9)** these problems with the title I program have resulted in an atrophied market for manufactured housing loans, leaving American families who have the most difficulty achieving homeownership without adequate financing options for home-only manufactured home purchases.
+  - **(7)** the loan limits for title I manufactured housing loans have not been adjusted for inflation since 1992; and
+  - **(8)** these problems with the title I program have resulted in an atrophied market for manufactured housing loans, leaving American families who have the most difficulty achieving homeownership without adequate financing options for home-only manufactured home purchases.
 - **(b)** *Purposes* The purposes of this Act are—
   - **(1)** to provide adequate funding for FHA-insured manufactured housing loans for low- and moderate-income homebuyers during all economic cycles in the manufactured housing industry;
-  - **(2)** to modernize the FHA title I insurance program for manufactured housing loans to enhance participation by Ginnie Mae and the private lending markets;
-  - **(3)** to adjust the artificially low loan limits for title I manufactured home loan insurance to reflect the increase in costs since such limits were last increased in 1992 and to index the limits to inflation; and
-  - **(4)** to ensure that the title I manufactured housing loan insurance program requires no credit subsidy from the Federal Government.
+  - **(2)** to modernize the FHA title I insurance program for manufactured housing loans to enhance participation by Ginnie Mae and the private lending markets; and
+  - **(3)** to adjust the low loan limits for title I manufactured home loan insurance to reflect the increase in costs since such limits were last increased in 1992 and to index the limits to inflation.
 
 ## § 3. Exception to limitation on financial institution portfolio
 
-The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(a)) is amended by striking “In no case” and inserting the following: “Other than in connection with a manufactured home or a lot on which to place such a home (or both), in no case”.
+The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(a)) is amended—
 
-## § 4. Loan-to-value ratio and downpayment requirement
+- **(1)** by striking “In no case” and inserting “Other than in connection with a manufactured home or a lot on which to place such a home (or both), in no case”; and
+- **(2)** by striking “: Provided, That with” and inserting “. With”.
 
-Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)) is amended by adding at the end the following new paragraph:
+## § 4. Insurance benefits
 
-> - **(8)** *Loan-to-Value and downpayment limitations on manufactured housing loans* No insurance may be granted under this section to any such financial institution with respect to any obligation representing any such loan, advance of credit, or purchase by it in connection with a manufactured home or a lot on which to place a manufactured home (or both) unless such loan or advance of credit, or any loan or advance of credit represented by such an obligation—
->   - **(A)** involves a principal obligation not exceeding the sum of—
->     - **(i)** the amount of the mortgage insurance premium paid by the borrower at the time that the loan, advance of credit, or purchase is made; and
->     - **(ii)** 95 percent of the appraised value of the manufactured home or lot on which to place a manufactured home (or both) for which the loan or advance of credit is made; and
->   - **(B)** such loan or advance of credit is made to a borrower who has paid in cash or its equivalent, on account of the manufactured home or lot on which to place a manufactured home (or both) for which the loan or advance of credit is made, at least 3 percent of the Secretary’s estimate of the costs of acquisition, alteration, improvements, lot preparation, or other eligible activity for which the loan or advance of credit was made (excluding the amount of the mortgage insurance premium paid by the borrower at the time that the loan or advance of credit is made).
+- **(a)** *In general* Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), is amended by adding at the end the following new paragraph:
+  > - **(8)** *Insurance benefits for manufactured housing loans* Any contract of insurance with respect to loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place a manufactured home (or both) for a financial institution that is executed under this title after the date of the enactment of the FHA Manufactured Housing Loan Modernization Act of 2006 by the Secretary shall be conclusive evidence of the eligibility of such financial institution for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of the bearer from the date of the execution of such contract, except for fraud or misrepresentation on the part of such institution.
 
-## § 5. Insurance benefits
+- **(b)** *Applicability* The amendment made by subsection (a) shall only apply to loans that are registered or endorsed for insurance after the date of the enactment of this Act.
 
-Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by section 4 of this Act, is further amended by adding at the end the following new paragraph:
+## § 5. Maximum loan limits
 
-> - **(9)** *Insurance benefits for manufactured housing loans* Any contract of insurance with respect to loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place a manufactured home (or both) for a financial institution that is executed under this title before or after the date of the enactment of this Act by the Secretary shall be conclusive evidence of the eligibility of such financial institution for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of the bearer from the date of the execution of such contract, except for fraud or misrepresentation on the part of such institution. With respect only to a loan, advance of credit, or purchase in connection with a manufactured home or a lot on which to place such a home (or both), the Secretary shall otherwise provide for the payment of insurance benefits under the provisions of this section for losses on such loans, advances, or purchases according to the same terms, conditions, procedures, and requirements applicable under section 204 to a mortgage insured under section 203 covering a manufactured home (and the site on which it is located).
-
-## § 6. Maximum loan limits
-
-- **(a)** *Dollar amounts* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
+- **(a)** *Dollar Amounts* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
   - **(1)** in clause (ii) of subparagraph (A), by striking “$17,500” and inserting “$24,500”;
   - **(2)** in subparagraph (C) by striking “$48,600” and inserting “$68,040”;
   - **(3)** in subparagraph (D) by striking “$64,800” and inserting “$90,720”;
   - **(4)** in subparagraph (E) by striking “$16,200” and inserting “$22,680”; and
   - **(5)** by realigning subparagraphs (C), (D), and (E) 2 ems to the left so that the left margins of such subparagraphs are aligned with the margins of subparagraphs (A) and (B).
-- **(b)** *Annual indexing*
-  - **(1)** *Method of indexing* Section 206A of the National Housing Act (12 U.S.C. 1712a) is amended—
-    - **(A)** in subsection (a)—
-      - **(i)** by redesignating paragraphs (1) through (7) as paragraphs (2) through (8), respectively; and
-      - **(ii)** by inserting before paragraph (2) (as so redesignated) the following new paragraph:
-        > - **(1)** subparagraphs (A)(ii), (C), (D), and (E) of section 2(b)(1) (12 U.S.C. 1703(b)(1));
+- **(b)** *Annual Indexing* Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
+  > - **(9)** *Annual indexing of manufactured housing loans* The Secretary shall develop a method of indexing in order to annually adjust the loan limits established in subparagraphs (A)(ii), (C), (D), and (E) of this subsection. Such index shall be based on the manufactured housing price data collected by the United States Census Bureau. The Secretary shall establish such index no later than one year after the date of the enactment of the FHA Manufactured Housing Loan Modernization Act of 2006.
 
-  - **(2)** *Adjustments for 2004 through 2006* Not later than 30 days after the date of the enactment of this Act, the Federal Reserve Board shall calculate the adjustments for 2004, 2005, and 2006 pursuant to paragraph (1) of section 206A(a) of the National Housing Act (12 U.S.C. 1712a(a)(1)), as added by the amendment made by paragraph (1) of this subsection, and shall notify the Secretary of Housing and Urban Development pursuant to subsection (b) of such section 206A. Such adjustments shall take effect upon the date of such notification.
-  - **(3)** *Technical and conforming changes* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
-    - **(A)** by striking “No” and inserting “Except as provided in the last sentence of this paragraph and in paragraph (8), no”; and
-    - **(B)** by adding after and below subparagraph (G) the following:
+- **(c)** *Technical and conforming changes* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
+  - **(1)** by striking “No” and inserting “Except as provided in the last sentence of this paragraph, no”; and
+  - **(2)** by adding after and below subparagraph (G) the following:
+    > The Secretary shall, by regulation, annually increase the dollar amount limitations in subparagraphs (A)(ii), (C), (D), and (E) (as such limiations may have been previously adjusted under this sentence) in accordance with the index established pursuant to paragraph (9).
 
-## § 7. Insurance premiums
+## § 6. Insurance premiums
 
 Subsection (f) of section 2 of the National Housing Act (12 U.S.C. 1703(f)) is amended—
 
-- **(1)** by inserting “(1)” after “(f)”;
+- **(1)** by inserting “(1) Premium charges.—” after “(f)”; and
 - **(2)** by adding at the end the following new paragraph:
   > - **(2)** *Manufactured home loans* Notwithstanding paragraph (1), in the case of a loan, advance of credit, or purchase in connection with a manufactured home or a lot on which to place such a home (or both), the premium charge for the insurance granted under this section shall be paid by the borrower under the loan or advance of credit, as follows:
   >   - **(A)** At the time of the making of the loan, advance of credit, or purchase, a single premium payment in an amount not to exceed 2.25 percent of the amount of the original insured principal obligation.
   >   - **(B)** In addition to the premium under subparagraph (A), annual premium payments during the term of the loan, advance, or obligation purchased in an amount not exceeding 1.0 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
   >   - **(C)** Premium charges under this paragraph shall be established in amounts that are sufficient, but do not exceed the minimum amounts necessary, to maintain a negative credit subsidy for the program under this section for insurance of loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place such a home (or both), as determined based upon risk to the Federal Government under existing underwriting requirements.
+  >   - **(D)** The Secretary may increase the limitations on premium payments to percentages above those set forth in subparagraphs (A) and (B), but only if necessary, and not in excess of the minimum increase necessary, to maintain a negative credit subsidy as described in subparagraph (C).
+
+## § 7. Technical corrections
+
+- **(a)** *Dates* Subsection (a) of section 2 of the National Housing Act (12 U.S.C. 1703(a)) is amended—
+  - **(1)** by striking “on and after July 1, 1939,” each place such term appears; and
+  - **(2)** by striking “made after the effective date of the Housing Act of 1954”.
+- **(b)** *Authority of Secretary* Subsection (c) of section 2 of the National Housing Act (12 U.S.C. 1703(c)) is amended to read as follows:
+  > - **(c)** *Handling and disposal of property*
+  >   - **(1)** *Authority of Secretary* Notwithstanding any other provision of law, the Secretary may—
+  >     - **(A)** deal with, complete, rent, renovate, modernize, insure, or assign or sell at public or private sale, or otherwise dispose of, for cash or credit in the Secretary’s discretion, and upon such terms and conditions and for such consideration as the Secretary shall determine to be reasonable, any real or personal property conveyed to or otherwise acquired by the Secretary, in connection with the payment of insurance heretofore or hereafter granted under this title, including any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with the payment of insurance heretofore or hereafter granted under this section; and
+  >     - **(B)** pursue to final collection, by way of compromise or otherwise, all claims assigned to or held by the Secretary and all legal or equitable rights accruing to the Secretary in connection with the payment of such insurance, including unpaid insurance premiums owed in connection with insurance made available by this title.
+  >   - **(2)** *Advertisements for proposals* Section 3709 of the Revised Statutes shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $25,000.
+  >   - **(3)** *Delegation of authority* The power to convey and to execute in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest therein heretofore or hereafter acquired by the Secretary pursuant to the provisions of this title may be exercised by an officer appointed by the Secretary without the execution of any express delegation of power or power of attorney. Nothing in this subsection shall be construed to prevent the Secretary from delegating such power by order or by power of attorney, in the Secretary’s discretion, to any officer or agent the Secretary may appoint.
 
 ## § 8. Revision of underwriting criteria
 
-- **(a)** *In general* Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
-  > - **(10)** *Financial soundness of manufactured housing program* The Secretary shall establish such underwriting criteria for loans and advances of credit in connection with a manufactured home or a lot on which to place a manufactured home (or both), including such loans and advances represented by obligations purchased by financial institutions, as may be necessary to ensure that the program under this title for insurance for financial institutions against losses from such loans, advances of credit, and purchases is financially sound.
+- **(a)** *In General* Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
+  > - **(10)** *Financial Soundness of Manufactured Housing Program* The Secretary shall establish such underwriting criteria for loans and advances of credit in connection with a manufactured home or a lot on which to place a manufactured home (or both), including such loans and advances represented by obligations purchased by financial institutions, as may be necessary to ensure that the program under this title for insurance for financial institutions against losses from such loans, advances of credit, and purchases is financially sound.
 
 - **(b)** *Timing* Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall revise the existing underwriting criteria for the program referred to in paragraph (10) of section 2(b) of the National Housing Act (as added by subsection (a) of this section) in accordance with the requirements of such paragraph.
