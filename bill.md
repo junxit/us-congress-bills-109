@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006”.
+This Act may be cited as the “Fannie Lou Hamer, Rosa Parks, and Coretta Scott KingCoretta Scott King, and César E. Chávez Voting Rights Act Reauthorization and Amendments Act of 2006”.
 
 ## § 2. Congressional purpose and findings
 
