@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4804
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 5 executed, 9 stated and not applied.
+16 amendatory instructions. 7 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 12 U.S.C. § 1703
+
+> by striking “In no case” and inserting “Other than in connection with a manufactured home or a lot on which to place such a home (or both), in no case”; and
+
+| | |
+|---|---|
+| Removed | `In no case` |
+| Inserted | `Other than in connection with a manufactured home or a lot on which to place such a home (or both), in no case` |
+
+### 12 U.S.C. § 1703
+
+> by striking “: Provided, That with” and inserting “. With”.
+
+| | |
+|---|---|
+| Removed | `: Provided, That with` |
+| Inserted | `. With` |
 
 ### 12 U.S.C. § 1703
 
@@ -62,12 +80,12 @@ to guess them.
 
 ### 12 U.S.C. § 1703
 
-> by striking “No” and inserting “Except as provided in the last sentence of this paragraph and in paragraph (8), no”; and
+> by striking “No” and inserting “Except as provided in the last sentence of this paragraph, no”; and
 
 | | |
 |---|---|
 | Removed | `No` |
-| Inserted | `Except as provided in the last sentence of this paragraph and in paragraph (8), no` |
+| Inserted | `Except as provided in the last sentence of this paragraph, no` |
 
 ## Stated, not applied
 
@@ -78,12 +96,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1703` | replace | The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(a)) is amended by striking “In no case” and inserting the following: “Other than in connection with a manufactured home or a lot on which to place such a hom… | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1703` | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1703` | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by section 4 of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1703` | redesignate | by redesignating paragraphs (1) through (7) as paragraphs (2) through (8), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1703` | redesignate | by inserting before paragraph (2) (as so redesignated) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1703` | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1703` | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1703` | amend | by adding after and below subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1703` | insert | by inserting “(1)” after “(f)”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1703` | insert | by inserting “(1) Premium charges.—” after “(f)”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1703` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1703` | strike | by striking “on and after July 1, 1939,” each place such term appears; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1703` | strike | by striking “made after the effective date of the Housing Act of 1954”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1703` | amend | Subsection (c) of section 2 of the National Housing Act (12 U.S.C. 1703(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1703` | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

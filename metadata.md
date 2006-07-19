@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4804
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4804
@@ -29,3 +29,9 @@ FHA Manufactured Housing Loan Modernization Act of 2006
 - 2006-02-16 — Introduced in House
 - 2006-02-16 — Introduced in House
 - 2006-02-16 — Referred to the House Committee on Financial Services.
+- 2006-03-21 — Referred to the Subcommittee on Housing and Community Opportunity.
+- 2006-06-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-06-14 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Placed on the Union Calendar, Calendar No. 332.
+- 2006-07-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-580.
+- 2006-07-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-580.
