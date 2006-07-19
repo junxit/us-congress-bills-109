@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 449
 congress: 109
-version: Introduced in House
+version: Enrolled Bill
 derived: true
 ---
 
