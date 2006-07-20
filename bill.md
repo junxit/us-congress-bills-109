@@ -22,7 +22,7 @@ In this Act:
 
 ## § 3. Expansion of boundaries
 
-- **(a)** *Expansion* The boundaries of the Refuge are expanded to include land and water in Bibb County, Alabama, depicted as “Proposed National Wildlife Refuge Expansion Boundary” on the map entitled “Cahaba River NWR Expansion” and dated _______.
+- **(a)** *Expansion* The boundaries of the Refuge are expanded to include land and water in Bibb County, Alabama, depicted as “Proposed National Wildlife Refuge Expansion Boundary” on the map entitled “Cahaba River NWR Expansion” and dated March 14, 2006.
 - **(b)** *Availability of map* The Secretary shall make the map referred to in subsection (a) available for inspection in appropriate offices of the United States Fish and Wildlife Service.
 
 ## § 4. Acquisition of land and water in expanded boundaries
