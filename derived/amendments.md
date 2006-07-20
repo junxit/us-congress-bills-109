@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5121
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 16 executed, 28 stated and not applied.
+66 amendatory instructions. 15 executed, 51 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 12 U.S.C. § 1709
-
-> by striking “48 percent” and inserting “65 percent”;
-
-| | |
-|---|---|
-| Removed | `48 percent` |
-| Inserted | `65 percent` |
 
 ### 12 U.S.C. § 1709
 
@@ -96,7 +87,7 @@ to guess them.
 | Removed | `General Insurance Fund` |
 | Inserted | `Mutual Mortgage Insurance Fund.` |
 
-### 12 U.S.C. § 1715z-20
+### 12 U.S.C. § 1709
 
 > Section 255(i)(2)(A) of the National Housing Act (12 U.S.C. 1715z–20(i)(2)(A)) is amended by striking “General Insurance Fund” and inserting “Mutual Mortgage Insurance Fund”.
 
@@ -105,32 +96,14 @@ to guess them.
 | Removed | `General Insurance Fund` |
 | Inserted | `Mutual Mortgage Insurance Fund` |
 
-### 12 U.S.C. § 1735c
+### 12 U.S.C. § 1708
 
-> in section 519(e) (12 U.S.C. 1735c(e)), by striking “203(b)” and all that follows through “203(i)” and inserting “203, except as determined by the Secretary,”.
+> in section 519(e) (12 U.S.C. 1735c(e)), by striking “203(b)” and all that follows through “203(i)” and inserting “203, except as determined by the Secretary”.
 
 | | |
 |---|---|
 | Removed | `203(b)” and all that follows through “203(i)` |
-| Inserted | `203, except as determined by the Secretary,` |
-
-### 12 U.S.C. § 1715z-12
-
-> by striking “General Insurance Fund established in section 519” and inserting “Mutual Mortgage Insurance Fund”; and
-
-| | |
-|---|---|
-| Removed | `General Insurance Fund established in section 519` |
-| Inserted | `Mutual Mortgage Insurance Fund` |
-
-### 12 U.S.C. § 1715z-13
-
-> by striking “General Insurance Fund” the first place it appears through “519” and inserting “Mutual Mortgage Insurance Fund”; and
-
-| | |
-|---|---|
-| Removed | `General Insurance Fund” the first place it appears through “519` |
-| Inserted | `Mutual Mortgage Insurance Fund` |
+| Inserted | `203, except as determined by the Secretary` |
 
 ### 12 U.S.C. § 1709
 
@@ -141,7 +114,7 @@ to guess them.
 | Removed | `shall` |
 | Inserted | `means a metropolitan statistical area as established by the Office of Management and Budget;` |
 
-### 12 U.S.C. § 1707
+### 12 U.S.C. § 1709
 
 > Section 201(d) of the National Housing Act (12 U.S.C. 1707(d)) is amended by striking “the Trust Territory of the Pacific Islands” and inserting “the Commonwealth of the Northern Mariana Islands”.
 
@@ -168,6 +141,24 @@ to guess them.
 | Removed | `limitations` |
 | Inserted | `limitation` |
 
+### 12 U.S.C. § 1707
+
+> by striking “As used in section 203 of this title—” and inserting “As used in this title and for purposes of participation in insurance programs under this title, except as specifically provided otherwise, the following definitions shall apply:”;
+
+| | |
+|---|---|
+| Removed | `As used in section 203 of this title—` |
+| Inserted | `As used in this title and for purposes of participation in insurance programs under this title, except as specifically provided otherwise, the following definitions shall apply:` |
+
+### 12 U.S.C. § 1713
+
+> Section 207(a)(2) of the National Housing Act (12 U.S.C. 1713(a)(2)) is amended by striking “means the original lender under a mortgage, and its successors and assigns, and” and inserting “has the meaning given such term in section 201, except that such term also”.
+
+| | |
+|---|---|
+| Removed | `means the original lender under a mortgage, and its successors and assigns, and` |
+| Inserted | `has the meaning given such term in section 201, except that such term also` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -177,11 +168,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1709` | replace | by striking the subparagraph designation and all that follows through the end of clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1709` | strike | by striking “87 percent of”; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1709` | replace | by striking “for Fiscal Year” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1709` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1709` | replace | in the matter after and below subparagraph (B), by striking the semi-colon in the first sentence and all that follows through “title 38, United States Code” and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | replace | by striking subparagraphs (A) and (B) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | strike | in the matter after and below subparagraph (B), by striking the second sentence (relating to a definition of “average closing cost”) and all that follows through “title 38, United States Code”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1709` | strike | by striking the last undesignated paragraph (relating to counseling with respect to the responsibilities and financial management involved in homeownership). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1709` | strike | by striking “(or thirty years if such mortgage is not approved for insurance prior to construction)”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1709` | replace | Paragraph (9) of section 203(b) of the National Housing Act (12 U.S.C. 1709(b)(9) is amended by striking the paragraph designation and all that follows through “Provided further, That for” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -193,15 +181,41 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1715y` | strike | by striking “and” before “(2)”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1715y` | insert | by inserting before the period at the end the following: “, and (3) the project has a blanket mortgage insured by the Secretary under subsection (d)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1715y` | replace | in subsection (g), by striking “, except that” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1707` | replace | in clause (1), by striking “or” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1707` | insert | by inserting before the semicolon the following: “, or (3) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, a one-family unit in a multifamily project, including a proje… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1715y` | replace | in clause (1), by striking “or” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1715y` | insert | by inserting before the semicolon the following: “, or (c) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, a one-family unit in a multifamily project, including a proje… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1708` | amend | Subsection (a) of section 202 of the National Housing Act (12 U.S.C. 1708(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1711` | strike | in section 205 (12 U.S.C. 1711), by striking subsections (g) and (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1715z-12` | strike | in the second sentence, by striking “(1) all references” and all that follows through “and (2)”. | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1715z-13` | strike | in the second sentence, by striking “(1) all references” and all that follows through “and (2)”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1708` | strike | in section 205 (12 U.S.C. 1711), by striking subsections (g) and (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “General Insurance Fund established in section 519” and inserting “Mutual Mortgage Insurance Fund”; and | the bill names no machine-readable US Code section |
+| — | strike | in the second sentence, by striking “(1) all references” and all that follows through “and (2)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “General Insurance Fund” the first place it appears through “519” and inserting “Mutual Mortgage Insurance Fund”; and | the bill names no machine-readable US Code section |
+| — | strike | in the second sentence, by striking “(1) all references” and all that follows through “and (2)”. | the bill names no machine-readable US Code section |
 | `12 U.S.C. § 1709` | repeal | The following provisions of the National Housing Act are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1715z-20` | strike | by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1715z-20` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1709` | insert | by inserting after “property” the following: “plus any initial service charges, appraisal, inspection and other fees in connection with the mortgage as approved by the Secretary,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1709` | strike | by striking the third sentence (as added by chapter 7 of the Emergency Supplemental Appropriations Act of 1994 (Public Law 103–211; 108 Stat. 12)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | strike | by striking the second sentence (as added by chapter 7 of the Emergency Supplemental Appropriations Act of 1994 (Public Law 103–211; 108 Stat. 12)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1709` | add-at-end | by adding at the end the following new sentence: “In any case in which the single family residence to be insured under this subsection is within a jurisdiction in which the President has declared a major disaster to have occurred, the Se… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | redesignate | in subsection (a), by redesignating clauses (1) and (2) as clauses (A) and (B) respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | redesignate | by redesignating subsections (a), (c), (d), (e), and (f) as paragraphs (1), (4), (5), (6), and (7), respectively, and realigning such paragraphs two ems from the left margin. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | insert | in subparagraph (A), by inserting “, as defined in section 201,” after “mortgagee”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1707` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | redesignate | by redesignating subpargraphs (C) and (D) as subparagraphs (B) and (C), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | replace | Section 601(b) of the National Housing Act (12 U.S.C. 1736(b)) is amended by striking “includes the original lender under a mortgage, and his successors and assigns approved by the Secretary” and inserting “has the meaning given such ter… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1707` | replace | Section 801(b) of the National Housing Act (12 U.S.C. 1748(b)) is amended by striking “includes the original lender under a mortgage, and his successors and assigns approved by the Secretary” and inserting “has the meaning given such ter… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1749aaa-5` | replace | Section 1106(8) of the National Housing Act (12 U.S.C. 1749aaa–5(8)) is amended by striking “means the original lender under a mortgage, and his or its successors and assigns, and” and inserting “has the meaning given such term in sectio… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1706c` | strike | by striking “, and be held by,”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1706c` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1709` | strike | by striking “, and be held by,”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1709` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1715l` | strike | by striking “ and be held by”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1715l` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1715z-20` | strike | Paragraph (1) of section 255(d) of the National Housing Act (12 U.S.C. 1715z–20(d)(1)) is amended by striking “as responsible and able to service the mortgage properly”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1738` | strike | by striking “, and be held by,”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1738` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1746` | strike | by striking “ and be held by”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1746` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1749aaa` | strike | by striking “ and held by”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1749aaa` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1750b` | strike | by striking “, and be held by,”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1750b` | strike | by striking “as responsible and able to service the mortgage properly”. | the bill quotes the text struck but describes what replaces it |
