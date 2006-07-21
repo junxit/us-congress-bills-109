@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2965
@@ -16,7 +16,7 @@ Federal Prison Industries Competition in Contracting Act of 2006
 
 - Rep. Hoekstra, Peter [R-MI-2] (H000676)
 
-## Cosponsors (77)
+## Cosponsors (93)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -95,6 +95,22 @@ Federal Prison Industries Competition in Contracting Act of 2006
 - Rep. Barrett, J. Gresham [R-SC-3] (B001239)
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Cantor, Eric [R-VA-7] (C001046)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Northup, Anne M. [R-KY-3] (N000143)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Oxley, Michael G. [R-OH-4] (O000163)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
 
 ## Committees (1)
 
@@ -105,3 +121,13 @@ Federal Prison Industries Competition in Contracting Act of 2006
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Introduced in House
 - 2005-06-17 — Referred to the House Committee on the Judiciary.
+- 2005-06-29 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2005-07-01 — Subcommittee Hearings Held.
+- 2005-07-08 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2005-07-14 — Committee Consideration and Mark-up Session Held.
+- 2006-07-12 — Committee Consideration and Mark-up Session Held.
+- 2006-07-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-07-20 — Mr. King (IA) asked unanimous consent that the Committee on Judiciary have until midnight on July 21 to file a report on H.R. 2965. Agreed to without objection.
+- 2006-07-21 — Placed on the Union Calendar, Calendar No. 342.
+- 2006-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-591.
+- 2006-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-591.
