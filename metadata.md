@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2146
@@ -29,3 +29,8 @@ A bill to extend relocation expenses test programs for Federal employees.
 
 - 2005-12-20 — Introduced in Senate
 - 2005-12-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-01-27 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce,  and the District of Columbia.
+- 2006-06-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-289.
+- 2006-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-289.
+- 2006-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.
