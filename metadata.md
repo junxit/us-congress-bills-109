@@ -1,7 +1,7 @@
 ---
 measure: S. 3501
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3501
@@ -25,3 +25,7 @@ A bill to amend the Shivwits Band of the Paiute Indian Tribe of Utah Water Right
 - 2006-06-13 — Introduced in Senate
 - 2006-06-13 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S5795)
 - 2006-06-13 — Sponsor introductory remarks on measure. (CR S5794-5795)
+- 2006-06-22 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2006-07-24 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-291.
+- 2006-07-24 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-291.
+- 2006-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 531.
