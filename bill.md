@@ -16,7 +16,7 @@ This Act may be cited as the “Veterans’ Compensation Cost-of-Living Adjustme
 ## § 2. Increase in rates of disability compensation and dependency and indemnity compensation
 
 - **(a)** *Rate adjustment* Effective on December 1, 2006, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2006, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
-- **(b)** *Amounts to be increased* The dollar amounts to be increased pursuant to subsection (a) are the following:
+- **(b)** *Amounts To be increased* The dollar amounts to be increased pursuant to subsection (a) are the following:
   - **(1)** *Wartime disability compensation* Each of the dollar amounts under section 1114 of title 38, United States Code.
   - **(2)** *Additional compensation for dependents* Each of the dollar amounts under sections 1115(1) of such title.
   - **(3)** *Clothing allowance* The dollar amount under section 1162 of such title.
