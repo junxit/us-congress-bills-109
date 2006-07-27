@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5347
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5347
@@ -16,7 +16,7 @@ HOPE VI Reauthorization Act of 2006
 
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Leach, James A. [R-IA-2] (L000169)
@@ -43,6 +43,9 @@ HOPE VI Reauthorization Act of 2006
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Harris, Katherine [R-FL-13] (H001035)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
 
 ## Committees (1)
 
@@ -53,3 +56,8 @@ HOPE VI Reauthorization Act of 2006
 - 2006-05-10 — Introduced in House
 - 2006-05-10 — Introduced in House
 - 2006-05-10 — Referred to the House Committee on Financial Services.
+- 2006-05-24 — Committee Consideration and Mark-up Session Held.
+- 2006-05-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-07-27 — Placed on the Union Calendar, Calendar No. 349.
+- 2006-07-27 — Reported by the Committee on Financial Services. H. Rept. 109-605.
+- 2006-07-27 — Reported by the Committee on Financial Services. H. Rept. 109-605.
