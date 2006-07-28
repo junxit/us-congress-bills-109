@@ -30,4 +30,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** designates August 16, 2006, as “National Airborne Day”; and
-- **(2)** requests that the President issue a proclamation calling on Federal, State, and local administrators and the people of the United States to observe “National Airborne Day” with appropriate programs, ceremonies, and activities.
+- **(2)** calls on the people of the United States to observe “National Airborne Day” with appropriate programs, ceremonies, and activities.
