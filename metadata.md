@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5681
@@ -29,3 +29,9 @@ Coast Guard Authorization Act of 2006
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Introduced in House
 - 2006-06-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-06-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-06-28 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2006-06-28 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2006-07-28 — Placed on the Union Calendar, Calendar No. 354.
+- 2006-07-28 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-614.
+- 2006-07-28 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-614.
