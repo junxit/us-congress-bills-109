@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4653
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4653
@@ -25,3 +25,9 @@ To repeal a prohibition on the use of certain funds for tunneling in certain are
 - 2005-12-22 — Introduced in House
 - 2005-12-22 — Introduced in House
 - 2005-12-22 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-12-23 — Referred to the Subcommittee on Railroads.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported by Voice Vote.
+- 2006-07-28 — Placed on the Union Calendar, Calendar No. 351.
+- 2006-07-28 — Reported by the Committee on Transportation. H. Rept. 109-610.
+- 2006-07-28 — Reported by the Committee on Transportation. H. Rept. 109-610.
