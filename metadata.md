@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4957
@@ -25,3 +25,12 @@ Tylersville Fish Hatchery Conveyance Act
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Introduced in House
 - 2006-03-14 — Referred to the House Committee on Resources.
+- 2006-03-20 — Executive Comment Requested from Interior.
+- 2006-03-20 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2006-06-15 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-07-19 — Subcommittee on Fisheries and Oceans Discharged.
+- 2006-07-28 — Placed on the Union Calendar, Calendar No. 353.
+- 2006-07-28 — Reported (Amended) by the Committee on Resources. H. Rept. 109-612.
+- 2006-07-28 — Reported (Amended) by the Committee on Resources. H. Rept. 109-612.
