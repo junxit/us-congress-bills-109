@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 1492
@@ -133,9 +133,10 @@ To provide for the preservation of the historic confinement sites where Japanese
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Sanders, Bernard [I-VT-At Large] (S000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -156,3 +157,9 @@ To provide for the preservation of the historic confinement sites where Japanese
 - 2005-11-16 — Mr. Gohmert moved to suspend the rules and pass the bill, as amended.
 - 2005-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10321)
 - 2005-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10321)
+- 2005-11-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-04-06 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2006-05-24 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-314.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-314.
+- 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
