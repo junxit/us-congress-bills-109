@@ -1,7 +1,7 @@
 ---
 measure: S. 1548
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1548
@@ -29,3 +29,8 @@ Coffman Cove Administrative Site Conveyance Act of 2006
 - 2005-07-28 — Introduced in Senate
 - 2005-07-28 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S9307)
 - 2005-07-28 — Sponsor introductory remarks on measure. (CR S9306-9307)
+- 2005-11-02 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-347.
+- 2006-05-24 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-301.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-301.
+- 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.

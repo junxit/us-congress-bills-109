@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1548
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -28,9 +28,10 @@ Congress finds that—
 
 ## § 3. Definitions
 
--  In this Act:
-  - **(1)** *City* The term “City” means the city of Coffman Cove, Alaska.
-  - **(2)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
+In this Act:
+
+- **(1)** *City* The term “City” means the city of Coffman Cove, Alaska.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
 
 ## § 4. Conveyance
 
