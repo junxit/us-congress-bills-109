@@ -1,7 +1,7 @@
 ---
 measure: S. 2003
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 323(a) of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 1011 note; Public Law 105–277), is amended by striking “each of fiscal years 2006 through 2011” and inserting “fiscal year 2006 and… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “each of fiscal years 2006 through 2011” and inserting “fiscal year 2006 and each fiscal year thereafter”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
