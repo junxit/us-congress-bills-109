@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 394
@@ -16,9 +16,10 @@ To direct the Secretary of the Interior to conduct a boundary study to evaluate 
 
 - Rep. Meehan, Martin T. [D-MA-5] (M000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,9 @@ To direct the Secretary of the Interior to conduct a boundary study to evaluate 
 - 2005-09-20 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
 - 2005-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8118)
 - 2005-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8118)
+- 2005-09-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2006-04-06 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2006-05-24 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-311.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-311.
+- 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.
