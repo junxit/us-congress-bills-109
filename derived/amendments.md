@@ -1,7 +1,7 @@
 ---
 measure: S. 2568
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
