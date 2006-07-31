@@ -31,6 +31,7 @@ In this Act:
 - **(c)** *Payment* Not later than 30 days after the date on which the public land is conveyed under this section, the City shall pay to the Secretary an amount equal to the appraised value of the public land, as determined under subsection (b).
 - **(d)** *Disposition of proceeds* The Secretary shall deposit the proceeds from the sale in the Federal Land Disposal Account established under section 206 of the Federal Land Transaction Facilitation Act (43 U.S.C. 2305), to be expended in accordance with that Act.
 - **(e)** *Costs* The City shall pay any cost associated with the conveyance of land under subsection (a).
+- **(f)** *Plan* The conveyance of the public land under subsection (a) shall not require an amendment to the Green River Resource Management Plan.
 
 ## § 4. Segregation of lands
 
