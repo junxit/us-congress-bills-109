@@ -1,7 +1,7 @@
 ---
 measure: S. 1529
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1529
@@ -28,3 +28,8 @@ City of Yuma Improvement Act
 
 - 2005-07-28 — Introduced in Senate
 - 2005-07-28 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2005-10-06 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 109-273.
+- 2006-05-24 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-300.
+- 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute. With written report No. 109-300.
+- 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.
