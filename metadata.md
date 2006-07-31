@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1492
@@ -163,3 +163,17 @@ To provide for the preservation of the historic confinement sites where Japanese
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-314.
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-314.
 - 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
+- 2006-11-16 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S11105; text as passed Senate: CR S11105)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S11105; text as passed Senate: CR S11105)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-05 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 1492.
+- 2006-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-05 — Mr. Radanovich moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8698-8700)
+- 2006-12-05 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text: CR H8698)
+- 2006-12-05 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text: CR H8698)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-21 — Became Public Law No: 109-441.
+- 2006-12-21 — Became Public Law No: 109-441.
+- 2006-12-21 — Signed by President.
+- 2006-12-21 — Signed by President.
