@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2054
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Vermont water resources study
 
-- **(a)** *In general* The Secretary of the Interior, acting through the Director of the United States Geological Survey and in coordination with the State of Vermont, shall conduct a study of water resources in the State of Vermont, including—
+- **(a)** *In general* The Secretary of the Interior, acting through the Director of the United States Geological Survey and in coordination with the State of Vermont, shall, in accordance with this Act and any other applicable law, conduct a study of water resources in the State of Vermont, including—
   - **(1)** a survey of—
     - **(A)** with respect to groundwater—
       - **(i)** supplies, including aquifers, that are available for potable use by municipalities in the State; and
