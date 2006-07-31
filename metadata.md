@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4000
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4000
@@ -45,3 +45,12 @@ To authorize the Secretary of the Interior to revise certain repayment contracts
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-315.
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-315.
 - 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11105-11106)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11105-11106)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-04 — Presented to President.
+- 2006-12-04 — Presented to President.
+- 2006-12-12 — Became Public Law No: 109-386.
+- 2006-12-12 — Became Public Law No: 109-386.
+- 2006-12-12 — Signed by President.
+- 2006-12-12 — Signed by President.
