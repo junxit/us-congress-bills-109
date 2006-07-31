@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 394
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 394
@@ -12,8 +12,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 1. Boundary adjustment study
 
 - **(a)** *Definitions* For the purposes of this Act:
-  - **(1)** *Barrett’s farm* The term Barrett’s Farm means the Colonel James Barrett Farm listed on the National Register of Historic Places, including the house and buildings on the approximately 6 acres of land in Concord, Massachusetts.
-  - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(1)** *Barrett’s farm* The term “Barrett’s Farm” means the Colonel James Barrett Farm listed on the National Register of Historic Places, including the house and buildings on the approximately 6 acres of land in Concord, Massachusetts.
+  - **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(b)** *Study* Not later than 2 years after the date that funds are made available for this section, the Secretary shall conduct a boundary study to evaluate the significance of Barrett’s Farm in Concord, Massachusetts, as well as the suitability and feasibility of its inclusion in the National Park System as part of Minute Man National Historical Park.
 - **(c)** *Content of Study* The study shall include an analysis of the following:
   - **(1)** The significance of Barrett’s Farm in relation to the Revolutionary War.

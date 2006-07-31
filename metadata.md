@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 394
@@ -45,3 +45,12 @@ To direct the Secretary of the Interior to conduct a boundary study to evaluate 
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-311.
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-311.
 - 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11537-11543)
+- 2006-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11537-11543)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-419.
+- 2006-12-20 — Became Public Law No: 109-419.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.
