@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5540
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 5540
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 217 Sou
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,8 @@ To designate the facility of the United States Postal Service located at 217 Sou
 - 2006-06-19 — Ms. Foxx moved to suspend the rules and pass the bill.
 - 2006-06-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 306 - 0 (Roll no. 289). (text: CR H4193)
 - 2006-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 306 - 0 (Roll no. 289).(text: CR H4193)
+- 2006-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-07-27 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.
