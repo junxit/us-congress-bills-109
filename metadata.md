@@ -1,7 +1,7 @@
 ---
 measure: S. 2555
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2555
@@ -20,8 +20,16 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Obama, Barack [D-IL] (O000167)
 
+## Committees (1)
+
+- Senate — Homeland Security and Governmental Affairs Committee
+
 ## Actions
 
 - 2006-04-05 — Introduced in Senate
 - 2006-04-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2915)
 - 2006-04-05 — Sponsor introductory remarks on measure. (CR S2915)
+- 2006-07-27 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
