@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4646
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 4646
@@ -99,9 +99,10 @@ To designate the facility of the United States Postal Service located at 7320 Re
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Hunter, Duncan [R-CA-52] (H000981)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -116,3 +117,8 @@ To designate the facility of the United States Postal Service located at 7320 Re
 - 2006-04-05 — Mr. Westmoreland moved to suspend the rules and pass the bill. (consideration: CR H1494-1495)
 - 2006-04-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1494)
 - 2006-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1494)
+- 2006-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-07-27 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 569.
