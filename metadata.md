@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5169
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5169
@@ -51,3 +51,13 @@ To designate the facility of the United States Postal Service located at 1310 Hi
 - 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
 - 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
 - 2006-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.
+- 2006-08-02 — Cleared for White House.
+- 2006-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8667-8668)
+- 2006-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8667-8668)
+- 2006-08-03 — Message on Senate action sent to the House.
+- 2006-08-14 — Presented to President.
+- 2006-08-14 — Presented to President.
+- 2006-08-17 — Became Public Law No: 109-278.
+- 2006-08-17 — Became Public Law No: 109-278.
+- 2006-08-17 — Signed by President.
+- 2006-08-17 — Signed by President.
