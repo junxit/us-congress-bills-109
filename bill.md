@@ -1,13 +1,11 @@
 ---
 legis-num: H.R. 4962
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: 
+session: 
+chamber: 
 ---
 
 # H.R. 4962
-
-> To designate the facility of the United States Postal Service located at 100 Pitcher Street in Utica, New York, as the “Captain George A. Wood Post Office Building”.
 
 ## § 1. Captain George A. Wood Post Office Building
 
