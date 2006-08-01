@@ -1,7 +1,7 @@
 ---
 measure: S. 2719
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2719
@@ -24,3 +24,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2006-05-04 — Introduced in Senate
 - 2006-05-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S4054)
+- 2006-07-27 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
