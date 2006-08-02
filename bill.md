@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2590
 
-> To require full disclosure of all entities and organizations receiving Federal funds
+> To require full disclosure of all entities and organizations receiving Federal funds.
 
 ## § 1. Short title
 
