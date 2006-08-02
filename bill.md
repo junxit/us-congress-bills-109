@@ -1,0 +1,23 @@
+---
+legis-num: S. 3778
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3778
+
+> To reauthorize and improve the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Small Business Reauthorization and Improvements Act of 2006”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Definitions
+
+In this Act—
+
+- **(1)** the terms Administration and Administrator mean the Small Business Administration and the Administrator thereof, respectively;
+- **(2)** the term small business concern has the same meaning as in section 3 of the Small Business Act (15 U.S.C. 632); and
+- **(3)** the term small business concern owned and controlled by socially and economically disadvantaged individuals has the same meaning as in section 8 of the Small Business Act (15 U.S.C. 637).
