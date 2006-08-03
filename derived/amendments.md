@@ -1,7 +1,7 @@
 ---
 measure: S. 843
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
 | — | amend | Subpart 12 of part C of title IV of the Public Health Service Act (42 U.S.C. 285l et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 409C of the Public Health Service Act (42 U.S.C. 284g) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | The following sections of the Children's Health Act of 2000 (Public Law 106–310) are repealed: | the bill names no machine-readable US Code section |
