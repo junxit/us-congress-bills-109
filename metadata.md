@@ -1,7 +1,7 @@
 ---
 measure: S. 2823
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2823
@@ -33,3 +33,6 @@ Ryan White HIV/AIDS Treatment Modernization Act of 2006
 - 2006-05-17 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
 - 2006-05-17 — Introduced in Senate
 - 2006-05-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2006-08-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.
+- 2006-08-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. Without written report.
+- 2006-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
