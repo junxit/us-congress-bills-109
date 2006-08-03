@@ -1,7 +1,7 @@
 ---
 measure: S. 3721
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3721
@@ -30,3 +30,7 @@ Post-Katrina Emergency Management Reform Act of 2006
 - 2006-07-25 — Introduced in Senate
 - 2006-07-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2006-07-25 — Sponsor introductory remarks on measure. (CR S8197-8198)
+- 2006-07-27 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2006-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2006-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.
