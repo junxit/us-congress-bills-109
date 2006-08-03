@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 468
 congress: 109
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 468
@@ -34,3 +34,5 @@ A resolution supporting the continued administration of Channel Islands National
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-310.
 - 2006-07-31 — Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-310.
 - 2006-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
+- 2006-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8900; text as passed Senate: CR S8900)
+- 2006-08-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8900; text as passed Senate: CR S8900)
