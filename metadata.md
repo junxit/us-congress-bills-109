@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 545
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 545
@@ -30,3 +30,7 @@ A resolution recognizing the life and achievements of Will Keith Kellogg.
 
 - 2006-07-31 — Introduced in Senate
 - 2006-07-31 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8454-8455)
+- 2006-08-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 8/3/2006 S8903)
+- 2006-08-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 8/3/2006 S8903)
+- 2006-08-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR 8/3/2006 S8903)
+- 2006-08-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR 8/3/2006 S8903)
