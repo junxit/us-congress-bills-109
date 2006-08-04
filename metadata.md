@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 532
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 532
@@ -28,3 +28,7 @@ A resolution encouraging the adults of the United States to support, listen to, 
 
 - 2006-07-14 — Introduced in Senate
 - 2006-07-14 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S7563)
+- 2006-08-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 8/3/2006 S8902-8903)
+- 2006-08-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 8/3/2006 S8902-8903)
+- 2006-08-04 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR 8/3/2006 S8902-8903)
+- 2006-08-04 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR 8/3/2006 S8902-8903)
