@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3534
@@ -25,3 +25,11 @@ Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2005
 - 2005-07-28 — Introduced in House
 - 2005-07-28 — Introduced in House
 - 2005-07-28 — Referred to the House Committee on Resources.
+- 2005-08-08 — Referred to the Subcommittee on Forests and Forest Health.
+- 2006-04-05 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2006-07-19 — Subcommittee on Forests and Forest Health Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 367.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-627.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-627.
