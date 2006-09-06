@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5016
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5016
@@ -25,3 +25,12 @@ Las Cienegas Enhancement Act
 - 2006-03-28 — Introduced in House
 - 2006-03-28 — Introduced in House
 - 2006-03-28 — Referred to the House Committee on Resources.
+- 2006-03-29 — Executive Comment Requested from Interior.
+- 2006-03-29 — Referred to the Subcommittee on Forests and Forest Health.
+- 2006-04-05 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2006-07-19 — Subcommittee on Forests and Forest Health Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 375.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-635.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-635.
