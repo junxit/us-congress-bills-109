@@ -2,7 +2,7 @@
 legis-num: S. 1773
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 1773
@@ -18,16 +18,16 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
 - **(a)** *Definitions* In this Act:
   - **(1)** *Administrative access* The term administrative access means the unrestricted use of land and interests in land for ingress and egress by an agency of the United States (including a permittee, contractor, agent, or assignee of the United States) in order to carry out an activity authorized by law or regulation, or otherwise in furtherance of the management of federally-owned land and resources.
   - **(2)** *County* The term County means the incorporated county of Los Alamos, New Mexico.
-  - **(3)** *Los Alamos Agreement* The term Los Alamos Agreement means the agreement among the County, the Pueblo, the Department of Agriculture Forest Service, and the Bureau of Indian Affairs dated January, 22, 2004.
-  - **(4)** *Los Alamos Townsite Land* Los Alamos Townsite Land means the land identified as Attachment B (dated December 12, 2003) to the Los Alamos Agreement.
-  - **(5)** *Northern Tier Land* Northern Tier Land means the land comprising approximately 739.71 acres and identified as “Northern Tier Lands” in Appendix B (dated August 3, 2004) to the Settlement Agreement.
-  - **(6)** *Pending Litigation* The term Pending Litigation means the case styled Pueblo of San Ildefonso v. United States, Docket Number 354, originally filed with the Indian Claims Commission and pending in the United States Court of Federal Claims on the date of enactment of this Act.
-  - **(7)** *Pueblo* The term “Pueblo” means the Pueblo de San Ildefonso, a federally recognized Indian tribe (also known as the “Pueblo of San Ildefonso”).
-  - **(8)** *Settlement Agreement* The term Settlement Agreement means the agreement entitled “Settlement Agreement between the United States and the Pueblo de San Ildefonso to Resolve All of the Pueblo’s Land Title and Trespass Claims” and dated June 7, 2005.
-  - **(9)** *Settlement Area Land* The term Settlement Area Land means the National Forest System land located within the Santa Fe National Forest, as described in Appendix B to the Settlement Agreement, that is available for purchase by the Pueblo under section 9(a) of the Settlement Agreement.
-  - **(10)** *Settlement Fund* The term Settlement Fund means the Pueblo de San Ildefonso Land Claims Settlement Fund established by section 6.
-  - **(11)** *Sisk Act* The term Sisk Act means Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a).
-  - **(12)** *Water System Land* The term Water System Land means the federally-owned land located within the Santa Fe National Forest to be conveyed to the County under the Los Alamos Agreement.
+  - **(3)** *Los alamos agreement* The term Los Alamos Agreement means the agreement among the County, the Pueblo, the Department of Agriculture Forest Service, and the Bureau of Indian Affairs dated January 22, 2004.
+  - **(4)** *Los alamos townsite land* “Los Alamos Townsite Land” means the land identified as Attachment B (dated December 12, 2003) to the Los Alamos Agreement.
+  - **(5)** *Northern tier land* “Northern Tier Land” means the land comprising approximately 739.71 acres and identified as “Northern Tier Lands” in Appendix B (dated August 3, 2004) to the Settlement Agreement.
+  - **(6)** *Pending litigation* The term Pending Litigation means the case styled Pueblo of San Ildefonso v. United States, Docket Number 354, originally filed with the Indian Claims Commission and pending in the United States Court of Federal Claims on the date of enactment of this Act.
+  - **(7)** *Pueblo* The term Pueblo means the Pueblo de San Ildefonso, a federally recognized Indian tribe (also known as the “Pueblo of San Ildefonso”).
+  - **(8)** *Settlement agreement* The term Settlement Agreement means the agreement entitled “Settlement Agreement between the United States and the Pueblo de San Ildefonso to Resolve All of the Pueblo’s Land Title and Trespass Claims” and dated June 7, 2005.
+  - **(9)** *Settlement area land* The term Settlement Area Land means the National Forest System land located within the Santa Fe National Forest, as described in Appendix B to the Settlement Agreement, that is available for purchase by the Pueblo under section 9(a) of the Settlement Agreement.
+  - **(10)** *Settlement fund* The term Settlement Fund means the Pueblo de San Ildefonso Land Claims Settlement Fund established by section 6.
+  - **(11)** *Sisk act* The term Sisk Act means Public Law 90–171 (commonly known as the Sisk Act) (16 U.S.C. 484a).
+  - **(12)** *Water system land* The term Water System Land means the federally-owned land located within the Santa Fe National Forest to be conveyed to the County under the Los Alamos Agreement.
 - **(b)** *Purposes* The purposes of this Act are—
   - **(1)** to finally dispose, as set forth in sections 4 and 5, of all rights, claims, or demands that the Pueblo has asserted or could have asserted against the United States with respect to any and all claims in the Pending Litigation;
   - **(2)** to extinguish claims based on aboriginal title, Indian title, or recognized title, or any other title claims under section 5;
@@ -40,7 +40,7 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
 ## § 3. Ratification of agreements
 
 - **(a)** *Ratification* The Settlement Agreement and Los Alamos Agreement are ratified under Federal law, and the parties to those agreements are authorized to carry out the provisions of the agreements.
-- **(b)** *Corrections and modifications* The respective parties to the Settlement Agreement and the Los Alamos Agreement are authorized, by mutual agreement, to correct errors in any legal description or maps, and to make minor modifications to those agreements.
+- **(b)** *Corrections and Modifications* The respective parties to the Settlement Agreement and the Los Alamos Agreement are authorized, by mutual agreement, to correct errors in any legal description or maps, and to make minor modifications to those agreements.
 
 ## § 4. Judgment and dismissal of litigation
 
@@ -63,12 +63,12 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
     - **(B)** title to any land that has been reacquired by the Pueblo pursuant to the Act entitled “An Act to quiet the title to lands within Pueblo Indian land grants, and for other purposes”, approved June 7, 1924 (43 Stat. 636, chapter 331);
   - **(3)** the water rights of the Pueblo appurtenant to the land described in paragraphs (1) and (2); and
   - **(4)** any rights of the Pueblo or a member of the Pueblo under Federal law relating to religious or cultural access to, and use of, Federal land.
-- **(c)** *Previous extinguishments unimpaired* Nothing in this Act affects any prior extinguishments of rights or claims of the Pueblo which may have occurred by operation of law.
-- **(d)** *Boundaries and title unaffected*
+- **(c)** *Previous Extinguishments Unimpaired* Nothing in this Act affects any prior extinguishments of rights or claims of the Pueblo which may have occurred by operation of law.
+- **(d)** *Boundaries and Title Unaffected*
   - **(1)** *Boundaries* Nothing in this Act affects the location of the boundaries of the Pueblo de San Ildefonso Grant.
   - **(2)** *Rights, title, and interest* Nothing in this Act affects, ratifies, or confirms the right, title, or interest of the Pueblo in the land held by, or for the benefit of, the Pueblo, including the land described in Appendix D of the Settlement Agreement.
 
-## § 6. Settlement fund
+## § 6. Settlement Fund
 
 - **(a)** *Establishment* There is established in the Treasury a fund to be known as the “Pueblo de San Ildefonso Land Claims Settlement Fund”.
 - **(b)** *Conditions* Monies deposited in the Settlement Fund shall be subject to the following conditions:
@@ -90,30 +90,30 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
 - **(b)** *Consideration* The consideration to be paid for the Federal land authorized for sale in subsection (a) shall be—
   - **(1)** for the Settlement Area Land and Water System Land, the consideration agreed upon in the Settlement Agreement; and
   - **(2)** for the Los Alamos Townsite Land, the current market value based on an appraisal approved by the Forest Service as being in conformity with the latest edition of the Uniform Appraisal Standards for Federal Land Acquisitions.
-- **(c)** *Disposition of receipts*
+- **(c)** *Disposition of Receipts*
   - **(1)** *In general* All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this Act, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State of New Mexico, and for associated administrative costs.
   - **(2)** *Use of funds* Funds deposited in a Sisk Act fund pursuant to this Act shall not be subject to transfer or reprogramming for wildlands fire management or any other emergency purposes, or used to reimburse any other account.
   - **(3)** *Acquisitions of land* In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in section 12(b)(2)(A), the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
-- **(d)** *Valid existing rights and reservations*
+- **(d)** *Valid Existing Rights and Reservations*
   - **(1)** *In general* The Settlement Area Land acquired by the Pueblo shall be subject to all valid existing rights on the date of enactment of this Act, including rights of administrative access.
   - **(2)** *Water rights* No water rights shall be conveyed by the United States.
   - **(3)** *Special use authorization*
     - **(A)** *In general* Nothing in this Act shall affect the validity of any special use authorization issued by the Forest Service within the Settlement Area Land, except that such authorizations shall not be renewed upon expiration.
     - **(B)** *Reasonable access* For access to valid occupancies within the Settlement Area Land, the Pueblo and the Secretary of the Interior shall afford rights of reasonable access commensurate with that provided by the Secretary of Agriculture on or before the date of enactment of this Act.
-  - **(4)** *Water system land and Los Alamos Townsite Land* The Water System Land and Los Alamos Townsite Land acquired by the County shall be subject to—
+  - **(4)** *Water system land and los alamos townsite land* The Water System Land and Los Alamos Townsite Land acquired by the County shall be subject to—
     - **(A)** all valid existing rights; and
     - **(B)** the rights reserved by the United States under the Los Alamos Agreement.
   - **(5)** *Private landowners*
     - **(A)** *In general* Upon acquisition by the Pueblo of the Settlement Area Land, the Secretary of the Interior, acting on behalf of the Pueblo and the United States, shall execute easements in accordance with any right reserved by the United States for the benefit of private landowners owning property that requires the use of Forest Development Road 416 (as in existence on the date of enactment of this Act) and other roads that may be necessary to provide legal access into the property of the landowners, as the property is used on the date of this Act.
     - **(B)** *Maintenance of roads* Neither the Pueblo nor the United States shall be required to maintain roads for the benefit of private landowners.
     - **(C)** *Easements* Easements shall be granted, without consideration, to private landowners only upon application of such landowners to the Secretary.
-- **(e)** *Forest development roads*
-  - **(1)** *United States right to use* Subject to any right-of-way to use, cross, and recross a road, the United States shall reserve and have free and unrestricted rights to use, operate, maintain, and reconstruct (at the same level of development, as in existence on the date of the Settlement Agreement), those sections of Forest Development Roads 57, 442, 416, 416v, 445 and 445ca referenced in Appendix B of the Settlement Agreement for any and all public and administrative access and other Federal governmental purposes, including access by Federal employees, their agents, contractors, and assigns (including those holding Forest Service permits).
+- **(e)** *Forest Development Roads*
+  - **(1)** *United states right to use* Subject to any right-of-way to use, cross, and recross a road, the United States shall reserve and have free and unrestricted rights to use, operate, maintain, and reconstruct (at the same level of development, as in existence on the date of the Settlement Agreement), those sections of Forest Development Roads 57, 442, 416, 416v, 445 and 445ca referenced in Appendix B of the Settlement Agreement for any and all public and administrative access and other Federal governmental purposes, including access by Federal employees, their agents, contractors, and assigns (including those holding Forest Service permits).
   - **(2)** *Certain roads* Notwithstanding paragraph (1), the United States—
     - **(A)** may improve Forest Development Road 416v beyond the existing condition of that road to a high clearance standard road (level 2); and
     - **(B)** shall have unrestricted administrative access and non-motorized public trail access to the portion of Forest Development Road 442 depicted in Appendix B to the Settlement Agreement.
-- **(f)** *Private mining operations*
-  - **(1)** *COPAR Pumice Mine* The United States and the Pueblo shall allow the COPAR Pumice Mine to continue to operate as provided in the Contract For The Sale Of Mineral Materials dated May 4, 1994, and for COPAR to use portions of Forest Development Roads 57, 442, 416, and other designated roads within the area described in the contract, for the period of the contract and thereafter for a period necessary to reclaim the site.
+- **(f)** *Private Mining Operations*
+  - **(1)** *COPAR pumice mine* The United States and the Pueblo shall allow the COPAR Pumice Mine to continue to operate as provided in the Contract For The Sale Of Mineral Materials dated May 4, 1994, and for COPAR to use portions of Forest Development Roads 57, 442, 416, and other designated roads within the area described in the contract, for the period of the contract and thereafter for a period necessary to reclaim the site.
   - **(2)** *Continuing jurisdiction*
     - **(A)** *Administration* Continuing jurisdiction of the United States over the contract for the sale of mineral materials shall be administered by the Secretary of the Interior.
     - **(B)** *Expiration of contract* Upon expiration of the contract described in subparagraph (A), jurisdiction over reclamation shall be assumed by the Secretary of the Interior.
@@ -122,15 +122,15 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
 ## § 8. Conveyances
 
 - **(a)** *Authorization*
-  - **(1)** *Consideration from Pueblo* Upon receipt of the consideration from the Pueblo for the Settlement Area Land and the Water System Land, the Secretary of Agriculture shall execute and deliver—
+  - **(1)** *Consideration from pueblo* Upon receipt of the consideration from the Pueblo for the Settlement Area Land and the Water System Land, the Secretary of Agriculture shall execute and deliver—
     - **(A)** to the Pueblo, a quitclaim deed to the Settlement Area Land; and
     - **(B)** to the County, a quitclaim deed to the Water System Land, reserving—
       - **(i)** a contingent remainder in the United States in trust for the benefit of the Pueblo in accordance with the Los Alamos Agreement; and
       - **(ii)** a right of access for the United States for the Pueblo for ceremonial and other cultural purposes.
   - **(2)** *Consideration from county* Upon receipt of the consideration from the County for all or a portion of the Los Alamos Townsite Land, the Secretary of Agriculture shall execute and deliver to the County a quitclaim deed to all or portions of such land, as appropriate.
   - **(3)** *Execution* An easement or deed of conveyance by the Secretary of Agriculture under this Act shall be executed by the Director of Lands and Minerals, Forest Service, Southwestern Region, Department of Agriculture.
-- **(b)** *Authorization for pueblo to convey in trust* Upon receipt by the Pueblo of the quitclaim deed to the Settlement Land under subsection (a)(1), the Pueblo may quitclaim the Settlement Land to the United States, in trust for the Pueblo.
-- **(c)** *Adequacy of conveyance instruments* Notwithstanding the status of the Federal land as public domain or acquired land, no instrument of conveyance other than a quitclaim deed shall be required to convey the Settlement Area Land, the Water System Land, the Northern Tier Land, or the Los Alamos Townsite Land under this Act.
+- **(b)** *Authorization for Pueblo To Convey in Trust* Upon receipt by the Pueblo of the quitclaim deed to the Settlement Land under subsection (a)(1), the Pueblo may quitclaim the Settlement Land to the United States, in trust for the Pueblo.
+- **(c)** *Adequacy of Conveyance Instruments* Notwithstanding the status of the Federal land as public domain or acquired land, no instrument of conveyance other than a quitclaim deed shall be required to convey the Settlement Area Land, the Water System Land, the Northern Tier Land, or the Los Alamos Townsite Land under this Act.
 - **(d)** *Surveys* The Secretary of Agriculture is authorized to perform and approve any required cadastral survey.
 - **(e)** *Contributions* Notwithstanding section 3302 of title 31, United States Code, or any other provision of law, the Secretary of Agriculture may accept and use contributions of cash or services from the Pueblo, other governmental entities, or other persons—
   - **(1)** to perform and complete required cadastral surveys for the Settlement Area Land, the Water System Land, the Northern Tier Land, or the Los Alamos Townsite Land, as described in the Settlement Agreement or the Los Alamos Agreement; and
@@ -139,15 +139,15 @@ This Act may be cited as the “Pueblo de San Ildefonso Claims Settlement Act of
     - **(B)** the Settlement Agreement; or
     - **(C)** the Los Alamos Agreement.
 
-## § 9. Trust status and national forest boundaries
+## § 9. Trust status and National Forest boundaries
 
-- **(a)** *Operation of law* Without any additional administrative action by the Secretary of Agriculture or the Secretary of the Interior—
+- **(a)** *Operation of Law* Without any additional administrative action by the Secretary of Agriculture or the Secretary of the Interior—
   - **(1)** on recording the quitclaim deed or deeds from the Pueblo to the United States in trust for the Pueblo under section 8(b) in the Land Titles and Records Office, Southwest Region, Bureau of Indian Affairs—
     - **(A)** the Settlement Area Land shall be held in trust by the United States for the benefit of the Pueblo; and
     - **(B)** the boundaries of the Santa Fe National Forest shall be deemed to be modified to exclude from the National Forest System the Settlement Area Land; and
   - **(2)** on recording the quitclaim deed or deeds from the Secretary of Agriculture to the County of the Water System Land in the county land records, the boundaries of the Santa Fe National Forest shall be deemed to be modified to exclude from the National Forest System the Water System Land.
-- **(b)** *Future interests* If fee title to the Water System Land vests in the Pueblo by conveyance or operation of law, the Water System Land shall be deemed to be held in trust by the United States for the benefit of the Pueblo, without further administrative procedures or environmental or other analyses.
-- **(c)** *Nonintercourse act* Any land conveyed to the Secretary of the Interior in trust for the Pueblo or any other tribe in accordance with this Act shall be—
+- **(b)** *Future Interests* If fee title to the Water System Land vests in the Pueblo by conveyance or operation of law, the Water System Land shall be deemed to be held in trust by the United States for the benefit of the Pueblo, without further administrative procedures or environmental or other analyses.
+- **(c)** *Nonintercourse Act* Any land conveyed to the Secretary of the Interior in trust for the Pueblo or any other tribe in accordance with this Act shall be—
   - **(1)** subject to the Act of June 30, 1834 (25 U.S.C. 177); and
   - **(2)** treated as reservation land.
 
@@ -165,47 +165,47 @@ Subject to valid existing rights, prior to the conveyance under section 9, the S
 
 Subject to valid existing rights, the land referenced in the notices of withdrawal of land in New Mexico (67 Fed. Reg. 7193; 68 Fed. Reg. 75628) is withdrawn from all location, entry, and patent under the public land laws and mining and mineral leasing laws of the United States, including geothermal leasing laws.
 
-## § 12. Conveyance of the northern tier land
+## § 12. Conveyance of the Northern Tier Land
 
-- **(a)** *Conveyance authorization*
+- **(a)** *Conveyance Authorization*
   - **(1)** *In general* Subject to valid existing rights, including reservations in the United States and any right under this section, the Secretary of Agriculture shall sell the Northern Tier Land on such terms and conditions as the Secretary may prescribe as being in the public interest and in accordance with this section.
   - **(2)** *Effect of paragraph* The authorization under paragraph (1) is solely for the purpose of consolidating Federal and non-Federal land to increase management efficiency and is not in settlement or compromise of any claim of title by any Pueblo, Indian tribe, or other entity.
-- **(b)** *Rights of refusal*
-  - **(1)** *Pueblo of Santa Clara*
+- **(b)** *Rights of Refusal*
+  - **(1)** *Pueblo of santa clara*
     - **(A)** *In general* In consideration for an easement under subsection (e)(2), the Pueblo of Santa Clara shall have an exclusive option to purchase the Northern Tier Land for the period beginning on the date of enactment of this Act and ending 90 days thereafter.
     - **(B)** *Resolution* Within the period prescribed in subparagraph (A), the Pueblo of Santa Clara may exercise its option to acquire the Northern Tier Land by delivering to the Regional Director of Lands and Minerals, Forest Service, Southwestern Region, Department of Agriculture, a resolution of the Santa Clara Tribal Council expressing the unqualified intent of the Pueblo of Santa Clara to purchase the land at the offered price.
     - **(C)** *Failure to act* If the Pueblo of Santa Clara does not exercise its option to purchase the Northern Tier Land within the 90-day period under subparagraph (A), or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised, the Secretary of Agriculture shall offer the Northern Tier Land for sale to the Pueblo.
-  - **(2)** *Offer to Pueblo*
+  - **(2)** *Offer to pueblo*
     - **(A)** *In general* Not later than 90 days after receiving a written offer from the Secretary of Agriculture under paragraph (1)(C), the Pueblo may exercise its option to acquire the Northern Tier Land by delivering to the Regional Director of Lands and Minerals, Forest Service, Southwestern Region, a resolution of the Pueblo Tribal Council expressing the unqualified intent of the Pueblo to purchase the land at the offered price.
-    - **(B)** *Failure of Pueblo to act* If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
+    - **(B)** *Failure of pueblo to act* If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
   - **(3)** *Extension of time period* The Secretary of Agriculture may extend the time period for closing beyond the 1 year prescribed in subsection (b), if the Secretary determines that additional time is required to meet the administrative processing requirements of the Federal Government, or for other reasons beyond the control of either party.
-- **(c)** *Terms and conditions of sale*
+- **(c)** *Terms and Conditions of Sale*
   - **(1)** *Purchase price* Subject to valid existing rights and reservations, the purchase price for the Northern Tier Land sold to the Pueblo of Santa Clara or the Pueblo under subsection (b) shall be the consideration agreed to by the Pueblo of Santa Clara pursuant to that certain Pueblo of Santa Clara Tribal Council Resolution No. 05–01 “Approving Proposed San Ildefonso Claims Settlement Act of 2005, and Terms for Purchase of Northern Tier Lands” that was signed by Governor J. Bruce Tafoya in January 2005.
   - **(2)** *Reserved rights* On the Northern Tier Land, the United States shall reserve the right to operate, maintain, reconstruct (at standards in existence on the date of the Settlement Agreement), replace, and use the stream gauge, and to have unrestricted administrative access over the associated roads to the gauge (as depicted in Appendix B of the Settlement Agreement).
   - **(3)** *Conveyance by quitclaim deed* The conveyance of the Northern Tier Land shall be by quitclaim deed executed on behalf of the United States by the Director of Lands and Minerals, Forest Service, Southwestern Region, Department of Agriculture.
-- **(d)** *Trust status and forest boundaries*
-  - **(1)** *Acquisition of land by Indian tribe* If the Northern Tier Land is acquired by an Indian tribe (including a Pueblo tribe), the land may be reconveyed by quitclaim deed or deeds back to the United States to be held in trust by the Secretary of the Interior for the benefit of the tribe, and the Secretary of the Interior shall accept the conveyance without any additional administrative action by the Secretary of Agriculture or the Secretary of the Interior.
+- **(d)** *Trust Status and Forest Boundaries*
+  - **(1)** *Acquisition of land by indian tribe* If the Northern Tier Land is acquired by an Indian tribe (including a Pueblo tribe), the land may be reconveyed by quitclaim deed or deeds back to the United States to be held in trust by the Secretary of the Interior for the benefit of the tribe, and the Secretary of the Interior shall accept the conveyance without any additional administrative action by the Secretary of Agriculture or the Secretary of the Interior.
   - **(2)** *Land held in trust* On recording a quitclaim deed described in paragraph (1) in the Land Titles and Records Office, Southwest Region, Bureau of Indian Affairs, the Northern Tier Land shall be deemed to be held in trust by the United States for the benefit of the Indian tribe.
-  - **(3)** *Boundaries of Santa Fe National Forest* Effective on the date of a deed described in paragraph (1), the boundaries of the Santa Fe National Forest shall be deemed modified to exclude from the National Forest System the land conveyed by the deed.
-- **(e)** *Inholder and administrative access*
-  - **(1)** *Failure of Pueblo of Santa Clara to act*
+  - **(3)** *Boundaries of santa fe national forest* Effective on the date of a deed described in paragraph (1), the boundaries of the Santa Fe National Forest shall be deemed modified to exclude from the National Forest System the land conveyed by the deed.
+- **(e)** *Inholder and Administrative Access*
+  - **(1)** *Failure of pueblo of santa clara to act*
     - **(A)** *In general* If the Pueblo of Santa Clara does not exercise its option to acquire the Northern Tier Land, the Secretary of Agriculture or the Secretary of the Interior, as appropriate, shall by deed reservations or grants on land under their respective jurisdiction provide for inholder and public access across the Northern Tier Land in order to provide reasonable ingress and egress to private and Federal land as shown in Appendix B of the Settlement Agreement.
     - **(B)** *Administration of reservations* The Secretary of the Interior shall administer any such reservations on land acquired by any Indian tribe.
   - **(2)** *Effect of acceptance* If the Pueblo of Santa Clara exercises its option to acquire all of the Northern Tier Land, the following shall apply:
-    - **(A)** *Easements to United States*
-      - **(i)** *Definition of administrative access* In this subparagraph, the term “administrative access” means access to Federal land by Federal employees acting in the course of their official capacities in carrying out activities on Federal land authorized by law or regulation, and by agents and contractors of Federal agencies who have been engaged to perform services necessary or desirable for fire management and the health of forest resources, including the cutting and removal of vegetation, and for the health and safety of persons on the Federal land.
+    - **(A)** *Easements to united states*
+      - **(i)** *Definition of administrative access* In this subparagraph, the term administrative access means access to Federal land by Federal employees acting in the course of their official capacities in carrying out activities on Federal land authorized by law or regulation, and by agents and contractors of Federal agencies who have been engaged to perform services necessary or desirable for fire management and the health of forest resources, including the cutting and removal of vegetation, and for the health and safety of persons on the Federal land.
       - **(ii)** *Easements*
         - **(I)** *In general* The Pueblo of Santa Clara shall grant and convey at closing perpetual easements over the existing roads to the United States that are acceptable to the Secretary of Agriculture for administrative access over the Santa Clara Reservation Highway 601 (the Puye Road), from its intersection with New Mexico State Highway 30, westerly to its intersection with the Sawyer Canyon Road (also known as Forest Development Road 445), thence southwesterly on the Sawyer Canyon Road to the point at which it exits the Santa Clara Reservation.
         - **(II)** *Maintenance of roadway* An easement under this subparagraph shall provide that the United States shall be obligated to contribute to maintenance of the roadway commensurate with actual use.
     - **(B)** *Easements to private landowners* Not later than 180 days after the date of enactment of this Act, the Pueblo of Santa Clara, in consultation with private landowners, shall grant and convey a perpetual easement to the private owners of land within the Northern Tier Land for private access over Santa Clara Reservation Highway 601 (Puye Road) across the Santa Clara Indian Reservation from its intersection with New Mexico State Highway 30, or other designated public road, on Forest Development Roads 416, 445 and other roads that may be necessary to provide access to each individually owned private tract.
   - **(3)** *Approval* The Secretary of the Interior shall approve the conveyance of an easement under paragraph (2) upon receipt of written approval of the terms of the easement by the Secretary of Agriculture.
-  - **(4)** *Adequate access provided by Pueblo of Santa Clara* If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
+  - **(4)** *Adequate access provided by pueblo of santa clara* If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
     - **(A)** shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 7(e)(5); but
     - **(B)** shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).
 
-## § 13. Inter-Pueblo cooperation
+## § 13. Inter–pueblo cooperation
 
-- **(a)** *Demarcation of boundary* The Pueblo of Santa Clara and the Pueblo may, by agreement, demarcate a boundary between their respective tribal land within Township 20 North, Range 7 East, in Rio Arriba County, New Mexico, and may exchange or otherwise convey land between them in that township.
+- **(a)** *Demarcation of Boundary* The Pueblo of Santa Clara and the Pueblo may, by agreement, demarcate a boundary between their respective tribal land within Township 20 North, Range 7 East, in Rio Arriba County, New Mexico, and may exchange or otherwise convey land between them in that township.
 - **(b)** *Action by Secretary of the Interior* In accordance with any agreement under subsection (a), the Secretary of the Interior shall, without further administrative procedures or environmental or other analyses—
   - **(1)** recognize a boundary between the Pueblo of Santa Clara and the Pueblo;
   - **(2)** provide for a boundary survey;
