@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2808
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2808
 
-> To require the Secretary of the Treasury to mint coins in commemoration of the bicenntenial of the birth of Abraham Lincoln.
+> To require the Secretary of the Treasury to mint coins in commemoration of the bicentennial of the birth of Abraham Lincoln.
 
 ## § 1. Short title
 
@@ -33,7 +33,7 @@ The Congress finds as follows:
   - **(2)** have a diameter of 1.500 inches; and
   - **(3)** contain 90 percent silver and 10 percent copper.
 - **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
-- **(c)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+- **(c)** *Numismatic items* All coins minted under this Act shall be considered to be numismatic items.
 
 ## § 4. Design of coins
 
@@ -69,3 +69,4 @@ The Congress finds as follows:
 - **(a)** *In general* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
 - **(b)** *Distribution* Subject to section 5134(f)(1), title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Abraham Lincoln Bicentennial Commission to further the work of the Commission.
 - **(c)** *Audits* The Abraham Lincoln Bicentennial Commission shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code.
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
