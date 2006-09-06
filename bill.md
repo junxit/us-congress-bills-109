@@ -1,0 +1,29 @@
+---
+legis-num: S. 3849
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3849
+
+> To require commercial airlines to make flight delay information available to the public, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Air Travel Delay Awareness Act of 2006”.
+
+## § 2. Availability of flight delay information
+
+- **(a)** *In general* Subchapter I of chapter 417 of title 49, United States Code, is amended by adding at the end the following new section:
+  > ## § 41724. Availability of flight delay information
+  >
+  > - **(a)** *Requirement To make information available* The Secretary of Transportation shall require each air carrier, foreign air carrier, or intrastate air carrier that provides air transportation or intrastate air transportation to make available to the public information regarding the delay of a scheduled passenger flight not later than 10 minutes after such information is available.
+  > - **(b)** *Manner of availability* An air carrier, foreign air carrier, or intrastate air carrier shall make the information referred to in subsection (a) available through—
+  >   - **(1)** any Internet website of such air carrier, foreign air carrier, or intrastate air carrier;
+  >   - **(2)** any automated recording related to flight departure or arrival times maintained by such air carrier, foreign air carrier, or intrastate air carrier;
+  >   - **(3)** announcements at appropriate airports; and
+  >   - **(4)** flight information screens at appropriate airports.
+
+- **(b)** *Regulations* Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall promulgate regulations to implement section 41724 of title 49, United States Code, as added by subsection (a).
+- **(c)** *Conforming amendment* The analysis for chapter 417 of title 49, United States Code, is amended by adding after the item relating to section 41723 the following:
