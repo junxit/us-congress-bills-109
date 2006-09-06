@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 631
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,11 +23,11 @@ For the purposes of this Act, the following definitions apply:
   - **(1)** Any trust mineral estate of the State located beneath the surface estates of the Tribe in land consisting of approximately 436.18 acres in Pima County, Arizona.
   - **(2)** Any trust mineral estate of the State located beneath the surface estates held in trust for the Tribe in land consisting of approximately 140.18 acres in Pima County, Arizona.
 - **(b)** *Consideration* Subject to subsection (c), as consideration for the acquisition of subsurface mineral interests by the United States pursuant to subsection (a), the Tribe shall pay to the State an amount equal to the market value of those subsurface mineral interests as determined by—
-  - **(1)** a mineral assessment completed;
+  - **(1)** a mineral assessment completed—
     - **(A)** by a team of mineral specialists agreed upon by the State and the Tribe; and
     - **(B)** reviewed, and accepted as complete and accurate by a certified review mineral examiner of the Bureau of Land Management;
   - **(2)** negotiation between the Tribe and the State in order to arrive at a mutually agreed price; or
-  - **(3)** in the event the tribe and the state cannot arrive at a mutually agreed Price, an Appraisal report completed in accordance with subsection (d)
+  - **(3)** in the event the tribe and the state cannot arrive at a mutually agreed Price, an Appraisal report completed in accordance with subsection (d)—
     - **(A)** by the State and reviewed by the Tribe; and
     - **(B)** if requested by the Tribe through the Bureau of Indian Affairs, reviewed and accepted as complete and accurate by the Office of the Special Trustee for American Indians in the Department of the Interior.
 - **(c)** *Conditions of acquisition* The Secretary may make the acquisition under subsection (a) only if—
