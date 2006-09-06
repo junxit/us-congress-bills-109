@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 The Secretary of Veterans Affairs may carry out the following major medical facility projects in fiscal year 2006, with each project to be carried out in the amount specified for that project:
 
-- **(1)** Restoration, new construction or replacement of the medical center facility for the Department of Veterans Affairs Medical Center, New Orleans, Louisiana, due to damage from Hurricane Katrina in an amount not to exceed $675,000,000.
+- **(1)** Restoration, new construction or replacement of the medical center facility for the Department of Veterans Affairs Medical Center, New Orleans, Louisiana, due to damage from Hurricane Katrina in an amount not to exceed $675,000,000 $636,000,000. The Secretary is authorized to carry out the project as a collaborative effort consistent with the New Orleans Collaborative Opportunities Study Group Report dated June 12, 2006.
 - **(2)** Restoration of the Department of Veterans Affairs Medical Center, Biloxi, Mississippi, and consolidation of services performed at the Department of Veterans Affairs Medical Center, Gulfport, Mississippi, in an amount not to exceed $310,000,000.
 - **(3)** Replacement of the Department of Veterans Affairs Medical Center, Denver, Colorado, in an amount not to exceed $52,000,000.
 
@@ -60,7 +60,7 @@ The Secretary of Veterans Affairs may carry out the following major medical faci
 
 ## § 5. Authorization of appropriations
 
-- **(a)** *Authorization of appropriations for Fiscal Year 2006 major medical facility projects* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2006 for the Construction, Major Projects, account, $1,606,000,000 for the projects authorized in section 1.
+- **(a)** *Authorization of appropriations for Fiscal Year 2006 major medical facility projects* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2006 for the Construction, Major Projects, account, $1,606,000,000$998,000,000 for the projects authorized in section 1.
 - **(b)** *Authorization of appropriations for major medical facility projects under capital asset realignment initiative*
   - **(1)** *Authorization of appropriations* There is authorized to be appropriated for the Secretary of Veterans Affairs for fiscal year 2007 for the Construction, Major Projects, account, $1,750,120,000 for the projects whose authorization is extended by section 2.
   - **(2)** *Availability* Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until September 30, 2009.
