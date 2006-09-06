@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5079
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5079
@@ -25,3 +25,12 @@ Oregon Water Resources Management Act of 2006
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Introduced in House
 - 2006-04-04 — Referred to the House Committee on Resources.
+- 2006-04-11 — Executive Comment Requested from Interior.
+- 2006-04-11 — Referred to the Subcommittee on Water and Power.
+- 2006-05-10 — Subcommittee Hearings Held.
+- 2006-06-21 — Committee Consideration and Mark-up Session Held.
+- 2006-06-21 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-06-21 — Subcommittee on Water and Power Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 376.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-636.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-636.
