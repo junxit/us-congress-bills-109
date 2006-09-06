@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2069
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2069
@@ -30,3 +30,12 @@ Utah Recreational Land Exchange Act of 2006
 - 2005-05-04 — Introduced in House
 - 2005-05-04 — Introduced in House
 - 2005-05-04 — Referred to the House Committee on Resources.
+- 2005-05-20 — Executive Comment Requested from Interior.
+- 2005-05-20 — Referred to the Subcommittee on Forests and Forest Health.
+- 2005-09-27 — Subcommittee Hearings Held.
+- 2006-06-21 — Committee Consideration and Mark-up Session Held.
+- 2006-06-21 — Ordered to be Reported by Voice Vote.
+- 2006-06-21 — Subcommittee on Forests and Forest Health Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 363.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-623.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-623.
