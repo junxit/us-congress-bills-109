@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5539
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5539
@@ -16,7 +16,7 @@ North American Wetlands Conservation Reauthorization Act of 2006
 
 - Rep. Pombo, Richard W. [R-CA-11] (P000419)
 
-## Cosponsors (6)
+## Cosponsors (20)
 
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
@@ -24,6 +24,20 @@ North American Wetlands Conservation Reauthorization Act of 2006
 - Rep. Kennedy, Mark R. [R-MN-6] (K000358)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Weldon, Curt [R-PA-7] (W000268)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Green, Mark [R-WI-8] (G000545)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Hart, Melissa A. [R-PA-4] (H001033)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Ford, Harold E., Jr. [D-TN-9] (F000262)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
 ## Committees (1)
 
@@ -35,3 +49,12 @@ North American Wetlands Conservation Reauthorization Act of 2006
 - 2006-06-07 — Introduced in House
 - 2006-06-07 — Referred to the House Committee on Resources.
 - 2006-06-07 — Sponsor introductory remarks on measure. (CR E1034-1035)
+- 2006-06-09 — Executive Comment Requested from Interior.
+- 2006-06-09 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2006-06-29 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-07-19 — Subcommittee on Fisheries and Oceans Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 379.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-639.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-639.

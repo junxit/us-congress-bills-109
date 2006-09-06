@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5539
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 16 U.S.C. § 4406
 
-> Section 7(c) of the North American Wetlands Conservation Act (16 U.S.C. 4406(c)) is amended by striking “fiscal year 2007” and inserting “each of fiscal years 2007 through 2011”.
+> Section 7(c) of the North American Wetlands Conservation Act (16 U.S.C. 4406(c)) is amended by striking “fiscal year 2007” and inserting “each of fiscal years 2008 through 2012”.
 
 | | |
 |---|---|
 | Removed | `fiscal year 2007` |
-| Inserted | `each of fiscal years 2007 through 2011` |
+| Inserted | `each of fiscal years 2008 through 2012` |
