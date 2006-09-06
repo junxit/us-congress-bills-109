@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3961
@@ -31,3 +31,11 @@ To authorize the National Park Service to pay for services rendered by subcontra
 - 2005-09-29 — Introduced in House
 - 2005-09-29 — Referred to the House Committee on Resources.
 - 2005-09-29 — Sponsor introductory remarks on measure. (CR E1987-1988)
+- 2005-10-12 — Referred to the Subcommittee on National Parks.
+- 2006-03-30 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2006-07-19 — Subcommittee on National Parks Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 368.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-628.
+- 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-628.
