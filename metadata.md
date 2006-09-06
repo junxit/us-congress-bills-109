@@ -1,7 +1,7 @@
 ---
 measure: H.R. 138
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 138
@@ -16,6 +16,18 @@ To revise the boundaries of John H. Chafee Coastal Barrier Resources System Jeky
 
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
+## Cosponsors (9)
+
+- Rep. Westmoreland, Lynn A. [R-GA-8] (W000796)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Marshall, Jim [D-GA-3] (M001146)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Deal, Nathan [R-GA-10] (D000168)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Norwood, Charles W. [R-GA-9] (N000159)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +37,11 @@ To revise the boundaries of John H. Chafee Coastal Barrier Resources System Jeky
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Introduced in House
 - 2005-01-04 — Referred to the House Committee on Resources.
+- 2005-02-03 — Referred to the Subcommittee on Fisheries Conservation, Wildlife and Oceans.
+- 2006-04-06 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-07-19 — Subcommittee on Fisheries and Oceans Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 358.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-618.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-618.
