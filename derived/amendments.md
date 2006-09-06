@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5861
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,11 +35,11 @@ to guess them.
 
 ### 16 U.S.C. § 470h
 
-> Section 108 of the National Historic Preservation Act (16 U.S.C. 470h) is amended by striking “2006” and inserting “2015”.
+> Section 108 of the National Historic Preservation Act (16 U.S.C. 470h) is amended by striking “2005” and inserting “2015”.
 
 | | |
 |---|---|
-| Removed | `2006` |
+| Removed | `2005` |
 | Inserted | `2015` |
 
 ### 16 U.S.C. § 470i
@@ -71,12 +71,12 @@ to guess them.
 
 ### 16 U.S.C. § 470t
 
-> Section 212(a) of such Act (16 U.S.C. 470t(a)) is amended by striking “in each fiscal year 1997 through 2005” and inserting “for fiscal year 2006, $5,000,000 for each of the fiscal years 2007 and 2008, and $6,000,000 for each of the fiscal years 2009 through 2015”.
+> Section 212(a) of the Act (16 U.S.C. 470t(a)) is amended by striking “for purposes of this title not to exceed $4,000,000 in each fiscal year 1997 through 2005” and inserting “such amounts as may be necessary to carry out this title”.
 
 | | |
 |---|---|
-| Removed | `in each fiscal year 1997 through 2005` |
-| Inserted | `for fiscal year 2006, $5,000,000 for each of the fiscal years 2007 and 2008, and $6,000,000 for each of the fiscal years 2009 through 2015` |
+| Removed | `for purposes of this title not to exceed $4,000,000 in each fiscal year 1997 through 2005` |
+| Inserted | `such amounts as may be necessary to carry out this title` |
 
 ## Stated, not applied
 
@@ -87,9 +87,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 470f` | amend | The text of section 106 of the National Historic Preservation Act (16 U.S.C. 470f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 470a` | add-at-end | Section 101(b) of the National Historic Preservation Act (16 U.S.C. 470a(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 470a` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 470a` | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 470a` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 5514` | amend | Section 205(f) of such Act (16 U.S.C. 470m(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 470m` | amend | Section 205(f) of such Act (16 U.S.C. 470m(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 470v-1` | insert | The National Historic Preservation Act is amended by inserting after section 215 (16 U.S.C. 470v–1) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
