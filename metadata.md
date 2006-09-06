@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 980
 congress: 109
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Res. 980
