@@ -1,7 +1,7 @@
 ---
 measure: H.R. 383
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 383
@@ -16,7 +16,7 @@ Ice Age Floods National Geologic Route Designation Act of 2006
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Rep. Baird, Brian [D-WA-3] (B001229)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -27,6 +27,8 @@ Ice Age Floods National Geologic Route Designation Act of 2006
 - Rep. Otter, C. L. (Butch) [R-ID-1] (O000166)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Walden, Greg [R-OR-2] (W000791)
 
 ## Committees (1)
 
@@ -37,3 +39,11 @@ Ice Age Floods National Geologic Route Designation Act of 2006
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Introduced in House
 - 2005-01-26 — Referred to the House Committee on Resources.
+- 2005-02-08 — Referred to the Subcommittee on National Parks.
+- 2006-07-13 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-07-19 — Subcommittee on National Parks Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 359.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-619.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-619.

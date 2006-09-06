@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 383
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,54 +11,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ice Age Floods National Geologic Trail Designation Act of 2005”.
+This Act may be cited as the “Ice Age Floods National Geologic Route Designation Act of 2006”.
 
-## § 2. Findings and purpose
+## § 2. Purpose
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** At the end of the last Ice Age, some 12,000 to 17,000 years ago, a series of cataclysmic floods occurred in what is now the northwest region of the United States, leaving a lasting mark of dramatic and distinguishing features on the landscape of parts of Montana, Idaho, Washington and Oregon.
-  - **(2)** Geological features that have exceptional value and quality to illustrate and interpret this extraordinary natural phenomenon are present on many Federal, State, tribal, county, municipal, and non-governmental lands in the region.
-  - **(3)** In 2001, a joint study team headed by the National Park Service that included about 70 members from public and private entities completed a study endorsing the establishment of an Ice Age Floods National Geologic Trail to recognize the national significance of this phenomenon and to coordinate public and private sector entities in the presentation of the story of the Ice Age Floods.
-- **(b)** *Purpose* The purpose of this Act is to designate the Ice Age Floods National Geologic Trail in the States of Montana, Idaho, Washington, and Oregon, enabling the public to view, experience, and learn about the Ice Age Floods’ features and story through the collaborative efforts of public and private entities.
+The purpose of this Act is to designate the Ice Age Floods National Geologic Route in the States of Montana, Idaho, Washington, and Oregon, enabling the public to view, experience, and learn about the Ice Age Floods’ features and story through the collaborative efforts of public and private entities.
 
 ## § 3. Definitions
 
 As used in this Act:
 
-- **(1)** *Trail* The term Trail means the Ice Age Floods National Geologic Trail designated in section 4.
+- **(1)** *Route* The term Route means the Ice Age Floods National Geologic Route designated in section 4.
 - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(3)** *Floods* The term Ice Age Floods or floods means the cataclysmic floods that occurred in what is now the northwestern United States during the last Ice Age primarily from massive, rapid and recurring drainage of Glacial Lake Missoula.
 
-## § 4. Ice Age Floods National Geologic Trail
+## § 4. Designation of the Ice Age Floods National National Geologic Route
 
-- **(a)** *Designation* In order to provide for public appreciation, understanding, and enjoyment of the nationally significant natural and cultural features of the Ice Age Floods, and to promote collaborative efforts for interpretation and education among public and private entities located along the pathways of the floods, there is designated the Ice Age Floods National Geologic Trail.
-- **(b)** *Location* The route of the Trail shall generally follow public roads and highways from the vicinity of Missoula in western Montana, across northern Idaho, through eastern and southern sections of Washington, and across northern Oregon in the vicinity of the Willamette Valley and the Columbia River to the Pacific Ocean as generally depicted on the map entitled “Ice Age Floods National Geologic Trail,” numbered_______, and dated______.
+- **(a)** *Designation* In order to provide for the public appreciation, education, understanding, and enjoyment, through a coordinated interpretive program of certain nationally significant natural and cultural sites associated with Ice Age Floods that are accessible generally by public roads, the Secretary, acting through the Director of the National Park Service, with the concurrence of the agency having jurisdiction over such roads, is authorized to designate, by publication of a map or other description thereof in the Federal Register, a vehicular tour route along existing public roads linking such natural and cultural sites. Such route shall be known as the “Ice Age Floods National Geologic Route”.
+- **(b)** *Location* The location of the Route shall generally follow public roads and highways from the vicinity of Missoula in western Montana, across northern Idaho, through eastern and southern sections of Washington, and across northern Oregon in the vicinity of the Willamette Valley and the Columbia River to the Pacific Ocean, as generally depicted on the map titled “Ice Age Floods National Geologic Trial”, numbered P43/80,000, and dated June 2004.
 - **(c)** *Maps*
-  - **(1)** *Revisions* The Secretary may revise the map by publication in the Federal Register of a notice of availability of a new map as part of the Cooperative Management and Interpretation Plan for the Trail required under section 5(f).
+  - **(1)** *Revisions* The Secretary may revise the map by publication in the Federal Register of a notice of availability of a new map, as needed, in cooperation with Federal, State, local, or tribal governments, and other public or private entities.
   - **(2)** *Availability* Any map referred to in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+- **(d)** *Description of sites; plan; interpretive program*
+  - **(1)** *Description of sites; plan* Not later than 3 years after the date that funds become available for this Act, the Secretary shall prepare a description of sites along the Route and general plan which shall include the location and description of each of the following:
+    - **(A)** Unique geographic or geologic features and significant landforms.
+    - **(B)** Important cultural resources.
+  - **(2)** *Interpretive Program* The general plan shall include proposals for a comprehensive interpretive program of the Route.
+  - **(3)** *Transmission to Congress* The Secretary shall transmit the description of sites and general plan to the Committee on Resources of the United States House of Representative and the Committee on Energy and Natural Resources of the United States Senate.
+  - **(4)** *Consultation* The description of sites and plan shall be prepared in consultation with other Federal agencies, the State of Montana, the State Idaho, the State of Washington, and the State of Oregon, units of local governments, tribal governments, interested private citizens, and nonprofit organizations, and the Ice Age Floods Institute.
 
 ## § 5. Administration
 
-- **(a)** *In general* The Secretary, acting through the Director of the National Park Service, shall administer the Trail in accordance with this Act.
-- **(b)** *Trail management office* In order for the National Park Service to manage the Trail and coordinate Trail activities with other public agencies and private entities, the Secretary may establish and operate a Trail management office within the vicinity of the Trail.
-- **(c)** *Interagency technical committee* The Secretary shall establish an interagency technical committee to advise the trail management office in technical planning for the development of the Cooperative Management and Interpretation Plan. The interagency technical committee—
-  - **(1)** shall include representation from the local, State, tribal, and Federal governments with interests in the floods and representation from the Ice Age Floods Institute; and
-  - **(2)** may include private property owners, business owners, and nonprofit organizations.
-- **(d)** *Trail advisory committee* The Secretary shall establish and maintain a trail advisory committee comprised of individuals appointed by public land management agencies, local, State, and tribal governments, private citizens, and interested nonprofit organizations, including the Ice Age Floods Institute. The trail advisory committee shall assist the Trail manager and staff with the operation of the Trail.
-- **(e)** *Management plan* Not later than 3 years after funds are made available for this purpose, the Secretary shall prepare a Cooperative Management and Interpretation Plan for the Trail in consultation with State, local, and tribal governments, the Ice Age Floods Institute, private property owners, and other interested parties. The Cooperative Management and Interpretation Plan shall—
-  - **(1)** describe strategies for the coordinated development of the Trail, including an interpretive plan for facilities, waysides, roadside pullouts, exhibits, media, and programs that would present the floods’ story to the public effectively;
-  - **(2)** identify potential partnering opportunities in the development of interpretive facilities and educational programs to educate the public about the story of the flood;
-  - **(3)** confirm and, if appropriate, expand upon the inventory of floods’ features contained in the National Park Service study entitled “Ice Age Floods, Study of Alternatives and Environmental Assessment” (February, 2001) by locating features more accurately, improving the description of features, and reevaluating the features in terms of their interpretive potential; and
-  - **(4)** review and, if appropriate, modify the map of the Trail referred to in section 4(b)(1).
-- **(f)** *Land acquisition* The Secretary may acquire not more than 25 acres of land for public information and administrative purposes to facilitate the geographic diversity of the entire trail throughout Montana, Idaho, Washington and Oregon. Such acquisitions shall be consistent with the Cooperative Management and Interpretation Plan. Of these 25 acres, private land may be acquired from willing sellers only by exchange, donation, or purchase with donated or appropriated funds. Non-Federal public lands may be acquired from willing sellers only by donation or exchange and only after consultation with the affected local governments.
-- **(g)** *Interpretive facilities* The Secretary may plan, design, and construct interpretive facilities for sites associated with the Trail if the facilities are constructed in partnership with State, local, tribal, or non-profit entities and are consistent with the Cooperative Management and Interpretation Plan.
-- **(h)** *Private property rights* Nothing in this Act shall be construed to require any private property owner to allow public access (including Federal, State or local government access) to such private property or to modify any provision of Federal, State or local law with regard to public access to or use of private lands.
-- **(i)** *Liability* Designation of the trail shall not be considered to create any liability or to have any effect on any liability under any law of any private property owner with respect to any persons injured on such private property.
-- **(j)** *Cooperative management* In order to facilitate the development of coordinated interpretation, education, resource stewardship, visitor facility development and operation, and scientific research associated with the Trail, and to promote more efficient administration of the sites associated with the Trail, the Secretary may enter into cooperative management agreements with appropriate officials in Montana, Idaho, Washington, and Oregon in accordance with the authority provided for units of the National Park System under section 3(l) of Public Law 91–383 (112 Stat. 3522; 16 U.S.C. 1a-2). For purposes of this subsection only, the Trail shall be considered a unit of the National Park System.
-- **(k)** *Cooperative agreements* The Secretary is authorized to enter into cooperative agreements with public or private entities to further the purposes of this Act.
-- **(l)** *United States Geological Survey* The Secretary shall use the United States Geological Survey to assist the Interagency Technical Committee and the National Park Service carry out this Act.
-- **(m)** *Regulations prohibited* The Secretary may not promulgate regulations specifically for management of the Trail.
+- **(a)** *In general* The Secretary, acting through the Director of the National Park Service, shall administer a program to interpret the Route in accordance with this Act.
+- **(b)** *Public Education* With respect to sites linked by segments of the Route which are administered by other Federal, State, tribal, and local nonprofit or private entities, the Secretary is authorized to provide technical assistance in the development of interpretive devices and materials pursuant to cooperative agreements with such entities. The Secretary, in cooperation with Federal, State, tribal, or local governments or nonprofit or private entities, shall prepare and distribute information for the public appreciation of sites along the Route.
+- **(c)** *Markers* The Secretary shall ensure that the Route is marked with appropriate markers to guide the public. With the concurrence and assistance of the State, tribal, or local entity having jurisdiction over the roads designated as part of the Route, the Secretary may erect thereon signs and other informational devices displaying the Ice Age Floods National Geologic Route marker. The Secretary is authorized to accept the donation of suitable signs and other informational devices for placement at appropriate locations.
+- **(d)** *Private property rights* Nothing in this Act shall be construed to require any private property owner to allow public access (including Federal, State or local government access) to such private property or to modify any provision of Federal, State or local law with regard to public access to or use of private lands.
 
 ## § 6. Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out this Act. Not more than $500,000 of funds appropriated for this Act may be used in each fiscal year for administration of the Trail.
+There is authorized to be appropriated to the Secretary $250,000 for each fiscal year to carry out this Act.
