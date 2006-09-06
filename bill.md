@@ -18,42 +18,29 @@ This Act may be cited as the “NPS Concessions Reform Act of 2006”.
 Section 403(8) of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5952(8)) is amended—
 
 - **(1)** by amending subparagraph (A)(ii) to read as follows:
-  > - **(ii)** Subject to subparagraph (C), concessions contracts with anticipated annual gross receipts under $1,500,000, such amount to be adjusted annually to reflect changes in the Consumer Price Index. An incumbent concessions contract holder with another concessions contract with annual gross receipts of $1,500,000 or more, not including an outfitting and guide concession contract, is not eligible for the right authorized by paragraph (7).
+  > - **(ii)** Subject to subparagraph (C), concessions contracts with anticipated annual gross receipts under $750,000, such amount to be adjusted annually to reflect changes in the Consumer Price Index as of the date of the enactment of this clause. An incumbent concessions contract holder with another concessions contract with annual gross receipts of $750,000 or more, not including an outfitting and guide concession contract, is not eligible for the right authorized by paragraph (7).
 
-- **(2)** in subparagraph (C), by striking “500,000” and inserting “$1,500,000, such amount to be adjusted annually to reflect changes in the Consumer Price Index”.
+- **(2)** in subparagraph (C), by striking “$500,000” and inserting “$750,000, such amount to be adjusted annually to reflect changes in the Consumer Price Index as of the date of the enactment of the NPS Concessions Reform Act of 2006”.
 
 ## § 3. Debriefing
 
-Section 403(5) of the Act (16 U.S.C. 5952(5)) is amended by adding at the end the following:
+Section 403(5) of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5952(5)) is amended by adding at the end the following:
 
 > - **(D)** *Debriefing* The Secretary shall provide to any person, corporation, and other entity that submitted a proposal and who was not awarded a proposed concessions contract a debriefing as to why they were not selected as submitting the best proposal for that concessions contract. Such debriefing must be requested and must be made within 90 days of the award of the concessions contract. The Secretary shall not be required to disclose any proprietary information of the person, corporation, or other entity that was selected as submitting the best proposal and awarded the concessions contract.
 
 ## § 4. Leasehold surrender interest and source of funds
 
-- **(a)** *In general* Section 405(a) of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5954(a)) is amended—
-  - **(1)** in paragraph (2)(A), by inserting after “pursuant to this title” the following: “and may be pledged as security for other National Park Service contracts using a combination of leasehold surrender interests if holding one or more contracts with the National Park Service, and the proceeds resulting from such pledged security shall not be restricted for use in the park or parks for which the leasehold surrender interest was pledged”; and
-  - **(2)** by adding at the end the following:
-    > - **(6)** In the event of a dispute between the concessioner and the Secretary regarding leasehold surrender interest valuations, leasehold surrender interest allocations, or the amount of physical depreciation, the matter shall be resolved through binding arbitration.
-
-- **(b)** *Transition to successor concessioner* Section 405(c) of the Act (16 U.S.C. 5954(c)) is amended by inserting at the end of the last sentence the following: “The Secretary shall advise the successor concessioner of the established value of the leasehold surrender interest for each facility and the established amount of physical depreciation of each facility before the successor concessioner pays the prior concessioner for its possessory interest or its leasehold surrender interest.”.
-- **(c)** *Definitions* Section 405(e) of the Act (16 U.S.C. 5954(e)) is amended—
-  - **(1)** in paragraph (2)—
-    - **(A)** by inserting “or other fixed physical improvements” after “nonremovable equipment”; and
-    - **(B)** by adding at the end the following: “A capital improvement shall also include a component, replacement, modification, alteration, or other improvement of another capital improvement.”; and
-  - **(2)** by adding at the end the following:
-    > - **(3)** *Construct, construction, constructs* The term ‘construct’, ‘construction’, or ‘constructs’ means to build, make, erect, assemble, or affix.
-    > - **(4)** *Cost* The term ‘cost’ means all amounts paid by the concessioner with respect to a capital improvement so long as such cost is capitalized in the concessioner’s financial statements using consistently applied generally accepted accounting principles.
+Section 405(a)(2)(A) of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5954(a)(2)(A)) is amended by inserting after “pursuant to this title” the following: “and may be pledged as security for other National Park Service contracts using a combination of leasehold surrender interest if holding one or more contracts with the National Park Service, and the proceeds resulting from such pledged security shall not be restricted for use in the park or parks for which the leasehold surrender interest was pledged”.
 
 ## § 5. Commercial use authorization
 
 Section 418 of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5966) is amended—
 
-- **(1)** in subparagraph (b)(2)(D), by adding at the end the following: “No action to limit the number of authorizations may occur until the Secretary conducts a visitor use capacity study that demonstrates that limits are necessary for the preservation and proper management of park resources and values.”;
-- **(2)** in paragraph (c)(3), by adding after “authorized use.” the following: “Such uses shall be subject to limitations and fees comparable to those that may be imposed on other authorization holders for the same or similar activities.”;
-- **(3)** by amending subsection (e), to read as follows:
-  > - **(e)** *Duration* The term of any authorization, not subject to limited numbers pursuant to (b)(2)(D), shall not exceed 5 years. Where it is determined that only limited numbers of authorizations shall be issued, the term of such authorizations shall not exceed 5 years. Such authorizations shall be issued to those applicants that have—
+- **(1)** in subsection (c), by adding after “authorized use.” the following: “Such uses shall be subject to limitations and fees comparable to those that may be imposed on other authorization holders for the same or similar activities.”;
+- **(2)** by amending subsection (e), to read as follows:
+  > - **(e)** *Duration* The term of any authorization, not subject to limited numbers pursuant to (b)(2)(D), shall not exceed 5 years. Where it is determined that only limited numbers of authorizations shall be issued, the term of such authorizations shall not exceed 5 years. Such authorizations may be issued to those applicants that have—
   >   - **(1)** demonstrated the capability to provide quality visitor services; and
   >   - **(2)** experience with the resources and values in the park unit for which the authorization is issued.
 
-- **(4)** by adding at the end the following:
+- **(3)** by adding at the end the following:
   > - **(g)** *Cost Recovery* The Secretary shall not seek to recover costs from applicants or authorized holders related to capacity studies and recreation activities and monitoring not associated with authorizations.
