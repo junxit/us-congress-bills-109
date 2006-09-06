@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2110
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,15 +20,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(5)** It is in the national interest for the Federal Government, in collaboration with local communities, to assist in identifying options for increasing the protection of the mountain backdrop in the northern Front Range area of Colorado.
 - **(c)** *Purpose* The purpose of this Act is to identify options that may be available to assist in maintaining the open space characteristics of lands that are part of the mountain backdrop of communities in the northern section of the Front Range area of Colorado.
 
-## § 2. Colorado northern Front Range mountain backdrop study
+## § 2. Colorado northern front range mountain backdrop study
 
-- **(a)** *Study and report* The Secretary of Agriculture, acting through the Chief of the Forest Service and in consultation with appropriate State and local agencies, shall review the lands within the study area and not later than one year after the date of the enactment of this Act shall report to Congress regarding the following:
+- **(a)** *Study and report* The Secretary of Agriculture, acting through the Chief of the Forest Service and in consultation with the State and local officials and agencies specified in subsection (c), shall review the lands within the study area and, not later than one year after the date of the enactment of this Act, shall report to such officials and to Congress regarding the following:
   - **(1)** The present ownership of such lands.
   - **(2)** Which undeveloped land may be at risk of development.
-  - **(3)** Identification of and recommendations concerning actions that could be taken by the United States, the State of Colorado, or any other parties to preserve the open and undeveloped character of such lands.
-- **(b)** *Definitions* For the purposes of this Act, the following definitions apply:
-  - **(1)** *Study area* The term study area means all lands in southern Boulder, northern Jefferson, and northern Gilpin Counties, Colorado, that are situated west of Colorado State Highway 93, south and east of Colorado State Highway 119, and north of Colorado State Highway 46, excluding lands within the city limits of the cities of Boulder or Golden, Colorado.
-  - **(2)** *Undeveloped land* The term undeveloped land means land that—
+  - **(3)** Actions that could be taken by the United States, the State of Colorado or a political subdivision of such State, or any other parties to preserve the open and undeveloped character of such lands.
+- **(b)** *Definitions* For the purposes of this section, the following definitions apply:
+  - **(1)** *Study area* The term “study area” means those lands in southern Boulder, northern Jefferson, and northern Gilpin Counties, Colorado, that are situated west of Colorado State Highway 93, south and east of Colorado State Highway 119, and north of Colorado State Highway 46, excluding lands within the city limits of the cities of Boulder or Golden, Colorado, as generally depicted on the map entitled “Northern Front Range Mountain Backdrop Study Area” dated April, 2006.
+  - **(2)** *Undeveloped land* The term “undeveloped land” means land that—
     - **(A)** is located within the study area;
     - **(B)** is free or primarily free of structures; and
     - **(C)** the development of which is likely to adversely affect the scenic, wildlife, or recreational value of the study area.
+- **(c)** *Consultations* In implementing this Act, the Secretary shall consult with the following:
+  - **(1)** The Colorado Department of Natural Resources.
+  - **(2)** Colorado State Forest Service.
+  - **(3)** Colorado State Conservation Board.
+  - **(4)** Great Outdoors Colorado.
+  - **(5)** The Boards of County Commissioners of Boulder, Jefferson, and Gilpin Counties, Colorado.
+- **(d)** *Rule of construction* Nothing in this Act shall be construed as authorizing the Secretary of Agriculture to take any action that would affect the use of any lands not owned by the United States.
