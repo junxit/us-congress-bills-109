@@ -28,4 +28,3 @@ This Act may be cited as the “River Raisin National Battlefield Study Act”.
 - **(e)** *Report* Not later than three years after the date on which funds are first made available for the study, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
   - **(1)** the findings of the study; and
   - **(2)** any conclusions and recommendations of the Secretary.
-- **(f)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to conduct the study.

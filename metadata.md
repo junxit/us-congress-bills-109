@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5132
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5132
@@ -25,3 +25,12 @@ River Raisin National Battlefield Study Act
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Referred to the House Committee on Resources.
+- 2006-04-19 — Executive Comment Requested from Interior.
+- 2006-04-19 — Referred to the Subcommittee on National Parks.
+- 2006-07-13 — Subcommittee Hearings Held.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2006-07-19 — Subcommittee on National Parks Discharged.
+- 2006-09-06 — Placed on the Union Calendar, Calendar No. 377.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-637.
+- 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-637.
