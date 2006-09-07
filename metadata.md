@@ -1,7 +1,7 @@
 ---
 measure: H.R. 866
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 866
@@ -46,3 +46,12 @@ To make technical corrections to the United States Code.
 - 2006-09-07 — Committee on the Judiciary. Reported by Senator Specter without amendment. Without written report.
 - 2006-09-07 — Committee on the Judiciary. Reported by Senator Specter without amendment. Without written report.
 - 2006-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 593.
+- 2006-09-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9446)
+- 2006-09-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9446)
+- 2006-09-13 — Message on Senate action sent to the House.
+- 2006-09-18 — Presented to President.
+- 2006-09-18 — Presented to President.
+- 2006-09-27 — Became Public Law No: 109-284.
+- 2006-09-27 — Became Public Law No: 109-284.
+- 2006-09-27 — Signed by President.
+- 2006-09-27 — Signed by President.

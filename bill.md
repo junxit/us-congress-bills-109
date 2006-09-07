@@ -1,13 +1,11 @@
 ---
 legis-num: H.R. 866
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: 
+session: 
+chamber: 
 ---
 
 # H.R. 866
-
-> To make technical corrections to the United States Code.
 
 ## § 1. Purpose
 
