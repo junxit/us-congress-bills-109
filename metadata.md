@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2808
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2808
@@ -346,3 +346,12 @@ Abraham Lincoln Commemorative Coin Act
 - 2006-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 427). (text: CR H6246-6247)
 - 2006-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 427).(text: CR H6246-6247)
 - 2006-09-07 — Received in the Senate.
+- 2006-09-08 — Message on Senate action sent to the House.
+- 2006-09-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9281)
+- 2006-09-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9281)
+- 2006-09-18 — Presented to President.
+- 2006-09-18 — Presented to President.
+- 2006-09-27 — Became Public Law No: 109-285.
+- 2006-09-27 — Became Public Law No: 109-285.
+- 2006-09-27 — Signed by President.
+- 2006-09-27 — Signed by President.
