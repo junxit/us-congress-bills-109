@@ -1,7 +1,7 @@
 ---
 measure: H.R. 503
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 503
@@ -246,3 +246,34 @@ To amend the Horse Protection Act to prohibit the shipping, transporting, moving
 - 2006-09-06 — Reported adversely (Amended) by the Committee on Agriculture. H. Rept. 109-617, Part I.
 - 2006-09-06 — Rules Committee Resolution H. Res. 981 Reported to House. Rule provides for consideration of H.R. 503 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2006-09-06 — Unfavorable Executive Comment Received from USDA.
+- 2006-09-07 — Amendment (A001) offered by Mr. Goodlatte. (consideration: CR H6330-6332, H6335; text: CR H6330)
+- 2006-09-07 — Amendment (A002) offered by Mr. King (IA). (consideration: CR H6332-6335, H6335-6336; text: CR H6332)
+- 2006-09-07 — Amendment failed in Committee of the Whole
+- 2006-09-07 — Amendment failed in Committee of the Whole
+- 2006-09-07 — Considered under the provisions of rule H. Res. 981. (consideration: CR H6316-6337)
+- 2006-09-07 — DEBATE - Pursuant to the provisions of H. Res. 981, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment.
+- 2006-09-07 — DEBATE - Pursuant to the provisions of H. Res. 981, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment.
+- 2006-09-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour and 20 minutes of general debate on H.R. 503.
+- 2006-09-07 — House amendment not agreed to: On agreeing to the Goodlatte amendment (A001) Failed by recorded vote: 177 - 229, 1 Present (Roll no. 431).
+- 2006-09-07 — House amendment not agreed to: On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 149 - 256, 1 Present (Roll no. 432).
+- 2006-09-07 — House amendment offered
+- 2006-09-07 — House amendment offered
+- 2006-09-07 — House amendment offered/reported by : Amendment (A001) offered by Mr. Goodlatte.(consideration: CR H6330-6332, H6335; text: CR H6330)
+- 2006-09-07 — House amendment offered/reported by : Amendment (A002) offered by Mr. King (IA).(consideration: CR H6332-6335, H6335-6336; text: CR H6332)
+- 2006-09-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 981 and Rule XVIII.
+- 2006-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-07 — ORDER OF PROCEDURE - Mr. Boehner asked unanimous consent that, during further proceedings today in the House and in Committee of the Whole, the Chair be authorized to reduce to two minutes the minimum time for electronic voting on any question that otherwise could be subjected to five-minute voting under clause 8 or 9 of rule 20 or under clause 6 of rule 18. Agreed to without objection.
+- 2006-09-07 — On agreeing to the Goodlatte amendment (A001) Failed by recorded vote: 177 - 229, 1 Present (Roll no. 431).
+- 2006-09-07 — On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 149 - 256, 1 Present (Roll no. 432).
+- 2006-09-07 — On passage Passed by recorded vote: 263 - 146, 1 Present (Roll No. 433).
+- 2006-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-09-07 — Passed/agreed to in House: On passage Passed by recorded vote: 263 - 146, 1 Present (Roll No. 433).
+- 2006-09-07 — Roll call votes on amendments in House
+- 2006-09-07 — Roll call votes on amendments in House
+- 2006-09-07 — Rule H. Res. 981 passed House.
+- 2006-09-07 — Rule provides for consideration of H.R. 503 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2006-09-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 503.
+- 2006-09-07 — The Speaker designated the Honorable Adam H. Putnam to act as Chairman of the Committee.
+- 2006-09-07 — The previous question was ordered pursuant to the rule. (consideration: CR H6336)
+- 2006-09-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
