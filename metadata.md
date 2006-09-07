@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2808
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2808
@@ -345,3 +345,4 @@ Abraham Lincoln Commemorative Coin Act
 - 2006-09-06 — Mrs. Biggert moved to suspend the rules and pass the bill, as amended.
 - 2006-09-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 427). (text: CR H6246-6247)
 - 2006-09-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 427).(text: CR H6246-6247)
+- 2006-09-07 — Received in the Senate.
