@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4583
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,11 +29,15 @@ This Act may be cited as the “Wool Suit Fabric Labeling Fairness and Internati
   >   - **(J)** “Super 170’s” or “170’s”, if the average diameter of wool fiber of such wool product does not average 15.0 microns or finer;
   >   - **(K)** “Super 180’s” or “180’s”, if the average diameter of wool fiber of such wool product does not average 14.5 microns or finer;
   >   - **(L)** “Super 190’s” or “190’s”, if the average diameter of wool fiber of such wool product does not average 14.0 microns or finer;
-  >   - **(M)** “Super 200’s” or “200’s”, if the average diameter of wool fiber of such wool product does not average 13.5 microns or finer; and
-  >   - **(N)** “Super 210’s” or “210’s”, if the average diameter of wool fiber of such wool product does not average 13.0 microns or finer.
+  >   - **(M)** “Super 200’s” or “200’s”, if the average diameter of wool fiber of such wool product does not average 13.5 microns or finer;
+  >   - **(N)** “Super 210’s” or “210’s”, if the average diameter of wool fiber of such wool product does not average 13.0 microns or finer;
+  >   - **(O)** “Super 220’s” or “220’s”, if the average diameter of wool fiber of such wool product does not average 12.5 microns or finer;
+  >   - **(P)** “Super 230’s” or “230’s”, if the average diameter of wool fiber of such wool product does not average 12.0 microns or finer;
+  >   - **(Q)** “Super 240’s” or “240’s”, if the average diameter of wool fiber of such wool product does not average 11.5 microns or finer; and
+  >   - **(R)** “Super 250’s” or “250’s”, if the average diameter of wool fiber of such wool product does not average 11.0 microns or finer.
   > - **(6)** In the case of a wool product stamped, tagged, labeled, or otherwise identified as cashmere, if—
   >   - **(A)** such wool product is not the fine (dehaired) undercoat fibers produced by a cashmere goat (capra hircus laniger);
   >   - **(B)** the average diameter of the fiber of such wool product exceeds 19 microns; or
   >   - **(C)** such wool product contains more than 3 percent (by weight) of cashmere fibers with average diameters that exceed 30 microns.
 
-- **(b)** *Applicability date* The amendments made by this section shall apply to wool products manufactured on or after January 1, 2006.
+- **(b)** *Applicability date* The amendments made by this section shall apply to wool products manufactured on or after January 1, 2007.
