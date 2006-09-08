@@ -22,8 +22,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Authorization of design, construction, and operation of major medical facility project, New Orleans, Louisiana
 
-- **(a)** *Agreement authorized* The Secretary of Veterans Affairs may enter into an agreement with the Louisiana State University to design, construct, and operate a co-located, joint-use medical facility in New Orleans to replace the medical center facility for the Department of Veterans Affairs Medical Center, New Orleans, Louisiana, damaged by Hurricane Katrina in August 2005.
-- **(b)** *Cost limitation* Advance planning and design for a co-located, joint-use medical facility in New Orleans under subsection (a) shall be carried out in an amount not to exceed $100,000,000.
+- **(a)** *Agreement authorized* The Secretary of Veterans Affairs may enter into an agreement with the Louisiana State University to design, construct, and operate a co-located, joint-use medical facility in or near New Orleans to replace the medical center facility for the Department of Veterans Affairs Medical Center, New Orleans, Louisiana, damaged by Hurricane Katrina in August 2005.
+- **(b)** *Cost limitation* Advance planning and design for a co-located, joint-use medical facility in or near New Orleans under subsection (a) shall be carried out in an amount not to exceed $100,000,000.
 
 ## § 4. Authorization of design, construction, and operation of a major medical facility project, Charleston, South Carolina
 
@@ -145,3 +145,12 @@ The Secretary of Veterans Affairs may carry out the following major medical faci
   - **(2)** Expansions at existing sites of care.
   - **(3)** Use of existing authority and policies to contract for care where necessary.
   - **(4)** Increased use of telemedicine.
+
+## § 13. Report on option for construction of a Department of Veterans Affairs medical center in Okaloosa County, Florida
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report identifying and outlining the various options available to the Department for the placement of a Department of Veterans Affairs Medical Center in Okaloosa County, Florida. The report shall include the following:
+
+- **(1)** The feasibility of entering into a partnership with Eglin Air Force Base for the construction and operation of a new, joint Department of Veterans Affairs-Department of Defense facility.
+- **(2)** The medical, legal, and financial implications of each of the options identified, including recommendations regarding any statutory changes necessary for the Department to carry out any of the options identified.
+- **(3)** A detailed cost-benefit analysis of each of the options identified.
+- **(4)** Estimates regarding the length of time and associated costs needed to complete such a facility under each of the options identified.
