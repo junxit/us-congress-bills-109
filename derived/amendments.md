@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5815
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 3 of title 38, United States Code, is amended by inserting after section 312 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 312 the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 312` | insert | Chapter 3 of title 38, United States Code, is amended by inserting after section 312 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 312` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 312 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
