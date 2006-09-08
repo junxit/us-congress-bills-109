@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1713` | replace | by striking “140 percent” each place such term appears and inserting “ 170 percent”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1713` | replace | by striking “140 percent” each place such term appears and inserting “170 percent”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1713` | replace | by striking “170 percent in high cost areas” each time place such term appears and inserting “215 percent in high cost areas”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1713` | replace | in section 220(d)(3)(B)(iii)(III) (12 U.S.C. 1715k(d)(3)(B)(iii)(III)) by striking “206A” and all that follows through “project-by-project basis” and inserting the following: “206A of this Act) by not to exceed 170 percent in any geograp… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1715k` | replace | in section 220(d)(3)(B)(iii)(III) (12 U.S.C. 1715k(d)(3)(B)(iii)(III)) by striking “206A” and all that follows through “project-by-project basis” and inserting the following: “206A of this Act) by not to exceed 170 percent in any geograp… | the bill quotes the text struck but describes what replaces it |
