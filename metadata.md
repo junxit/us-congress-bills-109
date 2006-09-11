@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5450
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5450
@@ -16,10 +16,11 @@ National Oceanic and Atmospheric Administration Act
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Boehlert, Sherwood [R-NY-24] (B000586)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (2)
 
@@ -33,3 +34,13 @@ National Oceanic and Atmospheric Administration Act
 - 2006-05-22 — Referred to the Committee on Science, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-05-22 — Referred to the Committee on Science, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-05-22 — Referred to the Committee on Science, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-05-31 — Executive Comment Requested from Commerce.
+- 2006-05-31 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2006-06-14 — Committee Consideration and Mark-up Session Held.
+- 2006-06-14 — Ordered to be Reported (Amended).
+- 2006-06-29 — House Committee on Resources Granted an extension for further consideration ending not later than Sept. 11, 2006.
+- 2006-06-29 — Reported (Amended) by the Committee on Science. H. Rept. 109-545, Part I.
+- 2006-06-29 — Reported (Amended) by the Committee on Science. H. Rept. 109-545, Part I.
+- 2006-09-11 — Committee on Resources discharged.
+- 2006-09-11 — Committee on Resources discharged.
+- 2006-09-11 — Placed on the Union Calendar, Calendar No. 385.

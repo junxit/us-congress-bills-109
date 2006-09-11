@@ -103,8 +103,9 @@ In this Act:
   - **(1)** maintaining a network of local weather forecast offices;
   - **(2)** maintaining a network of observation systems to collect weather and climate data;
   - **(3)** operating national centers to deliver guidance, forecasts, warnings, and analysis about weather, water, climate, tsunami, and space weather phenomena for the Administration and the public;
-  - **(4)** conducting and supporting applied research to facilitate the rapid incorporation of weather and climate science advances into operational tools; and
-  - **(5)** other functions to serve the mission of the National Weather Service described in subsection (b).
+  - **(4)** providing information to Federal agencies and other organizations responsible for emergency preparedness and response as required by law;
+  - **(5)** conducting and supporting applied research to facilitate the rapid incorporation of weather and climate science advances into operational tools; and
+  - **(6)** other functions to serve the mission of the National Weather Service described in subsection (b).
 
 ## § 6. Operations and services
 
@@ -235,28 +236,45 @@ All rules and regulations, determinations, standards, contracts, including colle
 
 Whenever the Administrator transmits a budget reprogramming request to the Appropriations Committees of the House of Representatives and the Senate, the Administrator shall simultaneously submit a copy of the request to the Committee on Science and the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-## § 16. Satellite notification
+## § 16. Baselines and cost controls
 
-- **(a)** *In general* The Administrator shall notify the Congress—
-  - **(1)** prior to initiating the expenditure of any funds on a satellite for which the Administration had not expended funds as of the date of enactment of this Act;
-  - **(2)** within 3 days whenever the Administrator has reasonable cause to believe that the development cost of a satellite is likely to exceed the most recent baseline estimate of development costs by more than 15 percent;
-  - **(3)** within 3 days whenever the Administrator has reasonable cause to believe that the delivery of a satellite for launch is likely to be delayed by 6 months or more; or
-  - **(4)** within 3 days whenever the Administrator intends to make a significant alteration to a satellite.
-- **(b)** *Evaluation* After providing a notification under subsection (a), the Administrator shall—
-  - **(1)** have the satellite, revised cost, revised schedule, or significant alteration that was the subject of the notice evaluated in accordance with subsection (c) by—
-    - **(A)** a panel of experts selected by the Administrator that does not include any employees of the Administration; or
-    - **(B)** an independent entity; and
-  - **(2)** within 120 days, transmit the evaluation to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, along with an explanation of how the Administration will provide the funds to cover the costs determined by the evaluation conducted under paragraph (1) and responses to any concerns raised by the evaluation.
-- **(c)** *Criteria* An evaluation conducted pursuant to subsection (b)(1) shall review—
-  - **(1)** the cost and schedule of a satellite for which the Administration had not previously expended funds, along with the appropriateness of the intended mission for the satellite and its likelihood of success;
-  - **(2)** the revised cost or delivery schedule proposed for a satellite or the additional cost imposed by a significant alteration;
-  - **(3)** the impact on launch schedule of a proposed significant alteration;
-  - **(4)** the impact a proposed significant alteration would have on the success of a satellite’s original mission; and
-  - **(5)** the likelihood that the intended purpose of the significant alteration would be accomplished.
-- **(d)** *Definitions* For the purposes of this section, the term—
-  - **(1)** “development cost” means all costs related to a satellite through the launch of a satellite;
-  - **(2)** “satellite” includes the spacecraft (but not the launch vehicle), instruments, and sensors; and
-  - **(3)** “significant alteration” means a change in the objectives or capabilities of a satellite, including the addition or removal of instruments or sensors.
+- **(a)** *Conditions for development*
+  - **(1)** *In general* The Administration shall not enter into a contract for the development of a major program unless the Administrator determines that—
+    - **(A)** the technical, cost, and schedule risks of the program are clearly identified and the program has developed a plan to manage those risks;
+    - **(B)** the technologies required for the program have been demonstrated in a relevant laboratory or test environment; and
+    - **(C)** the program complies with all relevant policies, regulations, and directives of the Administration.
+  - **(2)** *Report* The Administrator shall transmit a report describing the basis for the determination required under paragraph (1) to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 30 days before entering into a contract for development under a major program.
+  - **(3)** *Nondelegation* The Administrator may not delegate the determination requirement under this subsection, except in cases in which the Administrator has a conflict of interest.
+- **(b)** *Major program annual reports*
+  - **(1)** *Requirement* Annually, at the same time as the President’s annual budget submission to the Congress, the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes the information required by this section for each major program for which the Administration proposes to expend funds in the subsequent fiscal year. Reports under this paragraph shall be known as Major Program Annual Reports.
+  - **(2)** *Baseline report* The first Major Program Annual Report for each major program shall include a Baseline Report that shall, at a minimum, include—
+    - **(A)** the purposes of the program and key technical characteristics necessary to fulfill those purposes;
+    - **(B)** an estimate of the life-cycle cost for the program, with a detailed breakout of the development cost, program reserves, and an estimate of the annual costs until development is completed;
+    - **(C)** the schedule for development, including key program milestones;
+    - **(D)** the plan for mitigating technical, cost, and schedule risks identified in accordance with subsection (a)(1)(A); and
+    - **(E)** the name of the person responsible for making notifications under subsection (c), who shall be an individual whose primary responsibility is overseeing the program.
+  - **(3)** *Information updates* For major programs for which a Baseline Report has been submitted, each subsequent Major Program Annual Report shall describe any changes to the information that had been provided in the Baseline Report, and the reasons for those changes.
+- **(c)** *Notification*
+  - **(1)** *Requirement* The individual identified under subsection (b)(2)(E) shall immediately notify the Administrator any time that individual has reasonable cause to believe that, for the major program for which he or she is responsible—
+    - **(A)** the development cost of the program is likely to exceed the estimate provided in the Baseline Report of the program by 15 percent or more; or
+    - **(B)** a milestone of the program is likely to be delayed by 6 months or more from the date provided for it in the Baseline Report of the program.
+  - **(2)** *Reasons* Not later than 30 days after the notification required under paragraph (1), the individual identified under subsection (b)(2)(E) shall transmit to the Administrator a written notification explaining the reasons for the change in the cost or milestone of the program for which notification was provided under paragraph (1).
+  - **(3)** *Notification of congress* Not later than 15 days after the Administrator receives a written notification under paragraph (2), the Administrator shall transmit the notification to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+- **(d)** *Fifteen Percent Threshold* Not later than 30 days after receiving a written notification under subsection (c)(2), the Administrator shall determine whether the development cost of the program is likely to exceed the estimate provided in the Baseline Report of the program by 15 percent or more, or whether a milestone is likely to be delayed by 6 months or more. If the determination is affirmative, the Administrator shall—
+  - **(1)** transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, not later than 15 days after making the determination, a report that includes—
+    - **(A)** a description of the increase in cost or delay in schedule and a detailed explanation for the increase or delay;
+    - **(B)** a description of actions taken or proposed to be taken in response to the cost increase or delay; and
+    - **(C)** a description of any impacts the cost increase or schedule delay, or the actions described under subparagraph (B), will have on any other program within the Administration; and
+  - **(2)** if the Administrator intends to continue with the program, promptly initiate an analysis of the program, which shall include, at a minimum—
+    - **(A)** the projected cost and schedule for completing the program if current requirements of the program are not modified;
+    - **(B)** the projected cost and the schedule for completing the program after instituting the actions described under paragraph (1)(B); and
+    - **(C)** a description of, and the projected cost and schedule for, a broad range of alternatives to the program.
+- **(e)** *Thirty percent threshold* If the Administrator determines under subsection (d) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (d)(1), the Administrator shall not expend any additional funds on the program, other than termination costs, unless the Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
+- **(f)** *Definitions* For the purposes of this section—
+  - **(1)** the term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation.
+  - **(2)** the term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
+  - **(3)** the term “life-cycle cost” means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control; and
+  - **(4)** the term “major program” means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000.
 
 ## § 17. Limitations on off-shore performance of contracts for the procurement of goods and services
 
@@ -267,3 +285,10 @@ Whenever the Administrator transmits a budget reprogramming request to the Appro
   - **(3)** The Administrator may waive the prohibition in paragraph (1) in the case of any contract for which the Administrator determines in writing that essential goods or services under the contract are only available from a source outside the United States.
 - **(c)** *Exception* Subsections (a) and (b)(1) shall not apply to the extent that the activity or function under the contract was previously performed by Federal Government employees outside the United States.
 - **(d)** *Consistency with International Agreements* The provisions of this section shall not apply to the extent that they are inconsistent with obligations of the United States under international agreements.
+
+## § 18. Recordkeeping and reporting requirement
+
+The Administrator shall transmit to Congress, not later than 120 days after the end of each fiscal year beginning with the first fiscal year after the date of enactment of this Act, a report on the contracts and subcontracts performed overseas and the amount of purchases directly or indirectly by the Administration from foreign entities in that fiscal year. The report shall separately indicate—
+
+- **(1)** the contracts and subcontracts and their dollar values for which the Administrator determines that essential goods or services under the contract are available only from a source outside the United States; and
+- **(2)** the items and their dollar values for which the Buy American Act was waived pursuant to obligations of the United States under international agreements.
