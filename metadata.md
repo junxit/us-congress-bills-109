@@ -1,7 +1,7 @@
 ---
 measure: H.R. 138
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 138
@@ -51,3 +51,13 @@ To revise the boundaries of John H. Chafee Coastal Barrier Resources System Jeky
 - 2006-09-12 — Mr. Jones (NC) moved to suspend the rules and pass the bill, as amended.
 - 2006-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6386)
 - 2006-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6386)
+- 2006-09-13 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10793)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10793)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-05 — Presented to President.
+- 2006-10-05 — Presented to President.
+- 2006-10-16 — Became Public Law No: 109-354.
+- 2006-10-16 — Became Public Law No: 109-354.
+- 2006-10-16 — Signed by President.
+- 2006-10-16 — Signed by President.
