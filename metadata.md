@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5539
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5539
@@ -65,3 +65,13 @@ North American Wetlands Conservation Reauthorization Act of 2006
 - 2006-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6385)
 - 2006-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6385)
 - 2006-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-13 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10793)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10793)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-03 — Presented to President.
+- 2006-10-03 — Presented to President.
+- 2006-10-11 — Became Public Law No: 109-322.
+- 2006-10-11 — Became Public Law No: 109-322.
+- 2006-10-11 — Signed by President.
+- 2006-10-11 — Signed by President.
