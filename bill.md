@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5381
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5381
@@ -36,7 +36,7 @@ This Act may be cited as the “National Fish Hatchery System Volunteer Act of 2
   - **(1)** *In general* Any gifts and bequests of money and proceeds from the sales of other property received as gifts or bequests pursuant to this subsection shall be deposited in a separate account in the Treasury and may be expended without further appropriation by the Secretary for the benefit of the System programs administered by the United States Fish and Wildlife Service.
   - **(2)** *Gifts, devises, and bequests for particular facilities*
     - **(A)** *Disbursal* Any gift, devise, or bequest made for the benefit of a facility of the System shall be disbursed only for the benefit of that facility and without further appropriations.
-    - **(B)** *Matching* Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act (16 U.S.C 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+    - **(B)** *Matching* Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 ## § 4. Volunteer enhancement pilot projects
 
