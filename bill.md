@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5381
 
-> To establish a volunteer program and promote community partnerships for the benefit of national fish hatcheries and fisheries program offices.
+> To enhance an existing volunteer program of the United States Fish and Wildlife Service and promote community partnerships for the benefit of national fish hatcheries and fisheries program offices.
 
 ## § 1. Short title
 
@@ -41,8 +41,7 @@ This Act may be cited as the “National Fish Hatchery System Volunteer Act of 2
 ## § 4. Volunteer enhancement pilot projects
 
 - **(a)** *In general* Subject to the availability of appropriations, the Secretary of the Interior shall carry out a pilot project at 1 or more facilities of the System. Each pilot project shall provide for a volunteer coordinator for the hatchery facility. The volunteer coordinator shall be responsible for recruiting, training, and supervising volunteers. The volunteer coordinator may be responsible for assisting partner organizations in developing projects and programs under cooperative agreements under section 7(d) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f(d)) and coordinating volunteer activities with partner organizations to carry out the projects and programs.
-- **(b)** *Report* Not later than 3 years after the date of the enactment of this Act, the Secretary shall a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
-- **(c)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $150,000 for each of fiscal years 2007 through 2011.
+- **(b)** *Report* Not later than 3 years after the date of the enactment of this Act, the Secretary shall submit a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
 
 ## § 5. Community partnership enhancement
 
@@ -61,7 +60,3 @@ This Act may be cited as the “National Fish Hatchery System Volunteer Act of 2
   - **(2)** promoting understanding and conservation of fish, aquatic species, and the cultural and historical resources of the hatcheries; and
   - **(3)** improving scientific literacy in conjunction with both formal and nonformal education programs.
 - **(b)** *Hatchery programs* Based on the guidance developed under subsection (a), the Secretary of the Interior may, with assistance from the Fish and Wildlife Management Assistance Program, develop or enhance hatchery educational programs as appropriate, based on the resources of individual hatcheries and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
-
-## § 7. Authorization of appropriations
-
-There is authorized to be appropriated to the Secretary of the Interior to carry out this Act $200,000 for each of fiscal years 2007 through 2010.
