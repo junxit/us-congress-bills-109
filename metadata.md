@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5094
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5094
@@ -40,3 +40,13 @@ Lake Mattamuskeet Lodge Preservation Act
 - 2006-09-12 — Mr. Jones (NC) moved to suspend the rules and pass the bill.
 - 2006-09-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6384-6385)
 - 2006-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6384-6385)
+- 2006-09-13 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10793)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10793)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-06 — Presented to President.
+- 2006-10-06 — Presented to President.
+- 2006-10-16 — Became Public Law No: 109-358.
+- 2006-10-16 — Became Public Law No: 109-358.
+- 2006-10-16 — Signed by President.
+- 2006-10-16 — Signed by President.
