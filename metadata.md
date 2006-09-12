@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5428
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5428
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 202 Eas
 - Rep. Shimkus, John [R-IL-19] (S000364)
 - Rep. Hastert, J. Dennis [R-IL-14] (H000323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,15 @@ To designate the facility of the United States Postal Service located at 202 Eas
 - 2006-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 436). (text: CR H6375)
 - 2006-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 436).(text: CR H6375)
 - 2006-09-12 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-06 — Presented to President.
+- 2006-10-06 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-349.
+- 2006-10-13 — Became Public Law No: 109-349.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
