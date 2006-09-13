@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend section 20 of the Indian Gaming Regulatory Act to restrict off-reservation gaming.
 
-## § 1. Restriction on off-reservation gaming
+## § 1. Short title
+
+This Act may be cited as the “Restricting Indian Gaming to Homelands of Tribes Act of 2006”.
+
+## § 2. Restriction on off-reservation gaming
 
 Section 20 of the Indian Gaming Regulatory Act (25 U.S.C. 2719) is amended—
 
@@ -18,9 +22,8 @@ Section 20 of the Indian Gaming Regulatory Act (25 U.S.C. 2719) is amended—
   >   - **(1)** Subsection (a) will not apply when lands are taken in trust for the benefit of an Indian tribe that is newly recognized, restored, or landless after the date of the enactment of subsection (f), including those newly recognized under the Federal Acknowledgment Process at the Bureau of Indian Affairs, and the following criteria are met:
   >     - **(A)** The Secretary determines that such lands are within the State of such tribe and are within the primary geographic, social, historical, and temporal nexus of the Indian tribe.
   >     - **(B)** The Secretary determines that the proposed gaming activity would not be detrimental to the surrounding community and nearby Indian tribes.
-  >     - **(C)** The Governor and State legislature of the State in which the gaming activities will be conducted concur.
-  >     - **(D)** The Indian tribes within 75 miles of the proposed tribal trust land acquisition concur.
-  >     - **(E)** The regional Bureau office shall not recommend a tribal application for trust land acquisition for the purposes of gaming, in accordance with this section, until after the county or parish government with authority over the land that is contiguous to the lands applied to be taken into trust has held an advisory referendum, paid for by the tribal applicant, to determine whether the residents of that county or parish support or oppose the Indian tribe’s application to conduct gaming regulated by this Act. Regardless of the result of the referendum, for the purposes of the Indian tribe mitigating the direct impact on the county or parish infrastructure, and to include a direct payment to mitigate county or parish infrastructure costs, the Indian tribe shall negotiate and sign a memorandum of understanding with the county or parish government. Such mitigation payments shall be limited to the direct effects of the tribal gaming activities on the affected county or parish infrastructure and services. If a memorandum of understanding is not signed within one year after the advisory referendum, both parties shall submit to mandatory binding arbitration to agree upon such a memorandum of understanding.
+  >     - **(C)** Concurrence by the Governor in conformance with laws of that State.
+  >     - **(D)** Mitigation by the Indian tribe in accordance with this subparagraph. For the purposes of the Indian tribe mitigating the direct impact on the county or parish infrastructure and services, the Indian tribe shall negotiate and sign, to the extent practicable during the compact negotiations described in section 11(d)(3), a memorandum of understanding with the county or parish government. Such mitigation requirements shall be limited to the direct effects of the tribal gaming activities on the affected county or parish infrastructure and services. If a memorandum of understanding is not signed within one year after the Indian tribe or county or parish has notified the other party and the Secretary, by certified mail, a request to initiate negotiations, then the Secretary shall appoint an arbitrator who shall establish mitigation requirements of the Indian tribe.
 
 - **(2)** by adding at the end the following new subsections:
   > - **(e)**
@@ -32,12 +35,22 @@ Section 20 of the Indian Gaming Regulatory Act (25 U.S.C. 2719) is amended—
   >     - **(A)** of the invited Indian tribe;
   >     - **(B)** within the jurisdiction of the invited Indian tribe; and
   >     - **(C)** over which the invited Indian tribe has and exercises governmental power.
-  >   - **(6)** Any lease agreement authorized by this section shall not be valid unless it is—
+  >   - **(6)** Notwithstanding the foregoing, the gaming arrangement authorized by this subsection shall not be conducted on any Indian lands within the State of Arizona.
+  >   - **(7)** Any gaming authorized by this subsection shall not be conducted unless it is—
   >     - **(A)** consistent with the Tribal-State compacting laws of the State in which the gaming activities will be conducted;
-  >     - **(B)** approved by an Act of the State legislature; and
-  >     - **(C)** approved by the Governor of the State.
-  > - **(f)** An Indian tribe shall not conduct gaming regulated by this Act on Indian lands outside of a State in which the Indian tribe has a reservation on the date of the enactment of this subsection, unless such Indian lands are contiguous to such a reservation of that Indian tribe in that State.
+  >     - **(B)** specifically identified as expressly authorized in a tribal-State compact of the invited Indian tribe approved by an Act of the legislature of the State in which the gaming will be conducted; and
+  >     - **(C)** specifically identified as expressly authorized in a tribal-State compact of the invited Indian tribe approved by the Governor of the State in which the gaming will be conducted.
+  >   - **(8)** Host tribe compacts shall not be affected by the amendments made by this subsection.
+  > - **(f)** An Indian tribe shall not conduct gaming regulated by this Act on Indian lands outside of the State in which the Indian tribe is primarily residing and exercising tribal government authority on the date of the enactment of this subsection, unless such Indian lands are contiguous to the lands in the State where the tribe is primarily residing and exercising tribal government authority.
 
-## § 2. Statutory construction
+## § 3. Statutory construction
 
-The amendment made by paragraph (1) of section 1 shall be applied prospectively. Compacts or other agreements that govern gaming regulated by the Indian Gaming Regulatory Act of 1988 (25 U.S.C. 2701 et seq.) on Indian lands that were in effect on the date of the enactment of this Act shall not be affected by the amendments made by paragraph (1) of section 1 of this Act.
+- **(a)** *In general* The amendment made by paragraph (1) of section 2 shall be applied prospectively. Compacts or other agreements that govern gaming regulated by the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) on Indian lands that were in effect on the date of the enactment of this Act shall not be affected by the amendments made by paragraph (1) of section 2.
+- **(b)** *Exception* The amendments made by section 2 shall not apply to any lands for which an Indian tribe, prior to March 7, 2006, has submitted to the Secretary or Chairman a fee-to-trust application or written request requiring an eligibility determination pursuant to section 20(b)(1)(A) or clause (ii) or (iii) of section 20(b)(1)(B) of the Indian Gaming Regulatory Act (25 U.S.C. 2719(b)(1)(A), 2719(b)(1)(B)(ii), and 2719(b)(1)(B)(iii), respectively); provided that such lands are located within—
+  - **(1)** the State where the Indian tribe primarily resides; and
+  - **(2)** an area where the Indian Tribe has a primary geographical, historical, and temporal nexus.
+- **(c)** *Further exception* The amendments made by section 2 shall not affect the right of any Indian Tribe to conduct gaming on Indian lands that are eligible for gaming pursuant to section 20 of the Indian Gaming Regulatory Act (25 U.S.C. 2719), as determined by the National Indian Gaming Commission, Secretary of the Interior or a Federal court prior to the date of the enactment of this Act.
+
+## § 4. Regulations required
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior shall promulgate regulations to implement section 20 of the Indian Gaming Regulatory Act (25 U.S.C. 2719). The regulations shall require tribal applicants for any of the exceptions listed in section 20 of the Indian Gaming Regulatory Act to have an aboriginal or analogous historic connection to the lands upon which gaming activities are conducted under the Indian Gaming Regulatory Act.
