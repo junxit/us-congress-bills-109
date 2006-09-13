@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1000
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1000
