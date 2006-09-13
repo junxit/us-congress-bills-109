@@ -63,8 +63,5 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 
 - **(a)** *Program required* Title 38, United States Code, is amended by inserting after chapter 78 the following new chapter:
 - **(b)** *GAO report* Not later than three years after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the scholarship and education debt reduction programs under chapter 79 of title 38, United States Code, as added by subsection (a).
-- **(c)** *Eligibility of Department of Veterans Affairs employees* An individual who is an employee of the Department of Veterans Affairs as of the date of the enactment of this Act is not eligible for a scholarship under section 7902 of title 38, United States Code, as added by subsection (a).
-- **(d)** *Applicability*
-  - **(1)** *Scholarships* Section 7902 of title 38, United States Code, as added by subsection (a), shall apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007.
-  - **(2)** *Education debt reduction* Section 7902 of such title, as added by subsection (a), shall apply with respect to an individual hired on or after the date that is six months before the date of the enactment of this Act.
-- **(e)** *Clerical amendment* The tables of chapters at the beginning of such title, and at the beginning of part V of such title, are amended by inserting after the item relating to chapter 78 the following new item:
+- **(c)** *Applicability of scholarships* Section 7902 of title 38, United States Code, as added by subsection (a), shall apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007.
+- **(d)** *Clerical amendment* The tables of chapters at the beginning of such title, and at the beginning of part V of such title, are amended by inserting after the item relating to chapter 78 the following new item:
