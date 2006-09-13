@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 994
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 994
@@ -45,3 +45,11 @@ Expressing the sense of the House of Representatives on the fifth anniversary of
 - 2006-09-12 — Referred to the Committee on Government Reform, and in addition to the Committees on International Relations, Armed Services, Transportation and Infrastructure, Homeland Security, the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-09-12 — Referred to the Committee on Government Reform, and in addition to the Committees on International Relations, Armed Services, Transportation and Infrastructure, Homeland Security, the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-09-12 — Rules Committee Resolution H. Res. 996 Reported to House. Rule provides for consideration of H. Res. 994 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. During consideration of House Resolution 994, pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the resolution to a time designated by the Speaker.
+- 2006-09-13 — Considered under the provisions of rule H. Res. 996. (consideration: CR H6461-6497)
+- 2006-09-13 — DEBATE - Pursuant to the provisions of H. Res. 996, the House proceeded with 4 hours of debate on H. Res. 994.
+- 2006-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 395 - 22, 1 Present (Roll no. 440). (text: CR H6461-6462)
+- 2006-09-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 395 - 22, 1 Present (Roll no. 440).(text: CR H6461-6462)
+- 2006-09-13 — Rule H. Res. 996 passed House.
+- 2006-09-13 — Rule provides for consideration of H. Res. 994 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. During consideration of House Resolution 994, pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the resolution to a time designated by the Speaker.
+- 2006-09-13 — The previous question was ordered pursuant to the rule. (consideration: CR H6497)
