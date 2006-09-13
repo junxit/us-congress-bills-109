@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 550
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 550
@@ -28,3 +28,7 @@ A resolution designating October 22 through October 28, 2006, as "National Save 
 
 - 2006-08-03 — Introduced in Senate
 - 2006-08-03 — Referred to the Committee on the Judiciary. (text of measure as introduced:  CR S8859)
+- 2006-09-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9565)
+- 2006-09-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9565)
+- 2006-09-13 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9565)
+- 2006-09-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9565)
