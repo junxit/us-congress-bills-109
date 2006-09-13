@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 559
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 559
@@ -16,7 +16,7 @@ A resolution calling on the President to take immediate steps to help stop the v
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (27)
+## Cosponsors (36)
 
 - Sen. DeWine, Mike [R-OH] (D000294)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
@@ -45,6 +45,15 @@ A resolution calling on the President to take immediate steps to help stop the v
 - Sen. Hagel, Chuck [R-NE] (H001028)
 - Sen. Frist, William H. [R-TN] (F000439)
 - Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Obama, Barack [D-IL] (O000167)
 
 ## Committees (1)
 
@@ -55,3 +64,7 @@ A resolution calling on the President to take immediate steps to help stop the v
 - 2006-09-07 — Introduced in Senate
 - 2006-09-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S9191-9192)
 - 2006-09-07 — Sponsor introductory remarks on measure. (CR S9192-9193)
+- 2006-09-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9566)
+- 2006-09-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9566)
+- 2006-09-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S9565-9566)
+- 2006-09-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S9565-9566)
