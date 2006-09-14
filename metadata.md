@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6061
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6061
@@ -16,7 +16,7 @@ Secure Fence Act of 2006
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Cosponsors (42)
+## Cosponsors (70)
 
 - Rep. Dreier, David [R-CA-26] (D000492)
 - Rep. Hunter, Duncan [R-CA-52] (H000981)
@@ -60,6 +60,34 @@ Secure Fence Act of 2006
 - Rep. King, Steve [R-IA-5] (K000362)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Lieberman, Joseph I. [D-CT] (L000304)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
@@ -89,3 +117,125 @@ Secure Fence Act of 2006
 - 2006-09-14 — Rule H. Res. 1002 passed House.
 - 2006-09-14 — Rule provides for consideration of H.R. 6061 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
 - 2006-09-14 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H6595)
+- 2006-09-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
+- 2006-09-18 — Cloture motion on the motion to proceed presented in Senate. (consideration: CR S9685-9686; text: CR S9685)
+- 2006-09-20 — Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 252. (consideration: CR S9745-9746; text: CR S9745)
+- 2006-09-20 — Motion to proceed to measure considered in Senate. (consideration: CR S9739-9746)
+- 2006-09-20 — Senate amendment submitted
+- 2006-09-20 — Senate amendment submitted
+- 2006-09-20 — Senate amendment submitted
+- 2006-09-21 — Amendment SA 5031 proposed by Senator Frist. (consideration: CR S9886; text: CR S9886) To establish the effective date.
+- 2006-09-21 — Amendment SA 5032 proposed by Senator Frist to Amendment SA 5031. (consideration: CR S9886; text: CR S9886) To amend the effective date.
+- 2006-09-21 — Measure laid before Senate by motion. (consideration: CR S9886)
+- 2006-09-21 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2006-09-21 — Motion to proceed to measure considered in Senate. (consideration: CR S9863-9886)
+- 2006-09-21 — Senate amendment proposed (on the floor): Amendment SA 5031 proposed by Senator Frist.(consideration: CR S9886; text: CR S9886)
+- 2006-09-21 — Senate amendment proposed (on the floor): Amendment SA 5032 proposed by Senator Frist to Amendment SA 5031.(consideration: CR S9886; text: CR S9886)
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-21 — Senate amendment submitted
+- 2006-09-25 — Amendment SA 5036 proposed by Senator Frist. (consideration: CR S10097) To establish military commissions.
+- 2006-09-25 — Amendment SA 5037 proposed by Senator Frist to Amendment SA 5036. (consideration: CR S10097; text: CR S10097) To establish the effective date
+- 2006-09-25 — Amendment SA 5038 proposed by Senator Frist to the motion to commit. To establish military commissions.
+- 2006-09-25 — Amendment SA 5039 proposed by Senator Frist to Amendment SA 5038. (consideration: CR S10098; text: CR S10098) To establish the effective date.
+- 2006-09-25 — Amendment SA 5040 proposed by Senator Frist to Amendment SA 5039. (consideration: CR S10098; text: CR S10098) To amend the effective date
+- 2006-09-25 — Cloture motion on SA 5036 presented in Senate.
+- 2006-09-25 — Cloture motion on the bill presented in Senate. (consideration: CR S10097-10098; text: CR S10098)
+- 2006-09-25 — Considered by Senate. (consideration: CR S10097)
+- 2006-09-25 — Considered by Senate. (consideration: CR S10097)
+- 2006-09-25 — Considered by Senate. (consideration: CR S10097-10098)
+- 2006-09-25 — Motion by Senator Frist to commit to Senate Committee on the Judiciary to report back forthwith the following amendment (SA 5038) made in Senate. (consideration: CR S10098)
+- 2006-09-25 — Proposed amendment SA 5031 withdrawn in Senate.
+- 2006-09-25 — SA 5032 fell when SA 5031 withdrawn.
+- 2006-09-25 — Senate amendment proposed (on the floor): Amendment SA 5036 proposed by Senator Frist.(consideration: CR S10097)
+- 2006-09-25 — Senate amendment proposed (on the floor): Amendment SA 5037 proposed by Senator Frist to Amendment SA 5036.(consideration: CR S10097; text: CR S10097)
+- 2006-09-25 — Senate amendment proposed (on the floor): Amendment SA 5038 proposed by Senator Frist to the motion to commit.
+- 2006-09-25 — Senate amendment proposed (on the floor): Amendment SA 5039 proposed by Senator Frist to Amendment SA 5038.(consideration: CR S10098; text: CR S10098)
+- 2006-09-25 — Senate amendment proposed (on the floor): Amendment SA 5040 proposed by Senator Frist to Amendment SA 5039.(consideration: CR S10098; text: CR S10098)
+- 2006-09-25 — Senate amendment submitted
+- 2006-09-25 — Senate amendment submitted
+- 2006-09-25 — Senate amendment submitted
+- 2006-09-25 — Senate amendment submitted
+- 2006-09-25 — Senate amendment submitted
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136)
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136)
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136)
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136)
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136)
+- 2006-09-26 — Considered by Senate. (consideration: CR S10136-10152)
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-26 — Senate amendment submitted
+- 2006-09-27 — Cloture motion on SA 5036 withdrawn by unanimous consent in Senate.
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-27 — Senate amendment submitted
+- 2006-09-28 — Cloture invoked in Senate by Yea-Nay Vote. 71 - 28. Record Vote Number: 260. (consideration: CR S10431-10432; text: CR S10431)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432)
+- 2006-09-28 — Considered by Senate. (consideration: CR S10432-10433)
+- 2006-09-28 — Senate amendment submitted
+- 2006-09-28 — Senate amendment submitted
+- 2006-09-29 — Considered by Senate. (consideration: CR S10608-10616)
+- 2006-09-29 — Considered by Senate. (consideration: CR S10609)
+- 2006-09-29 — Considered by Senate. (consideration: CR S10609)
+- 2006-09-29 — Considered by Senate. (consideration: CR S10609)
+- 2006-09-29 — Considered by Senate. (consideration: CR S10609)
+- 2006-09-29 — Considered by Senate. (consideration: CR S10609)
+- 2006-09-29 — Motion by Senator Frist to commit to Senate Committee on the Judiciary withdrawn in Senate by Unanimous Consent.
+- 2006-09-29 — Passed Senate without amendment by Yea-Nay Vote. 80 - 19. Record Vote Number: 262.
+- 2006-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 80 - 19. Record Vote Number: 262.
+- 2006-09-29 — Proposed amendment SA 5036 withdrawn in Senate.
+- 2006-09-29 — SA 5037 fell when SA 5036 withdrawn.
+- 2006-09-29 — SA 5038 fell when motion to commit was withdrawn.
+- 2006-09-29 — SA 5039 fell when SA 5038 fell.
+- 2006-09-29 — SA 5040 fell when SA 5039 fell.
+- 2006-10-23 — Presented to President.
+- 2006-10-23 — Presented to President.
+- 2006-10-26 — Became Public Law No: 109-367.
+- 2006-10-26 — Became Public Law No: 109-367.
+- 2006-10-26 — Signed by President.
+- 2006-10-26 — Signed by President.
