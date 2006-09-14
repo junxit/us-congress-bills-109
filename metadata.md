@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5863
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5863
@@ -29,3 +29,9 @@ To authorize temporary emergency extensions to certain exemptions to the require
 - 2006-07-24 — Introduced in House
 - 2006-07-24 — Introduced in House
 - 2006-07-24 — Referred to the House Committee on Energy and Commerce.
+- 2006-07-26 — Committee Consideration and Mark-up Session Held.
+- 2006-07-26 — Ordered to be Reported by Voice Vote.
+- 2006-08-01 — Referred to the Subcommittee on Environment and Hazardous Materials.
+- 2006-09-14 — Placed on the Union Calendar, Calendar No. 392.
+- 2006-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 109-659.
+- 2006-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 109-659.
