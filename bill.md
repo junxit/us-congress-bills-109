@@ -41,9 +41,10 @@ Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Ac
 
 ## § 4. Northern border study
 
-- **(a)** *In general* The Secretary of Homeland Security shall conduct a study on the construction of a state-of-the-art barrier system along the northern international land and maritime border of the United States and shall include in the study—
-  - **(1)** the necessity of constructing such a system; and
-  - **(2)** the feasibility of constructing such a system.
+- **(a)** *In general* The Secretary of Homeland Security shall conduct a study on the feasibility of a state of-the-art infrastructure security system along the northern international land and maritime border of the United States and shall include in the study—
+  - **(1)** the necessity of implementing such a system;
+  - **(2)** the feasibility of implementing such a system; and
+  - **(3)** the economic impact implementing such a system will have along the northern border.
 - **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains the results of the study conducted under subsection (a).
 
 ## § 5. Evaluation and report relating to Customs authority to stop certain fleeing vehicles
