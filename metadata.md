@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6033
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6033
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 39-25 6
 - Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,15 @@ To designate the facility of the United States Postal Service located at 39-25 6
 - 2006-09-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2006-09-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 450). (text: CR 9/13/2006 H6502)
 - 2006-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 450).(text: CR 9/13/2006 H6502)
+- 2006-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-334.
+- 2006-10-12 — Became Public Law No: 109-334.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
