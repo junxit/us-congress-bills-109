@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1000
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1000
@@ -88,3 +88,6 @@ Providing for earmarking reform in the House of Representatives.
 - 2006-09-13 — Reported (Amended) by the Committee on Rules. H. Rept. 109-655.
 - 2006-09-13 — Reported (Amended) by the Committee on Rules. H. Rept. 109-655.
 - 2006-09-13 — Rules Committee Resolution H. Res. 1003 Reported to House. Rule provides for consideration of H. Res. 1000. Upon the adoption of H. Res. 1003, H. Res. 1000, amended by the amendment in the nature of a substitute recommended by the Committee on Rules now printed in the resolution, will hereby be adopted.
+- 2006-09-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1003, H. Res. 1000 is considered passed House as amended.(consideration: CR H6615-6616; text as passed House: CR H6615-6616)
+- 2006-09-14 — Pursuant to the provisions of H. Res. 1003, H. Res. 1000 is considered passed House as amended. (consideration: CR H6615-6616; text as passed House: CR H6615-6616)
+- 2006-09-14 — Rule H. Res. 1003 passed House.
