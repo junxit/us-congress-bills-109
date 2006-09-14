@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6061
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
