@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6033
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6033
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 39-25 6
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Cosponsors (48)
+## Cosponsors (52)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. King, Peter T. [R-NY-3] (K000210)
@@ -66,6 +66,10 @@ To designate the facility of the United States Postal Service located at 39-25 6
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
 ## Committees (1)
 
@@ -76,3 +80,11 @@ To designate the facility of the United States Postal Service located at 39-25 6
 - 2006-09-06 — Introduced in House
 - 2006-09-06 — Introduced in House
 - 2006-09-06 — Referred to the House Committee on Government Reform.
+- 2006-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Sept. 14.
+- 2006-09-13 — Considered under suspension of the rules. (consideration: CR H6502-6504)
+- 2006-09-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6033.
+- 2006-09-13 — Mr. Davis, Tom moved to suspend the rules and pass the bill.
+- 2006-09-14 — Considered as unfinished business. (consideration: CR H6616)
+- 2006-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 450). (text: CR 9/13/2006 H6502)
+- 2006-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 450).(text: CR 9/13/2006 H6502)
