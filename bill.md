@@ -44,7 +44,7 @@ Section 4124 of title 18, United States Code, is amended to read as follows:
 >   - **(9)** A solicitation for a contract shall first be made to Federal Prison Industries using other than competitive procedures if the product or service to be acquired would otherwise be furnished by a contractor performing the work outside of the United States.
 > - **(c)** *Offers from Federal Prison Industries* (1) A timely offer received from Federal Prison Industries to furnish a product or service to a Federal department or agency shall be considered for award without limitation as to the dollar value of the proposed purchase, unless the contract opportunity has been reserved for competition exclusively among small business concerns pursuant to section 15(a) of the Small Business Act (15 U.S.C. 644(a)) and its implementing regulations.
 >   - **(2)**
->     - **(A)** Any offer made by Federal Prison Industries to furnish a product or service may exclude from the offer the price of the following:
+>     - **(A)** Any offer made by Federal Prison Industries to furnish a product or service may exclude from the offered price the following:
 >       - **(i)** The costs related to security of the facilities at which the contract will be performed.
 >       - **(ii)** The costs of educating and training the prison work force performing the contract.
 >       - **(iii)** Excess capital costs of machinery and excess inventories used within a prison environment that are the result of the unique environment of prison life.
@@ -119,7 +119,7 @@ Section 4122(b) of title 18, United States Code, is amended—
 
 ## § 4. Transitional mandatory source authority
 
-- **(a)** *In general* Notwithstanding the requirements of section 4124 of title 18, United States Code (as amended by section 2 of this Act), a Federal department or agency having a requirement for a product that is authorized for sale by Federal Prison Industries and is listed in its catalog (referred to in section 4124(g) of title 18, United States Code) shall first solicit an offer from Federal Prison Industries and make purchases on a noncompetitive basis in accordance with this section or in accordance with section 2410n of title 10, United States Code, or section 318 of title III of the Federal Property and Administrative Services Act of 1949 (as added by subsection (i)).
+- **(a)** *In general* Notwithstanding the requirements of section 4124 of title 18, United States Code (as amended by section 2 of this Act), a Federal department or agency having a requirement for a product that is authorized for sale by Federal Prison Industries and is listed in its catalog (referred to in section 4124(g) of title 18, United States Code) shall first solicit an offer from Federal Prison Industries and make purchases on a noncompetitive basis in accordance with this section or in accordance with section 2410n of title 10, United States Code, or section 318 of title III of the Federal Property and Administrative Services Act of 1949 (as added by subsection (j)).
 - **(b)** *Preferential source status* Subject to the limitations of subsection (d), a contract award shall be made on a noncompetitive basis to Federal Prison Industries if the contracting officer for the procurement activity determines that—
   - **(1)** the product offered by Federal Prison Industries will meet the requirements of the procurement activity (including commercial or governmental standards or specifications pertaining to design, performance, testing, safety, serviceability, and warranties as may be imposed upon a private sector supplier of the type being offered by Federal Prison Industries);
   - **(2)** timely performance of the contract by Federal Prison Industries can be reasonably expected; and
@@ -130,16 +130,16 @@ Section 4122(b) of title 18, United States Code, is amended—
   - **(2)** *Performance disputes* If the head of the contracting activity and the Chief Operating Officer of Federal Prison Industries are unable to resolve a contract performance dispute to their mutual satisfaction, such dispute shall be resolved pursuant to section 4124(e)(3) of title 18, United States Code (as added by section 2 of this Act).
 - **(e)** *Limitations on use of authority*
   - **(1)** *In general* As a percentage of the sales made by Federal Prison Industries during the base period, the total dollar value of sales to the Government made pursuant to subsection (b) and subsection (c) of this section shall not exceed—
-    - **(A)** 90 percent in fiscal year 2007;
-    - **(B)** 85 percent in fiscal year 2008;
-    - **(C)** 70 percent in fiscal year 2009;
-    - **(D)** 55 percent in fiscal year 2010; and
-    - **(E)** 40 percent in fiscal year 2011.
+    - **(A)** 90 percent in fiscal year 2008;
+    - **(B)** 85 percent in fiscal year 2009;
+    - **(C)** 70 percent in fiscal year 2010;
+    - **(D)** 55 percent in fiscal year 2011; and
+    - **(E)** 40 percent in fiscal year 2012.
   - **(2)** *Sales within various business sectors* Use of the authority provided by subsections (b) and (c) shall not result in sales by Federal Prison Industries to the Government that are in excess of its total sales during the base year for each business sector.
   - **(3)** *Limitations relating to specific products* Use of the authorities provided by subsections (b) and (c) shall not result in contract awards to Federal Prison Industries that are in excess of its total sales during the base period for such product.
   - **(4)** *Changes in design specifications* If a buying agency directs a change to the design specification for a specific product, the costs associated with the implementation of such specification change by Federal Prison Industries shall not be considered for the purposes of computing sales by Federal Prison Industries for the purposes of paragraphs (2) and (3).
 - **(f)** *Additional authority to sustain inmate employment* During the period specified in subsection (g), the authority of section 4122(b)(11)(C)(ii) of title 18, United States Code (as added by section 3), may be used by the Board to sustain inmate employment.
-- **(g)** *Duration of authority* The preferential contracting authorities authorized by subsection (b) may not be used on or after October 1, 2011, and become effective on the effective date of the final regulations issued pursuant to section 17.
+- **(g)** *Duration of authority* The preferential contracting authorities authorized by subsection (b) may not be used on or after October 1, 2012, and become effective on the effective date of the final regulations issued pursuant to section 17.
 - **(h)** *Definitions* For the purposes of this section—
   - **(1)** the term base period means the total sales of Federal Prison Industries during the period October 1, 2003, and September 30, 2004 (Fiscal Year 2004);
   - **(2)** the term business sectors means the seven product/service business groups identified in the 2004 Federal Prison Industries annual report as the Clothing and Textiles Business Group, the Electronics Business Group, the Fleet Management and Vehicular Components Business Group, the Industrial Products Business Group, the Office Furniture Business Group, the Recycling Activities Business Group, and the Services Business Group; and
@@ -215,9 +215,9 @@ Section 4122(b) of title 18, United States Code (as amended by section 3 of this
 ## § 7. Clarifying amendment relating to services
 
 - **(a)** *In general* Section 1761 of title 18, United States Code, is amended in subsection (a) and (c) by striking “goods, wares, or merchandise manufactured, produced, or mined” each place it appears and inserting “products manufactured, services furnished, or minerals mined”.
-- **(b)** *Completion of existing agreements* Any prisoner work program operated by a prison or jail of a State or local jurisdiction of a State which is providing services for the commercial market through inmate labor on October 1, 2004, may continue to provide such commercial services until—
-  - **(1)** the expiration date specified in the contract or other agreement with a commercial partner on October 1, 2004, or
-  - **(2)** until September 30, 2010, if the prison work program is directly furnishing the services to the commercial market.
+- **(b)** *Completion of existing agreements* Any prisoner work program operated by a prison or jail of a State or local jurisdiction of a State which is providing services for the commercial market through inmate labor on October 1, 2006, may continue to provide such commercial services until—
+  - **(1)** the expiration date specified in the contract or other agreement with a commercial partner on October 1, 2006, or
+  - **(2)** until September 30, 2011, if the prison work program is directly furnishing the services to the commercial market.
 - **(c)** *Approval required for long-term operation* A prison work program operated by a correctional institution operated by a State or local jurisdiction of a State may continue to provide inmate labor to furnish services for sale in the commercial market after the dates specified in subsection (b) if such program has been certified pursuant to section 1761(c)(1) of title 18, United States Code, and is in compliance with the requirements of such subsection and its implementing regulations.
 - **(d)** *Existing work opportunities for federal inmates* Any private for-profit business entity having an agreement with Federal Prison Industries in effect on the date of enactment of this Act, under which Federal inmates are furnishing services that are being introduced into the commercial market, may continue to furnish such services for the duration of the term of such agreement.
 - **(e)** *Additional amendment* Section 1761 of title 18, United States Code, is further amended—
@@ -252,7 +252,7 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
     - **(B)** a full range of educational opportunities;
     - **(C)** vocational training and apprenticeships; and
     - **(D)** comprehensive release-readiness preparation.
-  - **(3)** *Authorization of appropriations* For the purposes of carrying out the program established by paragraph (1), $75,000,000 is authorized for each fiscal year after fiscal year 2008, to remain available until expended. It is the sense of Congress that Federal Prison Industries should use some of its net earnings to accomplish the purposes of the program.
+  - **(3)** *Authorization of appropriations* For the purposes of carrying out the program established by paragraph (1), $75,000,000 is authorized for each fiscal year after fiscal year 2007, to remain available until expended. It is the sense of Congress that Federal Prison Industries should use some of its net earnings to accomplish the purposes of the program.
   - **(4)** *Schedule for implementation* All components of the program shall be established—
     - **(A)** in at least 25 percent of all Federal prisons not later than 2 years after the date of the enactment of this Act;
     - **(B)** in at least 50 percent of all Federal prisons not later than 4 years after such date of enactment;
@@ -338,7 +338,7 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
 ## § 11. Re-entry employment preparation through work-based training and apprenticeship
 
 - **(a)** *In General* Chapter 307 of title 18, United States Code, is further amended by inserting after section 4124a, as added by section 10(b), the following new section:
-  > ## § 4124b. Re-entry employment preparation through work-based training and apprenticeship.
+  > ## § 4124b. Re-entry employment preparation through work-based training and apprenticeship
   >
   > - **(a)** *Participation authorized* A private for-profit business entity shall be an eligible entity for participation in the program authorized by section 4124a of this title, if such participation conforms with the requirements and limitations of this section.
   > - **(b)** *Requirements relating to products and services* A private for-profit business entity is eligible for such participation if such business entity proposes to train participating inmates, pursuant to subsection (c), by producing a product or performing a service, if such product or service is of a type for which there is no production or performance within the United States by noninmate workers.
@@ -347,7 +347,7 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
   >   - **(2)** *Documentation of program participation*
   >     - **(A)** Each inmate who successfully completes participation in training undertaken pursuant to this section shall be provided a certificate or other written document memorializing such successful completion, providing a marketable summary of the skills learned and an overall assessment of performance.
   >     - **(B)** Copies of such documents shall be furnished to perspective employers upon the request of the participant for a period of not less than 24 months from the date of such participant’s release from incarceration.
-  >   - **(3)** *Documents required for employment* The Federal Bureau of Prisons, in cooperation with a business entity providing an inmate work-based training at the time of his or her scheduled release, shall make every reasonable effort to help the inmate timely obtain such documentation (including a State government-issued photo identification card) as a person may be required to provide to a prospective employer, after such person completes an Employment Eligibility Verification (ICE Form I-9).
+  >   - **(3)** *Documents required for employment* The Federal Bureau of Prisons, in cooperation with a business entity providing an inmate work-based training at the time of his or her scheduled release, shall make every reasonable effort to help the inmate timely obtain such documentation (including a State government-issued photo identification card) as a person may be required to provide to a prospective employer, after such person completes an Employment Eligibility Verification (ICE Form I–9).
   > - **(d)** *Wage rates*
   >   - **(1)** *In general* Business entities participating in the program authorized by subsection (a) shall propose wages for inmates participating in the program at rates not less than the inmate training wage promulgated pursuant to section 17(c) of the Federal Prison Industries Competition in Contracting Act of 2006.
   >   - **(2)** *Inmate training wage* Not more than 30 days after the date of enactment of this section, the Board of Directors of Federal Prison Industries shall request the Secretary of Labor to promulgate an inmate training wage pursuant to section 14(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(a)).
@@ -360,7 +360,7 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
   >   - **(2)** not approve any agreement with respect to furnishing services of the type described in section 4122(b)(6)(D)(iii) of this title;
   >   - **(3)** not approve any agreement with respect to furnishing construction services described in section 4122(b)(6)(D)(iv) of this title, unless to be performed within a Federal correctional institution;
   >   - **(4)** not approve an agreement that does not meet the standards of subsection (b); and
-  >   - **(5)** request a determination from the International Trade Commission (and such other executive branch entities as may be appropriate), regarding whether a product or service is of the type being produced or performed in the United States by noninmate workers, whenever the Board determines that such an additional assessment is warranted, including upon a request from an interested party presenting information that the Board deems to warrant such additional assessment prior to the Board’s consideration of the proposed agreement.
+  >   - **(5)** request a determination from the Department of Commerce (and such other executive branch entities as may be appropriate), regarding whether a product or service is of the type being produced or performed in the United States by noninmate workers, whenever the Board determines that such an additional assessment is warranted, including upon a request from an interested party presenting information that the Board deems to warrant such additional assessment prior to the Board’s consideration of the proposed agreement.
   > - **(g)** *Limitations on the use of the authority*
   >   - **(1)** *No sales by federal prison industries* Federal Prison Industries is prohibited from directly offering for commercial sale products produced or services furnished by Federal inmates, including through any form of electronic commerce.
   >   - **(2)** *Duration*
@@ -397,9 +397,9 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
   - **(4)** *Reports and recommendations*
     - **(A)** *In general* The Comptroller General shall submit to the Congress in accordance with this subsection two interim reports and a final report of the assessment of implementation of the new authority, including such recommendations as the Comptroller General may deem appropriate.
     - **(B)** *Interim reports* The two interim reports shall encompass the assessment of the implementation of the new authority—
-      - **(i)** from the effective date of the authority through the end of fiscal year 2007; and
-      - **(ii)** from the effective date of the authority through the end of fiscal year 2010.
-    - **(C)** *Final report* The final report shall assess the implementation of the new authority from the effective date of the authority through the end of fiscal year 2013.
+      - **(i)** from the effective date of the authority through the end of fiscal year 2009; and
+      - **(ii)** from the effective date of the authority through the end of fiscal year 2012.
+    - **(C)** *Final report* The final report shall assess the implementation of the new authority from the effective date of the authority through the end of fiscal year 2014.
     - **(D)** *Submission to congress* The Comptroller General shall submit the reports required by this paragraph within 6 months after the end of the fiscal years referred to in subparagraphs (B) and (C).
 - **(d)** *Conforming amendment* Section 1761 of title 18, United States Code, as amended by section 7, is further amended—
   - **(1)** by redesignating subsection (e) as subsection (f); and
@@ -438,14 +438,17 @@ Chapter 307 of title 18, United States Code, is further amended by adding at the
   - **(1)** the date on which the President has appointed at least 6 members of the Board and designated a new Chairman, pursuant to section 4121 of title 18, United States Code (as added by section 12(a) of this Act); or
   - **(2)** the date that is 365 days after the date of enactment of this Act.
 
-## § 13. Providing additional management flexibility to Federal Prison Industries operations
+## § 13. Management matters
 
-Section 4122(b)(3) of title 18, United States Code, is amended—
+- **(a)** *Additional flexibilities* Section 4122(b)(3) of title 18, United States Code, is amended—
+  - **(1)** by striking “(3)” and inserting “(3)(A)”; and
+  - **(2)** by adding at the end the following new paragraphs:
+    > - **(B)** Federal Prison Industries may locate more than one workshop at a Federal correctional facility.
+    > - **(C)** Federal Prison Industries may operate a workshop outside of a correctional facility if all of the inmates working in such workshop are classified as minimum security inmates.
 
-- **(1)** by striking “(3)” and inserting “(3)(A)”; and
-- **(2)** by adding at the end the following new paragraphs:
-  > - **(B)** Federal Prison Industries may locate more than one workshop at a Federal correctional facility.
-  > - **(C)** Federal Prison Industries may operate a workshop outside of a correctional facility if all of the inmates working in such workshop are classified as minimum security inmates.
+- **(b)** *Cost Accounting system*
+  - **(1)** *Establishment* Federal Prison Industries shall establish a cost accounting system that meets the requirements of part 30 (Cost Accounting Standards Administration) of the Federal Acquisition Regulation (48 C.F.R. part 30). The compliance of the cost accounting system with such standards shall be annually verified as part of the independent audit of Federal Prison Industries, Inc., pursuant to section 9106(b) of title 31, United States Code.
+  - **(2)** *Application of related provision* Section 4124(c)(2) of title 18, United States Code, shall apply when Federal Prison Industries has been found to have a complaint cost accounting system pursuant to paragraph (1).
 
 ## § 14. Transitional personnel management authority
 

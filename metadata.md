@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2965
@@ -131,3 +131,42 @@ Federal Prison Industries Competition in Contracting Act of 2006
 - 2006-07-21 — Placed on the Union Calendar, Calendar No. 342.
 - 2006-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-591.
 - 2006-07-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-591.
+- 2006-09-12 — Rules Committee Resolution H. Res. 997 Reported to House. Rule provides for consideration of H.R. 2965 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill.
+- 2006-09-13 — Rule H. Res. 997 passed House.
+- 2006-09-14 — Amendment (A001) offered by Mr. Sensenbrenner. (consideration: CR H6575-6576; text: CR H6575)
+- 2006-09-14 — Amendment (A002) offered by Mr. Scott (VA). (consideration: CR H6576-6577, H6578; text: CR H6576)
+- 2006-09-14 — Amendment (A003) offered by Mr. Scott (VA). (consideration: CR H6577-6578, H6578-6579; text: CR H6577)
+- 2006-09-14 — Amendment agreed to Committee of the Whole
+- 2006-09-14 — Amendment failed in Committee of the Whole
+- 2006-09-14 — Amendment failed in Committee of the Whole
+- 2006-09-14 — Considered under the provisions of rule H. Res. 997. (consideration: CR H6561-6580; text of measure as reported in House: CR H6567-6575)
+- 2006-09-14 — DEBATE - Pursuant to the provisions of H. Res. 997, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment.
+- 2006-09-14 — DEBATE - Pursuant to the provisions of H. Res. 997, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment.
+- 2006-09-14 — DEBATE - Pursuant to the provisions of H. Res. 997, the Committee of the Whole proceeded with 10 minutes of debate on the Sensenbrenner amendment.
+- 2006-09-14 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2965.
+- 2006-09-14 — House amendment agreed to: On agreeing to the Sensenbrenner amendment (A001) Agreed to by voice vote.
+- 2006-09-14 — House amendment not agreed to: On agreeing to the Scott (VA) amendment (A002) Failed by recorded vote: 77 - 339 (Roll no. 441).
+- 2006-09-14 — House amendment not agreed to: On agreeing to the Scott (VA) amendment (A003) Failed by recorded vote: 80 - 332 (Roll no. 442).
+- 2006-09-14 — House amendment offered
+- 2006-09-14 — House amendment offered
+- 2006-09-14 — House amendment offered
+- 2006-09-14 — House amendment offered/reported by : Amendment (A001) offered by Mr. Sensenbrenner.(consideration: CR H6575-6576; text: CR H6575)
+- 2006-09-14 — House amendment offered/reported by : Amendment (A002) offered by Mr. Scott (VA).(consideration: CR H6576-6577, H6578; text: CR H6576)
+- 2006-09-14 — House amendment offered/reported by : Amendment (A003) offered by Mr. Scott (VA).(consideration: CR H6577-6578, H6578-6579; text: CR H6577)
+- 2006-09-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 997 and Rule XVIII.
+- 2006-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-14 — On agreeing to the Scott (VA) amendment (A002) Failed by recorded vote: 77 - 339 (Roll no. 441).
+- 2006-09-14 — On agreeing to the Scott (VA) amendment (A003) Failed by recorded vote: 80 - 332 (Roll no. 442).
+- 2006-09-14 — On agreeing to the Sensenbrenner amendment (A001) Agreed to by voice vote.
+- 2006-09-14 — On passage Passed by the Yeas and Nays: 362 - 57 (Roll no. 443).
+- 2006-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment #2, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-09-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment #5, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2006-09-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 362 - 57 (Roll no. 443).
+- 2006-09-14 — Roll call votes on amendments in House
+- 2006-09-14 — Roll call votes on amendments in House
+- 2006-09-14 — Rule provides for consideration of H.R. 2965 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill.
+- 2006-09-14 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2006-09-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2965.
+- 2006-09-14 — The Speaker designated the Honorable John Boozman to act as Chairman of the Committee.
+- 2006-09-14 — The previous question was ordered pursuant to the rule. (consideration: CR H6579)
+- 2006-09-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
