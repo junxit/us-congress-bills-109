@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5811
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5811
@@ -31,3 +31,10 @@ MARPOL Annex VI Implementation Act of 2006
 - 2006-07-17 — Introduced in House
 - 2006-07-17 — Introduced in House
 - 2006-07-17 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-07-18 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2006-07-19 — Committee Consideration and Mark-up Session Held.
+- 2006-07-19 — Ordered to be Reported (Amended).
+- 2006-07-19 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2006-09-19 — Placed on the Union Calendar, Calendar No. 398.
+- 2006-09-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-667.
+- 2006-09-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 109-667.
