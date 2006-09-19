@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5811
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 3 executed, 21 stated and not applied.
+27 amendatory instructions. 3 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,22 +60,25 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1901` | redesignate | by redesignating the paragraphs (1) through (12) in order as paragraphs (2) through (13); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1901` | redesignate | by redesignating the paragraphs (1) through (12) as paragraphs (2) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1901` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1902` | add-at-end | in subsection (a) by striking “and” after the semicolon at the end of paragraph (3), by striking the period at the end of paragraph (4) and inserting “; and”, and by adding at the end the following new paragraph: | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `33 U.S.C. § 1902` | strike | by striking “and” after the semicolon at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1902` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1902` | add-at-end | and by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | insert | in subsection (b)(1) by inserting “or (3)” after “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1902` | add-at-end | in subsection (b) by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1902` | insert | by inserting “(or the applicable Annex)” after “MARPOL Protocol” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1902` | insert | by inserting “, or the Administrator as authorized by section 4,” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1902` | insert | by inserting “(or an applicable Annex)” after “MARPOL Protocol” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1902` | insert | by inserting “and Annex VI” after “Annex V”. | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1903` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1903` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1903` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7401` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1904` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating paragraph (2) as paragraph (4); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 7401` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1904` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1904` | insert | in subsection (e) by inserting “or the public health or welfare” after “marine environment”. | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | in subsection (a) by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c)(2)(A) by inserting “or (a)(3)” after “subsection (a)(2)”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (e)(2) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (e)(2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f)(1) by striking “MARPOL Protocol or the Antarctic Protocol” and inserting “MARPOL Protocol, the Antarctic Protocol, or this Act”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1907` | amend | Section 8(f) (33 U.S.C. 1907(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 10(b) (33 U.S.C. 1909(b)) is amended by striking “Annex I, II, or V” and by inserting “Annex I, II, V, or VI”. | the bill names no machine-readable US Code section |
