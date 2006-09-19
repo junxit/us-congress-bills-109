@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 386
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 386
@@ -67,3 +67,10 @@ Honoring Mary Eliza Mahoney, America's first professionally trained African-Amer
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Introduced in House
 - 2006-04-06 — Referred to the House Committee on Energy and Commerce.
+- 2006-04-19 — Referred to the Subcommittee on Health.
+- 2006-09-19 — Considered under suspension of the rules. (consideration: CR H6673-6674)
+- 2006-09-19 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 386.
+- 2006-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-19 — Mr. Deal (GA) moved to suspend the rules and agree to the resolution, as amended.
+- 2006-09-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6673)
+- 2006-09-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6673)

@@ -21,7 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Mary Eliza Mahoney’s gravesite is in Woodlawn Cemetery, Everett, Massachusetts, and the headstone on her grave states, “The First Professional Negro Nurse in the U.S.A.”;
 - Whereas Mary Eliza Mahoney was inducted into the American Nurses Association Hall of Fame in 1976;
 - Whereas Mary Eliza Mahoney advanced the nursing profession by fostering high standards of nursing practice and confronting issues affecting professional nurses, such as the shortage of nurses;
-- Whereas today the shortage of nurses is a crisis, estimated to be 110,000 nurses, and is expected to increase to 2,800,000 by 2020 if the shortage is not addressed; and
+- Whereas today the shortage of nurses is a crisis, estimated to be 110,000 nurses, and is expected to increase to 2,800,000 by 2020 if this trend continues; and
 - Whereas nursing is a critical investment to the delivery of high-quality, cost-effective patient care, and the Nation should invest in and value nursing care: Now, therefore, be it
 
 That the Congress—
@@ -30,4 +30,4 @@ That the Congress—
 - **(2)** recognizes Mary Eliza Mahoney as the first professionally trained African-American nurse, and honors other African-American nurses who practice nursing with distinction;
 - **(3)** honors and supports the goals and activities of National Nurses Week;
 - **(4)** promotes further understanding and public awareness of the history of American nurses, who practiced nursing with compassion and devotion and transmitted new scientific knowledge using science-based nursing practice; and
-- **(5)** advocates for women of color to enter nursing and supports the strategies of the American Nurses Association to counteract the shortage of nurses.
+- **(5)** advocates for women of color to enter nursing and supports strategies to counteract the shortage of nurses.
