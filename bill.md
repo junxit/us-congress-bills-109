@@ -1,13 +1,13 @@
 ---
 legis-num: H. CON. RES. 210
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. CON. RES. 210
 
-> Supporting the goal of eliminating suffering and death due to cancer by the year 2015.
+> Supporting the goal of eliminating suffering and death due cancer by the year 2015.
 
 ## Preamble
 
@@ -19,6 +19,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas cancer touches almost every family, with over 10,000,000 Americans now living with a history of cancer;
 - Whereas at least half of all cancer deaths could be prevented by applying existing knowledge;
 - Whereas the Director of the National Cancer Institute has set a bold goal to eliminate suffering and death due to cancer by 2015; and
-- Whereas eliminating suffering and death due to cancer will require a commitment by the Congress to continue to make the fight against cancer a priority: Now, therefore, be it
+- Whereas eliminating suffering and death due to cancer will require a commitment by the Congress and the private sector to continue to make the fight against cancer a priority: Now, therefore, be it
 
 That the Congress supports the goal of eliminating suffering and death due to cancer by 2015.
