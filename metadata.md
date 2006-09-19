@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4583
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4583
@@ -37,3 +37,9 @@ Wool Suit Fabric Labeling Fairness and International Standards Conforming Act
 - 2006-09-08 — Placed on the Union Calendar, Calendar No. 383.
 - 2006-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-644.
 - 2006-09-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-644.
+- 2006-09-19 — Considered under suspension of the rules. (consideration: CR H6664-6666)
+- 2006-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4583.
+- 2006-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-19 — Mr. Stearns moved to suspend the rules and pass the bill, as amended.
+- 2006-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6664-6665)
+- 2006-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6664-6665)
