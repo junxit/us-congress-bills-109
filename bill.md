@@ -2,23 +2,23 @@
 legis-num: H. RES. 874
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 874
 
-> Recognizing and honoring America’s Seniors.
+> Recognizing and honoring America's Seniors.
 
 ## Preamble
 
-- Whereas our seniors have made countless sacrifices and contributions to helping make America great;
-- Whereas our seniors include members of the “Greatest Generation” who fought in World War I, World War II, the Korean War, and other military conflicts, and have sacrificed at home and abroad to help keep America free;
-- Whereas in much of the world throughout known history the elderly have been viewed with respect, honor, and dignity as sources of wisdom and experience;
-- Whereas it is appropriate that the Nation honor the significant accomplishments, too numerous to list here, of our “senior citizens”; and
-- Whereas our seniors deserve our support for the retirement with dignity and with adequate medical care: Now, therefore, be it
+- Whereas older Americans have made countless contributions to the strength of the United States;
+- Whereas older Americans include members of the “Greatest Generation” who fought in World War I, World War II, the Korean War, and other military conflicts, and have sacrificed at home and abroad to keep America free;
+- Whereas in the United States and much of the world, older individuals throughout history have been viewed with respect, honor, and dignity as sources of wisdom and experience;
+- Whereas this year the first of the “baby boom” generation turn age 60, adding to the 49 million Americans who are age 60 or older, including over 5 million who are older than age 85; and
+- Whereas the talent and experience of older Americans can be utilized to meet community needs in critical areas such as education, health, community-based and faith-based social services, and homeland security: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** recognizes the importance of honoring our Nation’s senior citizens;
-- **(2)** encourages children and students in the United States to set aside time to listen and learn from senior citizens and to read about their many contributions to America; and
-- **(3)** urges all Americans to honor the service of our seniors by saying thank you to them, by showing them respect, and by wishing them well.
+- **(1)** recognizes the importance of older Americans to the Nation's past and future;
+- **(2)** encourages multigenerational activities providing opportunities for children and students to listen and learn from older Americans; and
+- **(3)** urges all Americans to honor and respect older Americans, and to offer appreciation for their contributions to the strength of the United States.
