@@ -17,24 +17,24 @@ This Act may be cited as the “Wool Suit Fabric Labeling Fairness and Internati
 
 - **(a)** *In general* Section 4(a) of the Wool Products Labeling Act of 1939 (15 U.S.C. 68b(a)) is amended by adding at the end the following new paragraphs:
   > - **(5)** In the case of a wool product stamped, tagged, labeled, or otherwise identified as—
-  >   - **(A)** “Super 80’s” or “80’s”, if the average diameter of wool fiber of such wool product does not average 19.5 microns or finer;
-  >   - **(B)** “Super 90’s” or “90’s”, if the average diameter of wool fiber of such wool product does not average 19.0 microns or finer;
-  >   - **(C)** “Super 100’s” or “100’s”, if the average diameter of wool fiber of such wool product does not average 18.5 microns or finer;
-  >   - **(D)** “Super 110’s” or “110’s”, if the average diameter of wool fiber of such wool product does not average 18.0 microns or finer;
-  >   - **(E)** “Super 120’s” or “120’s”, if the average diameter of wool fiber of such wool product does not average 17.5 microns or finer;
-  >   - **(F)** “Super 130’s” or “130’s”, if the average diameter of wool fiber of such wool product does not average 17.0 microns or finer;
-  >   - **(G)** “Super 140’s” or “140’s”, if the average diameter of wool fiber of such wool product does not average 16.5 microns or finer;
-  >   - **(H)** “Super 150’s” or “150’s”, if the average diameter of wool fiber of such wool product does not average 16.0 microns or finer;
-  >   - **(I)** “Super 160’s” or “160’s”, if the average diameter of wool fiber of such wool product does not average 15.5 microns or finer;
-  >   - **(J)** “Super 170’s” or “170’s”, if the average diameter of wool fiber of such wool product does not average 15.0 microns or finer;
-  >   - **(K)** “Super 180’s” or “180’s”, if the average diameter of wool fiber of such wool product does not average 14.5 microns or finer;
-  >   - **(L)** “Super 190’s” or “190’s”, if the average diameter of wool fiber of such wool product does not average 14.0 microns or finer;
-  >   - **(M)** “Super 200’s” or “200’s”, if the average diameter of wool fiber of such wool product does not average 13.5 microns or finer;
-  >   - **(N)** “Super 210’s” or “210’s”, if the average diameter of wool fiber of such wool product does not average 13.0 microns or finer;
-  >   - **(O)** “Super 220’s” or “220’s”, if the average diameter of wool fiber of such wool product does not average 12.5 microns or finer;
-  >   - **(P)** “Super 230’s” or “230’s”, if the average diameter of wool fiber of such wool product does not average 12.0 microns or finer;
-  >   - **(Q)** “Super 240’s” or “240’s”, if the average diameter of wool fiber of such wool product does not average 11.5 microns or finer; and
-  >   - **(R)** “Super 250’s” or “250’s”, if the average diameter of wool fiber of such wool product does not average 11.0 microns or finer.
+  >   - **(A)** “Super 80’s” or “80’s”, if the average diameter of wool fiber of such wool product does not average 19.75 microns or finer;
+  >   - **(B)** “Super 90’s” or “90’s”, if the average diameter of wool fiber of such wool product does not average 19.25 microns or finer;
+  >   - **(C)** “Super 100’s” or “100’s”, if the average diameter of wool fiber of such wool product does not average 18.75 microns or finer;
+  >   - **(D)** “Super 110’s” or “110’s”, if the average diameter of wool fiber of such wool product does not average 18.25 microns or finer;
+  >   - **(E)** “Super 120’s” or “120’s”, if the average diameter of wool fiber of such wool product does not average 17.75 microns or finer;
+  >   - **(F)** “Super 130’s” or “130’s”, if the average diameter of wool fiber of such wool product does not average 17.25 microns or finer;
+  >   - **(G)** “Super 140’s” or “140’s”, if the average diameter of wool fiber of such wool product does not average 16.75 microns or finer;
+  >   - **(H)** “Super 150’s” or “150’s”, if the average diameter of wool fiber of such wool product does not average 16.25 microns or finer;
+  >   - **(I)** “Super 160’s” or “160’s”, if the average diameter of wool fiber of such wool product does not average 15.75 microns or finer;
+  >   - **(J)** “Super 170’s” or “170’s”, if the average diameter of wool fiber of such wool product does not average 15.25 microns or finer;
+  >   - **(K)** “Super 180’s” or “180’s”, if the average diameter of wool fiber of such wool product does not average 14.75 microns or finer;
+  >   - **(L)** “Super 190’s” or “190’s”, if the average diameter of wool fiber of such wool product does not average 14.25 microns or finer;
+  >   - **(M)** “Super 200’s” or “200’s”, if the average diameter of wool fiber of such wool product does not average 13.75 microns or finer;
+  >   - **(N)** “Super 210’s” or “210’s”, if the average diameter of wool fiber of such wool product does not average 13.25 microns or finer;
+  >   - **(O)** “Super 220’s” or “220’s”, if the average diameter of wool fiber of such wool product does not average 12.75 microns or finer;
+  >   - **(P)** “Super 230’s” or “230’s”, if the average diameter of wool fiber of such wool product does not average 12.25 microns or finer;
+  >   - **(Q)** “Super 240’s” or “240’s”, if the average diameter of wool fiber of such wool product does not average 11.75 microns or finer; and
+  >   - **(R)** “Super 250’s” or “250’s”, if the average diameter of wool fiber of such wool product does not average 11.25 microns or finer.
   > - **(6)** In the case of a wool product stamped, tagged, labeled, or otherwise identified as cashmere, if—
   >   - **(A)** such wool product is not the fine (dehaired) undercoat fibers produced by a cashmere goat (capra hircus laniger);
   >   - **(B)** the average diameter of the fiber of such wool product exceeds 19 microns; or
