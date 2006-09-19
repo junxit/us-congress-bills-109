@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 317
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,8 +15,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas grave global challenges in the year 2006 may require cooperation and innovative problem-solving among citizens and nations on an even greater scale;
 - Whereas, on December 15, 2000, Congress adopted Senate Concurrent Resolution 138, expressing the sense of Congress that the President of the United States should issue a proclamation each year calling upon the people of the United States and interested organizations to observe an international day of peace and sharing at the beginning of each year;
 - Whereas, in 2001, the United Nations General Assembly adopted Resolution 56/2, which invited “Member States, intergovernmental and non-governmental organizations and all the peoples of the world to celebrate One Day in Peace, 1 January 2002, and every year thereafter”;
-- Whereas many foreign heads of state have recognized the importance of establishing Global Family Day, a special day of international unity, peace, and sharing, on the first day of each year;
-- Whereas Congress desires to express and demonstrate its appreciation to the citizens of the more than 100 countries who offered aid to United States hurricane victims, to make tangible efforts to reverse the growing mistrust of the United States, and to improve relations with others; and
+- Whereas many foreign heads of state have recognized the importance of establishing Global Family Day, a special day of international unity, peace, and sharing, on the first day of each year; and
 - Whereas family is the basic structure of humanity, thus, we must all look to the stability and love within our individual families to create stability in the global community: Now, therefore, be it
 
 That Congress urgently requests the following:
