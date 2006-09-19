@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4583
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4583
@@ -22,9 +22,10 @@ Wool Suit Fabric Labeling Fairness and International Standards Conforming Act
 - Rep. Simmons, Rob [R-CT-2] (S001152)
 - Rep. Marshall, Jim [D-GA-3] (M001146)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,15 @@ Wool Suit Fabric Labeling Fairness and International Standards Conforming Act
 - 2006-09-19 — Mr. Stearns moved to suspend the rules and pass the bill, as amended.
 - 2006-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6664-6665)
 - 2006-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6664-6665)
+- 2006-09-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11385)
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11385)
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-428.
+- 2006-12-20 — Became Public Law No: 109-428.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.
