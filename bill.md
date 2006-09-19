@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 415
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 415
@@ -12,7 +12,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas during the establishment of the Socialist Republic of Vietnam as a 1-party state ruled and controlled by the Vietnamese Communist Party, uncompensated confiscation of real and personal property from Vietnamese citizens was a widespread occurrence;
-- Whereas the Government of the Socialist Republic of Vietnam continues to use the confiscation of land as a tool of repression against certain ethnic minorities, such as the Montagnards of the Central Highlands region;
 - Whereas Article 23 of the Constitution of the Socialist Republic of Vietnam provides that “[t]he lawful property of individuals and organizations shall not be nationalized”;
 - Whereas according to the Department of State, more work is necessary to adequately protect property rights in Vietnam; and
 - Whereas the people of the United States are firmly committed to freedom, democracy, and basic human rights for the citizens of the Socialist Republic of Vietnam: Now, therefore, be it
@@ -20,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That—
 
 - **(1)** The House of Representatives—
-  - **(A)** welcomes recent attempts by the Government of the Socialist Republic of Vietnam to establish private land use rights for some of its citizens, and hopes that these rights are quickly expanded to encompass all Vietnamese citizens;
+  - **(A)** welcomes recent attempts by the Government of the Socialist Republic of Vietnam to establish private land use rights for its citizens, and hopes that these rights are quickly expanded to encompass all Vietnamese citizens;
   - **(B)** calls on the Government of the Socialist Republic of Vietnam to more fully recognize its responsibility to provide equitable, prompt, and fair restitution of property that was confiscated by the government;
   - **(C)** calls on the Government of the Socialist Republic of Vietnam to direct local officials, particularly in the Central Highlands region, to promptly investigate and resolve complaints about discriminatory and uncompensated confiscation of land;
   - **(D)** urges the Government of the Socialist Republic of Vietnam to form a national commission for processing restitution claims, and to obligate local government officials, bodies, and agencies to provide all necessary documentation and cooperation to facilitate the implementation of decisions issued by the national commission; and
