@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5622
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 2 executed, 16 stated and not applied.
+15 amendatory instructions. 2 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 16 U.S.C. § 6408
 
-> by striking “$1,000,000” in subsection (b) and inserting “$2,000,000”; and
+> by striking “$1,000,000” in subsection (b) and inserting “$2,000,000”;
 
 | | |
 |---|---|
@@ -57,13 +57,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 6403` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6404` | amend | Section 206 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6404) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6407` | amend | Section 208 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6407) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | replace | The table of contents for the Coral Reef Conservation Act of 2000 (16 U.S.C. 6401 et seq.) is amended by striking the item relating to section 208 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6404` | replace | by striking “organization solely” and all that follows in section 205(a) (16 U.S.C. 6404(a)) and inserting “organization— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6404` | amend | by adding at the end of section 205(b) 16 U.S.C. 6404(b)) “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response actions under sect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6404` | redesignate | by redesignating sections 209 and 210 as sections 212 and 213, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6404` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | redesignate | by redesignating the items relating to sections 208 through 211 as relating to sections 211 through 214; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | insert | by inserting the following after the item relating to section 207: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6404` | add-at-end | by adding at the end of section 205(b) (16 U.S.C. 6404(b)) the following: “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response ac… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6401` | redesignate | by redesignating sections 209 and 210 as sections 212 and 213, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6401` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6408` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6408` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6408` | strike | by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
