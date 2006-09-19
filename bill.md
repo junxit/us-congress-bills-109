@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 622
 congress: 109th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 622
@@ -20,4 +20,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas on July 26, 2001, President George W. Bush, in his greetings to the Filipino World War II veterans said, “More than 120,000 Filipinos fought with unwavering loyalty and great gallantry under the command of General Douglas MacArthur. The combined United States-Philippine forces distinguished themselves by their valor and heroism in defense of freedom and democracy. Thousands of Filipino soldiers gave their lives in the battles of Bataan and Corregidor. These soldiers won for the United States the precious time needed to disrupt the enemy’s plan for conquest in the Pacific. During the three long years following these battles, the Filipino people valiantly resisted a brutal Japanese occupation with an indomitable spirit and steadfast loyalty to America.”; and
 - Whereas the contributions of the Filipino people, and the sacrifices of their soldiers in World War II, have not been fully recognized: Now, therefore, be it
 
-That the House of Representatives reaffirms, recognizes, and honors the Filipino World War II veterans for their defense of American democracy and their important contribution to the victorious outcome of World War II.
+That the House of Representatives recognizes and honors Filipino World War II veterans for their important contributions to the victorious outcome of World War II, including their valiant fight for the liberation of their homeland and their defense of democratic ideals.
