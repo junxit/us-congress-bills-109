@@ -11,49 +11,48 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Election Integrity Act of 2006”.
+This Act may be cited as the “Federal Election Integrity Act of 2006” .
 
-## § 2. Requiring Proof of Citizenship to Accompany Application For Voter Registration
+## § 2. Requiring Voters to Provide Photo Identification
 
-- **(a)** *Application Provided With Motor Vehicle License Application* Section 5(c)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–3(c)(2)) is amended—
-  - **(1)** in subparagraph (B), by striking “may require” and inserting “in addition to the information required under subparagraph (E), may require”;
-  - **(2)** by striking “and” at the end of subparagraph (D);
-  - **(3)** by redesignating subparagraph (E) as subparagraph (F); and
-  - **(4)** by inserting after subparagraph (D) the following new subparagraph:
-    > - **(E)** shall require the applicant to provide a photographic copy of any document which provides proof that the applicant is a citizen of the United States, in accordance with guidelines established by the Election Administration Commission in consultation with the Secretary of Homeland Security and the Secretary of State.
-
-- **(b)** *Mail-in Form* Section 9(b) of such Act (42 U.S.C. 1973gg–7(b)) is amended—
-  - **(1)** in paragraph (1), by striking “may require” and inserting “consistent with paragraph (5), may require”;
-  - **(2)** by striking “and” at the end of paragraph (3);
-  - **(3)** by striking the period at the end of paragraph (4) and inserting “; and”; and
-  - **(4)** by adding at the end the following new paragraph:
-    > - **(5)** shall require the applicant to provide a photographic copy of any document which provides proof that the applicant is a citizen of the United States, in accordance with guidelines established by the Election Administration Commission in consultation with the Secretary of Homeland Security and the Secretary of State.
-
-- **(c)** *Special Rules For States Without Registration Requirement and States Permitting Same-Day Registration*
-  - **(1)** *In general* Section 8 of such Act (42 U.S.C. 1973gg–6) is amended—
-    - **(A)** by redesignating subsection (j) as subsection (k); and
-    - **(B)** by inserting after subsection (i) the following new subsection:
-      > - **(j)** *Requirement for Proof of Citizenship in States Without Registration Requirement and States Permitting Same-Day Registration*
-      >   - **(1)** *States without registration requirement* In the case of a State described in section 4(b)(1), the appropriate State or local election official may not provide any individual with a ballot for an election for Federal office (including an absentee ballot) unless the individual provides the official with a photographic copy of any document which provides proof that the individual is a citizen of the United States, in accordance with guidelines established by the Election Administration Commission in consultation with the Secretary of Homeland Security and the Secretary of State.
-      >   - **(2)** *States permitting same-day registration* In the case of a State described in section 4(b)(2), the appropriate State or local election official may not permit any individual to register to vote in an election for Federal office (including an individual who desires to register to vote at the polling place at the time of voting in the election) unless the individual provides the official with a photographic copy of any document which provides proof that the individual is a citizen of the United States, in accordance with guidelines established by the Election Administration Commission in consultation with the Secretary of Homeland Security and the Secretary of State.
-
-  - **(2)** *Conforming amendment* Section 4(b) of such Act (42 U.S.C. 1973gg–2(b)) is amended by striking “This Act” and inserting “Except as provided in section 8(j), this Act”.
-
-## § 3. Requiring Voters to Provide Photo Identification
-
-- **(a)** *In General* Section 303(b) of the Help America Vote Act of 2002 (42 U.S.C. 15483(b) is amended—
+- **(a)** *Requirement to Provide Photo Identification as Condition of Receiving Ballot* Section 303(b) of the Help America Vote Act of 2002 (42 U.S.C. 15483(b)) is amended—
   - **(1)** in the heading, by striking “for Voters Who Register by Mail” and inserting “for Providing Photo Identification”; and
   - **(2)** by striking paragraphs (1) through (3) and inserting the following:
-    > - **(1)** *Individuals voting in person* Notwithstanding any other provision of law, the appropriate State or local election official may not provide a ballot for an election for Federal office (including a provisional ballot under section 302(a)) to an individual who desires to vote in person unless the individual presents to the official a current and valid photo identification.
-    > - **(2)** *Individuals voting by mail* Notwithstanding any other provision of law, the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes by mail unless the individual submits with the ballot a copy of a current and valid photo identification.
+    > - **(1)** *Individuals voting in person*
+    >   - **(A)** *Requirement to provide identification* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official may not provide a ballot for an election for Federal office to an individual who desires to vote in person unless the individual presents to the official—
+    >     - **(i)** a government-issued, current, and valid photo identification; or
+    >     - **(ii)** in the case of the regularly scheduled general election for Federal office held in November 2010 and each subsequent election for Federal office, a government-issued, current, and valid photo identification for which the individual was required to provide proof of United States citizenship as a condition for the issuance of the identification.
+    >   - **(B)** *Availability of provisional ballot* If an individual does not present the identification required under subparagraph (A), the individual shall be permitted to cast a provisional ballot with respect to the election under section 302(a), except that the appropriate State or local election official may not make a determination under section 302(a)(4) that the individual is eligible under State law to vote in the election unless the individual presents the identification required under subparagraph (A) to the official not later than 48 hours after casting the provisional ballot.
+    > - **(2)** *Individuals voting other than in person*
+    >   - **(A)** *In general* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless the individual submits with the ballot—
+    >     - **(i)** a copy of a government-issued, current, and valid photo identification; or
+    >     - **(ii)** in the case of the regularly scheduled general election for Federal office held in November 2010 and each subsequent election for Federal office, a copy of a government-issued, current, and valid photo identification for which the individual was required to provide proof of United States citizenship as a condition for the issuance of the identification.
+    >   - **(B)** *Exception for overseas military voters* Subparagraph (A) does not apply with respect to a ballot provided by an absent uniformed services voter who, by reason of active duty or service, is absent from the United States on the date of the election involved. In this subparagraph, the term “absent uniformed services voter” has the meaning given such term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff—6(1)), other than an individual described in section 107(1)(C) of such Act.
+    > - **(3)** *Specific requirements for identifications* For purposes of paragraphs (1) and (2)—
+    >   - **(A)** an identification is “government-issued” if it is issued by the Federal Government or by the government of a State; and
+    >   - **(B)** an identification is one for which an individual was required to provide proof of United States citizenship as a condition for issuance if the identification displays an official marking or other indication that the individual is a United States citizen.
 
 - **(b)** *Conforming Amendments* Section 303 of such Act (42 U.S.C. 15483) is amended—
   - **(1)** in the heading, by striking “for voters who register by mail” and inserting “for Providing Photo Identification”; and
   - **(2)** in subsection (c), by striking “subsections (a)(5)(A)(i)(II) and (b)(3)(B)(i)(II)” and inserting “subsection (a)(5)(A)(i)(II)”.
 - **(c)** *Clerical Amendment* The table of contents of such Act is amended by amending the item relating to section 303 to read as follows:
-- **(d)** *Effective Date* Section 303(d) of such Act (42 U.S.C. 15483(d)) is amended to read as follows:
-  > - **(d)** *Requirement to provide photo identification* Subsection (b) shall apply with respect to the regularly scheduled general election for Federal office held in November 2006 and each succeeding election for Federal office.
+- **(d)** *Effective Date*
+  - **(1)** *In general* This section and the amendments made by this section shall apply with respect to the regularly scheduled general election for Federal office held in November 2008 and each subsequent election for Federal office.
+  - **(2)** *Conforming amendment* Section 303(d)(2) of such Act (42 U.S.C. 15483(d)(2)) is amended to read as follows:
+    > - **(2)** *Requirement to provide photo identification* Paragraphs (1) and (2) of subsection (b) shall apply with respect to the regularly scheduled general election for Federal office held in November 2008 and each subsequent election for Federal office.
 
-## § 4. Effective Date
+## § 3. Making Photo Identifications Available
 
-This Act and the amendments made by this Act shall apply with respect to the regularly scheduled general election for Federal office held in November 2006 and each succeeding election for Federal office.
+- **(a)** *Requiring States to make identification available* Section 303(b) of the Help America Vote Act of 2002 (42 U.S.C. 15483(b)), as amended by section 2(a)(2), is amended—
+  - **(1)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6); and
+  - **(2)** by inserting after paragraph (3) the following new paragraph:
+    > - **(4)** *Making photo identifications available*
+    >   - **(A)** *In general* During fiscal year 2008 and each succeeding fiscal year, each State shall establish a program to provide photo identifications which may be used to meet the requirements of paragraphs (1) and (2) by individuals who desire to vote in elections held in the State but who do not otherwise possess a government-issued photo identification.
+    >   - **(B)** *Identifications provided at no cost to indigent individuals* If a State charges an individual a fee for providing a photo identification under the program established under subparagraph (A)—
+    >     - **(i)** the fee charged may not exceed the reasonable cost to the State of providing the identification to the individual; and
+    >     - **(ii)** the State may not charge a fee to any individual who provides an attestation that the individual is unable to afford the fee.
+    >   - **(C)** *Identifications not to be used for other purposes* Any photo identification provided under the program established under subparagraph (A) may not serve as a government-issued photo identification for purposes of any program or function of a State or local government other than the administration of elections.
+
+- **(b)** *Payments to States to cover costs* Subtitle D of title II of such Act (42 U.S.C. 15321 et seq.) is amended by adding at the end the following new part:
+- **(c)** *Clerical amendment* The table of contents of such Act is amended by adding at the end of the item relating to subtitle D of title II the following:
+- **(d)** *Effective Date* This section and the amendments made by this section shall take effect October 1, 2007.

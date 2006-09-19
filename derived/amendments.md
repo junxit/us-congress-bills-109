@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4844
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 6 executed, 11 stated and not applied.
+10 amendatory instructions. 3 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,33 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 1973gg-3
-
-> in subparagraph (B), by striking “may require” and inserting “in addition to the information required under subparagraph (E), may require”;
-
-| | |
-|---|---|
-| Removed | `may require` |
-| Inserted | `in addition to the information required under subparagraph (E), may require` |
-
-### 42 U.S.C. § 1973gg-7
-
-> in paragraph (1), by striking “may require” and inserting “consistent with paragraph (5), may require”;
-
-| | |
-|---|---|
-| Removed | `may require` |
-| Inserted | `consistent with paragraph (5), may require` |
-
-### 42 U.S.C. § 1973gg-2
-
-> Section 4(b) of such Act (42 U.S.C. 1973gg–2(b)) is amended by striking “This Act” and inserting “Except as provided in section 8(j), this Act”.
-
-| | |
-|---|---|
-| Removed | `This Act` |
-| Inserted | `Except as provided in section 8(j), this Act` |
 
 ### 42 U.S.C. § 15483
 
@@ -87,14 +60,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1973gg-3` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1973gg-3` | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1973gg-3` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1973gg-7` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1973gg-7` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1973gg-7` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1973gg-6` | redesignate | by redesignating subsection (j) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1973gg-6` | insert | by inserting after subsection (i) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15483` | replace | by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15483` | amend | The table of contents of such Act is amended by amending the item relating to section 303 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15483` | amend | Section 303(d) of such Act (42 U.S.C. 15483(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | amend | Section 303(d)(2) of such Act (42 U.S.C. 15483(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15321` | add-at-end | Subtitle D of title II of such Act (42 U.S.C. 15321 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | add-at-end | The table of contents of such Act is amended by adding at the end of the item relating to subtitle D of title II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
