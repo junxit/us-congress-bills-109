@@ -1,7 +1,7 @@
 ---
 measure: S. 3617
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3617
@@ -16,7 +16,7 @@ North American Wetlands Conservation Reauthorization Act of 2006
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Jeffords, James M. [I-VT] (J000072)
 - Sen. Chafee, Lincoln [R-RI] (C001040)
@@ -27,6 +27,8 @@ North American Wetlands Conservation Reauthorization Act of 2006
 - Sen. Craig, Larry E. [R-ID] (C000858)
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -36,3 +38,7 @@ North American Wetlands Conservation Reauthorization Act of 2006
 
 - 2006-06-29 — Introduced in Senate
 - 2006-06-29 — Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-340.
+- 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-340.
+- 2006-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
