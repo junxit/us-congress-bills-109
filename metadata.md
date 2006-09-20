@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5664
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5664
@@ -56,3 +56,12 @@ To designate the facility of the United States Postal Service located at 110 Coo
 - 2006-06-21 — Introduced in House
 - 2006-06-21 — Introduced in House
 - 2006-06-21 — Referred to the House Committee on Government Reform.
+- 2006-07-20 — Committee Consideration and Mark-up Session Held.
+- 2006-07-20 — Ordered to be Reported by Unanimous Consent.
+- 2006-09-20 — Considered under suspension of the rules. (consideration: CR H6810-6812)
+- 2006-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5664.
+- 2006-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-20 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
+- 2006-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6810)
+- 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6810)
+- 2006-09-20 — The title of the measure was amended. Agreed to without objection.
