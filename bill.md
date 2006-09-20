@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4844
 
-> To amend the National Voter Registration Act of 1993 to require any individual who desires to register or re-register to vote in an election for Federal office to provide the appropriate State election official with proof that the individual is a citizen of the United States to prevent fraud in Federal elections, and for other purposes.
+> To amend the Help America Vote Act of 2002 to require each individual who desires to vote in an election for Federal office to provide the appropriate election official with a government-issued photo identification, and for other purposes.
 
 ## § 1. Short title
 
