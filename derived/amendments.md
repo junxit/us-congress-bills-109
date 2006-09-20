@@ -1,7 +1,7 @@
 ---
 measure: S. 1535
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,14 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 105 of the Cheyenne River Sioux Tribe Equitable Compensation Act (Public Law 106–511; 114 Stat. 2365) is amended in the matter preceding paragraph (1) by inserting “or any member landowner” after “Tribe”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(3), by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), by inserting “and member landowners” after “Tribe” each place it appears. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (1) as paragraph (3) and moving the paragraph so as to appear after paragraph (2); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 105 of the Cheyenne River Sioux Tribe Equitable Compensation Act (Public Law 106–511; 114 Stat. 2365) is amended in the matter preceding paragraph (1) by inserting “or any member landowner” after “Tribe”. | the bill names no machine-readable US Code section |
+| — | amend | Section 107 of the Cheyenne River Sioux Tribe Equitable Compensation Act (Public Law 106–511; 114 Stat. 2368) is amended to read as follows: | the bill names no machine-readable US Code section |

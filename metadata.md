@@ -1,7 +1,7 @@
 ---
 measure: S. 1535
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1535
@@ -28,3 +28,8 @@ Cheyenne River Sioux Tribe Equitable Compensation Amendments Act of 2006
 
 - 2005-07-28 — Introduced in Senate
 - 2005-07-28 — Read twice and referred to the Committee on Indian Affairs.
+- 2006-06-14 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 109-572.
+- 2006-08-02 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2006-09-20 — Committee on Indian Affairs. Reported by Senator McCain with an amendment in the nature of a substitute. With written report No. 109-343.
+- 2006-09-20 — Committee on Indian Affairs. Reported by Senator McCain with an amendment in the nature of a substitute. With written report No. 109-343.
+- 2006-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 623.
