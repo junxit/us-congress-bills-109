@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5664
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5664
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 110 Coo
 - Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,15 @@ To designate the facility of the United States Postal Service located at 110 Coo
 - 2006-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6810)
 - 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6810)
 - 2006-09-20 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-10 — Became Public Law No: 109-315.
+- 2006-10-10 — Became Public Law No: 109-315.
+- 2006-10-10 — Signed by President.
+- 2006-10-10 — Signed by President.
