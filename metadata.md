@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5061
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5061
@@ -52,3 +52,12 @@ Paint Bank and Wytheville National Fish Hatcheries Conveyance Act
 - 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-341.
 - 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-341.
 - 2006-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11095; text as passed Senate: CR S11095)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11095; text as passed Senate: CR S11095)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-04 — Presented to President.
+- 2006-12-04 — Presented to President.
+- 2006-12-12 — Became Public Law No: 109-388.
+- 2006-12-12 — Became Public Law No: 109-388.
+- 2006-12-12 — Signed by President.
+- 2006-12-12 — Signed by President.

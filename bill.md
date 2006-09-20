@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5061
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5061
@@ -13,11 +13,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Paint Bank and Wytheville National Fish Hatcheries Conveyance Act”.
 
-## § 2. Conveyance of paint bank and wytheville national fish hatcheries to the State of Virginia
+## § 2. Conveyance of Paint Bank and Wytheville National Fish Hatcheries to the State of Virginia
 
-- **(a)** *In General* Within 180 days after the date of the enactment of this Act, the Secretary of the Interior shall convey to the State of Virginia without reimbursement all right, title, and interest of the United States in and to the property described in subsection (b) for use by the Virginia Department of Fish and Game as part of the State of Virginia fish culture program.
-- **(b)** *Property Described* The property referred to in subsection (a) consists of—
+- **(a)** *In general* Within 180 days after the date of the enactment of this Act, the Secretary of the Interior shall convey to the State of Virginia without reimbursement all right, title, and interest of the United States in and to the property described in subsection (b) for use by the Virginia Department of Fish and Game as part of the State of Virginia fish culture program.
+- **(b)** *Property described* The property referred to in subsection (a) consists of—
   - **(1)** the real property comprising Paint Bank National Fish Hatchery and Wytheville National Fish Hatchery, located at Paint Bank and Wytheville, Virginia, respectively, as described in the 1982 Cooperative Agreement between the United States Fish and Wildlife Service and the State of Virginia;
   - **(2)** all improvements and related personal property under the control of the Secretary that is located on that real property, including buildings, structures, and equipment; and
   - **(3)** all easements, leases, and water rights relating to the property described in paragraphs (1) and (2).
-- **(c)** *Reversionary Interest* If any of the property conveyed to the State of Virginia under this section is used for any purpose other than the use authorized under subsection (a), all right, title, and interest in and to all property conveyed under this section shall revert to the United States. The State of Virginia shall ensure that all property reverting to the United States under this subsection is in substantially the same or better condition as at the time of transfer to the State.
+- **(c)** *Reversionary interest* If any of the property conveyed to the State of Virginia under this section is used for any purpose other than the use authorized under subsection (a), all right, title, and interest in and to all property conveyed under this section shall revert to the United States. The State of Virginia shall ensure that all property reverting to the United States under this subsection is in substantially the same or better condition as at the time of transfer to the State.
