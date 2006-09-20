@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5450
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5450
@@ -44,3 +44,9 @@ National Oceanic and Atmospheric Administration Act
 - 2006-09-11 — Committee on Resources discharged.
 - 2006-09-11 — Committee on Resources discharged.
 - 2006-09-11 — Placed on the Union Calendar, Calendar No. 385.
+- 2006-09-20 — Considered under suspension of the rules. (consideration: CR H6757-6765)
+- 2006-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5450.
+- 2006-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-20 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
+- 2006-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6757-6761)
+- 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6757-6761)
