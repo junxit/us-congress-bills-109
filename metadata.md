@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4653
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4653
@@ -31,3 +31,9 @@ To repeal a prohibition on the use of certain funds for tunneling in certain are
 - 2006-07-28 — Placed on the Union Calendar, Calendar No. 351.
 - 2006-07-28 — Reported by the Committee on Transportation. H. Rept. 109-610.
 - 2006-07-28 — Reported by the Committee on Transportation. H. Rept. 109-610.
+- 2006-09-20 — Considered under suspension of the rules. (consideration: CR H6804-6805)
+- 2006-09-20 — DEBATE - The House proceeded with forty minutes of debates on H.R. 4653.
+- 2006-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-20 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2006-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6804)
+- 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6804)
