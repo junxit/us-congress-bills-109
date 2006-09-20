@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 976
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 976
@@ -16,7 +16,7 @@ Condemning human rights abuses by the Government of the Islamic Republic of Iran
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (30)
+## Cosponsors (34)
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -48,6 +48,10 @@ Condemning human rights abuses by the Government of the Islamic Republic of Iran
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 
 ## Committees (1)
 
@@ -58,3 +62,13 @@ Condemning human rights abuses by the Government of the Islamic Republic of Iran
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Referred to the House Committee on International Relations.
+- 2006-09-13 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2006-09-13 — Committee Consideration and Mark-up Session Held.
+- 2006-09-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-09-19 — Considered under suspension of the rules. (consideration: CR H6690-6692)
+- 2006-09-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 976.
+- 2006-09-19 — Mr. McCaul (TX) moved to suspend the rules and agree to the resolution.
+- 2006-09-20 — Considered as unfinished business. (consideration: CR H6786)
+- 2006-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-20 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 408 - 10, 2 Present (Roll no. 460). (text: CR 9/20/2006 H6690)
+- 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 408 - 10, 2 Present (Roll no. 460).(text: CR 9/20/2006 H6690)
