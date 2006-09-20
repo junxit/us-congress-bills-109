@@ -1,7 +1,7 @@
 ---
 measure: S. 374
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 4(b) of the Lower Brule Sioux Tribe Infrastructure Development Trust Fund Act (Public Law 105–132; 111 Stat. 2565) is amended by striking “$39,300,000” and inserting “$186,822,140”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4(b) of the Crow Creek Sioux Tribe Infrastructure Development Trust Fund Act of 1996 (Public Law 104–223; 110 Stat. 3027) is amended by striking “$27,500,000” and inserting “$105,917,853”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(b) of the Lower Brule Sioux Tribe Infrastructure Development Trust Fund Act (Public Law 105–132; 111 Stat. 2565) is amended by striking “$39,300,000” and inserting “$129,822,085”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(b) of the Crow Creek Sioux Tribe Infrastructure Development Trust Fund Act of 1996 (Public Law 104–223; 110 Stat. 3027) is amended by striking “$27,500,000” and inserting “$69,222,084”. | the bill names no machine-readable US Code section |
