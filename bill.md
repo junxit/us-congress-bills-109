@@ -15,18 +15,19 @@ This Act may be cited as the “Tylersville Fish Hatchery Conveyance Act”.
 
 ## § 2. Definitions
 
--  In this Act:
-  - **(1)** *Agreement* The term “agreement” means the 1984 Cooperative Agreement between the United States Fish and Wildlife Service and the State of Pennsylvania.
-  - **(2)** *Property* The term “property” means—
-    - **(A)** the Tylersville division of the Lamar National Fish Hatchery and Fish Technology Center, comprised of 125 acres leased to the State of Pennsylvania Fish and Boat Commission, located on 43 Hatchery Lane in Loganton, Pennsylvania, as described in the agreement;
-    - **(B)** all improvements and related personal property under the control of the Secretary that is located on that property, including—
-      - **(i)** buildings;
-      - **(ii)** structures;
-      - **(iii)** equipment; and
-      - **(iv)** all easements and leases relating to that property; and
-    - **(C)** all water rights relating to that property.
-  - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-  - **(4)** *State* The term “State” means the State of Pennsylvania.
+In this Act:
+
+- **(1)** *Agreement* The term “agreement” means the 1984 Cooperative Agreement between the United States Fish and Wildlife Service and the State of Pennsylvania.
+- **(2)** *Property* The term “property” means—
+  - **(A)** the Tylersville division of the Lamar National Fish Hatchery and Fish Technology Center, comprised of 125 acres40 acres leased to the State of Pennsylvania Fish and Boat Commission, located on 43 Hatchery Lane in Loganton, Pennsylvania, as described in the agreement;
+  - **(B)** all improvements and related personal property under the control of the Secretary that is located on that property, including—
+    - **(i)** buildings;
+    - **(ii)** structures;
+    - **(iii)** equipment; and
+    - **(iv)** all easements and leases relating to that property; and
+  - **(C)** all water rights relating to that property.
+- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(4)** *State* The term “State” means the State of Pennsylvania.
 
 ## § 3. Land conveyance
 
