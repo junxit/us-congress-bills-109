@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4957
@@ -41,3 +41,13 @@ Tylersville Fish Hatchery Conveyance Act
 - 2006-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6794-6796)
 - 2006-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6794-6796)
 - 2006-09-20 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10793)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10793)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-06 — Presented to President.
+- 2006-10-06 — Presented to President.
+- 2006-10-17 — Became Public Law No: 109-363.
+- 2006-10-17 — Became Public Law No: 109-363.
+- 2006-10-17 — Signed by President.
+- 2006-10-17 — Signed by President.

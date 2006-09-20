@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 10 executed, 18 stated and not applied.
+29 amendatory instructions. 10 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -135,6 +135,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 6108` | replace | Section 9 of such Act (16 U.S.C. 6108) is amended by striking so much as precedes subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6103` | replace | In section 4 (16 U.S.C. 6103), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6109` | amend | Section 10 of such Act (16 U.S.C. 6109) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6109` | insert | by inserting “(a) In General.—” before the first sentence; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 6109` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6303` | strike | in paragraph (4)(C), by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 6303` | replace | in paragraph (5), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
