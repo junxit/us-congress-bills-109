@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5061
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 5061
@@ -20,9 +20,10 @@ Paint Bank and Wytheville National Fish Hatcheries Conveyance Act
 
 - Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,8 @@ Paint Bank and Wytheville National Fish Hatcheries Conveyance Act
 - 2006-07-10 — Mr. Radanovich moved to suspend the rules and pass the bill.
 - 2006-07-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 359). (text: CR H4924)
 - 2006-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 359).(text: CR H4924)
+- 2006-07-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-341.
+- 2006-09-20 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-341.
+- 2006-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.
