@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4586
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in section 9(b), by striking “not later than January 16, 2007” and inserting “not later than January 16, 2009”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 11, by striking “for the period of fiscal years 2002 through 2007” and inserting “for the period of fiscal years 2002 through 2009”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9(b) of the Benjamin Franklin Tercentenary Commission Act (Public Law 107–202; 36 U.S.C. note prec. 101) is amended by striking “not later than January 16, 2007” and inserting “not later than January 16, 2009”. | the bill names no machine-readable US Code section |
