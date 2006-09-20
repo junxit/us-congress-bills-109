@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2334
 
-> To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the design, planning, and construction of permanent facilities for the GREAT project to reclaim, reuse, and treat impaired waters water in the area of Oxnard, California.
+> To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the design, planning, and construction of permanent facilities for the GREAT project to reclaim, reuse, and treat impaired waters in the area of Oxnard, California.
 
 ## § 1. Short title
 
