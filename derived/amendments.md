@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5092
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 4 executed, 10 stated and not applied.
+12 amendatory instructions. 4 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 18 U.S.C. § 923
 
-> Section 923(f)(1) of such title, as amended by section 2(a) of this Act, is amended by striking “(d)(3)” each place it appears and inserting “(d)(4)”.
+> Section 923(f) of such title, as amended by section 2(a) of this Act, is amended by striking “(d)(3)” each place it appears and inserting “(d)(4)”.
 
 | | |
 |---|---|
@@ -71,11 +71,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `18 U.S.C. § 923` | replace | Section 923 of title 18, United States Code, is amended by striking subsections (e) and (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 923` | add-at-end | Section 923(d) of such title is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 923` | strike | Section 924 of such title is amended by striking subsection (p). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 923` | redesignate | Section 923(d) of title 18, United States Code, as amended by section 2(b) of this Act, is amended by redesignating paragraphs (2) and (3) as paragraphs (3) and (4) and inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 921` | add-at-end | Section 921(a) of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 923` | insert | Section 923(g)(1)(D) of title 18, United States Code, is amended in the last sentence by inserting “, except that information about the conduct of a named individual with respect to a firearm or ammunition may not be so made available or… | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 531` | amend | by adding “and” at the end of paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 531` | replace | by striking “; and” at the end of paragraph (2) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 531` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 923` | add-at-end | Section 923(e) of title 18, United States Code, as amended by section 2(a) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 923` | insert | Section 923(g)(1)(D) of title 18, United States Code, is amended in the last sentence by inserting “, except that information identifying a person who has purchased or received firearms or ammunition and who is not prohibited from doing … | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 923` | add-at-end | Section 923 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 923` | add-at-end | Section 923 of title 18, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
