@@ -1,7 +1,7 @@
 ---
 measure: S. 3867
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3867
@@ -29,3 +29,7 @@ An act to designate the United States courthouse located at 555 Independence Str
 - 2006-09-07 — Introduced in Senate
 - 2006-09-07 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S9129)
 - 2006-09-07 — Sponsor introductory remarks on measure. (CR S9129)
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-21 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment and an amendment to the title. Without written report.
+- 2006-09-21 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment and an amendment to the title. Without written report.
+- 2006-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
