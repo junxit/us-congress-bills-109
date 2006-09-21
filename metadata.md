@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5187
 congress: 109
-version: Reported in House
+version: Reported to Senate
 ---
 
 # H.R. 5187
@@ -20,9 +20,10 @@ To amend the John F. Kennedy Center Act to authorize additional appropriations f
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -36,3 +37,15 @@ To amend the John F. Kennedy Center Act to authorize additional appropriations f
 - 2006-06-20 — Placed on the Union Calendar, Calendar No. 288.
 - 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-514.
 - 2006-06-20 — Reported by the Committee on Transportation. H. Rept. 109-514.
+- 2006-07-25 — Considered under suspension of the rules. (consideration: CR H5761-5762)
+- 2006-07-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5187.
+- 2006-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-07-25 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2006-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5761)
+- 2006-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5761)
+- 2006-07-26 — Received in the Senate.
+- 2006-08-04 — Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-21 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2006-09-21 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2006-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
