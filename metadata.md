@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5418
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5418
@@ -29,3 +29,11 @@ To establish a pilot program in certain United States district courts to encoura
 - 2006-05-18 — Introduced in House
 - 2006-05-18 — Introduced in House
 - 2006-05-18 — Referred to the House Committee on the Judiciary.
+- 2006-06-05 — Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.
+- 2006-07-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-07-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-09-13 — Committee Consideration and Mark-up Session Held.
+- 2006-09-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-09-21 — Placed on the Union Calendar, Calendar No. 402.
+- 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-673.
+- 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-673.
