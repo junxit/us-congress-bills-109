@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5187
 congress: 109
-version: Reported in House
+version: Reported to Senate
 derived: true
 ---
 
@@ -52,6 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 76r` | strike | in paragraph (1) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 76r` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 76r` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 76r` | strike | in paragraph (1) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 76r` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
