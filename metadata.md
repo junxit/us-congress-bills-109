@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 539
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 539
@@ -28,3 +28,7 @@ A resolution congratulating the Department of Agronomy in the College of Agricul
 
 - 2006-07-24 — Introduced in Senate
 - 2006-07-24 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S8132)
+- 2006-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S10004-10005)
+- 2006-09-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S10004-10005)
+- 2006-09-21 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S10004-10005)
+- 2006-09-21 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S10004-10005)
