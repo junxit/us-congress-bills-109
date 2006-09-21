@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 574
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 574
@@ -28,3 +28,7 @@ A resolution recognizing the North Carolina Farm Bureau Federation on the occasi
 
 - 2006-09-19 — Introduced in Senate
 - 2006-09-19 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S9729-9730)
+- 2006-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S10007)
+- 2006-09-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S10007)
+- 2006-09-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10007)
+- 2006-09-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10007)
