@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5637
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5637
@@ -16,7 +16,7 @@ Nonadmitted and Reinsurance Reform Act of 2006
 
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
 
-## Cosponsors (16)
+## Cosponsors (20)
 
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 - Rep. Baker, Richard H. [R-LA-6] (B000072)
@@ -34,6 +34,10 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
 ## Committees (2)
 
@@ -47,3 +51,17 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - 2006-06-19 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-06-19 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-06-19 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-07-18 — Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.
+- 2006-07-19 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2006-07-19 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-07-26 — Committee Consideration and Mark-up Session Held.
+- 2006-07-26 — Mr. Price (GA) asked unanimous consent that the Committee on Financial Services have until 5:00 p.m. on Aug. 11 to file a report on H.R. 5637. Agreed to without objection.
+- 2006-07-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-09-12 — House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 22, 2006.
+- 2006-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-649, Part I.
+- 2006-09-12 — Reported (Amended) by the Committee on Financial Services. H. Rept. 109-649, Part I.
+- 2006-09-18 — Referred to the Subcommittee on Commercial and Administrative Law.
+- 2006-09-19 — Subcommittee Hearings Held.
+- 2006-09-22 — Committee on Judiciary discharged.
+- 2006-09-22 — Committee on Judiciary discharged.
+- 2006-09-22 — Placed on the Union Calendar, Calendar No. 404.

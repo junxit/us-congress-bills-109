@@ -14,11 +14,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This Act may be cited as the “Nonadmitted and Reinsurance Reform Act of 2006”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Definitions
+## § 2. Effective date
 
-For purposes of this Act, the following definitions shall apply:
-
-- **(1)** *Insurer* The term “insurer”—
-  - **(A)** means an entity chartered and licensed as an insurance company and authorized to engage in the business of insurance under the laws of at least 1 State; and
-  - **(B)** includes any entity that, under the laws of a State, is considered to be an insurer specifically for purposes of this title.
-- **(2)** *State* The term “State” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+Except as otherwise specifically provided in this Act, this Act shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this Act.
