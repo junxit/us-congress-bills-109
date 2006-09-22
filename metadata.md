@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5585
@@ -32,3 +32,11 @@ Financial Netting Improvements Act of 2006
 - 2006-06-12 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-06-12 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-06-12 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-06-14 — Committee Consideration and Mark-up Session Held.
+- 2006-06-14 — Ordered to be Reported by Voice Vote.
+- 2006-09-12 — House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 22, 2006.
+- 2006-09-12 — Reported by the Committee on Financial Services. H. Rept. 109-648, Part I.
+- 2006-09-12 — Reported by the Committee on Financial Services. H. Rept. 109-648, Part I.
+- 2006-09-22 — Committee on Judiciary discharged.
+- 2006-09-22 — Committee on Judiciary discharged.
+- 2006-09-22 — Placed on the Union Calendar, Calendar No. 403.
