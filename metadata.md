@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4777
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4777
@@ -16,7 +16,7 @@ Internet Gambling Prohibition Act
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (115)
+## Cosponsors (146)
 
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
@@ -133,13 +133,59 @@ Internet Gambling Prohibition Act
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. DeLay, Tom [R-TX-22] (D000217)
 - Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Hunter, Duncan [R-CA-52] (H000981)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Peterson, John E. [R-PA-5] (P000263)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Taylor, Charles H. [R-NC-11] (T000067)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Hayworth, J. D. [R-AZ-5] (H000413)
+- Rep. McMorris, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
 - 2006-02-16 — Introduced in House
 - 2006-02-16 — Introduced in House
 - 2006-02-16 — Referred to the House Committee on the Judiciary.
+- 2006-02-17 — Sponsor introductory remarks on measure. (CR E191-192)
+- 2006-03-31 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2006-04-05 — Subcommittee Hearings Held.
+- 2006-05-03 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-05-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-05-25 — Committee Consideration and Mark-up Session Held.
+- 2006-05-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 11.
+- 2006-07-10 — Referred sequentially to the House Committee on Energy and Commerce for a period ending not later than Sept. 15, 2006 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(f), rule X.
+- 2006-07-10 — Reported (Amended) by the Committee on 109-552, Part I.
+- 2006-07-10 — Reported (Amended) by the Committee on 109-552, Part I.
+- 2006-09-15 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Sept. 22, 2006.
+- 2006-09-22 — Committee on Energy and Commerce discharged.
+- 2006-09-22 — Committee on Energy and Commerce discharged.
+- 2006-09-22 — Placed on the Union Calendar, Calendar No. 405.

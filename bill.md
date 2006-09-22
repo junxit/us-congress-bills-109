@@ -18,10 +18,9 @@ This Act may be cited as the “Internet Gambling Prohibition Act”.
 Section 1081 of title 18, United States Code, is amended—
 
 - **(1)** by designating the five undesignated paragraphs that begin with “The term” as paragraphs (1) through (5), respectively;
-- **(2)** in paragraph (5), as so designated—
-  - **(A)** by striking “wire communication” and inserting “communication”;
-  - **(B)** by inserting “satellite, microwave,” after “cable,”; and
-  - **(C)** by inserting “(whether fixed or mobile)” after “connection”; and
+- **(2)** by amending paragraph (5), as so designated, to read as follows:
+  > - **(5)** The term “communication facility” means any and all instrumentalities, personnel, and services (among other things, the receipt, forwarding, or delivery of communications) used or useful in the transmission of writings, signs, pictures, and sounds of all kinds by aid of wire, cable, radio, or an electromagnetic, photoelectronic or photooptical system, or other like connection (whether fixed or mobile) between the points of origin and reception of such transmission.
+
 - **(3)** by adding at the end the following:
   > - **(6)** The term bets or wagers—
   >   - **(A)** means the staking or risking by any person of something of value upon the outcome of a contest of others, a sporting event, or a game predominantly subject to chance, upon an agreement or understanding that the person or another person will receive something of greater value than the amount staked or risked in the event of a certain outcome;
@@ -59,7 +58,7 @@ Section 1081 of title 18, United States Code, is amended—
   > - **(16)** The terms money transmitting business and money transmitting service have the meanings given such terms in section 5330(d) of title 31, United States Code.
   > - **(17)** The terms own or control and to be “owned or controlled” have the same meanings as in section 2(a)(2) of the Bank Holding Company Act of 1956.
   > - **(18)** The term Secretary means the Secretary of the Treasury.
-  > - **(19)** The term Tribe or tribal means an Indian tribe, as defined under section 4(5) of the Indian Gaming Regulatory Act of 1988).
+  > - **(19)** The term Tribe or tribal means an Indian tribe, as defined under section 4(5) of the Indian Gaming Regulatory Act of 1988.
 
 ## § 3. Modification of existing prohibition
 
@@ -87,10 +86,9 @@ Section 1084 of title 18, United States Code, is amended to read as follows:
 >   - **(5)** with respect to class III gaming under the Indian Gaming Regulatory Act, the game is authorized under, and is conducted in accordance with, the respective Tribal-State compact of the Tribe having jurisdiction over the Indian lands where the individual or entity placing the bets or wagers or information assisting in the placing of bets or wagers, the gambling business, and any facility or support service processing those bets or wagers are physically located; and
 >   - **(6)** with respect to class III gaming under the Indian Gaming Regulatory Act, each such Tribal-State compact expressly provides that the game may be conducted using a communication facility to transmit bets or wagers or information assisting in the placing of bets or wagers.
 > - **(e)** Nothing in this section creates immunity from criminal prosecution under any laws of any State or Tribe.
-> - **(f)** Nothing in this section shall be construed to prohibit an activity allowed under Public Law 95–515 (15 U.S.C. 3001 et seq.).
-> - **(g)** Nothing in this section authorizes activity that is prohibited under chapter 178 of title 28, United States Code.
-> - **(h)** When any common carrier, subject to the jurisdiction of the Federal Communications Commission, is notified in writing by a Federal, State, tribal or local law enforcement agency, acting within its jurisdiction, that any communication facility furnished by it is being used or will be used by its subscriber for the purpose of transmitting or receiving gambling information, in interstate or foreign commerce, within the special maritime and territorial jurisdiction of the United States, or to or from any place outside the jurisdiction of any nation with respect to any transmission to or from the United States in violation of Federal, State, tribal or local law, it shall discontinue or refuse, the leasing, furnishing, or maintaining of such facility, after reasonable notice to the subscriber, but no damages, penalty or forfeiture, civil or criminal, shall be found against any common carrier for any act done in compliance with any notice received from a law enforcement agency. Nothing in this section shall be deemed to prejudice the right of any person affected thereby to secure an appropriate determination, as otherwise provided by law, in a Federal court or in a State, tribal, or local tribunal or agency, that such facility should not be discontinued or removed, or should be restored.
-> - **(i)**
+> - **(f)** Nothing in this section authorizes activity that is prohibited under chapter 178 of title 28, United States Code.
+> - **(g)** When any common carrier, subject to the jurisdiction of the Federal Communications Commission, is notified in writing by a Federal, State, tribal or local law enforcement agency, acting within its jurisdiction, that any communication facility furnished by it is being used or will be used by its subscriber for the purpose of transmitting or receiving gambling information, in interstate or foreign commerce, within the special maritime and territorial jurisdiction of the United States, or to or from any place outside the jurisdiction of any nation with respect to any transmission to or from the United States in violation of Federal, State, tribal or local law, it shall discontinue or refuse, the leasing, furnishing, or maintaining of such facility, after reasonable notice to the subscriber, but no damages, penalty or forfeiture, civil or criminal, shall be found against any common carrier for any act done in compliance with any notice received from a law enforcement agency. Nothing in this section shall be deemed to prejudice the right of any person affected thereby to secure an appropriate determination, as otherwise provided by law, in a Federal court or in a State, tribal, or local tribunal or agency, that such facility should not be discontinued or removed, or should be restored.
+> - **(h)**
 >   - **(1)** A Federal, State, tribal, or local law enforcement agency, acting within its jurisdiction may, in a civil action, obtain injunctive or declaratory relief to restrain or prevent any person from paying or assisting in the payment of bets or wagers, or communicating information assisting in the placing of bets or wagers, in interstate or foreign commerce, within the special maritime and territorial jurisdiction of the United States, or to or from any place outside the jurisdiction of any nation with respect to any transmission to or from the United States in violation of Federal, State, tribal, or local law.
 >   - **(2)** No damages, penalty, or forfeiture, civil or criminal, shall be found against any person or entity for any act done in compliance with any notice received from a law enforcement agency.
 >   - **(3)** Relief granted under paragraph (1) against an interactive computer service (as defined in section 230(f) of the Communications Act of 1934) shall—
@@ -102,4 +100,16 @@ Section 1084 of title 18, United States Code, is amended to read as follows:
 
 ## § 4. Authorization of appropriations
 
-In addition to any other sums authorized to be appropriated for this purpose, there are authorized to be appropriated for each of fiscal years 2007 through 2010 $10,000,000 for investigations and prosecutions of violations of section 1084 of title 18, United States Code.
+In addition to any other sums authorized to be appropriated for this purpose, there are authorized to be appropriated to the Department of Justice for each of fiscal years 2007 through 2010 $10,000,000 for investigations and prosecutions of violations of section 1084 of title 18, United States Code.
+
+## § 5. Rule of construction
+
+Nothing in this Act may be construed to prohibit any activity that is allowed under Public Law 95–515 as amended (15 U.S.C. 3001 et seq.).
+
+## § 6. Sense of Congress
+
+It is the sense of Congress that this Act does not change which activities related to horse racing may or may not be allowed under Federal law; section 5 is intended to address concerns that this Act could have the effect of changing the existing relationship between the Interstate Horseracing Act (15 U.S.C. 3001 et seq.), and other Federal statutes that were in effect at the time of this Act’s consideration; this Act is not intended to change that relationship; and this Act is not intended to resolve any existing disagreements over how to interpret the relationship between the Interstate Horseracing Act and other Federal statutes.
+
+## § 7. Rule of Construction
+
+Nothing in this Act may be construed to preempt State law prohibiting gambling.
