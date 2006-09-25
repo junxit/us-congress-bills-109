@@ -1,7 +1,7 @@
 ---
 measure: S. 3771
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | amend | Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
