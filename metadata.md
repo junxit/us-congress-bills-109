@@ -1,0 +1,25 @@
+---
+measure: H.Res. 1037
+congress: 109
+version: Reported in House
+---
+
+# H.Res. 1037
+
+Waiving points of order against the conference report to accompany the bill (H.R. 5631) making appropriations for the Department of Defense for the fiscal year ending September 30, 2007, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Cole, Tom [R-OK-4] (C001053)
+
+## Actions
+
+- 2006-09-25 — All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
+- 2006-09-25 — Introduced in House
+- 2006-09-25 — Placed on the House Calendar, Calendar No. 233.
+- 2006-09-25 — The House Committee on Rules reported an original measure, H. Rept. 109-677, by Mr. Cole (OK).
+- 2006-09-25 — The House Committee on Rules reported an original measure, H. Rept. 109-677, by Mr. Cole (OK).
