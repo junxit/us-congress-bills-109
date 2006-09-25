@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4275
@@ -37,3 +37,9 @@ To amend Public Law 106-348 to extend the authorization for establishing a memor
 - 2006-07-10 — Placed on the Union Calendar, Calendar No. 308.
 - 2006-07-10 — Reported by the Committee on Resources. H. Rept. 109-548.
 - 2006-07-10 — Reported by the Committee on Resources. H. Rept. 109-548.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6946-6948)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
+- 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6946-6947)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6946-6947)
