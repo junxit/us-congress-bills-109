@@ -102,11 +102,10 @@ Section 105 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805
   >   - **(3)** informs a judge having jurisdiction under section 103 at the time of such authorization that the decision has been made to employ emergency electronic surveillance; and
   >   - **(4)** makes an application in accordance with this title to a judge having jurisdiction under section 103 as soon as practicable, but not more than 120 hours after the official authorizes such surveillance.
 
-- **(7)** in subsection (h), as redesignated by paragraph (4)—
-  - **(A)** by striking “in accordance with a court order” and all that follows and inserting “—”; and
-  - **(B)** by adding at the end the following new paragraphs:
-    > - **(1)** in accordance with a court order or request for emergency assistance under this Act for electronic surveillance or physical search; or
-    > - **(2)** in response to a certification by the Attorney General or a designee of the Attorney General seeking information, facilities, or technical assistance from such person that does not constitute electronic surveillance.
+- **(7)** in subsection (h), as redesignated by paragraph (4), by striking “assistance in accordance with a court order” and all that follows and inserting
+  > assistance—
+  > - **(1)** in accordance with a court order or request for emergency assistance under this Act for electronic surveillance or physical search; or
+  > - **(2)** in response to a certification by the Attorney General or a designee of the Attorney General seeking information, facilities, or technical assistance from such person that does not constitute electronic surveillance.
 
 ## § 6. Use of information
 
@@ -117,8 +116,8 @@ Section 106(i) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1
 
 ## § 7. Authorization after an armed attack
 
-- **(a)** *Electronic surveillance* Section 111 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1811) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 60 days following an armed attack against the territory of the United States if the President submits to each member of the congressional intelligence committee notification of the authorization under this section.”.
-- **(b)** *Physical search* Section 309 of such Act (50 U.S.C. 1829) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 60 days following an armed attack against the territory of the United States if the President submits to each member of the congressional intelligence committee notification of the authorization under this section.”.
+- **(a)** *Electronic surveillance* Section 111 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1811) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 60 days following an armed attack against the territory of the United States if the President submits to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate notification of the authorization under this section.”.
+- **(b)** *Physical search* Section 309 of such Act (50 U.S.C. 1829) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 60 days following an armed attack against the territory of the United States if the President submits to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate notification of the authorization under this section.”.
 
 ## § 8. Authorization of electronic surveillance after a terrorist attack
 
@@ -127,50 +126,96 @@ The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is fu
 - **(1)** by adding at the end of title I the following new section:
   > ## § 112. Authorization following a terrorist attack upon the United States
   >
-  > - **(a)** *In general* Notwithstanding any other provision of law, but subject to subsection (d), the President, acting through the Attorney General, may authorize electronic surveillance without an order under this title to acquire foreign intelligence information for a period not to exceed 45 days following a terrorist attack against the United States if the President submits a notification to each member of the congressional intelligence committees and a judge having jurisdiction under section 103 that—
+  > - **(a)** *In general* Notwithstanding any other provision of law, but subject to the provisions of this section, the President, acting through the Attorney General, may authorize electronic surveillance without an order under this title to acquire foreign intelligence information for a period not to exceed 45 days following a terrorist attack against the United States if the President submits a notification to the congressional intelligence committees and a judge having jurisdiction under section 103 that—
   >   - **(1)** the United States has been the subject of a terrorist attack; and
   >   - **(2)** identifies the terrorist organizations or affiliates of terrorist organizations believed to be responsible for the terrorist attack.
-  > - **(b)** *Subsequent certifications* Subject to subsection (d), at the end of the 45-day period described in subsection (a), and every 45 days thereafter, the President may submit a subsequent certification to each member of the congressional intelligence committees and a judge having jurisdiction under section 103 that the circumstances of the terrorist attack for which the President submitted a certification under subsection (a) require the President to continue the authorization of electronic surveillance under this section for an additional 45 days. The President shall be authorized to conduct electronic surveillance under this section for an additional 45 days after each such subsequent certification.
-  > - **(c)** *Electronic surveillance of individuals* The President, or an official designated by the President to authorize electronic surveillance, may only conduct electronic surveillance of a person under this subsection when the President or such official determines that—
+  > - **(b)** *Subsequent certifications* At the end of the 45-day period described in subsection (a), and every 45 days thereafter, the President may submit a subsequent certification to the congressional intelligence committees and a judge having jurisdiction under section 103 that the circumstances of the terrorist attack for which the President submitted a certification under subsection (a) require the President to continue the authorization of electronic surveillance under this section for an additional 45 days. The President shall be authorized to conduct electronic surveillance under this section for an additional 45 days after each such subsequent certification.
+  > - **(c)** *Electronic surveillance of individuals* The President, or an official designated by the President to authorize electronic surveillance, may only conduct electronic surveillance of a person under this section if the President or such official determines that—
   >   - **(1)** there is a reasonable belief that such person is communicating with a terrorist organization or an affiliate of a terrorist organization that is reasonably believed to be responsible for the terrorist attack; and
   >   - **(2)** the information obtained from the electronic surveillance may be foreign intelligence information.
   > - **(d)** *Minimization procedures* The President may not authorize electronic surveillance under this section until the Attorney General approves minimization procedures for electronic surveillance conducted under this section.
-  > - **(e)** *United states persons* Notwithstanding subsection (b), the President may not authorize electronic surveillance of a United States person under this section without an order under this title for a period of more than 90 days unless the President, acting through the Attorney General, submits a certification to each member of the congressional intelligence committees that—
+  > - **(e)** *United states persons* Notwithstanding subsection (b), the President may not authorize electronic surveillance of a United States person under this section without an order under this title for a period of more than 90 days unless the President, acting through the Attorney General, submits a certification to the congressional intelligence committees that—
   >   - **(1)** the continued electronic surveillance of the United States person is vital to the national security of the United States;
   >   - **(2)** describes the circumstances that have prevented the Attorney General from obtaining an order under this title for continued surveillance;
   >   - **(3)** describes the reasons for believing the United States person is affiliated with or in communication with a terrorist organization or affiliate of a terrorist organization that is reasonably believed to be responsible for the terrorist attack; and
   >   - **(4)** describes the foreign intelligence information derived from the electronic surveillance conducted under this section.
   > - **(f)** *Use of information* Information obtained pursuant to electronic surveillance under this subsection may be used to obtain an order authorizing subsequent electronic surveillance under this title.
-  > - **(g)** *Reports* Not later than 14 days after the date on which the President submits a certification under subsection (a), and every 30 days thereafter until the President ceases to authorize electronic surveillance under subsection (a) or (b), the President shall submit to each member of the congressional intelligence committees a report on the electronic surveillance conducted under this section, including—
+  > - **(g)** *Reports* Not later than 14 days after the date on which the President submits a certification under subsection (a), and every 30 days thereafter until the President ceases to authorize electronic surveillance under subsection (a) or (b), the President shall submit to the congressional intelligence committees a report on the electronic surveillance conducted under this section, including—
   >   - **(1)** a description of each target of electronic surveillance under this section; and
   >   - **(2)** the basis for believing that each target is in communication with a terrorist organization or an affiliate of a terrorist organization.
   > - **(h)** *Congressional intelligence committees defined* In this section, the term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 - **(2)** in the table of contents in the first section, by inserting after the item relating to section 111 the following new item:
 
-## § 9. Congressional oversight
-
-- **(a)** *Electronic surveillance under FISA* Section 108 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1808) is amended—
-  - **(1)** in subsection (a)(1), by inserting “each member of” before “the House Permanent Select Committee on Intelligence”; and
-  - **(2)** in subsection (a)(2)—
-    - **(A)** in subparagraph (B), by striking “and” at the end;
-    - **(B)** in subparagraph (C), by striking the final period and inserting “; and”; and
-    - **(C)** by adding at the end the following new subparagraph:
-      > - **(D)** the authority under which the electronic surveillance is conducted.
-
-  - **(3)** in subsection (a), by adding at the end the following new paragraph:
-    > - **(3)** Each report submitted under this subsection shall include reports on electronic surveillance conducted without a court order.
-
-- **(b)** *Intelligence activities* Section 501 of the National Security Act of 1947 (50 U.S.C. 413) is amended—
-  - **(1)** in subsection (a)(1), by inserting “each member of” before “the congressional intelligence committees”; and
-  - **(2)** in subsection (b), by inserting “each member of” before “the congressional intelligence committees”.
-
-## § 10. Technical and conforming amendments
+## § 9. Authorization of electronic surveillance due to imminent threat
 
 The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is further amended—
 
-- **(1)** in section 102(a)(3)(A), by striking “101(h)(4) and”;
-- **(2)** in section 105(a)(5)—
+- **(1)** by adding at the end of title I the following new section:
+  > ## § 113. Authorization due to imminent threat
+  >
+  > - **(a)** *In general* Notwithstanding any other provision of law, but subject to the provisions of this section, the President, acting through the Attorney General, may authorize electronic surveillance without an order under this title to acquire foreign intelligence information for a period not to exceed 90 days if the President submits to the congressional leadership, the congressional intelligence committees, and the Foreign Intelligence Surveillance Court a written notification that the President has determined that there exists an imminent threat of attack likely to cause death, serious injury, or substantial economic damage to the United States. Such notification—
+  >   - **(1)** shall be submitted as soon as practicable, but in no case later than 5 days after the date on which the President authorizes electronic surveillance under this section;
+  >   - **(2)** shall specify the entity responsible for the threat and any affiliates of the entity;
+  >   - **(3)** shall state the reason to believe that the threat of imminent attack exists;
+  >   - **(4)** shall state the reason the President needs broader authority to conduct electronic surveillance in the United States as a result of the threat of imminent attack;
+  >   - **(5)** shall include a description of the foreign intelligence information that will be collected and the means that will be used to collect such foreign intelligence information; and
+  >   - **(6)** may be submitted in classified form.
+  > - **(b)** *Subsequent certifications* At the end of the 90-day period described in subsection (a), and every 90 days thereafter, the President may submit a subsequent written notification to the congressional leadership, the congressional intelligence committees, the other relevant committees, and the Foreign Intelligence Surveillance Court that the circumstances of the threat for which the President submitted a written notification under subsection (a) require the President to continue the authorization of electronic surveillance under this section for an additional 90 days. The President shall be authorized to conduct electronic surveillance under this section for an additional 90 days after each such subsequent written notification.
+  > - **(c)** *Electronic surveillance of individuals* The President, or an official designated by the President to authorize electronic surveillance, may only conduct electronic surveillance of a person under this section if the President or such official determines that—
+  >   - **(1)** there is a reasonable belief that such person is communicating with an entity or an affiliate of an entity that is reasonably believed to be responsible for imminent threat of attack; and
+  >   - **(2)** the information obtained from the electronic surveillance may be foreign intelligence information.
+  > - **(d)** *Minimization procedures* The President may not authorize electronic surveillance under this section until the Attorney General approves minimization procedures for electronic surveillance conducted under this section.
+  > - **(e)** *United states persons* Notwithstanding subsections (a) and (b), the President may not authorize electronic surveillance of a United States person under this section without an order under this title for a period of more than 60 days unless the President, acting through the Attorney General, submits a certification to the congressional intelligence committees that—
+  >   - **(1)** the continued electronic surveillance of the United States person is vital to the national security of the United States;
+  >   - **(2)** describes the circumstances that have prevented the Attorney General from obtaining an order under this title for continued surveillance;
+  >   - **(3)** describes the reasons for believing the United States person is affiliated with or in communication with an entity or an affiliate of an entity that is reasonably believed to be responsible for imminent threat of attack; and
+  >   - **(4)** describes the foreign intelligence information derived from the electronic surveillance conducted under this section.
+  > - **(f)** *Use of information* Information obtained pursuant to electronic surveillance under this subsection may be used to obtain an order authorizing subsequent electronic surveillance under this title.
+  > - **(g)** *Definitions* In this section:
+  >   - **(1)** *Congressional intelligence committees* The term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+  >   - **(2)** *Congressional leadership* The term “congressional leadership” means the Speaker and minority leader of the House of Representatives and the majority leader and minority leader of the Senate.
+  >   - **(3)** *Foreign Intelligence Surveillance Court* The term “Foreign Intelligence Surveillance Court” means the court established under section 103(a).
+  >   - **(4)** *Other relevant committees* The term “other relevant committees” means the Committees on Appropriations, the Committees on Armed Services, and the Committees on the Judiciary of the House of Representatives and the Senate.
+
+- **(2)** in the table of contents in the first section, by inserting after the item relating to section 112, as added by section 8(2), the following new item:
+
+## § 10. Congressional oversight
+
+- **(a)** *Electronic surveillance under FISA* Section 108(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1808(a)) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** in subparagraph (B), by striking “and” at the end;
+    - **(B)** in subparagraph (C), by striking the period and inserting “; and”; and
+    - **(C)** by adding at the end the following new subparagraph:
+      > - **(D)** the authority under which the electronic surveillance is conducted.
+
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(3)** Each report submitted under this subsection shall include reports on electronic surveillance conducted without a court order.
+
+- **(b)** *Intelligence activities* The National Security Act of 1947 (50 U.S.C. 401 et seq.) is amended—
+  - **(1)** in section 501 (50 U.S.C. 413)—
+    - **(A)** by redesignating subsection (f) as subsection (g); and
+    - **(B)** by inserting after subsection (e) the following new subsection:
+      > - **(f)** The Chair of each of the congressional intelligence committees, in consultation with the ranking member of the committee for which the person is Chair, may inform—
+      >   - **(1)** on a bipartisan basis, all members or any individual members of such committee, and
+      >   - **(2)** any essential staff of such committee,
+
+  - **(2)** in section 502 (50 U.S.C. 414), by adding at the end the following new subsection:
+    > - **(d)** *Informing of committee members* The Chair of each of the congressional intelligence committees, in consultation with the ranking member of the committee for which the person is Chair, may inform—
+    >   - **(1)** on a bipartisan basis, all members or any individual members of such committee, and
+    >   - **(2)** any essential staff of such committee,
+
+  - **(3)** in section 503 (50 U.S.C. 415), by adding at the end the following new subsection:
+    > - **(g)** The Chair of each of the congressional intelligence committees, in consultation with the ranking member of the committee for which the person is Chair, may inform—
+    >   - **(1)** on a bipartisan basis, all members or any individual members of such committee, and
+    >   - **(2)** any essential staff of such committee,
+
+## § 11. Technical and conforming amendments
+
+The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is further amended—
+
+- **(1)** in section 102(a)(3)(A), by striking “sections 101(h)(4) and” and inserting “section”;
+- **(2)** in section 105(a)(4), as redesignated by section 5(1)(B)—
   - **(A)** by striking “104(a)(7)(E)” and inserting “104(a)(6)(D)”; and
   - **(B)** by striking “104(d)” and inserting “104(c)”;
 - **(3)** in section 106—
