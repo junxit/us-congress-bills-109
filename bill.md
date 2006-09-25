@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1344
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,4 +22,3 @@ This Act may be cited as the “Lower Farmington River and Salmon Brook Wild and
   > - **(139)** *Lower Farmington River and Salmon Brook, Connecticut* The segment of the Farmington River downstream from the segment designated as a recreational river by section 3(a)(156) to its confluence with the Connecticut River, and the segment of the Salmon Brook including its mainstem and east and west branches.
 
 - **(c)** *Time for submission* Not later than three years after the date of the enactment of this Act, the Secretary of the Interior shall submit to Congress a report containing the results of the study required by the amendment made by subsection (b).
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this Act.
