@@ -25,8 +25,8 @@ The Congress finds as follows:
 - **(6)** The Naturalization Oath of Allegiance impresses on new United States citizens—
   - **(A)** the shared American values of liberty, democracy, and equal opportunity; and
   - **(B)** the obligation to respect and abide by the Constitution, including the Bill of Rights.
-- **(7)** Naturalization rewards legal immigrants who have abided by all United States laws and Immigration and Naturalization Service regulations.
-- **(8)** Naturalization bestows all the legal rights, privileges, and responsibilities of a United States citizen.
+- **(8)** Naturalization rewards legal immigrants who have abided by all Federal laws and Department of Homeland Security regulations.
+- **(9)** Naturalization bestows all the legal rights, privileges, and responsibilities of a United States citizen.
 
 ## § 3. Independence Day ceremonies for oaths of allegiance
 
@@ -42,11 +42,11 @@ The Congress finds as follows:
 - **(d)** *Amounts available; use of funds*
   - **(1)** *Amounts available* Amounts made available under this section for each ceremony shall not exceed $5,000.
   - **(2)** *Funds* Funds made available under this section may be used only for the following:
-    - **(A)** Costs of personnel of the Immigration and Naturalization Service and the Federal judiciary (including travel and overtime expenses).
+    - **(A)** Costs of personnel of U.S. Citizenship and Immigration Services and the Federal judiciary (including travel and overtime expenses).
     - **(B)** Site rental, including audio equipment rental.
     - **(C)** Logistical requirements, including sanitation.
     - **(D)** Costs for printing brochures about the naturalization participants and the naturalization process.
-  - **(3)** *Availability of funds* Funds that are otherwise available to the Immigration and Naturalization Service to carry out naturalization activities shall be available to carry out this section.
-- **(e)** *Application* No amount may be made available under this section to an entity that is not part of the Immigration and Naturalization Service, for supporting a ceremony described in subsection (b), unless—
+  - **(3)** *Availability of funds* Funds that are otherwise available to the Department of Homeland Security to carry out naturalization activities shall be available to carry out this section.
+- **(e)** *Application* No amount may be made available under this section to an entity that is not part of the Department of Homeland Security, for supporting a ceremony described in subsection (b), unless—
   - **(1)** the entity submits an application to the Secretary of Homeland Security, in a form and manner specified by the Secretary of Homeland Security; and
   - **(2)** the Secretary of Homeland Security approves the application.
