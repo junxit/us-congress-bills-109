@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6054
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6054
@@ -16,7 +16,7 @@ Military Commissions Act of 2006
 
 - Rep. Hunter, Duncan [R-CA-52] (H000981)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. Boehner, John A. [R-OH-8] (B000589)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
@@ -34,6 +34,9 @@ Military Commissions Act of 2006
 - Rep. Sweeney, John E. [R-NY-20] (S001149)
 - Rep. Chocola, Chris [R-IN-2] (C001052)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
 
 ## Committees (3)
 
@@ -49,3 +52,19 @@ Military Commissions Act of 2006
 - 2006-09-12 — Referred to the Committee on Armed Services, and in addition to the Committees on the Judiciary, and International Relations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-09-12 — Referred to the Committee on Armed Services, and in addition to the Committees on the Judiciary, and International Relations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-09-12 — Referred to the Committee on Armed Services, and in addition to the Committees on the Judiciary, and International Relations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-09-13 — Committee Consideration and Mark-up Session Held.
+- 2006-09-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 8.
+- 2006-09-15 — House Committee on International Relations Granted an extension for further consideration ending not later than Sept. 18, 2006.
+- 2006-09-15 — House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 18, 2006.
+- 2006-09-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 109-664, Part I.
+- 2006-09-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 109-664, Part I.
+- 2006-09-18 — House Committee on International Relations Granted an extension for further consideration ending not later than Sept. 22, 2006.
+- 2006-09-18 — House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 22, 2006.
+- 2006-09-20 — Committee Consideration and Mark-up Session Held.
+- 2006-09-20 — Ordered to be Reported by the Yeas and Nays: 20 - 19.
+- 2006-09-22 — Committee on International Relations discharged.
+- 2006-09-22 — Committee on International Relations discharged.
+- 2006-09-22 — House Committee on Judiciary Granted an extension for further consideration ending not later than Sept. 25, 2006.
+- 2006-09-25 — Placed on the Union Calendar, Calendar No. 409.
+- 2006-09-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-664, Part II.
+- 2006-09-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-664, Part II.
