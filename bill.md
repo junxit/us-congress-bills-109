@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5079
 
-> To provide for the modification of an amendatory repayment contract between the Secretary of the Interior and the North Unit Irrigation District, and for other purposes.
+> To update the management of Oregon water resources, and for other purposes.
 
 ## § 1. Short title
 
