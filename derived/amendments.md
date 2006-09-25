@@ -1,7 +1,7 @@
 ---
 measure: S. 3929
 congress: 109
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
