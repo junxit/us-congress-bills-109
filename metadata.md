@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1796
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1796
@@ -48,3 +48,9 @@ Mississippi River Trail Study Act
 - 2006-09-06 — Placed on the Union Calendar, Calendar No. 362.
 - 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-622.
 - 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-622.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6950-6951)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1796.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
+- 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6950)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6950)
