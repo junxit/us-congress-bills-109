@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 430
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 430
@@ -16,7 +16,7 @@ Recognizing the accomplishments of the American Council of Young Political Leade
 
 - Rep. Thomas, William M. [R-CA-22] (T000188)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Blunt, Roy [R-MO-7] (B000575)
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
@@ -46,6 +46,7 @@ Recognizing the accomplishments of the American Council of Young Political Leade
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Weldon, Curt [R-PA-7] (W000268)
 - Rep. Weller, Jerry [R-IL-11] (W000273)
+- Rep. Dreier, David [R-CA-26] (D000492)
 
 ## Committees (1)
 
@@ -57,3 +58,9 @@ Recognizing the accomplishments of the American Council of Young Political Leade
 - 2006-06-14 — Introduced in House
 - 2006-06-14 — Referred to the House Committee on International Relations.
 - 2006-06-14 — Sponsor introductory remarks on measure. (CR E1151)
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H7323-7324)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 430.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Poe moved to suspend the rules and agree to the resolution.
+- 2006-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7323)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7323)
