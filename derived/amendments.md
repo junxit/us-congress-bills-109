@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5861
 congress: 109
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -71,11 +71,11 @@ to guess them.
 
 ### 16 U.S.C. § 470t
 
-> Section 212(a) of the Act (16 U.S.C. 470t(a)) is amended by striking “for purposes of this title not to exceed $4,000,000 in each fiscal year 1997 through 2005” and inserting “such amounts as may be necessary to carry out this title”.
+> Section 212(a) of the Act (16 U.S.C. 470t(a)) is amended by striking “for purposes of this title not to exceed $4,000,000 for each fiscal year 1997 through 2005” and inserting “such amounts as may be necessary to carry out this title”.
 
 | | |
 |---|---|
-| Removed | `for purposes of this title not to exceed $4,000,000 in each fiscal year 1997 through 2005` |
+| Removed | `for purposes of this title not to exceed $4,000,000 for each fiscal year 1997 through 2005` |
 | Inserted | `such amounts as may be necessary to carry out this title` |
 
 ## Stated, not applied
