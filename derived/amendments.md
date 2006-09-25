@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4588
 congress: 109
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `(2) Report` |
 | Inserted | `(2) Reports` |
 
-### 42 U.S.C. § 10303
+### 42 U.S.C. § 10306
 
 > Section 107 of the Water Resources Research Act of 1984 (42 U.S.C. 10306) is amended by striking “15” and inserting “5”.
 
