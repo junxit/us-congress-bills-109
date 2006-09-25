@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3534
@@ -33,3 +33,9 @@ Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2005
 - 2006-09-06 — Placed on the Union Calendar, Calendar No. 367.
 - 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-627.
 - 2006-09-06 — Reported by the Committee on Resources. H. Rept. 109-627.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6951-6952)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3534.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
+- 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6951-6952)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6951-6952)
