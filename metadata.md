@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2134
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2134
@@ -16,7 +16,7 @@ Commission to Study the Potential Creation of a National Museum of American Lati
 
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 
-## Cosponsors (69)
+## Cosponsors (113)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
@@ -87,6 +87,50 @@ Commission to Study the Potential Creation of a National Museum of American Lati
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Sanders, Bernard [I-VT-At Large] (S000033)
+- Rep. McKinney, Cynthia A. [D-GA-4] (M000523)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Evans, Lane [D-IL-17] (E000250)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Foley, Mark [R-FL-16] (F000238)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Olver, John W. [D-MA-1] (O000085)
 
 ## Committees (2)
 
@@ -100,3 +144,17 @@ Commission to Study the Potential Creation of a National Museum of American Lati
 - 2005-05-05 — Referred to the Committee on Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2005-05-05 — Referred to the Committee on Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2005-05-05 — Referred to the Committee on Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2005-05-10 — Executive Comment Requested from Interior.
+- 2005-05-10 — Referred to the Subcommittee on National Parks.
+- 2006-03-30 — Subcommittee Hearings Held.
+- 2006-06-21 — Committee Consideration and Mark-up Session Held.
+- 2006-06-21 — Ordered to be Reported by Unanimous Consent.
+- 2006-06-21 — Subcommittee on National Parks Discharged.
+- 2006-07-20 — House Committee on House Administration Granted an extension for further consideration ending not later than Sept. 29, 2006.
+- 2006-07-20 — Reported by the Committee on Resources. H. Rept. 109-584, Part I.
+- 2006-07-20 — Reported by the Committee on Resources. H. Rept. 109-584, Part I.
+- 2006-07-27 — Committee Consideration and Mark-up Session Held.
+- 2006-07-27 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2006-09-25 — Placed on the Union Calendar, Calendar No. 406.
+- 2006-09-25 — Reported (Amended) by the Committee on House Administration. H. Rept. 109-584, Part II.
+- 2006-09-25 — Reported (Amended) by the Committee on House Administration. H. Rept. 109-584, Part II.
