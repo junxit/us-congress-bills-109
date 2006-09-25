@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 965
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 965
@@ -35,3 +35,11 @@ Commending the people of Montenegro on the conduct of the referendum on independ
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Referred to the House Committee on International Relations.
+- 2006-09-13 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2006-09-13 — Committee Consideration and Mark-up Session Held.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H7319-7321)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 965.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Poe moved to suspend the rules and agree to the resolution.
+- 2006-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7319-7320)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7319-7320)
