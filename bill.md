@@ -29,10 +29,10 @@ This Act may be cited as the “Convention on Supplementary Compensation for Nuc
   - **(7)** the cost of those benefits is the obligation of the United States to contribute to the supplementary compensation fund established by the Convention;
   - **(8)** any such contribution should be funded in a manner that neither upsets settled expectations based on the liability regime established under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) nor shifts to Federal taxpayers liability risks for nuclear incidents at foreign installations;
   - **(9)** with respect to a Price-Anderson incident, funds already available under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) should be used; and
-  - **(10)** with respect to a nuclear incident not covered by section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210), a retrospective premium should be prorated among nuclear suppliers relieved from potential liability for which insurance is not available.
+  - **(10)** with respect to a nuclear incident outside the United States not covered by section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210), a retrospective premium should be prorated among nuclear suppliers relieved from potential liability for which insurance is not available.
 - **(b)** *Purpose* The purpose of this Act is to allocate the contingent costs associated with participation by the United States in the international nuclear liability compensation system established by the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997—
   - **(1)** with respect to a Price-Anderson incident, by using funds made available under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) to cover the contingent costs in a manner that neither increases the burdens nor decreases the benefits under section 170 of that Act; and
-  - **(2)** with respect to a covered incident that is not a Price-Anderson incident, by allocating the contingent costs equitably, on the basis of risk, among the class of nuclear suppliers relieved by the Convention from the risk of potential liability resulting from any covered incident.
+  - **(2)** with respect to a covered incident outside the United States that is not a Price-Anderson incident, by allocating the contingent costs equitably, on the basis of risk, among the class of nuclear suppliers relieved by the Convention from the risk of potential liability resulting from any covered incident outside the United States.
 
 ## § 3. Definitions
 
@@ -55,44 +55,44 @@ In this Act:
 - **(7)** *Nuclear supplier* The term nuclear supplier means a covered person (or a successor in interest of a covered person) that—
   - **(A)** supplies facilities, equipment, fuel, services, or technology pertaining to the design, construction, operation, or decommissioning of a covered installation; or
   - **(B)** transports nuclear materials that could result in a covered incident.
-- **(8)** *Price-Anderson incident* The term Price-Anderson incident means a covered incident for which section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) would make funds available to compensate for public liability (as defined in section 11 of that Act (42 U.S.C. 2014)).
+- **(8)** *Price-anderson incident* The term Price-Anderson incident means a covered incident for which section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) would make funds available to compensate for public liability (as defined in section 11 of that Act (42 U.S.C. 2014)).
 - **(9)** *Secretary* The term Secretary means the Secretary of Energy.
-- **(10)** *United States*
+- **(10)** *United states*
   - **(A)** *In general* The term United States has the meaning given the term in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014).
   - **(B)** *Inclusions* The term United States includes—
     - **(i)** the Commonwealth of Puerto Rico;
     - **(ii)** any other territory or possession of the United States;
     - **(iii)** the Canal Zone; and
     - **(iv)** the waters of the United States territorial sea under Presidential Proclamation Number 5928, dated December 27, 1988 (43 U.S.C. 1331 note).
-- **(11)** *United States person* The term United States person means—
+- **(11)** *United states person* The term United States person means—
   - **(A)** any individual who is a resident, national, or citizen of the United States (other than an individual residing outside of the United States and employed by a person who is not a United States person); and
   - **(B)** any corporation, partnership, association, joint stock company, business trust, unincorporated organization, or sole proprietorship that is organized under the laws of the United States.
 
 ## § 4. Use of Price-Anderson funds
 
-- **(a)** *In general* Funds made available under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) shall be used to cover the contingent cost resulting from any Price-Anderson incident.
+- **(a)** *In General* Funds made available under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) shall be used to cover the contingent cost resulting from any Price-Anderson incident.
 - **(b)** *Effect* The use of funds pursuant to subsection (a) shall not reduce the limitation on public liability established under section 170 e. of the Atomic Energy Act of 1954 (42 U.S.C. 2210(e)).
 
 ## § 5. Effect on amount of public liability
 
-- **(a)** *In general* Funds made available to the United States under Article VII of the Convention with respect to a Price-Anderson incident shall be used to satisfy public liability resulting from the Price-Anderson incident.
+- **(a)** *In General* Funds made available to the United States under Article VII of the Convention with respect to a Price-Anderson incident shall be used to satisfy public liability resulting from the Price-Anderson incident.
 - **(b)** *Amount* The amount of public liability allowable under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) relating to a Price-Anderson incident under subsection (a) shall be increased by an amount equal to the difference between—
   - **(1)** the amount of funds made available for the Price-Anderson incident under Article VII of the Convention; and
   - **(2)** the amount of funds used under section 4 to cover the contingent cost resulting from the Price-Anderson incident.
 
 ## § 6. Retrospective risk pooling program
 
-- **(a)** *In general* Except as provided in subsection (b), each nuclear supplier shall participate in a retrospective risk pooling program in accordance with this Act to cover the contingent cost resulting from a covered incident that is not a Price-Anderson incident.
-- **(b)** *Deferred payment*
+- **(a)** *In General* Except as provided in subsection (b), each nuclear supplier shall participate in a retrospective risk pooling program in accordance with this Act to cover the contingent cost resulting from a covered incident outside the United States that is not a Price-Anderson incident.
+- **(b)** *Deferred Payment*
   - **(1)** *In general* The obligation of a nuclear supplier to participate in the retrospective risk pooling program shall be deferred until the United States is called on to provide funds pursuant to Article VII of the Convention with respect to a covered incident that is not a Price-Anderson incident.
   - **(2)** *Amount of deferred payment* The amount of a deferred payment of a nuclear supplier under paragraph (1) shall be based on the risk-informed assessment formula determined under paragraph (3).
   - **(3)** *Risk-informed assessment formula*
-    - **(A)** *In general* The Secretary shall, by regulation, determine the risk-informed assessment formula for the allocation among nuclear suppliers of the contingent cost resulting from a covered incident that is not a Price-Anderson incident, taking into account risk factors such as—
-      - **(i)** the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation;
-      - **(ii)** the quantity of the goods and services supplied by each nuclear supplier to each covered installation;
+    - **(A)** *In general* TheNot later than 3 years after the date of enactment of this Act, and every 5 years thereafter, the Secretary shall, by regulation, determine the risk-informed assessment formula for the allocation among nuclear suppliers of the contingent cost resulting from a covered incident that is not a Price-Anderson incident, taking into account risk factors such as—
+      - **(i)** the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
+      - **(ii)** the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
       - **(iii)** the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
-      - **(iv)** the hazards associated with the covered installation to which the goods and services are supplied;
-      - **(v)** the legal, regulatory, and financial infrastructure associated with the covered installation to which the goods and services are supplied; and
+      - **(iv)** the hazards associated with the covered installation outside the United States to which the goods and services are supplied;
+      - **(v)** the legal, regulatory, and financial infrastructure associated with the covered installation outside the United States to which the goods and services are supplied; and
       - **(vi)** the hazards associated with particular forms of transportation.
     - **(B)** *Factors for consideration* In determining the formula, the Secretary may—
       - **(i)** exclude—
@@ -102,13 +102,14 @@ In this Act:
         - **(IV)** a nuclear supplier no longer in existence for which there is no identifiable successor; and
       - **(ii)** establish the period on which the risk assessment is based.
     - **(C)** *Application* In applying the formula, the Secretary shall not consider any covered installation or transportation for which funds would be available under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210).
+    - **(D)** *Report* Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on whether there is a need for continuation or amendment of this Act, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
 
 ## § 7. Reporting
 
-- **(a)** *Collection of information*
+- **(a)** *Collection of Information*
   - **(1)** *In general* The Secretary may collect information necessary for developing and implementing the formula for calculating the deferred payment of a nuclear supplier under section 6(b).
   - **(2)** *Provision of information* Each nuclear supplier and other appropriate persons shall make available to the Secretary such information, reports, records, documents, and other data as the Secretary determines, by regulation, to be necessary or appropriate to develop and implement the formula under section 6(b)(3).
-- **(b)** *Private insurance* The Secretary shall make available to nuclear suppliers, and insurers of nuclear suppliers, information to support the voluntary establishment and maintenance of private insurance against any risk for which nuclear suppliers may be required to pay deferred payments under this Act.
+- **(b)** *Private Insurance* The Secretary shall make available to nuclear suppliers, and insurers of nuclear suppliers, information to support the voluntary establishment and maintenance of private insurance against any risk for which nuclear suppliers may be required to pay deferred payments under this Act.
 
 ## § 8. Effect on liability
 
@@ -119,26 +120,26 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 ## § 9. Payments to and by the United States
 
-- **(a)** *Action by nuclear suppliers*
+- **(a)** *Action by Nuclear Suppliers*
   - **(1)** *Notification* In the case of a request for funds under Article VII of the Convention resulting from a covered incident that is not a Price-Anderson incident, the Secretary shall notify each nuclear supplier of the amount of the deferred payment required to be made by the nuclear supplier.
   - **(2)** *Payments*
     - **(A)** *In general* Except as provided in subparagraph (B), not later than 60 days after receipt of a notification under paragraph (1), a nuclear supplier shall pay to the general fund of the Treasury the deferred payment of the nuclear supplier required under paragraph (1).
     - **(B)** *Annual payments* A nuclear supplier may elect to prorate payment of the deferred payment required under paragraph (1) in 5 equal annual payments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
   - **(3)** *Vouchers* A nuclear supplier shall submit payment certification vouchers to the Secretary of the Treasury in accordance with section 3325 of title 31, United States Code.
-- **(b)** *Use of funds*
+- **(b)** *Use of Funds*
   - **(1)** *In general* Amounts paid into the Treasury under subsection (a) shall be available to the Secretary of the Treasury, without further appropriation and without fiscal year limitation, for the purpose of making the contributions of public funds required to be made by the United States under the Convention.
-  - **(2)** *Action by Secretary of Treasury* The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
-- **(c)** *Failure to pay* If a nuclear supplier fails to make a payment required under this section, the Secretary may take appropriate action to recover from the nuclear supplier—
+  - **(2)** *Action by secretary of treasury* The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
+- **(c)** *Failure to Pay* If a nuclear supplier fails to make a payment required under this section, the Secretary may take appropriate action to recover from the nuclear supplier—
   - **(1)** the amount of the payment due from the nuclear supplier;
   - **(2)** any applicable interest on the payment; and
   - **(3)** a penalty of not more than twice the amount of the deferred payment due from the nuclear supplier.
 
 ## § 10. Limitation on judicial review; cause of action
 
-- **(a)** *Limitation on judicial review*
+- **(a)** *Limitation on Judicial Review*
   - **(1)** *In general* In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, United States Code, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
   - **(2)** *Supreme court jurisdiction* Nothing in this subsection affects the jurisdiction of the Supreme Court of the United States under chapter 81 of title 28, United States Code.
-- **(b)** *Cause of action*
+- **(b)** *Cause of Action*
   - **(1)** *In general* Subject to paragraph (2), in any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, in addition to any other cause of action that may exist, an individual or entity shall have a cause of action against the operator to recover for nuclear damage suffered by the individual or entity.
   - **(2)** *Requirement* Paragraph (1) shall apply only if the individual or entity seeks a remedy for nuclear damage (as defined in Article I of the Convention) that was caused by a nuclear incident (as defined in Article I of the Convention) that is not a Price-Anderson incident.
   - **(3)** *Effect of subsection* Nothing in this subsection limits, modifies, extinguishes, or otherwise affects any cause of action that would have existed in the absence of enactment of this subsection.
@@ -157,12 +158,12 @@ Nothing in the Convention or this Act requires the disclosure of—
 
 ## § 13. Regulations
 
-- **(a)** *In general* The Secretary or the Commission, as appropriate, may prescribe regulations to carry out section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) and this Act.
+- **(a)** *In General* The Secretary or the Commission, as appropriate, may prescribe regulations to carry out section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) and this Act.
 - **(b)** *Requirement* Rules prescribed under this section shall ensure, to the maximum extent practicable, that—
   - **(1)** the implementation of section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) and this Act is consistent and equitable; and
   - **(2)** the financial and operational burden on a Commission licensee in complying with section 170 of that Act is not greater as a result of the enactment of this Act.
-- **(c)** *Applicability of provision* Section 553 of title 5, United States Code, shall apply with respect to the promulgation of regulations under this section.
-- **(d)** *Effect of section* The authority provided under this section is in addition to, and does not impair or otherwise affect, any other authority of the Secretary or the Commission to prescribe regulations.
+- **(c)** *Applicability of Provision* Section 553 of title 5, United States Code, shall apply with respect to the promulgation of regulations under this section.
+- **(d)** *Effect of Section* The authority provided under this section is in addition to, and does not impair or otherwise affect, any other authority of the Secretary or the Commission to prescribe regulations.
 
 ## § 14. Effective date
 

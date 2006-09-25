@@ -1,7 +1,7 @@
 ---
 measure: S. 3879
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3879
@@ -16,6 +16,10 @@ Convention on Supplementary Compensation for Nuclear Damage Contingent Cost Allo
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
+## Cosponsors (1)
+
+- Sen. Voinovich, George V. [R-OH] (V000126)
+
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
@@ -24,3 +28,7 @@ Convention on Supplementary Compensation for Nuclear Damage Contingent Cost Allo
 
 - 2006-09-08 — Introduced in Senate
 - 2006-09-08 — Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2006-09-25 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 109-346.
+- 2006-09-25 — Committee on Environment and Public Works. Reported by Senator Inhofe with amendments. With written report No. 109-346.
+- 2006-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 636.
