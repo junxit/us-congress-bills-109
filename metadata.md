@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 480
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 480
@@ -25,3 +25,6 @@ To correct the enrollment of the bill H.R. 3127.
 - 2006-09-25 — Mr. Smith (NJ) asked unanimous consent to consider as introduced.
 - 2006-09-25 — On agreeing to the resolution Agreed to without objection. (text: CR H6993)
 - 2006-09-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6993)
+- 2006-09-26 — Message on Senate action sent to the House.
+- 2006-09-26 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S10219)
+- 2006-09-26 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S10219)
