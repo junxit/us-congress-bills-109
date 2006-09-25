@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5132
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5132
@@ -34,3 +34,9 @@ River Raisin National Battlefield Study Act
 - 2006-09-06 — Placed on the Union Calendar, Calendar No. 377.
 - 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-637.
 - 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-637.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6949-6950)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5132.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6949)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6949)
