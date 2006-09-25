@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5857
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5857
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 1501 So
 - 2006-07-20 — Introduced in House
 - 2006-07-20 — Introduced in House
 - 2006-07-20 — Referred to the House Committee on Government Reform.
+- 2006-09-21 — Committee Consideration and Mark-up Session Held.
+- 2006-09-21 — Ordered to be Reported by Unanimous Consent.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6986-6987)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5857.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Davis, Tom moved to suspend the rules and pass the bill.
+- 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6986-6987)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6986-6987)
