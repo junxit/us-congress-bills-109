@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1515
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,22 +11,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2005”.
+This Act may be cited as the “Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2006”.
 
 ## § 2. Jean lafitte national historical park and preserve boundary adjustment
 
-- **(a)** *In General* Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “twenty thousand acres generally depicted on the map entitled “Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve” numbered 90,000B and dated April 1978,” and inserting “23,000 acres generally depicted on the map entitled “Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve”, numbered 467/80100, and dated August 2002,”.
-- **(b)** *Acquisition of Land* Section 902 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230a) is amended—
+- **(a)** *In General* Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “twenty thousand acres generally depicted on the map entitled “Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve” numbered 90,000B and dated April 1978,” and inserting “23,000 acres generally depicted on the map titled “Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve”, numbered 467/80100, and dated August 2002,”.
+- **(b)** *Acquisition of land* Section 902 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230a) is amended—
   - **(1)** in subsection (a)—
     - **(A)** by striking “(a) Within the” and all that follows through the first sentence and inserting the following:
       > - **(a)** *In General*
       >   - **(1)** *Barataria preserve unit*
-      >     - **(A)** *In general* The Secretary may acquire any land, water, and interests in land and water within the boundary of the Barataria Preserve Unit, as depicted on the map described in section 901, by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange.
+      >     - **(A)** *In general* The Secretary may acquire any land, water, and interests in land and water within the boundary of the Barataria Preserve Unit, as depicted on the map described in section 901, by donation, purchase with donated or appropriated funds, but only with the consent of the owner, transfer from any other Federal agency, or exchange.
       >     - **(B)** *Limitations*
-      >       - **(i)** *In general* With respect to the areas on the map identified as “Bayou aux Carpes Addition” and “CIT Tract Addition”—
-      >         - **(I)** any Federal land acquired in the areas shall be transferred without consideration to the administrative jurisdiction of the National Park Service; and
-      >         - **(II)** any private land in the areas may be acquired by the Secretary only with the consent of the owner of the land.
-      >       - **(ii)** *Easements* Any Federal land in the area identified on the map as “CIT Tract Addition” that is transferred under clause (i)(I) shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
+      >       - **(I)** *Federal land* Any Federal land acquired in the areas identified on the map as the “Bayou aux Carpes Addition” and “CIT Tract Addition” (the “Areas”) shall be transferred without consideration to the administrative jurisdiction of the National Park Service.
+      >       - **(II)** *Easements* Any Federal land in the Areas that is transferred under clause (I) shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
+      >       - **(III)** *Private interests* Any private land, water, or interests in land and water in the Barataria Preserve Unit may be acquired by the Secretary only with the consent of the owner.
 
     - **(B)** in the second sentence, by striking “The Secretary may also” and inserting the following:
       > - **(2)** *French quarter* The Secretary may
@@ -45,7 +44,9 @@ This Act may be cited as the “Jean Lafitte National Historical Park and Preser
     >   - **(4)** water and air quality.
 
   - **(3)** by redesignating subsection (g) as subsection (c).
-- **(c)** *Hunting, Fishing, and Trapping* Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence by striking “within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of this title, he” and inserting “the Secretary”.
+- **(c)** *Hunting, Fishing, and Trapping* Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence—
+  - **(1)** by inserting after “Barataria Marsh Unit” “, but only as to land, water, or interests in land and water managed by the Secretary”; and
+  - **(2)** by striking “within the core area” and all that follows through “he may” and inserting “the Secretary may”.
 - **(d)** *Administration* Section 906 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230e) is amended—
   - **(1)** by striking the first sentence; and
   - **(2)** in the second sentence, by striking “Pending such establishment and thereafter the” and inserting “The”.

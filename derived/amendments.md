@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 5 executed, 7 stated and not applied.
+13 amendatory instructions. 5 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 16 U.S.C. § 230
 
-> Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve numbered 90,000B and dated April 1978,” and inserting “23,000 acres generally depicted on the map entitled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100, and dated August 2002,”.
+> Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve numbered 90,000B and dated April 1978,” and inserting “23,000 acres generally depicted on the map titled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100, and dated August 2002,”.
 
 | | |
 |---|---|
 | Removed | `twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve numbered 90,000B and dated April 1978,` |
-| Inserted | `23,000 acres generally depicted on the map entitled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100, and dated August 2002,` |
+| Inserted | `23,000 acres generally depicted on the map titled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100, and dated August 2002,` |
 
 ### 16 U.S.C. § 230d
 
-> Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence by striking “within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of this title, he” and inserting “the Secretary”.
+> by striking “within the core area” and all that follows through “he may” and inserting “the Secretary may”.
 
 | | |
 |---|---|
-| Removed | `within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of this title, he` |
-| Inserted | `the Secretary` |
+| Removed | `within the core area” and all that follows through “he may` |
+| Inserted | `the Secretary may` |
 
 ### 16 U.S.C. § 230e
 
@@ -84,4 +84,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 230a` | replace | in the fourth sentence, by striking “In acquiring” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 230a` | replace | by striking subsections (b) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 230a` | redesignate | by redesignating subsection (g) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 230d` | insert | by inserting after “Barataria Marsh Unit” “, but only as to land, water, or interests in land and water managed by the Secretary”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 230e` | strike | by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
