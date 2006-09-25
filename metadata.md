@@ -1,7 +1,7 @@
 ---
 measure: S. 3931
 congress: 109
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 3931
@@ -24,3 +24,4 @@ Terrorist Surveillance Act of 2006
 
 - 2006-09-22 — Introduced in Senate
 - 2006-09-22 — Introduced in the Senate. Read the first time. pursuant to the order of September 21, 2006, as modified on September 22, 2006. Placed on Senate Legislative Calendar under Read the First Time. (text of measure as introduced: CR S10044-10050)
+- 2006-09-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.

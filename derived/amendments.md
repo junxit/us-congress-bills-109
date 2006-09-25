@@ -1,7 +1,7 @@
 ---
 measure: S. 3931
 congress: 109
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -35,8 +35,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating section 701 as section 801; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after title VI the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VII of the Foreign Intelligence Surveillance Act of 1978, as amended by section 3, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title VII of the Foreign Intelligence Surveillance Act of 1978, as amended by section 4, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title VII of the Foreign Intelligence Surveillance Act 18 of 1978, as amended by section 5, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title VII of the Foreign Intelligence Surveillance Act of 1978, as amended by section 4, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title VII of the Foreign Intelligence Surveillance Act 18 of 1978, as amended by section 5, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VII of the Foreign Intelligence Surveillance Act of 1978, as amended by section 6, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Sections 111, 309, and 404 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1811, 1829, and 1844) are repealed. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (e), by striking “, as defined in section 101” and all that follows through the end of the paragraph and inserting the following: “under the Constitution or the Foreign Intelligence Surveillance Act of 1978.”; and | the bill names no machine-readable US Code section |
@@ -45,11 +45,11 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking “authorized by statute” and inserting “authorized by law”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$10,000” and inserting “$100,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “five years” and inserting “15 years”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “or” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (h), by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (l); and | the bill names no machine-readable US Code section |
@@ -67,7 +67,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “a wire or” and inserting “any”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “chapter” and inserting “title”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end “, or in response to certification by the Attorney General or his designee seeking information, facilities, or technical assistance from such person under section 102 of this title”. | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end “, or in response to certification by the Attorney General or his designee seeking information, facilities, or technical assistance from such person under section 102 of this title”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “radio”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “contain foreign intelligence information or” after “the Attorney General determines that the contents” inserting “contain foreign intelligence information or”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (k), by striking “1804(a)(7)” and inserting “104(a)(6)”. | the bill names no machine-readable US Code section |
