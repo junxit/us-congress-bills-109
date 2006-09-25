@@ -87,3 +87,11 @@ This Act shall take effect on the date of the enactment of this Act and shall ap
 
 - **(1)** to any aspect of the detention, treatment, or trial of any person detained at any time since September 11, 2001; and
 - **(2)** to any claim or cause of action pending on or after the date of the enactment of this Act.
+
+## § 9. Amendments to Uniform Code of Military Justice
+
+- **(a)** *Applicability to lawful enemy combatants* Section 802(a) of title 10, United States Code (article 2(a) of the Uniform Code of Military Justice), is amended by adding at the end the following new paragraph:
+  > - **(13)** Lawful enemy combatants who violate the law of war.
+
+- **(b)** *Exclusion of chapter 47A commissions* Section 821 of such title (article 21 of such Code) is amended by adding at the end the following new sentence: “This section does not apply to military commissions established under chapter 47A of this title.”.
+- **(c)** *Inapplicability of requirement for uniform regulations* Section 36(b) of such title (article (36) of such Code) is amended by inserting before the period at the end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
