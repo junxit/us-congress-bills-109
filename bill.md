@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 383
 
-> To designate the Ice Age Floods National Geologic Trail, and for other purposes.
+> To designate the Ice Age Floods National Geologic Route, and for other purposes.
 
 ## § 1. Short title
 
