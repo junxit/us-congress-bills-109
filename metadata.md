@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1038
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1038
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 2679) to amend the Revised Statute
 
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2006-09-25 — Introduced in House
@@ -23,3 +27,10 @@ Providing for consideration of the bill (H.R. 2679) to amend the Revised Statute
 - 2006-09-25 — The House Committee on Rules reported an original measure, H. Rept. 109-678, by Mr. Gingrey.
 - 2006-09-25 — The House Committee on Rules reported an original measure, H. Rept. 109-678, by Mr. Gingrey.
 - 2006-09-25 — The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
+- 2006-09-26 — Considered as privileged matter. (consideration: CR H7356-7364, H7368)
+- 2006-09-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 1038.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 177 (Roll no. 474). (text: CR H7356)
+- 2006-09-26 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H.Res. 1038, the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
+- 2006-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 177 (Roll no. 474).(text: CR H7356)
+- 2006-09-26 — The previous question was ordered without objection. (consideration: CR H7364)
