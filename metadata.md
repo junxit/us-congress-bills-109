@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5092
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5092
@@ -188,3 +188,11 @@ Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE) Modernization and R
 - 2006-09-21 — Placed on the Union Calendar, Calendar No. 401.
 - 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-672.
 - 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-672.
+- 2006-09-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6953-6961, H6993)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5092.
+- 2006-09-25 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2006-09-26 — Considered as unfinished business. (consideration: CR H7369-7370)
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 277 - 131 (Roll no. 476). (text: CR 9/25/2006 H6953-6954)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 277 - 131 (Roll no. 476).(text: CR 9/25/2006 H6953-6954)
