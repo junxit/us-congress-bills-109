@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 948
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 948
@@ -16,7 +16,7 @@ Recognizing the dedication of the employees at the National Aeronautics and Spac
 
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
@@ -25,6 +25,9 @@ Recognizing the dedication of the employees at the National Aeronautics and Spac
 - Rep. Wicker, Roger F. [R-MS-1] (W000437)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Jindal, Bobby [R-LA-1] (J000287)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (1)
 
@@ -35,3 +38,9 @@ Recognizing the dedication of the employees at the National Aeronautics and Spac
 - 2006-07-25 — Introduced in House
 - 2006-07-25 — Introduced in House
 - 2006-07-25 — Referred to the House Committee on Science.
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7486-7488)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 948.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. Hall moved to suspend the rules and agree to the resolution.
+- 2006-09-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7486)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7486)
