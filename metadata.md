@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1515
@@ -43,3 +43,4 @@ Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 20
 - 2006-09-25 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6942)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6942)
+- 2006-09-26 — Received in the Senate.
