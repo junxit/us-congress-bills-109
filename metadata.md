@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5835
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5835
@@ -105,3 +105,10 @@ Veterans Identity and Credit Security Act of 2006
 - 2006-09-13 — Placed on the Union Calendar, Calendar No. 387.
 - 2006-09-13 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 109-651, Part I.
 - 2006-09-13 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 109-651, Part I.
+- 2006-09-18 — Unfavorable Executive Comment Received from Veterans' Affairs.
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7468-7478)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5835.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. Buyer moved to suspend the rules and pass the bill, as amended.
+- 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7468-7472)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7468-7472)
