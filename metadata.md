@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5136
@@ -47,3 +47,9 @@ National Integrated Drought Information System Act of 2006
 - 2006-06-15 — Placed on the Union Calendar, Calendar No. 280.
 - 2006-06-15 — Reported (Amended) by the Committee on Science. H. Rept. 109-503.
 - 2006-06-15 — Reported (Amended) by the Committee on Science. H. Rept. 109-503.
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7484-7486)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5136.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
+- 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7484)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7484)
