@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6164
 congress: 109
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 6164
