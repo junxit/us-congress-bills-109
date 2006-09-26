@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2679
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2679
@@ -103,3 +103,21 @@ Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of R
 - 2006-09-14 — Placed on the Union Calendar, Calendar No. 390.
 - 2006-09-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-657.
 - 2006-09-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-657.
+- 2006-09-25 — Rules Committee Resolution H. Res. 1038 Reported to House. Rule provides for consideration of H.R. 2679 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
+- 2006-09-26 — Amendment agreed to by House: On agreeing to the Rules amendment (A001) Agreed to without objection.(text: CR H7389)
+- 2006-09-26 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H7389; text: CR H7389)
+- 2006-09-26 — Considered as unfinished business. (consideration: CR H7422-7423)
+- 2006-09-26 — Considered under the provisions of rule H. Res. 1038. (consideration: CR H7389-7404)
+- 2006-09-26 — DEBATE - The House proceeded with one hour of debate on H.R. 2679.
+- 2006-09-26 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.(text: CR H7389)
+- 2006-09-26 — House amendment offered
+- 2006-09-26 — House amendment offered/reported by : Amendment in the nature of a substitute reported by the House Committee on Rules.(consideration: CR H7389; text: CR H7389)
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — On agreeing to the Rules amendment (A001) Agreed to without objection. (text: CR H7389)
+- 2006-09-26 — On passage Passed by the Yeas and Nays: 244 - 173 (Roll no. 480).
+- 2006-09-26 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H.R. 2679, the Chair put the question on adoption of the bill and by voice vote, announced that the ayes had prevailed. Mr. Smith (TX) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
+- 2006-09-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 173 (Roll no. 480).
+- 2006-09-26 — Rule H. Res. 1038 passed House.
+- 2006-09-26 — Rule provides for consideration of H.R. 2679 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
+- 2006-09-26 — The previous question was ordered pursuant to the rule. (consideration: CR H7404)
+- 2006-09-26 — The title of the measure was amended. Agreed to without objection.
