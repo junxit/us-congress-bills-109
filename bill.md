@@ -19,7 +19,7 @@ This Act may be cited as the “Bureau of Alcohol, Tobacco, Firearms, and Explos
   > - **(e)**
   >   - **(1)**
   >     - **(A)** If the Attorney General determines that a licensee under this section has willfully violated any provision of this chapter or any regulation prescribed under this chapter, the Attorney General may—
-  >       - **(i)** if the violation is of a minor nature, or if the violation is that the licensee has failed to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except because of theft, casualty loss, consumer sales, back orders from a manufacturer, or any other similar reason beyond the control of the licensee)—
+  >       - **(i)** if the violation is of a minor nature—
   >         - **(I)** impose on the licensee a civil money penalty of not more than $1,000 for each such violation, except that the total amount of penalties imposed on a licensee under this subclause for violations arising from a single inspection or examination shall not exceed $5,000; or
   >         - **(II)** suspend the license for not more than 30 days, and specify the circumstances under which the suspension is to be terminated, if, in the period for which the license is in effect, there have been at least 2 prior occasions on which the licensee has been determined to have violated this chapter; or
   >       - **(ii)** if the violation is of a serious nature—
@@ -49,9 +49,7 @@ This Act may be cited as the “Bureau of Alcohol, Tobacco, Firearms, and Explos
   >       - **(ii)** of the nature of the penalty; and
   >       - **(iii)** that the licensee may, within 30 days after receipt of the notice, request a hearing to review the determination.
   >     - **(B)** A hearing to review a determination made under paragraph (1) with respect to a licensee shall not be held unless the licensee requests such a hearing within 30 days after receiving the notice of the determination sent pursuant to subparagraph (A).
-  >     - **(C)** On timely receipt from the licensee of a request for such a review, the Attorney General shall stay the imposition under paragraph (1) of any penalty involved, pending resolution of the review, unless, in the case of a suspension or revocation of a licensee, the Attorney General establishes, at a hearing before an administrative law judge, by clear and convincing evidence, that—
-  >       - **(i)** the licensee or the principal owner of the business subject to the license has been indicted and charged with a criminal violation of this chapter; and
-  >       - **(ii)** the continued operation by the licensee of the business poses an immediate and grave threat to public safety.
+  >     - **(C)** On timely receipt from the licensee of a request for such a review, the Attorney General shall stay the imposition under paragraph (1) of any penalty involved, pending resolution of the review, unless, in the case of a suspension or revocation of a licensee, the Attorney General establishes, at a hearing before an administrative law judge, by clear and convincing evidence, that the continued operation by the licensee of the business poses an immediate and grave threat to public safety.
   >   - **(3)**
   >     - **(A)** Within 90 days after timely receipt from a licensee of a request to review a determination made under paragraph (1) (or at such later time as is agreed to by the Attorney General and the licensee), an administrative law judge shall hold a hearing, at a location convenient to the licensee, to review the determination.
   >     - **(B)** Not less than 30 days before the hearing, the Attorney General shall deliver to the licensee—
@@ -59,9 +57,7 @@ This Act may be cited as the “Bureau of Alcohol, Tobacco, Firearms, and Explos
   >       - **(ii)** a copy of each document which will be introduced as evidence at the hearing; and
   >       - **(iii)** copies of all documents on which the determination is based.
   >     - **(C)** Within 90 days after the hearing, the administrative law judge shall issue a written decision setting forth findings of fact and conclusions of law, and a decision as to whether to affirm, modify, or reverse the determination.
-  >     - **(D)** On request of the licensee, the Attorney General shall stay the effective date of any penalty, suspension, or revocation until there has been a final, nonreviewable judgment with respect to the determination involved, unless, in the case of a suspension or revocation of a licensee, the Attorney General establishes, at a hearing before an administrative law judge, by clear and convincing evidence, that—
-  >       - **(i)** the licensee or the principal owner of the business subject to the license has been indicted and charged with a criminal violation of this chapter; and
-  >       - **(ii)** the continued operation by the licensee of the business poses an immediate and grave threat to public safety.
+  >     - **(D)** On request of the licensee, the Attorney General shall stay the effective date of any penalty, suspension, or revocation until there has been a final, nonreviewable judgment with respect to the determination involved, unless, in the case of a suspension or revocation of a licensee, the Attorney General establishes, at a hearing before an administrative law judge, by clear and convincing evidence, that the continued operation by the licensee of the business poses an immediate and grave threat to public safety.
   >     - **(E)** The action of an administrative law judge under this subsection shall be considered final agency action for all purposes, and may be reviewed only as provided in subsection (f).
   >   - **(4)** This subsection shall not be interpreted to affect the authority of the Attorney General under section 922(t)(5).
   > - **(f)**
@@ -71,11 +67,8 @@ This Act may be cited as the “Bureau of Alcohol, Tobacco, Firearms, and Explos
   >   - **(4)** If criminal proceedings are instituted against a licensee alleging any violation of this chapter or of a regulation prescribed under this chapter, and the licensee is acquitted of the charges, or the proceedings are terminated, other than upon motion of the Government before trial on the charges, the Attorney General shall be absolutely barred from denying a license under this chapter, suspending or revoking a license granted under this chapter, or imposing a civil money penalty under subsection (e), if the action would be based in whole or in part on the facts which form the basis of the criminal charges.
   >   - **(5)** The Attorney General may not institute a proceeding to suspend or revoke a license granted under this chapter, or to impose a civil money penalty under subsection (e), more than 1 year after the filing of the indictment or information.
 
-- **(b)** *Conforming amendments*
-  - **(1)** *Procedure applicable to denial of application for license* Section 923(d) of such title is amended by adding at the end the following:
-    > - **(3)** If the Attorney General denies an application for a license, an administrative law judge of the Department of Justice shall, on request by the aggrieved party, promptly hold a hearing to review the denial, at a location convenient to the aggrieved party. If, after the hearing, the administrative law judge decides not to reverse the denial, the administrative law judge shall give notice of the final denial decision to the aggrieved party.
-
-  - **(2)** *Elimination of redundant penalty* Section 924 of such title is amended by striking subsection (p).
+- **(b)** *Conforming amendment to procedure applicable to denial of application for license* Section 923(d) of such title is amended by adding at the end the following:
+  > - **(3)** If the Attorney General denies an application for a license, an administrative law judge of the Department of Justice shall, on request by the aggrieved party, promptly hold a hearing to review the denial, at a location convenient to the aggrieved party. If, after the hearing, the administrative law judge decides not to reverse the denial, the administrative law judge shall give notice of the final denial decision to the aggrieved party.
 
 ## § 3. Consideration of Federal firearms license applications
 
@@ -107,7 +100,9 @@ Section 923(g)(1)(D) of title 18, United States Code, is amended in the last sen
 
 Section 923 of title 18, United States Code, is amended by adding at the end the following:
 
-> - **(m)** A person whose license issued under this chapter is expired, surrendered, or revoked shall be afforded 60 days from the effective date of the expiration, surrender, or revocation to liquidate the firearms inventory of the person, which time may be extended upon a showing of reasonable cause. During such 60-day period (including any extension of the period), the license involved shall continue to be considered valid.
+> - **(m)**
+>   - **(1)** Except as provided in paragraph (2), a person whose license issued under this chapter is expired, surrendered, or revoked shall be afforded 60 days from the effective date of the expiration, surrender, or revocation to liquidate the firearms inventory of the person, which time may be extended upon a showing of reasonable cause. During such 60-day period (including any extension of the period), the license involved shall continue to be considered valid.
+>   - **(2)** Paragraph (1) shall not apply with respect to a person if a United States District Court for the judicial district in which the person resides or in which the principal place of business of the person subject to the license is located finds, by clear and convincing evidence, that the continued operation by the person of the business poses an immediate and grave threat to public safety.
 
 ## § 9. Opportunity to cure violations after acquisition of firearms business
 
@@ -125,6 +120,15 @@ Section 922(m) of title 18, United States Code, is amended—
 - **(2)** by striking “appropriate entry” and inserting “a materially significant entry”; and
 - **(3)** by striking “properly maintain” and inserting “retain custody of”.
 
-## § 11. Effective date
+## § 11. Authority to collect information on explosives stored under State law; regulations governing storage of explosives made applicable to storage of explosives by agencies operating under State law
+
+- **(a)** *Authority to collect information on explosives stored under State law*
+  - **(1)** *In general* Section 846 of title 18, United States Code, is amended by adding at the end the following:
+    > - **(c)** Each agency operating under the law of any State or political subdivision thereof that stores or keeps explosive materials shall submit to the Attorney General, at such time as the Attorney General shall prescribe in regulations, a written report that specifies each location at which the agency stores or keeps explosive materials that have been shipped or transported in interstate or foreign commerce, and the types and amounts of such explosive materials that are stored or kept at the location.
+
+  - **(2)** *Regulations* Within 6 months after the date of the enactment of this section, the Attorney General shall prescribe the regulations referred to in section 846(c) of title 18, United States Code.
+- **(b)** *Regulations governing storage of explosives made applicable to storage of explosives by agencies operating under State law* Subpart K of part 555 of subchapter C of chapter II of title 27, Code of Federal Regulations, shall apply with respect to the storage by agencies operating under the law of any State or political subdivision thereof of explosive materials that have been shipped or transported in interstate or foreign commerce.
+
+## § 12. Effective date
 
 This Act and the amendments made by this Act shall take effect at the end of the 180-day period that begins with the date of the enactment of this Act.
