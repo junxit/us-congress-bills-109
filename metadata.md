@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4377
 congress: 109
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 4377
@@ -42,3 +42,13 @@ To extend the time required for construction of a hydroelectric project, and for
 - 2006-09-26 — Placed on the Union Calendar, Calendar No. 414.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-684.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-684.
+- 2006-09-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11106)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11106)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-05 — Presented to President.
+- 2006-12-05 — Presented to President.
+- 2006-12-13 — Became Public Law No: 109-393.
+- 2006-12-13 — Became Public Law No: 109-393.
+- 2006-12-13 — Signed by President.
+- 2006-12-13 — Signed by President.
