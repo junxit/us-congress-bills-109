@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6159
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6159
@@ -31,3 +31,13 @@ To extend temporarily certain authorities of the Small Business Administration.
 - 2006-09-26 — Mr. Manzullo moved to suspend the rules and pass the bill.
 - 2006-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7488)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7488)
+- 2006-09-27 — Received in the Senate, read twice.
+- 2006-09-30 — Message on Senate action sent to the House.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10778-10779)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10778-10779)
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-10 — Became Public Law No: 109-316.
+- 2006-10-10 — Became Public Law No: 109-316.
+- 2006-10-10 — Signed by President.
+- 2006-10-10 — Signed by President.
