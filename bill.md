@@ -2,7 +2,7 @@
 legis-num: H. RES. 1017
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1017
@@ -32,7 +32,8 @@ That the House of Representatives—
 - **(6)** calls on Iran and Syria to cease supporting Hizballah with funds and arms;
 - **(7)** condemns Syria’s ongoing overt and covert campaign of intimidation against Lebanon;
 - **(8)** condemns the Syrian leader’s outrageous claim that the deployment of international peace-keeping forces on the Lebanese-Syrian border would be “hostile” against Syria;
-- **(9)** urges the Government of Lebanon to request without delay a robust international force deployment on the Lebanese border with Syria, so as to prevent the re-supply of weapons to Hizballah and to ensure the full implementation of all aspects of UNSCR 1701 in spirit and intent, as well as in letter;
-- **(10)** believes that without such an international deployment on the Lebanese border with Syria another Hizballah-provoked war will break out with horrendous consequences for the people of Lebanon, Israel, and the entire region;
-- **(11)** pledges support for the democratically-elected Government of Lebanon and the Lebanese people against Syria’s campaign of intimidation; and
-- **(12)** re-affirms its strong support for Lebanon’s independence and for the full sovereignty of the Government of Lebanon over Lebanese territory, through the instrument of the Lebanese armed forces.
+- **(9)** urges the Government of Lebanon to request without delay international assistance including, but not limited to, military forces, as needed, on the Lebanese border with Syria so as to prevent the re-supply of weapons to Hizballah and to ensure the full implementation of all aspects of UNSCR 1701 in spirit and intent, as well as in letter;
+- **(10)** urges that such international assistance not impede commercial, non-military trade between civilians on both sides of the border;
+- **(11)** believes that without such international assistance on the Lebanese border with Syria another Hizballah-provoked war will break out with horrendous consequences for the people of Lebanon, Israel and the entire region;
+- **(12)** pledges support for the democratically-elected Government of Lebanon and the Lebanese people against Syria’s campaign of intimidation; and
+- **(13)** re-affirms its strong support for Lebanon’s independence and for the full sovereignty of the Government of Lebanon over Lebanese territory, through the instrument of the Lebanese armed forces.
