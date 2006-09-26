@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1215
@@ -45,3 +45,9 @@ Green Chemistry Research and Development Act of 2005
 - 2005-05-16 — Placed on the Union Calendar, Calendar No. 42.
 - 2005-05-16 — Reported (Amended) by the Committee on Science. H. Rept. 109-82.
 - 2005-05-16 — Reported (Amended) by the Committee on Science. H. Rept. 109-82.
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7480-7484)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1215.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
+- 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7480-7482)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7480-7482)
