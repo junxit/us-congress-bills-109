@@ -1,7 +1,7 @@
 ---
 measure: S. 3687
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3687
@@ -28,3 +28,7 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 
 - 2006-07-19 — Introduced in Senate
 - 2006-07-19 — Read twice and referred to the Committee on Indian Affairs.
+- 2006-09-14 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2006-09-26 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-349.
+- 2006-09-26 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-349.
+- 2006-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 642.
