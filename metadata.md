@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6164
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6164
@@ -42,3 +42,14 @@ National Institutes of Health Reform Act of 2006
 - 2006-09-25 — Introduced in House
 - 2006-09-25 — Introduced in House
 - 2006-09-25 — Referred to the House Committee on Energy and Commerce.
+- 2006-09-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-09-26 — Considered as unfinished business. (consideration: CR H7467)
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7453-7465)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6164.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. Barton (TX) moved to suspend the rules and pass the bill.
+- 2006-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 485). (text: CR H7453-7459)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 485).(text: CR H7453-7459)
+- 2006-09-26 — Placed on the Union Calendar, Calendar No. 417.
+- 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-687.
+- 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-687.
