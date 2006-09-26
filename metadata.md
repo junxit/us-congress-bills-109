@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4942
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4942
@@ -48,3 +48,9 @@ Promoting Antiterrorism Capabilities Through International Cooperation Act
 - 2006-09-25 — Placed on the Union Calendar, Calendar No. 407.
 - 2006-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 109-674.
 - 2006-09-25 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 109-674.
+- 2006-09-26 — Considered under suspension of the rules. (consideration: CR H7433-7437)
+- 2006-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4942.
+- 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-26 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7433-7434)
+- 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7433-7434)
