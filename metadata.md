@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5637
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5637
@@ -44,6 +44,10 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - House — Judiciary Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2006-09-27 — [House 109-2-492](votes/house-109-2-0492.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–0)
+
 ## Actions
 
 - 2006-06-19 — Introduced in House
@@ -65,3 +69,11 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - 2006-09-22 — Committee on Judiciary discharged.
 - 2006-09-22 — Committee on Judiciary discharged.
 - 2006-09-22 — Placed on the Union Calendar, Calendar No. 404.
+- 2006-09-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-09-27 — Considered as unfinished business. (consideration: CR H7592)
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7561-7565)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5637.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Oxley moved to suspend the rules and pass the bill, as amended.
+- 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 492). (text: CR H7561-7563)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 492).(text: CR H7561-7563)
