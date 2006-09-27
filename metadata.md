@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6051
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6051
@@ -54,3 +54,13 @@ To designate the Federal building and United States courthouse located at 2 Sout
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7627)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7627)
 - 2006-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-28 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10802-10803)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10802-10803)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-335.
+- 2006-10-12 — Became Public Law No: 109-335.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
