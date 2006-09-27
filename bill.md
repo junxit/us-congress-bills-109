@@ -164,16 +164,20 @@ This Act may be cited as the “Financial Netting Improvements Act of 2006”.
 ## § 7. Compensation of chapter 7 trustees; chapter 7 filing fees
 
 - **(a)** *Amendments to title 11 of the United States Code*
-  - **(1)** *Compensation of chapter 7 trustees* Section 330(b)(1) of title 11, United States Code, is amended by striking “$45” and inserting “$100”.
+  - **(1)** *Compensation of chapter 7 trustees* Section 330(b)(1) of title 11, United States Code, is amended—
+    - **(A)** by striking “$45” and inserting “$100”, and
+    - **(B)** by inserting before the period at the end the following:
   - **(2)** *Related amendments* Section 330(b) of title 11, United States Code, is amended—
     - **(A)** by striking “(1)”, and
     - **(B)** by striking paragraph (2).
 - **(b)** *Amendments to title 28 of the United States Code*
-  - **(1)** *Chapter 7 filing fee* Section 1930(a)(1)(A) of title 28 of the United States Code, as amended by section 10101 of Public Law 109–171, is amended by striking “$245” and inserting “$300”, and
-  - **(2)** *United states trustee fund* Section 589a(b)(1)(A) of title 28, United States Code, is amended by striking “40.46” and inserting “29.67”.
-- **(c)** *Related amendment regarding collections and deposits of miscellaneous bankruptcy fees* Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “28.87” and inserting “21.17”.
+  - **(1)** *Chapter 7 filing fee* Section 1930 of title 28 of the United States Code, as amended by section 10101 of Public Law 109–171, is amended—
+    - **(A)** in subsection (a)(1)(A) by striking “$245” and inserting “$300”, and
+    - **(B)** in subsection (f)(1) by inserting after the 1st sentence the following:
+  - **(2)** *United states trustee fund* Section 589a(b)(1)(A) of title 28, United States Code, is amended by striking “40.46 percent of the fees collected under section 1930(a)(1)(A)” and inserting “29.67 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) and the amount of fees waived under the 2d sentence of section 1930(f)(1)”.
+- **(c)** *Related amendment regarding collections and deposits of miscellaneous bankruptcy fees* Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “28.87 percent of the fees collected under section 1930(a)(1)(A) of that title” and inserting “21.17 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) of that title and the amount of fees waived under the 2d sentence of section 1930(f)(1)) of that title”.
 - **(d)** *Conforming amendment* Section 10101(a) of Public Law 109–171 is amended by striking paragraph (2).
-- **(e)** *Effective date; application of amendments* The amendments made by this section shall take effect 60 days after the date of the enactment of this Act and shall not apply with respect to cases commenced under title 11 of the United States Code before the date such amendments take effect.
+- **(e)** *Effective date; application of amendments* The amendments made by this section shall take effect 120 days after the date of the enactment of this Act and shall not apply with respect to cases commenced under title 11 of the United States Code before the date such amendments take effect.
 
 ## § 8. Scope of application
 
