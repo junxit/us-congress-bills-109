@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2322
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2322
@@ -16,7 +16,7 @@ To designate the Federal building located at 320 North Main Street in McAllen, T
 
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
-## Cosponsors (28)
+## Cosponsors (31)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
@@ -46,6 +46,9 @@ To designate the Federal building located at 320 North Main Street in McAllen, T
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
 
 ## Committees (1)
 
@@ -56,3 +59,14 @@ To designate the Federal building located at 320 North Main Street in McAllen, T
 - 2005-05-12 — Introduced in House
 - 2005-05-12 — Introduced in House
 - 2005-05-12 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-05-13 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2006-09-14 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2006-09-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-09-20 — Committee Consideration and Mark-up Session Held.
+- 2006-09-20 — Ordered to be Reported by Voice Vote.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7630-7632)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2322.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7630)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7630)
