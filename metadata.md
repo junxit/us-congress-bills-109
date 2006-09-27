@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2322
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 2322
@@ -70,3 +70,13 @@ To designate the Federal building located at 320 North Main Street in McAllen, T
 - 2006-09-27 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7630)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7630)
+- 2006-09-28 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10802-10803)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10802-10803)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-05 — Presented to President.
+- 2006-10-05 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-343.
+- 2006-10-13 — Became Public Law No: 109-343.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
