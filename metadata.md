@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5606
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5606
@@ -40,3 +40,13 @@ To designate the Federal building and United States courthouse located at 221 an
 - 2006-09-27 — Mr. Shuster moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7625)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7625)
+- 2006-09-28 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10802-10803)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10802-10803)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-332.
+- 2006-10-12 — Became Public Law No: 109-332.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
