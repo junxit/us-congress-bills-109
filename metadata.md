@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5503
@@ -34,3 +34,9 @@ FHA Multifamily Loan Limit Adjustment Act of 2006
 - 2006-09-08 — Placed on the Union Calendar, Calendar No. 384.
 - 2006-09-08 — Reported by the Committee on Financial Services. H. Rept. 109-645.
 - 2006-09-08 — Reported by the Committee on Financial Services. H. Rept. 109-645.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7594-7596)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5503.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Miller, Gary moved to suspend the rules and pass the bill.
+- 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7594)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7594)
