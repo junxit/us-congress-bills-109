@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5546
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5546
@@ -33,3 +33,15 @@ To designate the United States courthouse to be constructed in Greenville, South
 - 2006-06-07 — Introduced in House
 - 2006-06-07 — Introduced in House
 - 2006-06-07 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-06-08 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2006-09-14 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2006-09-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2006-09-20 — Committee Consideration and Mark-up Session Held.
+- 2006-09-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7624-7625)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5546.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Shuster moved to suspend the rules and pass the bill, as amended.
+- 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7624)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7624)
+- 2006-09-27 — The title of the measure was amended. Agreed to without objection.
