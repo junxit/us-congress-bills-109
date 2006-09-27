@@ -1,7 +1,7 @@
 ---
 measure: S. 3630
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3630
@@ -24,3 +24,7 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize a program
 
 - 2006-07-10 — Introduced in Senate
 - 2006-07-10 — Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-27 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-352.
+- 2006-09-27 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-352.
+- 2006-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 646.
