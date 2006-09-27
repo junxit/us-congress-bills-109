@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5092
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 4 executed, 8 stated and not applied.
+12 amendatory instructions. 1 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,33 +33,6 @@ to guess them.
 | Removed | `(d)(3)` |
 | Inserted | `(d)(4)` |
 
-### 18 U.S.C. § 922
-
-> by striking “any false entry” and inserting “a materially false entry”;
-
-| | |
-|---|---|
-| Removed | `any false entry` |
-| Inserted | `a materially false entry` |
-
-### 18 U.S.C. § 922
-
-> by striking “appropriate entry” and inserting “a materially significant entry”; and
-
-| | |
-|---|---|
-| Removed | `appropriate entry` |
-| Inserted | `a materially significant entry` |
-
-### 18 U.S.C. § 922
-
-> by striking “properly maintain” and inserting “retain custody of”.
-
-| | |
-|---|---|
-| Removed | `properly maintain` |
-| Inserted | `retain custody of` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -72,8 +45,11 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 923` | replace | Section 923 of title 18, United States Code, is amended by striking subsections (e) and (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 923` | add-at-end | Section 923(d) of such title is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 923` | redesignate | Section 923(d) of title 18, United States Code, as amended by section 2(b) of this Act, is amended by redesignating paragraphs (2) and (3) as paragraphs (3) and (4) and inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 923` | add-at-end | Section 923(e) of title 18, United States Code, as amended by section 2(a) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 923` | insert | Section 923(g)(1)(D) of title 18, United States Code, is amended in the last sentence by inserting “, except that information identifying a person who has purchased or received firearms or ammunition and who is not prohibited from doing … | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 923` | add-at-end | Section 923 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 923` | add-at-end | Section 923 of title 18, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 923(e) of title 18, United States Code, as amended by section 2(a) of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 923(g)(1)(D) of title 18, United States Code, is amended in the last sentence by inserting “, except that information identifying a person who has purchased or received firearms or ammunition and who is not prohibited from doing … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 923 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 923 of title 18, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “any false entry” and inserting “a materially false entry”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “appropriate entry” and inserting “a materially significant entry”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “properly maintain” and inserting “retain custody of”. | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 846` | add-at-end | Section 846 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
