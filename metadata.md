@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5092
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5092
@@ -196,3 +196,4 @@ Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE) Modernization and R
 - 2006-09-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 277 - 131 (Roll no. 476). (text: CR 9/25/2006 H6953-6954)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 277 - 131 (Roll no. 476).(text: CR 9/25/2006 H6953-6954)
+- 2006-09-27 — Received in the Senate.
