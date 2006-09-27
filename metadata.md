@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5103
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5103
@@ -40,3 +40,4 @@ To provide for the conveyance of the former Konnarock Lutheran Girls School in S
 - 2006-09-26 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7373)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7373)
+- 2006-09-27 — Received in the Senate, read twice.
