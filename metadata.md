@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6014
@@ -16,6 +16,10 @@ To authorize the Secretary of the Interior, acting through the Bureau of Reclama
 
 - Rep. Pombo, Richard W. [R-CA-11] (P000419)
 
+## Cosponsors (1)
+
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,12 @@ To authorize the Secretary of the Interior, acting through the Bureau of Reclama
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Introduced in House
 - 2006-07-28 — Referred to the House Committee on Resources.
+- 2006-08-07 — Executive Comment Requested from Interior.
+- 2006-08-07 — Referred to the Subcommittee on Water and Power.
+- 2006-09-07 — Subcommittee Hearings Held.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7643)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6014.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7643)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7643)
