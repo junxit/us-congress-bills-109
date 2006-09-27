@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5160
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5160
@@ -16,7 +16,7 @@ Long Island Sound Stewardship Act of 2006
 
 - Rep. Simmons, Rob [R-CT-2] (S001152)
 
-## Cosponsors (25)
+## Cosponsors (29)
 
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
@@ -43,6 +43,10 @@ Long Island Sound Stewardship Act of 2006
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 - Rep. Kelly, Sue W. [R-NY-19] (K000078)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Sweeney, John E. [R-NY-20] (S001149)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
 
 ## Committees (2)
 
@@ -56,3 +60,12 @@ Long Island Sound Stewardship Act of 2006
 - 2006-04-06 — Referred to the Committee on Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-04-06 — Referred to the Committee on Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2006-04-06 — Referred to the Committee on Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2006-04-07 — Referred to the Subcommittee on Water Resources and Environment.
+- 2006-04-19 — Executive Comment Requested from Commerce.
+- 2006-04-19 — Referred to the Subcommittee on Fisheries and Oceans.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7644-7648)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5160.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7644-7646)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7644-7646)
