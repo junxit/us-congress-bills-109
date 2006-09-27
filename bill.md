@@ -17,5 +17,5 @@ This Act may be cited as the “HOPE VI Reauthorization Act of 2006”.
 
 Section 24 of the United States Housing Act of 1937 (42 U.S.C. 1437v) is amended—
 
-- **(1)** in subsection (m)(1), by striking “fiscal year 2003” and inserting “each of fiscal years 2007 through 2011”; and
-- **(2)** in subsection (o), by striking “September 30, 2006” and inserting “September 30, 2011”.
+- **(1)** in paragraph (1) of subsection (m), by striking the matter that follows “section” and inserting the following: “such sums as may be necessary for fiscal year 2007.”; and
+- **(2)** in subsection (o), by striking “September 30, 2006” and inserting “September 30, 2007”.
