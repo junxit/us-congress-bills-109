@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6106
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
