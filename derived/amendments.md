@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 109
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-73 amendatory instructions. 27 executed, 46 stated and not applied.
+75 amendatory instructions. 27 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -233,7 +233,7 @@ to guess them.
 
 ### 11 U.S.C. § 330
 
-> Section 330(b)(1) of title 11, United States Code, is amended by striking “$45” and inserting “$100”.
+> by striking “$45” and inserting “$100”, and
 
 | | |
 |---|---|
@@ -242,7 +242,7 @@ to guess them.
 
 ### 28 U.S.C. § 1930
 
-> Section 1930(a)(1)(A) of title 28 of the United States Code, as amended by section 10101 of Public Law 109–171, is amended by striking “$245” and inserting “$300”, and
+> in subsection (a)(1)(A) by striking “$245” and inserting “$300”, and
 
 | | |
 |---|---|
@@ -251,21 +251,21 @@ to guess them.
 
 ### 28 U.S.C. § 589a
 
-> Section 589a(b)(1)(A) of title 28, United States Code, is amended by striking “40.46” and inserting “29.67”.
+> Section 589a(b)(1)(A) of title 28, United States Code, is amended by striking “40.46 percent of the fees collected under section 1930(a)(1)(A)” and inserting “29.67 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) and the amount of fees waived under the 2d sentence of section 1930(f)(1)”.
 
 | | |
 |---|---|
-| Removed | `40.46` |
-| Inserted | `29.67` |
+| Removed | `40.46 percent of the fees collected under section 1930(a)(1)(A)` |
+| Inserted | `29.67 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) and the amount of fees waived under the 2d sentence of section 1930(f)(1)` |
 
 ### 28 U.S.C. § 1931
 
-> Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “28.87” and inserting “21.17”.
+> Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “28.87 percent of the fees collected under section 1930(a)(1)(A) of that title” and inserting “21.17 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) of that title and the amount of fees waived under the 2d sentence of section 1930(f)(1)) of that title”.
 
 | | |
 |---|---|
-| Removed | `28.87` |
-| Inserted | `21.17` |
+| Removed | `28.87 percent of the fees collected under section 1930(a)(1)(A) of that title` |
+| Inserted | `21.17 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) of that title and the amount of fees waived under the 2d sentence of section 1930(f)(1)) of that title` |
 
 ## Stated, not applied
 
@@ -319,6 +319,8 @@ complete account of the bill's effect, which it is not.
 | `11 U.S.C. § 546` | add-at-end | Title IX of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (Public Law 109–8, 119 Stat. 146) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1821` | replace | Section 11(e)(8)(G) of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(G)) is amended by striking clause (ii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1787` | replace | Section 207(c)(8)(G) of the Federal Credit Union Act 12 U.S.C. 1787(c)(8)(G)) is amended by striking clause (ii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1930` | insert | by inserting before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `11 U.S.C. § 330` | strike | by striking “(1)”, and | the bill quotes the text struck but describes what replaces it |
 | `11 U.S.C. § 330` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1930` | insert | in subsection (f)(1) by inserting after the 1st sentence the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `11 U.S.C. § 330` | strike | Section 10101(a) of Public Law 109–171 is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
