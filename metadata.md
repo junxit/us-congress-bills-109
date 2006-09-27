@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6106
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6106
@@ -34,3 +34,9 @@ To extend the waiver authority for the Secretary of Education under title IV, se
 - 2006-09-19 — Introduced in House
 - 2006-09-19 — Introduced in House
 - 2006-09-19 — Referred to the House Committee on Education and the Workforce.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7613-7615)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6106.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Jindal moved to suspend the rules and pass the bill.
+- 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7613)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7613)
