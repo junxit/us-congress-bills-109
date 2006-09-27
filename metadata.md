@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4876
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4876
@@ -16,6 +16,10 @@ To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio A
 
 - Rep. Udall, Tom [D-NM-3] (U000039)
 
+## Cosponsors (1)
+
+- Rep. Wilson, Heather [R-NM-1] (W000789)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -26,3 +30,10 @@ To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio A
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Referred to the House Committee on Resources.
 - 2006-03-02 — Sponsor introductory remarks on measure. (CR E269)
+- 2006-03-07 — Executive Comment Requested from Interior.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7662-7663)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4876.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Gohmert moved to suspend the rules and pass the bill.
+- 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7662)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7662)
