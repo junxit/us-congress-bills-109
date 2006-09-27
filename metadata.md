@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5483
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5483
@@ -44,3 +44,9 @@ Railroad Retirement Disability Earnings Act
 - 2006-09-19 — Placed on the Union Calendar, Calendar No. 400.
 - 2006-09-19 — Reported by the Committee on Transportation. H. Rept. 109-669.
 - 2006-09-19 — Reported by the Committee on Transportation. H. Rept. 109-669.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7621-7622)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5483.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. LaTourette moved to suspend the rules and pass the bill.
+- 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7621-7622)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7621-7622)

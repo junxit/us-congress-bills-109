@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5483
 congress: 109
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
