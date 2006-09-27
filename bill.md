@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5585
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5585
@@ -65,7 +65,7 @@ This Act may be cited as the “Financial Netting Improvements Act of 2006”.
 
 ## § 3. Clarifying amendments relating to definition of person
 
-- **(a)** *FDIC-Insured Depository Institutions Definition of Person* Section 11(e)(8)(D) of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(D)) is amended by adding at the end the following:
+- **(a)** *FDIC-insured Depository Institutions Definition of Person* Section 11(e)(8)(D) of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(D)) is amended by adding at the end the following:
   > - **(ix)** *Person* The term person includes any governmental entity in addition to any entity included in the definition of such term in section 1 of title 1, United States Code.
 
 - **(b)** *Insured Credit Unions definition of person* Section 207(c)(8)(D) of the Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)) is amended by adding at the end the following:
@@ -155,30 +155,12 @@ This Act may be cited as the “Financial Netting Improvements Act of 2006”.
   >   - **(II)** 5:00 p.m. (eastern time) on the business day following the date of the appointment of the receiver.
   > - **(iii)** *Walkaway clause defined* For purposes of this subparagraph, the term “walkaway clause” means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured depository institution that is a party to the contract or the appointment of or the exercise of rights or powers by a conservator or receiver of such depository institution, and not as a result of a party's exercise of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
 
-- **(b)** *Insured credit unions* Section 207(c)(8)(G) of the Federal Credit Union Act 12 U.S.C. 1787(c)(8)(G)) is amended by striking clause (ii) and inserting the following new clauses:
+- **(b)** *Insured credit unions* Section 207(c)(8)(G) of the Federal Credit Union Act (12 U.S.C. 1787(c)(8)(G)) is amended by striking clause (ii) and inserting the following new clauses:
   > - **(ii)** *Limited suspension of certain obligations* In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due from a party pursuant to the qualified financial contract shall be suspended from the time the liquidating agent is appointed until the earlier of—
   >   - **(I)** the time such party receives notice that such contract has been transferred pursuant to subparagraph (A); or
   >   - **(II)** 5:00 p.m. (eastern time) on the business day following the date of the appointment of the liquidating agent.
   > - **(iii)** *Walkaway clause defined* For purposes of this subparagraph, the term “walkaway clause” means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of such party's status as a nondefaulting party in connection with the insolvency of an insured credit union or the appointment of or the exercise of rights or powers by a conservator or liquidating agent of such credit union, and not as a result of a party's exercise of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
 
-## § 7. Compensation of chapter 7 trustees; chapter 7 filing fees
+## § 7. Scope of application
 
-- **(a)** *Amendments to title 11 of the United States Code*
-  - **(1)** *Compensation of chapter 7 trustees* Section 330(b)(1) of title 11, United States Code, is amended—
-    - **(A)** by striking “$45” and inserting “$100”, and
-    - **(B)** by inserting before the period at the end the following:
-  - **(2)** *Related amendments* Section 330(b) of title 11, United States Code, is amended—
-    - **(A)** by striking “(1)”, and
-    - **(B)** by striking paragraph (2).
-- **(b)** *Amendments to title 28 of the United States Code*
-  - **(1)** *Chapter 7 filing fee* Section 1930 of title 28 of the United States Code, as amended by section 10101 of Public Law 109–171, is amended—
-    - **(A)** in subsection (a)(1)(A) by striking “$245” and inserting “$300”, and
-    - **(B)** in subsection (f)(1) by inserting after the 1st sentence the following:
-  - **(2)** *United states trustee fund* Section 589a(b)(1)(A) of title 28, United States Code, is amended by striking “40.46 percent of the fees collected under section 1930(a)(1)(A)” and inserting “29.67 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) and the amount of fees waived under the 2d sentence of section 1930(f)(1)”.
-- **(c)** *Related amendment regarding collections and deposits of miscellaneous bankruptcy fees* Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “28.87 percent of the fees collected under section 1930(a)(1)(A) of that title” and inserting “21.17 percent of the sum of the amount of fees collected under section 1930(a)(1)(A) of that title and the amount of fees waived under the 2d sentence of section 1930(f)(1)) of that title”.
-- **(d)** *Conforming amendment* Section 10101(a) of Public Law 109–171 is amended by striking paragraph (2).
-- **(e)** *Effective date; application of amendments* The amendments made by this section shall take effect 120 days after the date of the enactment of this Act and shall not apply with respect to cases commenced under title 11 of the United States Code before the date such amendments take effect.
-
-## § 8. Scope of application
-
-Subject to section 7(e), the amendments made by this Act shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act.
+The amendments made by this Act shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act.
