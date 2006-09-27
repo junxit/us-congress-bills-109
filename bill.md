@@ -32,7 +32,7 @@ The authority to establish military commissions under chapter 47A of title 10, U
     > - **(13)** Lawful enemy combatants (as that term is defined in section 948a(2) of this title) who violate the law of war.
 
   - **(2)** *Exclusion of applicability to chapter 47A commissions* Sections 821, 828, 848, 850(a), 904, and 906 (articles 21, 28, 48, 50(a), 104, and 106) are amended by adding at the end the following new sentence: “This section does not apply to a military commission established under chapter 47A of this title.”.
-  - **(3)** *Inapplicability of requirements relating to regulations* Section 836 (article 36(b)) is amended—
+  - **(3)** *Inapplicability of requirements relating to regulations* Section 836 (article 36) is amended—
     - **(A)** in subsection (a), by inserting “, except as provided in chapter 47A of this title,” after “but which may not”; and
     - **(B)** in subsection (b), by inserting before the period at the end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
 - **(b)** *Punitive Article of Conspiracy* Section 881 of title 10, United States Code (article 81 of the Uniform Code of Military Justice), is amended—
@@ -99,6 +99,7 @@ The authority to establish military commissions under chapter 47A of title 10, U
       >     - **(A)** collateral damage; or
       >     - **(B)** death, damage, or injury incident to a lawful attack.
       >   - **(4)** *Inapplicability of taking hostages to prisoner exchange* Paragraph (1)(I) does not apply to an offense under subsection (a) by reason of subsection (c)(3) in the case of a prisoner exchange during wartime.
+      >   - **(5)** *Definition of grave breaches* The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
 
   - **(2)** *Retroactive applicability* The amendments made by this subsection, except as specified in subsection (d)(2)(E) of section 2441 of title 18, United States Code, shall take effect as of November 26, 1997, as if enacted immediately after the amendments made by section 583 of Public Law 105–118 (as amended by section 4002(e)(7) of Public Law 107–273).
 - **(c)** *Additional prohibition on cruel, inhuman, or degrading treatment or punishment*

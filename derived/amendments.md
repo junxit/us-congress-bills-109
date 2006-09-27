@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -94,9 +94,9 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 881` | insert | in subsection (a), by inserting “, except as provided in chapter 47A of this title,” after “but which may not”; and | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 881` | insert | in subsection (b), by inserting before the period at the end “, except insofar as applicable to military commissions established under chapter 47A of this title”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 881` | insert | by inserting “(a)” before “Any person”; and | the bill quotes the text inserted but describes where it goes |
-| `10 U.S.C. § 881` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 881` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2441` | replace | in subsection (c), by striking paragraph (3) and inserting the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2441` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2441` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 2241` | replace | Section 2241 of title 28, United States Code, is amended by striking both the subsection (e) added by section 1005(e)(1) of Public Law 109–148 (119 Stat. 2742) and the subsection (e) added by added by section 1405(e)(1) of Public Law 109… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2000dd-1` | insert | by inserting “or investigation” after “criminal prosecution”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2000dd-1` | insert | by inserting “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection”. | the bill quotes the text inserted but describes where it goes |
