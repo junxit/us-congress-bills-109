@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5016
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5016
@@ -34,3 +34,9 @@ Las Cienegas Enhancement Act
 - 2006-09-06 — Placed on the Union Calendar, Calendar No. 375.
 - 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-635.
 - 2006-09-06 — Reported (Amended) by the Committee on Resources. H. Rept. 109-635.
+- 2006-09-27 — Considered under suspension of the rules. (consideration: CR H7655-7656)
+- 2006-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5016.
+- 2006-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7655-7656)
+- 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7655-7656)
