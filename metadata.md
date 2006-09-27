@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3929
 congress: 109
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 3929
@@ -22,10 +22,11 @@ Dana Point Desalination Project Authorization Act
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -51,3 +52,8 @@ Dana Point Desalination Project Authorization Act
 - 2006-05-02 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2006-05-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1938)
 - 2006-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1938)
+- 2006-05-03 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-13 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2006-09-27 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment. With written report No. 109-353.
+- 2006-09-27 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment. With written report No. 109-353.
+- 2006-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 647.
