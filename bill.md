@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Financial Services Regulatory Relief Amendments Act of 2006” .
+This Act may be cited as the “Financial Services Regulatory Relief Amendments Act of 2006”.
 
 ## § 2. Amendments relating to nonfederally insured credit unions
 
