@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5946
 
-> To amend Magnuson-Stevens Fishery Conservation and Management Act to authorize activities to promote improved monitoring and compliance for high seas fisheries, or fisheries governed by international fishery management agreements, and for other purposes.
+> To amend the Magnuson-Stevens Fishery Conservation and Management Act to authorize activities to promote improved monitoring and compliance for high seas fisheries, or fisheries governed by international fishery management agreements, and for other purposes.
 
 ## § 1. Short title; table of contents
 
