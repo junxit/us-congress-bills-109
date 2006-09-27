@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4559
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4559
@@ -17,7 +17,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Consideration* As consideration for the conveyance under this subsection, the town shall pay to the Secretary an amount equal to $300,000, which is the appraised fair market value of the parcel of National Forest System land to be conveyed.
 - **(b)** *Conveyance to town of wabeno*
   - **(1)** *Conveyance* At the request of the town of Wabeno, Wisconsin (referred to in this subsection as the “town”), the Secretary of Agriculture shall convey to the town all right, title, and interest of the United States in and to the parcel of National Forest System land in Forest County, Wisconsin, consisting of approximately 173 acres, as further described in paragraph (2), for the purpose of permitting the town to use the parcel as a site for an industrial park and for other purposes.
-  - **(2)** *Legal description* The parcel of land referred to in paragraph (1) consists of the S½NW¼, E½SW¼, and east 17.30 acres of the NW¼SW¼, excluding a 100-foot wide former rail road right-of-way running through the NE¼SW¼ and SE¼NW¼ and a 0.02 acre parcel in the SW¼NW¼, a 0.93 acre parcel in the SE¼SW¼, and a 2.36 acre parcel in the E½SW¼ reserved for highway purposes, as described in volume 7, 276-277, Forest County Records, and all in section 7, township 34 north, range 15 east, Wabeno Township, Forest County, Wisconsin.
+  - **(2)** *Legal description* The parcel of land referred to in paragraph (1) consists of the S½NW¼, E½SW¼, and east 17.30 acres of the NW¼SW¼, excluding a 100-foot wide former rail road right-of-way running through the NE¼SW¼ and SE¼NW¼ and a 0.02 acre parcel in the SW¼NW¼, a 0.93 acre parcel in the SE¼SW¼, and a 2.36 acre parcel in the E½SW¼ reserved for highway purposes, as described in volume 7, 276–277, Forest County Records, and all in section 7, township 34 north, range 15 east, Wabeno Township, Forest County, Wisconsin.
   - **(3)** *Consideration* As consideration for the conveyance under this subsection, the town shall pay to the Secretary an amount equal to $320,000, which is the appraised fair market value of the parcel of National Forest System land to be conveyed.
 - **(c)** *Survey* If necessary, the exact acreage and legal description of the lands to be conveyed under subsections (a) and (b) shall be determined by surveys satisfactory to the Secretary. The cost of a survey shall be borne by the recipient of the land.
 - **(d)** *Deposit and use of proceeds*

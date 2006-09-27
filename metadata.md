@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4559
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4559
@@ -38,3 +38,12 @@ To provide for the conveyance of certain National Forest System land to the town
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7374-7375)
 - 2006-09-26 — The title of the measure was amended. Agreed to without objection.
 - 2006-09-27 — Received in the Senate, read twice.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11096; text as passed Senate: CR S11096)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11096; text as passed Senate: CR S11096)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-04 — Presented to President.
+- 2006-12-04 — Presented to President.
+- 2006-12-12 — Became Public Law No: 109-387.
+- 2006-12-12 — Became Public Law No: 109-387.
+- 2006-12-12 — Signed by President.
+- 2006-12-12 — Signed by President.
