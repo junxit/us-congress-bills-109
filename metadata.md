@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 985
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 985
@@ -29,3 +29,8 @@ Directing the Secretary of State to provide to the House of Representatives cert
 - 2006-09-07 — Introduced in House
 - 2006-09-07 — Introduced in House
 - 2006-09-07 — Referred to the House Committee on International Relations.
+- 2006-09-13 — Committee Consideration and Mark-up Session Held.
+- 2006-09-13 — Ordered to be Reported Without Recommendation by Voice Vote.
+- 2006-09-27 — Placed on the House Calendar, Calendar No. 237.
+- 2006-09-27 — Reported by the Committee on International Relations. H. Rept. 109-689.
+- 2006-09-27 — Reported by the Committee on International Relations. H. Rept. 109-689.
