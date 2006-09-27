@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6138
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 20 U.S.C. § 1001
 
-> Section 2(a) of the Higher Education Extension Act of 2005 (Public Law 109–81; 20 U.S.C. 1001 note) is amended by striking “September 30, 2006” and inserting “June 30, 2007”.
+> Section 2(a) of the Higher Education Extension Act of 2005 (P.L. 109–81; 20 U.S.C. 1001 note) is amended by striking “September 30, 2006” and inserting “June 30, 2007”.
 
 | | |
 |---|---|

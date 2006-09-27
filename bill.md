@@ -15,22 +15,26 @@ This Act may be cited as the “Third Higher Education Extension Act of 2006”.
 
 ## § 2. Extension of programs
 
-Section 2(a) of the Higher Education Extension Act of 2005 (Public Law 109–81; 20 U.S.C. 1001 note) is amended by striking “September 30, 2006” and inserting “June 30, 2007”.
+Section 2(a) of the Higher Education Extension Act of 2005 (P.L. 109–81; 20 U.S.C. 1001 note) is amended by striking “September 30, 2006” and inserting “June 30, 2007”.
 
 ## § 3. Eligible lender trustee relationships with eligible institutions
 
 - **(a)** *Amendment* Section 435(d) of the Higher Education Act of 1965 (20 U.S.C. 1085(d)) is amended by adding at the end the following new paragraph:
-  > - **(7)** *Eligible lender trustees* Notwithstanding any other provision of this subsection, an eligible lender may not make or hold a loan under this part as trustee for an institution of higher education, or for an organization affiliated with that institution of higher education, unless—
-  >   - **(A)** the lender is serving as trustee for that institution or organization as of the date of enactment of the Third Higher Education Extension Act of 2006 under a contract that was originally entered into before the date of enactment of such Act and that continues in effect or is renewed after such date; and
-  >   - **(B)** the institution and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
-  >     - **(i)** the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall only apply to the institution; and
-  >     - **(ii)** the requirements of clauses (iv) and (ix) of paragraph (2)(A) shall not apply to either the institution or the eligible lender.
+  > - **(7)** *Eligible lender trustees* Notwithstanding any other provision of this subsection, an eligible lender may not make or hold a loan under this part as trustee for an institution of higher education, or for an organization affiliated with an institution of higher education, unless—
+  >   - **(A)** the eligible lender is serving as trustee for that institution or organization as of the date of enactment of the Third Higher Education Extension Act of 2006 under a contract that was originally entered into before the date of enactment of such Act and that continues in effect or is renewed after such date; and
+  >   - **(B)** the institution or organization, and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
+  >     - **(i)** the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
+  >     - **(ii)** in the case of an organization affiliated with an institution—
+  >       - **(I)** the requirements of clauses (iii) and (v) of paragraph (2)(A) shall apply to the organization; and
+  >       - **(II)** the requirements of clause (viii) of paragraph (2)(A) shall apply to the institution or the organization (or both), if the institution or organization receives (directly or indirectly) the proceeds described in such clause;
+  >     - **(iii)** the requirements of clauses (iv) and (ix) of paragraph (2)(A) shall not apply to the eligible lender, institution, or organization; and
+  >     - **(iv)** the eligible lender, institution, and organization shall ensure that the loans made or held by the eligible lender as trustee for the institution or organization, as the case may be, are included in a compliance audit in accordance with clause (vii) of paragraph (2)(A).
 
 - **(b)** *Effective Date* The amendment made by subsection (a) shall not apply with respect to any loan under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.) disbursed before January 1, 2007.
 
 ## § 4. Hispanic-Serving Institutions
 
-- **(a)** *Definitional Changes* Section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)) is amended—
+- **(a)** *Definition Changes* Section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)) is amended—
   - **(1)** in paragraph (5)—
     - **(A)** by inserting “and” after the semicolon at the end of subparagraph (A);
     - **(B)** in subparagraph (B)—
@@ -74,4 +78,4 @@ Section 458(b) of the Higher Education Act of 1965 (20 U.S.C. 1087h(b)) is amend
 
 ## § 7. Rule of construction
 
-Nothing in this Act, or in the Higher Education Extension Act of 2005 as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) to the provisions of the Higher Education Act of 1965 and the Taxpayer-Teacher Protection Act of 2004.
+Nothing in this Act, or in the Higher Education Extension Act of 2005 as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (P.L. 109–171) to the provisions of the Higher Education Act of 1965 and the Taxpayer-Teacher Protection Act of 2004.
