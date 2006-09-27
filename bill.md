@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1711
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -50,3 +50,7 @@ In this Act:
 ## § 4. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this Act $3,000,000 for each of fiscal years 2006 through 2010.
+
+## § 5. Sunset of authority
+
+The authority of the Secretary to carry out any provisions of this Act shall terminate 10 years after the date of the enactment of this Act.
