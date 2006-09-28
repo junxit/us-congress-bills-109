@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6197
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6197
@@ -16,7 +16,7 @@ Older Americans Act Amendments of 2006
 
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Cosponsors (14)
+## Cosponsors (19)
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Osborne, Tom [R-NE-3] (O000165)
@@ -32,6 +32,11 @@ Older Americans Act Amendments of 2006
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Regula, Ralph [R-OH-16] (R000141)
 
 ## Committees (1)
 
@@ -42,3 +47,10 @@ Older Americans Act Amendments of 2006
 - 2006-09-27 — Introduced in House
 - 2006-09-27 — Introduced in House
 - 2006-09-27 — Referred to the House Committee on Education and the Workforce.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7746-7770)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6197.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. McKeon moved to suspend the rules and pass the bill.
+- 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7746-7767)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7746-7767)
+- 2006-09-28 — Received in the Senate, read twice.
