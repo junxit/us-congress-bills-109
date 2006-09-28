@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6197
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-201 amendatory instructions. 50 executed, 151 stated and not applied.
+201 amendatory instructions. 54 executed, 147 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,24 @@ to guess them.
 |---|---|
 | Removed | `section 507` |
 | Inserted | `section 518` |
+
+### 42 U.S.C. § 3018
+
+> in subparagraph (B), by striking “Labor” and inserting “the Workforce”; and
+
+| | |
+|---|---|
+| Removed | `Labor` |
+| Inserted | `the Workforce` |
+
+### 42 U.S.C. § 3018
+
+> in subparagraph (C), by striking “Labor and Human Resources” and inserting “Health, Education, Labor, and Pensions”.
+
+| | |
+|---|---|
+| Removed | `Labor and Human Resources` |
+| Inserted | `Health, Education, Labor, and Pensions` |
 
 ### 42 U.S.C. § 3020e-1
 
@@ -213,6 +231,15 @@ to guess them.
 | Removed | `or related` |
 | Inserted | `and related` |
 
+### 42 U.S.C. § 3029
+
+> Section 309(b)(2) of the Older Americans Act of 1965 (42 U.S.C. 3029(b)(2)) is amended by striking “the non-Federal share required prior to fiscal year 1981” and inserting “10 percent of the cost of the services specified in such section 304(d)(1)(D)”.
+
+| | |
+|---|---|
+| Removed | `the non-Federal share required prior to fiscal year 1981` |
+| Inserted | `10 percent of the cost of the services specified in such section 304(d)(1)(D)` |
+
 ### 42 U.S.C. § 3030a
 
 > in subsection (e), by striking “2001” and inserting “2007”; and
@@ -284,6 +311,15 @@ to guess them.
 |---|---|
 | Removed | `projects—` |
 | Inserted | `projects that—` |
+
+### 42 U.S.C. § 3030g-21
+
+> in clause (ii)(I), by striking “daily recommended dietary allowances as” and inserting “dietary reference intakes”;
+
+| | |
+|---|---|
+| Removed | `daily recommended dietary allowances as` |
+| Inserted | `dietary reference intakes` |
 
 ### 42 U.S.C. § 3030s
 
@@ -483,17 +519,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 3002` | replace | by striking paragraph (10) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3002` | replace | by striking paragraph (10) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3002` | replace | by striking paragraph (12)(D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3002` | replace | by striking paragraph (24) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3002` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3002` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3002` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3002` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3002` | insert | in paragraph (32)(D), by inserting “, including an assisted living facility,” after “home”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3002` | replace | by striking paragraph (34) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1101a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1101a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3002` | redesignate | by redesignating paragraphs (1) through (54) as paragraphs (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33),… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 201 of the Older Americans Act of 1965 (42 U.S.C. 3011) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3011` | add-at-end | Section 201 of the Older Americans Act of 1965 (42 U.S.C. 3011) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | insert | in paragraph (5), by inserting “assistive technology,” after “housing,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395` | replace | by striking paragraph (12) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1381` | replace | by striking paragraph (20) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -502,13 +538,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395` | strike | in subsection (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395` | amend | in subparagraph (B), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395b-4` | replace | by striking subsections (b) and (c), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395` | replace | in subsection (e)(1)(A), by striking the semicolon at the end and inserting a period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396` | replace | by striking subsections (b) and (c), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3012` | replace | in subsection (e)(1)(A), by striking the semicolon at the end and inserting a period. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3003` | strike | in paragraph (17), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3003` | replace | in paragraph (18), by striking the period and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 3003` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3013` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3003` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3013` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5341` | amend | in subparagraph (C), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5341` | replace | in subparagraph (D), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 5341` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -517,10 +553,8 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 5341` | strike | in clause (vii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 5341` | replace | by striking clause (viii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5341` | amend | by amending subparagraph (C)(i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | The first sentence of section 206(g) of the Older Americans Act of 1965 (42 U.S.C. 3017(g)) is amended to read as follows: From the total amount appropriated for each fiscal year to carry out title III, the Secretary may use such sums as… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “Labor” and inserting “the Workforce”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “Labor and Human Resources” and inserting “Health, Education, Labor, and Pensions”. | the bill names no machine-readable US Code section |
-| — | amend | Section 212 of the Older Americans Act of 1965 (42 U.S.C. 3020c) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3017` | amend | The first sentence of section 206(g) of the Older Americans Act of 1965 (42 U.S.C. 3017(g)) is amended to read as follows: From the total amount appropriated for each fiscal year to carry out title III, the Secretary may use such sums as… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3020c` | amend | Section 212 of the Older Americans Act of 1965 (42 U.S.C. 3020c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3020e` | amend | Section 214 of the Older Americans Act of 1965 (42 U.S.C. 3020e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3020e-1` | replace | in subsection (f), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3020e-1` | insert | in subsection (h)(2), by inserting “(including individuals with limited English proficiency)” after “individuals”. | the bill quotes the text inserted but describes where it goes |
@@ -532,7 +566,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3024` | amend | Section 304(a)(3)(D) of the Older Americans Act of 1965 (42 U.S.C. 3024(a)(3)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3025` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3025` | replace | in subparagraph (G), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3025` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3025` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | insert | by inserting “the number of older individuals at risk for institutional placement residing in such area,” after “individuals) residing in such area,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3026` | insert | by inserting after “transportation,” the following: “health services (including mental health services),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | insert | by inserting after “information and assistance” the following: “(which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported p… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -548,19 +582,18 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3026` | amend | by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | strike | by striking paragraph (14) and the 2 paragraphs (15); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | redesignate | by redesignating paragraph (16) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3026` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3026` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | redesignate | by redesignating subsections (b), (c), (d), and (e) as subsections (c), (d), (e), and (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3026` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3027` | strike | by striking paragraph (15); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3027` | redesignate | by redesignating paragraph (14) as paragraph (15); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3027` | insert | by inserting after paragraph (13) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3027` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 309(b)(2) of the Older Americans Act of 1965 (42 U.S.C. 3029(b)(2)) is amended by striking “the non-Federal share required prior to fiscal year 1981” and inserting “10 percent of the cost of the services specified in such section… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3027` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030a` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030a` | insert | in paragraph (1), by inserting “(including bonus commodities)” after “commodities”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3030a` | insert | in paragraph (2), by inserting “(including bonus commodities)” after “commodities”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3030a` | insert | in paragraph (3), by inserting “(including bonus commodities)” after “products”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3030a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3030a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030a` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030c-2` | add-at-end | by adding at the end the following: “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030c-2` | insert | in paragraph (4)(E), by inserting “and to supplement (not supplant) funds received under this Act” after “given”; | the bill quotes the text inserted but describes where it goes |
@@ -575,32 +608,31 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3030e` | replace | by striking paragraph (3), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030f` | amend | Section 336 of the Older Americans Act of 1965 (42 U.S.C. 3030f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030g` | amend | Section 337 of the Older Americans Act of 1965 (42 U.S.C. 3030g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in clause (ii)(I), by striking “daily recommended dietary allowances as” and inserting “dietary reference intakes”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), by inserting “joint” after “encourages”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (H), by striking “and accompany”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (I), by striking “and” at the end; and | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (J) and inserting the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3030g-21` | insert | in subparagraph (D), by inserting “joint” after “encourages”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3030g-21` | strike | in subparagraph (H), by striking “and accompany”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3030g-21` | strike | in subparagraph (I), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3030g-21` | replace | by striking subparagraph (J) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030m` | add-at-end | Section 361 of the Older Americans Act of 1965 (42 U.S.C. 3030m) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s` | insert | in paragraph (1), by inserting “or who is an individual with a disability” after “age”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3030s` | insert | by inserting before “In this subpart” the following: “(a) In general.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s` | redesignate | by redesignating paragraph (3) as paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3030s` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3030s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s-1` | replace | in subsection (b)(3), by striking “caregivers to assist” and all that follows through the end and inserting the following: “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solv… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3030s-1` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s-1` | add-at-end | in subsection (e)(3), by adding at the end the following: “The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, inf… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3030s-1` | insert | in subsection (g)(2)(C), by inserting “of a child who is not more than 18 years of age” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3030s-11` | repeal | Subpart 2 of part E of title III of the Older Americans Act of 1965 (42 U.S.C. 3030s–11 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | The Older Americans Act of 1965 is amended by inserting before section 401 (42 U.S.C. 3031) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3031` | insert | The Older Americans Act of 1965 is amended by inserting before section 401 (42 U.S.C. 3031) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3032` | redesignate | by redesignating paragraph (9) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 412(a) of the Older Americans Act of 1965 (42 U.S.C. 3032a(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a), by inserting “mental health services,” after “care,”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(1)(B)(i), by inserting “mental health,” after “health,”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3032a` | amend | Section 412(a) of the Older Americans Act of 1965 (42 U.S.C. 3032a(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3032c` | insert | in subsection (a), by inserting “mental health services,” after “care,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3032c` | insert | in subsection (b)(1)(B)(i), by inserting “mental health,” after “health,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3032e` | amend | Section 416 of the Older Americans Act of 1965 (42 U.S.C. 3032e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032f` | amend | Section 417 of the Older Americans Act of 1965 (42 U.S.C. 3032f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 418(a)(2)(B)(i) of the Older Americans Act of 1965 (42 U.S.C. 3032g(a)(2)(B)(i)) is amended by inserting “(including mental health)” after “health”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3032g` | insert | Section 418(a)(2)(B)(i) of the Older Americans Act of 1965 (42 U.S.C. 3032g(a)(2)(B)(i)) is amended by inserting “(including mental health)” after “health”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3032h` | replace | by striking the title and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032h` | redesignate | in subsection (b)(2), by redesignating subparagraphs (A) through (G) as clauses (i) through (vii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032h` | redesignate | in subsection (c)(2), by redesignating subparagraphs (A) through (D) as clauses (i) through (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -616,7 +648,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3032h` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3032h` | replace | in clause (vii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3032h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3032h` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3032h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3031` | add-at-end | Part A of title IV of the Older Americans Act of 1965 (42 U.S.C. 3031 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3033a` | insert | Section 432(c)(2)(B) of the Older Americans Act of 1965 (42 U.S.C. 3033a(c)(2)(B)) is amended by inserting “, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in … | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3056` | amend | Title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -626,11 +658,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3058i` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058i` | redesignate | in paragraph (8), as redesignated by subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3058i` | redesignate | in paragraph (9), as redesignated by subparagraph (B), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3058i` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3058i` | amend | by adding at the end of the section the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3058i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3058i` | add-at-end | by adding at the end of the section the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058aa` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3058aa` | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3058aa` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3058aa` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058aa` | replace | by striking the subtitle heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058aa` | insert | by inserting after section 751 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3058bb` | add-at-end | Subtitle C of title VII of the Older Americans Act of 1965 (42 U.S.C. 3058bb et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
