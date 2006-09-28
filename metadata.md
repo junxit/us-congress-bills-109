@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5825
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5825
@@ -54,3 +54,24 @@ Electronic Surveillance Modernization Act
 - 2006-09-25 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 109-680, Part I.
 - 2006-09-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-680, Part II.
 - 2006-09-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-680, Part II.
+- 2006-09-28 — Amendment agreed to by House: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2006-09-28 — Amendment reported by the House Committee on Rules. (consideration: CR H7853-7857; text: CR H7853-7857)
+- 2006-09-28 — Considered under the provisions of rule H. Res. 1052. (consideration: CR H7853-7876)
+- 2006-09-28 — DEBATE - The House proceeded with 10 minutes of debate on the Schiff motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which inserts a complete new text entitled "NSA Oversight Act".
+- 2006-09-28 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 5825.
+- 2006-09-28 — DEBATE - The House resumed debate on H.R. 5825.
+- 2006-09-28 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2006-09-28 — House amendment offered
+- 2006-09-28 — House amendment offered/reported by : Amendment reported by the House Committee on Rules.(consideration: CR H7853-7857; text: CR H7853-7857)
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Schiff moved to recommit with instructions to Judiciary. (consideration: CR H7872-7875; text: CR H7872-7873)
+- 2006-09-28 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2006-09-28 — On motion to recommit with instructions Failed by the Yeas and Nays: 202 - 221 (Roll no. 501).
+- 2006-09-28 — On passage Passed by the Yeas and Nays: 232 - 191 (Roll No. 502). (text: CR H7853-7857)
+- 2006-09-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 191 (Roll No. 502).(text: CR H7853-7857)
+- 2006-09-28 — Rule H. Res. 1052 passed House.
+- 2006-09-28 — Rule provides for consideration of H.R. 5825 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. In lieu of the amendments recommended by the Committee on the Judiciary and the Permanent Select Committee on Intelligence now printed in the bill, the amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
+- 2006-09-28 — Rules Committee Resolution H. Res. 1052 Reported to House. Rule provides for consideration of H.R. 5825 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. In lieu of the amendments recommended by the Committee on the Judiciary and the Permanent Select Committee on Intelligence now printed in the bill, the amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
+- 2006-09-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5825.
+- 2006-09-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7875)
+- 2006-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H7872)
