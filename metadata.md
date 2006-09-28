@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6162
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6162
@@ -30,3 +30,11 @@ Secure Border Initiative Financial Accountability Act of 2006
 - 2006-09-25 — Introduced in House
 - 2006-09-25 — Introduced in House
 - 2006-09-25 — Referred to the House Committee on Homeland Security.
+- 2006-09-26 — Referred to the Subcommittee on Economic Security, Infrastructure Protection, and Cybersecurity.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7706-7709)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6162.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Rogers (AL) moved to suspend the rules and pass the bill.
+- 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7706-7707)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7706-7707)
+- 2006-09-28 — Received in the Senate.
