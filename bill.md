@@ -1,0 +1,15 @@
+---
+legis-num: S. 3990
+congress: 109th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3990
+
+> To designate the facility of the United States Postal Service located at 216 Oak Street in Farmington, Minnesota, as the “Hamilton H. Judson Post Office”.
+
+## § 1. Hamilton H. Judson Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 216 Oak Street in Farmington, Minnesota, shall be known and designated as the “Hamilton H. Judson Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Hamilton H. Judson Post Office”.
