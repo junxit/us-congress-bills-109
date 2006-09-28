@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1463
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1463
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Designation
 
-- **(a)** *In General* The building and structure described in subsection (b) shall be known and designated as the “Justin W. Williams United States Attorney’s Building”.
+- **(a)** *In general* The building and structure described in subsection (b) shall be known and designated as the “Justin W. Williams United States Attorney’s Building”.
 - **(b)** *Description* The building and structure to be designated under subsection (a) is that portion of the Federal building located at 2100 Jamieson Avenue, in Alexandria, Virginia, that is attached to the Federal building’s main tower structure, described as A-Wing in the architectural plans, and currently occupied by the Office of the United States Attorney for the Eastern District of Virginia, Alexandria Division.
 
 ## § 2. References
