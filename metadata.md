@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5929
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5929
@@ -53,3 +53,13 @@ To designate the facility of the United States Postal Service located at 950 Mis
 - 2006-09-28 — Mr. Marchant moved to suspend the rules and pass the bill.
 - 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7890)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7890)
+- 2006-09-29 — Received in the Senate, read twice.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10804)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10804)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-04 — Presented to President.
+- 2006-10-04 — Presented to President.
+- 2006-10-12 — Became Public Law No: 109-333.
+- 2006-10-12 — Became Public Law No: 109-333.
+- 2006-10-12 — Signed by President.
+- 2006-10-12 — Signed by President.
