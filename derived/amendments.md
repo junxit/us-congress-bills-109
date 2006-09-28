@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -74,11 +74,11 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1701` | amend | Section 5(b) of such Act (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | in paragraph (1)(C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 1701` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | Section 2 of the Iran and Libya Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | strike | in subsection (a), by striking “(a) Policy with respect to Iran—”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | strike | in subsection (a), by striking “(a) Policy with respect to Iran.—”; and | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | strike | in subsection (a), by striking “(a) Iran—”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1701` | strike | in subsection (a), by striking “(a) Iran.—”; and | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1701` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | amend | Section 9(c)(2)(C) of the Iran and Libya Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | strike | Section 10(b)(1) of the Iran and Libya Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by striking “and Libya” each place it appears. | the bill quotes the text struck but describes what replaces it |
