@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4545
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,5 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(B)** the value of the new water.
   > - **(b)** *Cost sharing* The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
   > - **(c)** *Limitation* No Federal funds shall be used for the operation and maintenance of the project described in subsection (a). For purposes of this subsection, pre- and post-development monitoring for not more than 2 years before and after project installation for project assessment purposes shall not be considered operation and maintenance.
+  > - **(d)** *Sunset of authority* - The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
 
 - **(b)** *Clerical amendment* The table of sections in section 2 of Public Law 102–575 is amended by inserting after the item relating to section 16__ the following:
