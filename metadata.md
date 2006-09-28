@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5842
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5842
@@ -38,3 +38,12 @@ Pueblo of Isleta Settlement and Natural Resources Restoration Act of 2006
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7651-7652)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7651-7652)
 - 2006-09-28 — Received in the Senate, read twice.
+- 2006-11-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10884)
+- 2006-11-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10884)
+- 2006-11-14 — Message on Senate action sent to the House.
+- 2006-11-21 — Presented to President.
+- 2006-11-21 — Presented to President.
+- 2006-12-01 — Became Public Law No: 109-379.
+- 2006-12-01 — Became Public Law No: 109-379.
+- 2006-12-01 — Signed by President.
+- 2006-12-01 — Signed by President.
