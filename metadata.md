@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1463
 congress: 109
-version: Introduced in House
+version: Reported to Senate
 ---
 
 # H.R. 1463
@@ -31,12 +31,27 @@ To designate a portion of the Federal building located at 2100 Jamieson Avenue, 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Coble, Howard [R-NC-6] (C000556)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
 - 2005-04-05 — Introduced in House
 - 2005-04-05 — Introduced in House
 - 2005-04-05 — Referred to the House Committee on Transportation and Infrastructure.
+- 2005-04-06 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2005-04-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2005-04-13 — Considered as unfinished business. (consideration: CR H1919-1920)
+- 2005-04-13 — Considered under suspension of the rules. (consideration: CR H1903-1905)
+- 2005-04-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1463.
+- 2005-04-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2005-04-13 — Mr. Shuster moved to suspend the rules and pass the bill.
+- 2005-04-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 98). (text: CR H1903)
+- 2005-04-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 98).(text: CR H1903)
+- 2005-04-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2006-09-26 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2006-09-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2006-09-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
+- 2006-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
