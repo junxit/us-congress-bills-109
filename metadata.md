@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1463
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1463
@@ -55,3 +55,12 @@ To designate a portion of the Federal building located at 2100 Jamieson Avenue, 
 - 2006-09-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2006-09-28 — Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.
 - 2006-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10802-10803)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10802-10803)
+- 2006-10-02 — Message on Senate action sent to the House.
+- 2006-10-05 — Presented to President.
+- 2006-10-05 — Presented to President.
+- 2006-10-13 — Became Public Law No: 109-341.
+- 2006-10-13 — Became Public Law No: 109-341.
+- 2006-10-13 — Signed by President.
+- 2006-10-13 — Signed by President.
