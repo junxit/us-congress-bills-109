@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4846
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4846
@@ -16,7 +16,7 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
 - Rep. Davis, Jo Ann [R-VA-1] (D000597)
@@ -28,6 +28,7 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Moran, James P. [D-VA-8] (M000933)
 
 ## Committees (1)
 
@@ -39,3 +40,13 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - 2006-03-02 — Introduced in House
 - 2006-03-02 — Referred to the House Committee on Government Reform.
 - 2006-03-02 — Sponsor introductory remarks on measure. (CR E258)
+- 2006-07-20 — Committee Consideration and Mark-up Session Held.
+- 2006-07-20 — Ordered to be Reported by Unanimous Consent.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7737-7738)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4846.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Westmoreland moved to suspend the rules and pass the bill, as amended.
+- 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7737)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7737)
+- 2006-09-28 — Received in the Senate.
+- 2006-09-28 — The title of the measure was amended. Agreed to without objection.
