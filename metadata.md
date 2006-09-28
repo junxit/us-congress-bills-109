@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4545
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4545
@@ -29,3 +29,12 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2005-12-14 — Introduced in House
 - 2005-12-14 — Introduced in House
 - 2005-12-14 — Referred to the House Committee on Resources.
+- 2006-01-03 — Referred to the Subcommittee on Water and Power.
+- 2006-03-08 — Subcommittee Hearings Held.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7736-7737)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4545.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Hayworth moved to suspend the rules and pass the bill, as amended.
+- 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7736)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7736)
+- 2006-09-28 — Received in the Senate.
