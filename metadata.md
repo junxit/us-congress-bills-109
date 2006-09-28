@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5690
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5690
@@ -40,3 +40,4 @@ Ouachita National Forest Boundary Adjustment Act of 2006
 - 2006-09-27 — Mr. Gohmert moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7661)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7661)
+- 2006-09-28 — Received in the Senate, read twice.
