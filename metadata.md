@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5929
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5929
@@ -16,9 +16,27 @@ To designate the facility of the United States Postal Service located at 950 Mis
 
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
-## Cosponsors (1)
+## Cosponsors (19)
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Evans, Lane [D-IL-17] (E000250)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Weller, Jerry [R-IL-11] (W000273)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Hyde, Henry J. [R-IL-6] (H001022)
+- Rep. Hastert, J. Dennis [R-IL-14] (H000323)
 
 ## Committees (1)
 
@@ -29,3 +47,9 @@ To designate the facility of the United States Postal Service located at 950 Mis
 - 2006-07-27 — Introduced in House
 - 2006-07-27 — Introduced in House
 - 2006-07-27 — Referred to the House Committee on Government Reform.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7890-7891)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5929.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Marchant moved to suspend the rules and pass the bill.
+- 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7890)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7890)
