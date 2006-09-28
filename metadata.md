@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5418
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5418
@@ -37,3 +37,9 @@ To establish a pilot program in certain United States district courts to encoura
 - 2006-09-21 — Placed on the Union Calendar, Calendar No. 402.
 - 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-673.
 - 2006-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-673.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7851-7853)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5418.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
+- 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7851)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7851)
