@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6075
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6075
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 101 Eas
 - 2006-09-14 — Introduced in House
 - 2006-09-14 — Introduced in House
 - 2006-09-14 — Referred to the House Committee on Government Reform.
+- 2006-09-21 — Committee Consideration and Mark-up Session Held.
+- 2006-09-21 — Ordered to be Reported by Unanimous Consent.
+- 2006-09-28 — Considered under suspension of the rules. (consideration: CR H7886-7887)
+- 2006-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6075.
+- 2006-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-28 — Mr. Marchant moved to suspend the rules and pass the bill.
+- 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7886)
+- 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7886)
