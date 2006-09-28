@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6198
@@ -41,3 +41,13 @@ Iran Freedom Support Act
 - 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7695-7697)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7695-7697)
 - 2006-09-28 — Received in the Senate, read twice.
+- 2006-09-30 — Became Public Law No: 109-293.
+- 2006-09-30 — Became Public Law No: 109-293.
+- 2006-09-30 — Message on Senate action sent to the House.
+- 2006-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/29/2006 S10769-10770)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/29/2006 S10769-10770)
+- 2006-09-30 — Presented to President.
+- 2006-09-30 — Presented to President.
+- 2006-09-30 — Signed by President.
+- 2006-09-30 — Signed by President.
+- 2006-10-12 — Referred to the Subcommittee on Middle East and Central Asia.
