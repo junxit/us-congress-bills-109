@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2134
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2134
@@ -165,3 +165,4 @@ Commission to Study the Potential Creation of a National Museum of American Lati
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7664-7665)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7664-7665)
 - 2006-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-28 — Received in the Senate.
