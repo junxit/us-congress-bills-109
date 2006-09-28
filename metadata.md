@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5946
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5946
@@ -40,3 +40,4 @@ Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7635-7642)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7635-7642)
 - 2006-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-28 — Received in the Senate, read twice.
