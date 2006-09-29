@@ -2,7 +2,7 @@
 legis-num: H. RES. 1028
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1028
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas drug and alcohol abuse contributes to domestic violence and sexual assaults, and places the lives of children at risk;
 - Whereas drug abuse is one of the major challenges that the Nation faces in securing a safe and healthy future for families and children;
 - Whereas although public awareness of illicit drug abuse is increasing, the silent abuse of prescription medication, with over 6,000,000 such abusers, has gone almost unnoticed and demands attention; and
-- Whereas parents, youth, schools, businesses, law enforcement agencies, religious institutions, service organizations, senior citizens, medical and military personnel, sports teams, and individuals throughout the United States will demonstrate their commitment to healthy, productive, and drug-free lifestyles by wearing and displaying red ribbons during this weeklong celebration: Now therefore, be it
+- Whereas parents, youth, schools, businesses, law enforcement agencies, religious institutions, service organizations, senior citizens, medical and military personnel, sports teams, and individuals throughout the United States will demonstrate their commitment to healthy, productive, and drug-free lifestyles by wearing and displaying red ribbons during this weeklong celebration: Now, therefore, be it
 
 That the House of Representatives—
 
