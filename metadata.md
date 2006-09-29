@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6060
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6060
@@ -32,3 +32,6 @@ Department of State Authorities Act of 2006
 - 2006-09-13 — Introduced in House
 - 2006-09-13 — Ordered to be Reported by Unanimous Consent.
 - 2006-09-13 — Referred to the House Committee on International Relations.
+- 2006-09-29 — Placed on the Union Calendar, Calendar No. 425.
+- 2006-09-29 — Reported by the Committee on International Relations. H. Rept. 109-706.
+- 2006-09-29 — Reported by the Committee on International Relations. H. Rept. 109-706.

@@ -224,7 +224,7 @@ Of the amounts made available for each of the fiscal years 2007 and 2008 to carr
         > - **(vii)** a position in the Foreign Service.
 
   - **(2)** in chapter 57—
-    - **(A)** in section 5753(a)(2)(A), by inserting: “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before the semicolon at the end.
+    - **(A)** in section 5753(a)(2)(A), by inserting: “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before the semicolon at the end; and
     - **(B)** in section 5754(a)(2)(A), by inserting: “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before the semicolon at the end.
 - **(c)** *Effective dates* The amendments made by subsections (a) and (b)(1) shall take effect on the first day of the first pay period beginning on or after April 1, 2008.
 
