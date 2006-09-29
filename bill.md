@@ -36,7 +36,14 @@ This Act may be cited as the “Health Opportunity Patient Empowerment Act of 20
   >       - **(i)** *In general* Except as provided in clause (ii), section 4980G shall not apply to qualified HSA distributions.
   >       - **(ii)** *Failure to offer to all employees* In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
 
-- **(b)** *Application of section* This section shall apply to distributions on or after the date of the enactment of this Act.
+- **(b)** *Certain FSA coverage disregarded coverage* Subparagraph (B) of section 223(c)(1) of such Code (relating to certain coverage disregarded) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by inserting after clause (ii) the following new clause:
+  > - **(iii)** for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
+  >   - **(I)** the balance in such arrangement at the end of such plan year is zero, or
+  >   - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
+
+- **(c)** *Application of section*
+  - **(1)** *Subsection (a)* The amendment made by subsection (a) shall apply to distributions on or after the date of the enactment of this Act.
+  - **(2)** *Subsection (b)* The amendment made by subsection (b) shall take effect on the date of the enactment of this Act.
 
 ## § 3. Repeal of annual deductible limitation on HSA contributions
 
