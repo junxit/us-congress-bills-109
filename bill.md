@@ -253,7 +253,7 @@ Section 917 of the Energy Policy Act of 2005 (42 U.S.C. 16197) is amended to rea
 
 ## § 13. Arpa–e study
 
-- **(a)** *In General* The Secretary shall enter into an arrangement with the National Academy of Sciences to conduct a detailed study of, and make further recommendations on, the October 2005 National Academy of Sciences recommendation to establish an Advanced Research Projects Agency—Energy (in this section referred to as ARPA–E).
+- **(a)** *In General* The Secretary shall enter into an arrangement with the National Academy of Sciences to conduct a detailed study of, and make further recommendations on, the October 2005 National Academy of Sciences recommendation to establish an Advanced Research Projects Agency-Energy (in this section referred to as ARPA–E).
 - **(b)** *Report* Not later than 12 months after the date of enactment of this Act, the Secretary shall transmit to Congress the study described in subsection (a) and the Secretary’s response to the findings, conclusions, and recommendations of that study.
 - **(c)** *Terms of Reference* The Secretary shall ensure that the study described in subsection (a) addresses the following questions:
   - **(1)** What basic research related to new energy technologies is occurring now, what entities are funding it, and what is preventing the results of that research from reaching the market?
