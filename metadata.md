@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6233
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6233
@@ -31,3 +31,10 @@ To amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A
 - 2006-09-28 — Introduced in House
 - 2006-09-28 — Introduced in House
 - 2006-09-28 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-09-29 — Considered under suspension of the rules. (consideration: CR H7992-8002)
+- 2006-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6233.
+- 2006-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-29 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2006-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7992-8000)
+- 2006-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7992-8000)
+- 2006-09-29 — Received in the Senate.
