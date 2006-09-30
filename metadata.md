@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3699
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3699
@@ -24,12 +24,14 @@ Federal and District of Columbia Government Real Property Act of 2006
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
 
-## Committees (4)
+## Committees (6)
 
 - House — Natural Resources Committee
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -74,3 +76,18 @@ Federal and District of Columbia Government Real Property Act of 2006
 - 2006-09-30 — On passage Passed without objection.
 - 2006-09-30 — Passed/agreed to in House: On passage Passed without objection.
 - 2006-09-30 — Received in the Senate.
+- 2006-11-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent.
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-11-16 — Referred to the Committee on Energy and Natural Resources.
+- 2006-11-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S10981-10982)
+- 2006-11-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S10981-10982)
+- 2006-11-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2006-11-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-05 — Presented to President.
+- 2006-12-05 — Presented to President.
+- 2006-12-15 — Became Public Law No: 109-396.
+- 2006-12-15 — Became Public Law No: 109-396.
+- 2006-12-15 — Signed by President.
+- 2006-12-15 — Signed by President.
