@@ -20,13 +20,13 @@ Section 202 of the Indian Land Consolidation Act (25 U.S.C. 2201) is amended—
 - **(1)** in paragraph (4)—
   - **(A)** by inserting “(i)” after “(4)”;
   - **(B)** by striking ““trust or restricted interest in land” or” and inserting the following:
-    > - **(ii)** trust or restricted interest in land or
+    > - **(ii)** “trust or restricted interest in land” or
 
   - **(C)** in clause (ii) (as designated by subparagraph (B)), by striking “an interest in land, title to which” and inserting “an interest in land, the title to which interest”; and
 - **(2)** by striking paragraph (7) and inserting the following:
   > - **(7)** the term land—
   >   - **(A)** means any real property; and
-  >   - **(B)** for purposes of intestate succession only under section 207(a), includes, with respect to any decedent who dies after July 20, 2007, the interest of the decedent in any improvements permanently affixed to a parcel of trust or restricted lands (subject to any valid mortgage or other interest in such an improvement) that was owned in whole or in part by the decedent immediately prior to the death of the decedent;
+  >   - **(B)** includes, for purposes of intestate succession only under section 207(a) and only with respect to any decedent who dies after July 20, 2007, the interest of the decedent in any improvements permanently affixed to a parcel of trust or restricted lands (subject to any valid mortgage or other interest in such an improvement) that was owned in whole or in part by the decedent immediately prior to the death of the decedent;
 
 ## § 3. Descent and distribution
 
@@ -35,10 +35,7 @@ Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) is amended—
 - **(1)** in subsection (a)(2)(D)—
   - **(A)** in clause (i), by striking “clauses (ii) through (iv)” and inserting “clauses (ii) through (v)”; and
   - **(B)** by striking clause (v) and inserting the following:
-    > - **(v)** *Effect of paragraph; nonapplicability to certain interests* Nothing in this paragraph—
-    >   - **(I)** limits the right of any person to devise any trust or restricted interest pursuant to a valid will in accordance with subsection (b); or
-    >   - **(II)** applies to any interest in the estate of a decedent who died during the period beginning on the date of enactment of this subclause and ending on July 20, 2007 (or the last day of any applicable period of extension authorized by the Secretary under clause (vi)).
-    > - **(vi)** *Authority to extend period of nonapplicability* The Secretary may extend the period of nonapplicability under clause (v)(II) for not longer than 1 year if, by not later than July 2, 2007, the Secretary publishes in the Federal Register a notice of the extension.
+    > - **(v)** *Effect of subparagraph* Nothing in this subparagraph limits the right of any person to devise any trust or restricted interest pursuant to a valid will in accordance with subsection (b).
 
 - **(2)** in subsection (c)(2), by striking “the date that is” and all that follows through the period at the end and inserting the following: “July 21, 2007.”; and
 - **(3)** in subsection (o)—
@@ -66,7 +63,7 @@ Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206) is amended—
       - **(IV)** by adding at the end the following:
         > - **(iii)**
         >   - **(I)** the Secretary is purchasing the interest as part of the program authorized under section 213(a)(1); or
-        >   - **(II)** after receiving a notice under paragraph (4)(B), the Indian tribe with jurisdiction over the interest is proposing to purchase the interest from an heir that is not a member, and is not eligible to become a member, of that Indian tribe.
+        >   - **(II)** after receiving a notice under paragraph (4)(B), the Indian tribe with jurisdiction over the interest is proposing to purchase the interest from an heir who is not a member, and is not eligible to become a member, of that Indian tribe.
 
     - **(ii)** in subparagraph (B)—
       - **(I)** by striking “(B)” and all that follows through “such heir” and inserting the following:
