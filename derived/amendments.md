@@ -1,7 +1,7 @@
 ---
 measure: S. 3526
 congress: 109
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
