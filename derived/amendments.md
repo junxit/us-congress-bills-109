@@ -1,7 +1,7 @@
 ---
 measure: S. 1409
 congress: 109
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (b), by striking “50 percent” and inserting “75 percent”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “$40,000,000” and inserting “$45,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2005” and inserting “2010”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (h); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$40,000,000” and inserting “$45,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2005” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005” and inserting “2009”. | the bill names no machine-readable US Code section |

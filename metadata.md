@@ -1,7 +1,7 @@
 ---
 measure: S. 1409
 congress: 109
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1409
@@ -29,3 +29,12 @@ A bill to amend the Safe Drinking Water Act Amendments of 1996 to modify the gra
 - 2005-10-24 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment in the nature of a substitute. With written report No. 109-159.
 - 2005-10-24 — Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment in the nature of a substitute. With written report No. 109-159.
 - 2005-10-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
+- 2006-09-29 — Senate amendment submitted
+- 2006-09-30 — Amendment SA 5116 agreed to in Senate by Unanimous Consent.
+- 2006-09-30 — Amendment SA 5116 proposed by Senator Frist for Senator Murkowski. (consideration: CR 9/29/2006 S10796; text: CR 9/29/2006 S10796) To make certain improvements to the bill.
+- 2006-09-30 — Measure laid before Senate by unanimous consent. (consideration: CR 9/29/2006 S10795-10796)
+- 2006-09-30 — Passed Senate with amendments by Unanimous Consent. (text: CR 9/29/2006 S10796)
+- 2006-09-30 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR 9/29/2006 S10796)
+- 2006-09-30 — Senate amendment agreed to: Amendment SA 5116 agreed to in Senate by Unanimous Consent.
+- 2006-09-30 — Senate amendment proposed (on the floor): Amendment SA 5116 proposed by Senator Frist for Senator Murkowski.(consideration: CR 9/29/2006 S10796; text: CR 9/29/2006 S10796)
+- 2006-10-02 — Message on Senate action sent to the House.
