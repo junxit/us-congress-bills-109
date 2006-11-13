@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6115
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6115
@@ -23,9 +23,10 @@ Mark-to-Market Extension Act of 2006
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ Mark-to-Market Extension Act of 2006
 - 2006-09-27 — Mr. Oxley moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 493). (text: CR H7571)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 493).(text: CR H7571)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
