@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6160
@@ -23,10 +23,11 @@ More Border Patrol Agents Now Act of 2006
 - Rep. Harris, Katherine [R-FL-13] (H001035)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,5 @@ More Border Patrol Agents Now Act of 2006
 - 2006-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7437)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7437)
 - 2006-09-26 — Referred to the Subcommittee on Economic Security, Infrastructure Protection, and Cybersecurity.
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

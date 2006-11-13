@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 97 of title 5, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents for chapter 97 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents for chapter 97 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
