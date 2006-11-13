@@ -1,7 +1,7 @@
 ---
 measure: H.R. 971
 congress: 109
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 971
@@ -16,9 +16,10 @@ To extend the deadline for commencement of construction of certain hydroelectric
 
 - Rep. Simmons, Rob [R-CT-2] (S001152)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ To extend the deadline for commencement of construction of certain hydroelectric
 - 2006-09-26 — Placed on the Union Calendar, Calendar No. 413.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-683.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-683.
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
