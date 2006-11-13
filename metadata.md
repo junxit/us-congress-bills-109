@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5692
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5692
@@ -16,9 +16,10 @@ Columbia Space Shuttle Memorial Study Act
 
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,5 @@ Columbia Space Shuttle Memorial Study Act
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7656)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7656)
 - 2006-09-27 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
