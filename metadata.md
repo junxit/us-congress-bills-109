@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6102
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 200 Law
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,5 @@ To designate the facility of the United States Postal Service located at 200 Law
 - 2006-09-25 — Mr. Davis, Tom moved to suspend the rules and pass the bill, as amended.
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 1 (Roll no. 473). (text: CR H6980)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 1 (Roll no. 473).(text: CR H6980)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
