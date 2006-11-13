@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 109
-version: Introduced in House
+version: Referred in Senate
 ---
 
 # H.R. 5923
@@ -47,12 +47,23 @@ To designate the facility of the United States Postal Service located at 29-50 U
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
 - 2006-07-27 — Introduced in House
 - 2006-07-27 — Introduced in House
 - 2006-07-27 — Referred to the House Committee on Government Reform.
+- 2006-09-21 — Committee Consideration and Mark-up Session Held.
+- 2006-09-21 — Ordered to be Reported by Unanimous Consent.
+- 2006-09-25 — Considered under suspension of the rules. (consideration: CR H6987-6988)
+- 2006-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5923.
+- 2006-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-09-25 — Mr. Davis, Tom moved to suspend the rules and pass the bill.
+- 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6987)
+- 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6987)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
