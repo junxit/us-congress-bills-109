@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3871
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3871
@@ -21,9 +21,10 @@ To authorize the Secretary of Interior to convey to The Missouri River Basin Lew
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Osborne, Tom [R-NE-3] (O000165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,5 @@ To authorize the Secretary of Interior to convey to The Missouri River Basin Lew
 - 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6948)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6948)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
