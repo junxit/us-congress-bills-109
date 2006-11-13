@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5736
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5736
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 101 Pal
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,5 @@ To designate the facility of the United States Postal Service located at 101 Pal
 - 2006-09-28 — Mr. Marchant moved to suspend the rules and pass the bill.
 - 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7889)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7889)
+- 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
