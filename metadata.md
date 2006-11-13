@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 473
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 473
@@ -95,9 +95,10 @@ Supporting the goals and ideals of Gynecologic Cancer Awareness Month.
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -113,3 +114,4 @@ Supporting the goals and ideals of Gynecologic Cancer Awareness Month.
 - 2006-09-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7739)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7739)
 - 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Referred to the Committee on Health, Education, Labor, and Pensions.
