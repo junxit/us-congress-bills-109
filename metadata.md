@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5681
@@ -20,9 +20,10 @@ Coast Guard Authorization Act of 2006
 
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,5 @@ Coast Guard Authorization Act of 2006
 - 2006-09-28 — Mr. LoBiondo moved to suspend the rules and pass the bill, as amended.
 - 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7877-7884)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7877-7884)
+- 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
