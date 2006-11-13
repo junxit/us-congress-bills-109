@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2679
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1983` | insert | by inserting “(a)” before the first sentence; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1983` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1988` | add-at-end | Section 722(b) of the Revised Statutes of the United States (42 U.S.C. 1988(b)) is amended by adding at the end the following: “However, no fees shall be awarded under this subsection with respect to a claim described in subsection (b) o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting “(a)” before the first sentence; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 722(b) of the Revised Statutes of the United States (42 U.S.C. 1988(b)) is amended by adding at the end the following: “However, no fees shall be awarded under this subsection with respect to a claim described in subsection (b) o… | the bill names no machine-readable US Code section |
