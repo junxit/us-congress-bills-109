@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5108
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5108
@@ -52,9 +52,10 @@ To designate the facility of the United States Postal Service located at 1213 Ea
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 - Rep. Westmoreland, Lynn A. [R-GA-8] (W000796)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ To designate the facility of the United States Postal Service located at 1213 Ea
 - 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7745)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7745)
 - 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
