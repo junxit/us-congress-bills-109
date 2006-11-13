@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1215
@@ -29,9 +29,10 @@ Green Chemistry Research and Development Act of 2005
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,5 @@ Green Chemistry Research and Development Act of 2005
 - 2006-09-26 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7480-7482)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7480-7482)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
