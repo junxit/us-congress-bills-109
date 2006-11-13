@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5483
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5483
@@ -29,9 +29,10 @@ Railroad Retirement Disability Earnings Act
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Terry, Lee [R-NE-2] (T000459)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -50,3 +51,5 @@ Railroad Retirement Disability Earnings Act
 - 2006-09-27 — Mr. LaTourette moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7621-7622)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7621-7622)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
