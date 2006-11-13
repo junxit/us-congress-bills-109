@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5825
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5825
@@ -32,10 +32,11 @@ Electronic Surveillance Modernization Act
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -75,3 +76,5 @@ Electronic Surveillance Modernization Act
 - 2006-09-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5825.
 - 2006-09-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7875)
 - 2006-09-28 — The previous question was ordered pursuant to the rule. (consideration: CR H7872)
+- 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on the Judiciary.
