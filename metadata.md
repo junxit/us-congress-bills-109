@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5323
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5323
@@ -20,9 +20,10 @@ Proud to Be an American Citizen Act
 
 - Rep. Hobson, David L. [R-OH-7] (H000666)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,5 @@ Proud to Be an American Citizen Act
 - 2006-09-25 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6971)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6971)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on the Judiciary.
