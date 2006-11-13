@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4275
@@ -20,9 +20,10 @@ To amend Public Law 106-348 to extend the authorization for establishing a memor
 
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,5 @@ To amend Public Law 106-348 to extend the authorization for establishing a memor
 - 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6946-6947)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6946-6947)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
