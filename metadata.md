@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4942
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4942
@@ -31,9 +31,10 @@ Promoting Antiterrorism Capabilities Through International Cooperation Act
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 - Rep. McNulty, Michael R. [D-NY-21] (M000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,5 @@ Promoting Antiterrorism Capabilities Through International Cooperation Act
 - 2006-09-26 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7433-7434)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7433-7434)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
