@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5857
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5857
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 1501 So
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 - Rep. Flake, Jeff [R-AZ-6] (F000444)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,5 @@ To designate the facility of the United States Postal Service located at 1501 So
 - 2006-09-25 — Mr. Davis, Tom moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6986-6987)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6986-6987)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
