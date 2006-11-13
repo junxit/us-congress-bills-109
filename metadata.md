@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6078
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6078
@@ -49,9 +49,10 @@ To designate the facility of the United States Postal Service located at 307 Wes
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -66,3 +67,5 @@ To designate the facility of the United States Postal Service located at 307 Wes
 - 2006-09-28 — Mr. Marchant moved to suspend the rules and pass the bill.
 - 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7887)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7887)
+- 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
