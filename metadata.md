@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5016
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5016
@@ -16,9 +16,10 @@ Las Cienegas Enhancement Act
 
 - Rep. Kolbe, Jim [R-AZ-8] (K000306)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ Las Cienegas Enhancement Act
 - 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7655-7656)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7655-7656)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
