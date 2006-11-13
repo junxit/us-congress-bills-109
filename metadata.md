@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3626
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3626
@@ -21,9 +21,10 @@ Arthur V. Watkins Dam Enlargement Act of 2005
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 - Rep. Cannon, Chris [R-UT-3] (C000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,5 @@ Arthur V. Watkins Dam Enlargement Act of 2005
 - 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7654)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7654)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
