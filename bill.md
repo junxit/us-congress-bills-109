@@ -2,7 +2,7 @@
 legis-num: H.R. 6164
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6164
@@ -462,7 +462,7 @@ Section 499 of the Public Health Service Act (42 U.S.C. 290b) is amended—
     - **(i)** by amending subparagraph (D)(ii) to read as follows:
       > - **(ii)** Upon the appointment of the appointed members of the Board under clause (i)(II), the terms of service as members of the Board of the ex officio members of the Board described in clauses (i) and (ii) of subparagraph (B) shall terminate. The ex officio members of the Board described in clauses (iii) and (iv) of subparagraph (B) shall continue to serve as ex officio members of the Board.
 
-    - **(ii)** in subparagraph (G), by inserting “appointed” after “that the number of”;
+    - **(iii)** in subparagraph (G), by inserting “appointed” after “that the number of”;
   - **(B)** by amending paragraph (3)(B) to read as follows:
     > - **(B)** Any vacancy in the membership of the appointed members of the Board shall be filled in accordance with the bylaws of the Foundation established in accordance with paragraph (6), and shall not affect the power of the remaining appointed members to execute the duties of the Board.
 

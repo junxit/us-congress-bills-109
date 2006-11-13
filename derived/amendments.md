@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6164
 congress: 109
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-130 amendatory instructions. 14 executed, 116 stated and not applied.
+130 amendatory instructions. 9 executed, 121 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,51 +59,6 @@ to guess them.
 |---|---|
 | Removed | `Director of the National Institutes of Health” and all that follows through “who shall` |
 | Inserted | `Director of NIH who shall` |
-
-### 42 U.S.C. § 281
-
-> in subsection (a), by striking “under subsection (e)” and inserting “to carry out this section”; and
-
-| | |
-|---|---|
-| Removed | `under subsection (e)` |
-| Inserted | `to carry out this section` |
-
-### 42 U.S.C. § 281
-
-> by striking “for such buildings and facilities” and inserting “for suitable and adequate buildings and facilities for use of the Library”; and
-
-| | |
-|---|---|
-| Removed | `for such buildings and facilities` |
-| Inserted | `for suitable and adequate buildings and facilities for use of the Library` |
-
-### 42 U.S.C. § 281
-
-> by striking “The amounts authorized to be appropriated by this section include” and inserting “Amounts appropriated to carry out this section may be used for”;
-
-| | |
-|---|---|
-| Removed | `The amounts authorized to be appropriated by this section include` |
-| Inserted | `Amounts appropriated to carry out this section may be used for` |
-
-### 42 U.S.C. § 281
-
-> by striking “under such subsection” and inserting “to carry out this section”; and
-
-| | |
-|---|---|
-| Removed | `under such subsection` |
-| Inserted | `to carry out this section` |
-
-### 42 U.S.C. § 281
-
-> in subsection (a) of section 481B, by striking “under section 481A(h)” and inserting “to carry out section 481A”;
-
-| | |
-|---|---|
-| Removed | `under section 481A(h)` |
-| Inserted | `to carry out section 481A` |
 
 ### 42 U.S.C. § 201
 
@@ -172,60 +127,65 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 282` | redesignate | by redesignating subsections (j) and (k) as subsections (i) and (j), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | amend | Section 402 of the Public Health Service Act, as amended by subsection (b) of this section, is amended by adding after subsection (j) the following subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 289a-1` | insert | Section 492A(a)(2) of the Public Health Service Act (42 U.S.C. 289a–1(a)(2)) is amended by inserting before the period the following: “, and unless a majority of the voting members of the appropriate advisory council under section 406, o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | insert | Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by inserting after section 402 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | redesignate | by striking the first sentence of paragraph (5) of section 402(i) (as redesignated by section 3(b)); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) of section 403A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) of section 404B; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (h) of section 404E; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 404F; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) of section 404G; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 409A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) of section 409C; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | redesignate | by redesignating subsection (e) as subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) of section 409E; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) of section 409F; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | in section 409H, by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 409I; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking section 417B; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (g) of section 417C; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | in section 417D, by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 424A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) of section 424B; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking section 425; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 434A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 441A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) of section 442A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | in subsection (a), by striking “(a)”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 445I; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking section 445J; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | in subsection (a), by striking “(a)”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 447B; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (g) in section 452A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking paragraph (7) in section 452E(b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | in subsection (a), by striking “(a) Enhanced support.—”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 464H; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 464L; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking paragraph (4) of section 464N(c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) of section 464P; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (f) of section 464R; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 464z; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking the first sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking section 468; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | replace | by striking the term under subsection (i)(1) and inserting “to carry out this section”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 281` | strike | by striking subsection (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) in the section 481C that relates to general clinical research centers; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) in section 485C; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (l) in section 485E; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (h) in section 485F; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (e) in section 485G; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (d) of section 487; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) of section 487A; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 281` | strike | by striking subsection (c) in the section 487F that relates to a loan repayment program regarding clinical researchers. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by inserting after section 402 the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking the first sentence of paragraph (5) of section 402(i) (as redesignated by section 3(b)); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) of section 403A; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) of section 404B; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (h) of section 404E; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 404F; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) of section 404G; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 409A; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “under subsection (e)” and inserting “to carry out this section”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) of section 409C; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (e) as subsection (d); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) of section 409E; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) of section 409F; | the bill names no machine-readable US Code section |
+| — | strike | in section 409H, by striking— | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 409I; | the bill names no machine-readable US Code section |
+| — | strike | by striking section 417B; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (g) of section 417C; | the bill names no machine-readable US Code section |
+| — | strike | in section 417D, by striking— | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 424A; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) of section 424B; | the bill names no machine-readable US Code section |
+| — | strike | by striking section 425; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 434A; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 441A; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) of section 442A; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking “(a)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 445I; | the bill names no machine-readable US Code section |
+| — | strike | by striking section 445J; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking “(a)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 447B; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (g) in section 452A; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (7) in section 452E(b); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking “(a) Enhanced support.—”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 464H; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 464L; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (4) of section 464N(c); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) of section 464P; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (f) of section 464R; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 464z; | the bill names no machine-readable US Code section |
+| — | strike | by striking the first sentence; | the bill names no machine-readable US Code section |
+| — | replace | by striking “for such buildings and facilities” and inserting “for suitable and adequate buildings and facilities for use of the Library”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “The amounts authorized to be appropriated by this section include” and inserting “Amounts appropriated to carry out this section may be used for”; | the bill names no machine-readable US Code section |
+| — | strike | by striking section 468; | the bill names no machine-readable US Code section |
+| — | replace | by striking the term under subsection (i)(1) and inserting “to carry out this section”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “under such subsection” and inserting “to carry out this section”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (i); | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a) of section 481B, by striking “under section 481A(h)” and inserting “to carry out section 481A”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) in the section 481C that relates to general clinical research centers; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) in section 485C; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (l) in section 485E; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (h) in section 485F; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e) in section 485G; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d) of section 487; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) of section 487A; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c) in the section 487F that relates to a loan repayment program regarding clinical researchers. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 201` | redesignate | by redesignating section 403A as section 403C; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 201` | replace | by striking section 403 and inserting the following sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 242q` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
