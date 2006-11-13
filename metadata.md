@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4844
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4844
@@ -30,9 +30,10 @@ Federal Election Integrity Act of 2006
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Souder, Mark E. [R-IN-3] (S001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -59,3 +60,5 @@ Federal Election Integrity Act of 2006
 - 2006-09-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6784-6785; text: CR H6782-6783)
 - 2006-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H6782)
 - 2006-09-20 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-21 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Rules and Administration.
