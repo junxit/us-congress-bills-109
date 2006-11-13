@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3606
@@ -20,9 +20,10 @@ To modify a land grant patent issued by the Secretary of the Interior.
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ To modify a land grant patent issued by the Secretary of the Interior.
 - 2006-09-27 — Mr. Gohmert moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7664)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7664)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
