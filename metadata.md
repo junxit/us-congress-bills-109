@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5516
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5516
@@ -16,9 +16,10 @@ To allow for the renegotiation of the payment schedule of contracts between the 
 
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ To allow for the renegotiation of the payment schedule of contracts between the 
 - 2006-09-27 — Mr. Gohmert moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7663)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7663)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
