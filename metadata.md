@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5454
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5454
@@ -20,9 +20,10 @@ To authorize salary adjustments for Justices and judges of the United States for
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ To authorize salary adjustments for Justices and judges of the United States for
 - 2006-09-25 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6961)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6961)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on the Judiciary.
