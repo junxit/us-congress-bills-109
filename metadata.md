@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6233
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6233
@@ -22,9 +22,10 @@ To amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A
 - 2006-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7992-8000)
 - 2006-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7992-8000)
 - 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Environment and Public Works.
