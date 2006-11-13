@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3534
@@ -16,9 +16,10 @@ Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2005
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,5 @@ Piedras Blancas Historic Light Station Outstanding Natural Area Act of 2005
 - 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6951-6952)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6951-6952)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
