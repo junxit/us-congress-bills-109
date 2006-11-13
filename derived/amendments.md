@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5079
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -37,8 +37,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (h), by inserting before the period at the end the following: “, and $2,000,000 for each of fiscal years 2006 through 2015”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(referred to in this Act as the District)” after “irrigation district”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(referred to in this Act as the Contract)” after “1953”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | In Article 11(d) of the Contract, by inserting “, and may further be used for instream purposes, including fish or wildlife purposes, to the extent that such use is required by Oregon State law in order for the District to engage in, or … | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end of Article 12(d) the following: “(e) Notwithstanding the above subsections of this Article or Article 13 below, beginning with the irrigation season immediately following the date of enactment of the North Unit Irrig… | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end of Article 12(d) the following: “(e) Notwithstanding the above subsections of this Article or Article 13 below, beginning with the irrigation season immediately following the date of enactment of the North Unit Irrig… | the bill names no machine-readable US Code section |
 | — | insert | In Article 14(a) of the Contract, by inserting “and for instream purposes, including fish or wildlife purposes, to the extent that such use is required by Oregon State law in order for the District to engage in, or take advantage of, con… | the bill names no machine-readable US Code section |
 | — | insert | In Article 29(a) of the Contract, by inserting “and for instream purposes, including fish or wildlife purposes, to the extent that such use is required by Oregon State law in order for the District to engage in, or take advantage of, con… | the bill names no machine-readable US Code section |

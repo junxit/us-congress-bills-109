@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5079
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5079
@@ -16,9 +16,10 @@ Oregon Water Resources Management Act of 2006
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,5 @@ Oregon Water Resources Management Act of 2006
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6940-6941)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6940-6941)
 - 2006-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
