@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6164
 congress: 109
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6164
@@ -33,9 +33,10 @@ National Institutes of Health Reform Act of 2006
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 - Rep. Bilirakis, Michael [R-FL-9] (B000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -53,3 +54,6 @@ National Institutes of Health Reform Act of 2006
 - 2006-09-26 — Placed on the Union Calendar, Calendar No. 417.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-687.
 - 2006-09-26 — Reported by the Committee on Energy and Commerce. H. Rept. 109-687.
+- 2006-09-27 — Received in the Senate.
+- 2006-10-02 — Referred to the Subcommittee on Health.
+- 2006-11-13 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
