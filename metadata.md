@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6121
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6121
@@ -32,3 +32,13 @@ To amend the Federal Water Pollution Control Act to reauthorize a program relati
 - 2006-11-13 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2006-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8589)
 - 2006-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8589)
+- 2006-11-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.
+- 2006-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11096)
+- 2006-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11096)
+- 2006-11-17 — Message on Senate action sent to the House.
+- 2006-12-04 — Presented to President.
+- 2006-12-04 — Presented to President.
+- 2006-12-12 — Became Public Law No: 109-392.
+- 2006-12-12 — Became Public Law No: 109-392.
+- 2006-12-12 — Signed by President.
+- 2006-12-12 — Signed by President.
