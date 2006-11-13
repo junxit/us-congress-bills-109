@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5313
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5313
@@ -27,9 +27,10 @@ Open Space and Farmland Preservation Act
 - Rep. English, Phil [R-PA-3] (E000187)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -46,3 +47,5 @@ Open Space and Farmland Preservation Act
 - 2006-09-26 — Mr. Goodlatte moved to suspend the rules and pass the bill.
 - 2006-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7372)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7372)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
