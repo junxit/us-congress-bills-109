@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6203
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6203
@@ -49,9 +49,10 @@ Alternative Energy Research and Development Act
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -64,3 +65,5 @@ Alternative Energy Research and Development Act
 - 2006-09-29 — Mrs. Biggert moved to suspend the rules and pass the bill.
 - 2006-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8011-8015)
 - 2006-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8011-8015)
+- 2006-09-30 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
