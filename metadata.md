@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1344
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1344
@@ -23,9 +23,10 @@ Lower Farmington River and Salmon Brook Wild and Scenic River Study Act
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ Lower Farmington River and Salmon Brook Wild and Scenic River Study Act
 - 2006-09-25 — Mr. Renzi moved to suspend the rules and pass the bill, as amended.
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6937)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6937)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
