@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4545
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4545
@@ -20,9 +20,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7736)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7736)
 - 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
