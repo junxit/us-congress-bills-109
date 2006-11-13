@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 471
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 471
@@ -78,9 +78,10 @@ Congratulating The Professional Golfers' Association of America on its 90th anni
 - Rep. Ford, Harold E., Jr. [D-TN-9] (F000262)
 - Rep. Burton, Dan [R-IN-5] (B001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -95,3 +96,5 @@ Congratulating The Professional Golfers' Association of America on its 90th anni
 - 2006-09-25 — Mr. Davis, Tom moved to suspend the rules and agree to the resolution.
 - 2006-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6981-6982)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6981-6982)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Referred to the Committee on Commerce, Science, and Transportation.
