@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6014
@@ -20,9 +20,10 @@ To authorize the Secretary of the Interior, acting through the Bureau of Reclama
 
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ To authorize the Secretary of the Interior, acting through the Bureau of Reclama
 - 2006-09-27 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7643)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7643)
+- 2006-09-28 — Received in the Senate.
+- 2006-09-29 — Sponsor introductory remarks on measure. (CR E1922-1923)
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
