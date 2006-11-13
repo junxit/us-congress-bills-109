@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6162
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6162
@@ -21,9 +21,10 @@ Secure Border Initiative Financial Accountability Act of 2006
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Secure Border Initiative Financial Accountability Act of 2006
 - 2006-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7706-7707)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7706-7707)
 - 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
