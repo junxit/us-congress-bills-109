@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5418
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5418
@@ -20,9 +20,10 @@ To establish a pilot program in certain United States district courts to encoura
 
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,5 @@ To establish a pilot program in certain United States district courts to encoura
 - 2006-09-28 — Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.
 - 2006-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7851)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7851)
+- 2006-09-29 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on the Judiciary.
