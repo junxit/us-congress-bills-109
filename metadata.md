@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6079
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6079
@@ -22,9 +22,10 @@ Hedge Fund Study Act
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ Hedge Fund Study Act
 - 2006-09-27 — Mr. Miller, Gary moved to suspend the rules and pass the bill, as amended.
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7596)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7596)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
