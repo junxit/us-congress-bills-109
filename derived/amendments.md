@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6072
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -49,4 +49,4 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1831t` | redesignate | by redesignating subsections (f) and (g) as subsections (e) and (f), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831t` | redesignate | Subsection (e)(2) (as so redesignated by subsection (e) of this section) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831t` | redesignate | Subsection (f) (as so redesignated by subsection (e) of this section) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831u` | add-at-end | Section 44(f) of the Federal Deposit Insurance Act (12 U.S.C. 1831u(f)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 44(f) of the Federal Deposit Insurance Act (12 U.S.C. 1831u(f)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
