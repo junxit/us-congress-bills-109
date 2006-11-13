@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2679
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2679
@@ -85,9 +85,10 @@ Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of R
 - Rep. Schmidt, Jean [R-OH-2] (S001164)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -121,3 +122,5 @@ Veterans' Memorials, Boy Scouts, Public Seals, and Other Public Expressions of R
 - 2006-09-26 — Rule provides for consideration of H.R. 2679 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
 - 2006-09-26 — The previous question was ordered pursuant to the rule. (consideration: CR H7404)
 - 2006-09-26 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on the Judiciary.
