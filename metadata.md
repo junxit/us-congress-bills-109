@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 222
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 222
@@ -73,9 +73,10 @@ Supporting the goals and ideals of National Pregnancy and Infant Loss Remembranc
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Supporting the goals and ideals of National Pregnancy and Infant Loss Remembranc
 - 2006-09-28 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7742)
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7742)
 - 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Referred to the Committee on Health, Education, Labor, and Pensions.
