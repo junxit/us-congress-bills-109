@@ -1,7 +1,7 @@
 ---
 measure: H.R. 383
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 383
@@ -30,9 +30,10 @@ Ice Age Floods National Geologic Route Designation Act of 2006
 - Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,5 @@ Ice Age Floods National Geologic Route Designation Act of 2006
 - 2006-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6941-6942)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6941-6942)
 - 2006-09-25 — The title of the measure was amended. Agreed to without objection.
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
