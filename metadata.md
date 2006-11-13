@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4876
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4876
@@ -20,9 +20,10 @@ To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio A
 
 - Rep. Wilson, Heather [R-NM-1] (W000789)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio A
 - 2006-09-27 — Mr. Gohmert moved to suspend the rules and pass the bill.
 - 2006-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7662)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7662)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Indian Affairs.
