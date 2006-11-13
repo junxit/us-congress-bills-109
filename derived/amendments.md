@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5825
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -222,7 +222,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 1801` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1801` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1801` | amend | Subsection (f) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1801` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1801` | amend | Subsection (l) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -244,17 +244,17 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1805` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1808` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1808` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 1808` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1808` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1808` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 413` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 413` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 414` | add-at-end | in section 502 (50 U.S.C. 414), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 415` | add-at-end | in section 503 (50 U.S.C. 415), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 401` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 401` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 401` | add-at-end | in section 502 (50 U.S.C. 414), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 401` | add-at-end | in section 503 (50 U.S.C. 415), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1805` | redesignate | Section 105(d) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(d)), as redesignated by section 6(4), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1824` | add-at-end | Section 304(d) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1824(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1811` | replace | Section 111 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1811) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 90 days following an arme… | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1829` | replace | Section 309 of such Act (50 U.S.C. 1829) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 90 days following an armed attack against the territory of the Uni… | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1801` | add-at-end | by adding at the end of title I the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1801` | insert | in the table of contents in the first section, by inserting after the item relating to section 111 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1801` | add-at-end | by adding at the end of title I the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1801` | insert | in the table of contents in the first section, by inserting after the item relating to section 112, as added by section 13(2), the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1805` | add-at-end | Section 304(d) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1824(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 111 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1811) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 90 days following an arme… | the bill names no machine-readable US Code section |
+| — | replace | Section 309 of such Act (50 U.S.C. 1829) is amended by striking “for a period not to exceed” and all that follows and inserting the following: “for a period not to exceed 90 days following an armed attack against the territory of the Uni… | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end of title I the following new section: | the bill names no machine-readable US Code section |
+| — | insert | in the table of contents in the first section, by inserting after the item relating to section 111 the following new item: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end of title I the following new section: | the bill names no machine-readable US Code section |
+| — | insert | in the table of contents in the first section, by inserting after the item relating to section 112, as added by section 13(2), the following new item: | the bill names no machine-readable US Code section |
