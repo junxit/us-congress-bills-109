@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5136
@@ -29,9 +29,10 @@ National Integrated Drought Information System Act of 2006
 - Rep. Salazar, John T. [D-CO-3] (S001158)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,5 @@ National Integrated Drought Information System Act of 2006
 - 2006-09-26 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7484)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7484)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
