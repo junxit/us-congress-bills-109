@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 317
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 317
@@ -53,9 +53,10 @@ Requesting the President to issue a proclamation annually calling upon the peopl
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -71,3 +72,5 @@ Requesting the President to issue a proclamation annually calling upon the peopl
 - 2006-09-19 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.
 - 2006-09-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6687)
 - 2006-09-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6687)
+- 2006-09-20 — Received in the Senate.
+- 2006-11-13 — Referred to the Committee on Foreign Relations.
