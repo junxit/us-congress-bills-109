@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6131
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6131
@@ -20,10 +20,11 @@ To permit certain expenditures from the Leaking Underground Storage Tank Trust F
 
 - Rep. Gillmor, Paul E. [R-OH-5] (G000210)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -39,3 +40,5 @@ To permit certain expenditures from the Leaking Underground Storage Tank Trust F
 - 2006-09-26 — Mr. Chocola moved to suspend the rules and pass the bill.
 - 2006-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7387)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7387)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Finance.
