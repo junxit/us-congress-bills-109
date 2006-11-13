@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3961
@@ -21,9 +21,10 @@ To authorize the National Park Service to pay for services rendered by subcontra
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 - Rep. Hayworth, J. D. [R-AZ-5] (H000413)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,5 @@ To authorize the National Park Service to pay for services rendered by subcontra
 - 2006-09-25 — Mr. Renzi moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6938)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6938)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
