@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4981
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
