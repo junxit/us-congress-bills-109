@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4846
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4846
@@ -30,9 +30,10 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7737)
 - 2006-09-28 — Received in the Senate.
 - 2006-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
