@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6115
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,15 +42,6 @@ to guess them.
 | Removed | `October 1, 2006` |
 | Inserted | `October 1, 2011` |
 
-### 42 U.S.C. § 1437f
-
-> Section 514(g)(2)(A) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) is amended by striking “five percent” and inserting “nine percent”.
-
-| | |
-|---|---|
-| Removed | `five percent` |
-| Inserted | `nine percent` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -60,6 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 514(g)(2)(A) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) is amended by striking “five percent” and inserting “nine percent”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1437f` | insert | Section 517(a)(5) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) is amended by inserting before the period at the end the following: “: Provided, That if such purchaser acquires such proje… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | add-at-end | Section 512 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | amend | Subparagraph (B) of section 514(g)(1) of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
