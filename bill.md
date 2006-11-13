@@ -2,7 +2,7 @@
 legis-num: H.R. 5637
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5637
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title and table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Nonadmitted and Reinsurance Reform Act of 2006”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+- **(a)** *Short Title* This Act may be cited as the “Nonadmitted and Reinsurance Reform Act of 2006”.
+- **(b)** *Table of Contents* The table of contents for this Act is as follows:
 
 ## § 2. Effective date
 

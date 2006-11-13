@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5637
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5637
@@ -39,10 +39,11 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,5 @@ Nonadmitted and Reinsurance Reform Act of 2006
 - 2006-09-27 — Mr. Oxley moved to suspend the rules and pass the bill, as amended.
 - 2006-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 492). (text: CR H7561-7563)
 - 2006-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 492).(text: CR H7561-7563)
+- 2006-09-28 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
