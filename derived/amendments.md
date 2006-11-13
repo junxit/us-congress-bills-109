@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5835
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -34,20 +34,20 @@ complete account of the bill's effect, which it is not.
 | `44 U.S.C. § 3543` | strike | by striking “and” at the end of paragraph (7); | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 3543` | replace | by striking the period and inserting “; and” at the end of paragraph (8); and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 3543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 3544` | insert | by inserting after “authority to ensure compliance with” the following: “and, to the extent determined necessary and explicitly authorized by the head of the agency, to enforce”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 3544` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 3544` | insert | by inserting “and” at the end of subparagraph (E); and | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 3544` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3543` | insert | by inserting after “authority to ensure compliance with” the following: “and, to the extent determined necessary and explicitly authorized by the head of the agency, to enforce”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3543` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 3543` | insert | by inserting “and” at the end of subparagraph (E); and | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 3543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3544` | strike | by striking “and” at the end of paragraph (7); | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 3544` | replace | by striking the period and inserting “; and” at the end of paragraph (8); and | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 3544` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3544` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1402` | replace | by striking “, and” at the end of paragraph (5) and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 1402` | replace | by striking the period and inserting “; and” at the end of paragraph (6); and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 1402` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1402` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3542` | add-at-end | Section 3542(b) of title 44, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 307` | insert | Chapter 3 of title 38, United States Code, is amended by inserting after section 307 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 307` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 307 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 307` | redesignate | Section 308(b) of such title is amended by striking paragraph (5) and redesignating paragraphs (6) through (11) as paragraphs (5) through (10), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Chapter 3 of title 38, United States Code, is amended by inserting after section 307 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 307 the following new item: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 308(b) of such title is amended by striking paragraph (5) and redesignating paragraphs (6) through (11) as paragraphs (5) through (10), respectively. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 1681a` | add-at-end | Chapter 57 of title 38, United States Code, is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 7902` | insert | Title 38, United States Code, is amended by inserting after chapter 78 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

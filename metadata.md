@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5835
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5835
@@ -85,10 +85,11 @@ Veterans Identity and Credit Security Act of 2006
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
 - Rep. Everett, Terry [R-AL-2] (E000268)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -112,3 +113,5 @@ Veterans Identity and Credit Security Act of 2006
 - 2006-09-26 — Mr. Buyer moved to suspend the rules and pass the bill, as amended.
 - 2006-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7468-7472)
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7468-7472)
+- 2006-09-27 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Veterans' Affairs.
