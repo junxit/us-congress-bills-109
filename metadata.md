@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1796
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1796
@@ -28,9 +28,10 @@ Mississippi River Trail Study Act
 - Rep. Evans, Lane [D-IL-17] (E000250)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,5 @@ Mississippi River Trail Study Act
 - 2006-09-25 — Mr. Pearce moved to suspend the rules and pass the bill.
 - 2006-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6950)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6950)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Read twice and referred to the Committee on Energy and Natural Resources.
