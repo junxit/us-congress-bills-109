@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 109
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5136
@@ -56,3 +56,14 @@ National Integrated Drought Information System Act of 2006
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7484)
 - 2006-09-27 — Received in the Senate.
 - 2006-11-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11391)
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11391)
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-430.
+- 2006-12-20 — Became Public Law No: 109-430.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.
