@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4844
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -65,5 +65,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 15483` | amend | Section 303(d)(2) of such Act (42 U.S.C. 15483(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15483` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15483` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15321` | add-at-end | Subtitle D of title II of such Act (42 U.S.C. 15321 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15483` | add-at-end | The table of contents of such Act is amended by adding at the end of the item relating to subtitle D of title II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | add-at-end | Subtitle D of title II of such Act (42 U.S.C. 15321 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15483` | amend | The table of contents of such Act is amended by adding at the end of the item relating to subtitle D of title II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
