@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6166
@@ -20,11 +20,12 @@ Military Commissions Act of 2006
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Military Commissions Act of 2006
 - 2006-09-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 6166.
 - 2006-09-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7558-7560; text: CR H7558)
 - 2006-09-27 — The previous question was ordered pursuant to the rule.
+- 2006-11-13 — Read twice and referred to the Committee on Armed Services.
