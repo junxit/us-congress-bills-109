@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 430
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 430
@@ -48,9 +48,10 @@ Recognizing the accomplishments of the American Council of Young Political Leade
 - Rep. Weller, Jerry [R-IL-11] (W000273)
 - Rep. Dreier, David [R-CA-26] (D000492)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,5 @@ Recognizing the accomplishments of the American Council of Young Political Leade
 - 2006-09-25 — Mr. Poe moved to suspend the rules and agree to the resolution.
 - 2006-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7323)
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7323)
+- 2006-09-26 — Received in the Senate.
+- 2006-11-13 — Referred to the Committee on Foreign Relations.
