@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6314
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6314
@@ -25,3 +25,11 @@ To amend title 38, United States Code, to extend certain expiring provisions of 
 - 2006-11-13 — Introduced in House
 - 2006-11-13 — Introduced in House
 - 2006-11-13 — Referred to the House Committee on Veterans' Affairs.
+- 2006-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-11-14 — Considered as unfinished business. (consideration: CR H8637-8638)
+- 2006-11-14 — Considered under suspension of the rules. (consideration: CR H8617-8621)
+- 2006-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6314.
+- 2006-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-11-14 — Mr. Buyer moved to suspend the rules and pass the bill.
+- 2006-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 520). (text: CR H8617)
+- 2006-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 520).(text: CR H8617)
