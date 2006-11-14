@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.J. RES. 96
 
-> Recognizing the contributions of the Christmas tree industry to the United States economy and urging the Secretary of Agriculture to establish programs to raise awareness of the importance of the Christmas tree industry.
+> Recognizing the contributions of the Christmas tree industry to the United States economy.
 
 ## Preamble
 
@@ -25,7 +25,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 73 million new Christmas trees will be planted in 2006, and, on average, over 1,500 Christmas trees can be planted per acre; and
 - Whereas the retail value of all Christmas trees harvested in 2005 was $1.4 billion: Now, therefore, be it
 
-That Congress—
-
-- **(1)** recognizes the important contributions of the live-cut Christmas tree industry, Christmas tree growers, and persons employed in the live-cut Christmas tree industry to the United States economy; and
-- **(2)** urges the Secretary of Agriculture to establish programs to raise awareness of the importance of the live-cut Christmas tree industry.
+That Congress recognizes the important contributions of the live-cut Christmas tree industry, Christmas tree growers, and persons employed in the live-cut Christmas tree industry to the United States economy.
