@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 100
@@ -34,3 +34,9 @@ Making further continuing appropriations for the fiscal year 2007, and for other
 - 2006-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H8653)
 - 2006-11-15 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10954)
 - 2006-11-15 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10954)
+- 2006-11-16 — Presented to President.
+- 2006-11-16 — Presented to President.
+- 2006-11-17 — Became Public Law No: 109-369.
+- 2006-11-17 — Became Public Law No: 109-369.
+- 2006-11-17 — Signed by President.
+- 2006-11-17 — Signed by President.
