@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 96
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 96
@@ -39,3 +39,4 @@ Recognizing the contributions of the Christmas tree industry to the United State
 - 2006-11-14 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H8635)
 - 2006-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H8635)
 - 2006-11-14 — The title of the measure was amended. Agreed to without objection.
+- 2006-11-15 — Received in the Senate.
