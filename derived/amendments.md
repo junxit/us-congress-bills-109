@@ -1,7 +1,7 @@
 ---
 measure: H.R. 864
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 1521` | amend | a complete description of the entity’s current initiatives, and how it will use this grant to enhance those initiatives by adding a focus on underage drinking prevention. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | a complete description of the entity’s current initiatives, and how it will use this grant to enhance those initiatives by adding a focus on underage drinking prevention. | the bill names no machine-readable US Code section |
