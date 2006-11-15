@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6314
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6314
@@ -16,9 +16,10 @@ To amend title 38, United States Code, to extend certain expiring provisions of 
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To amend title 38, United States Code, to extend certain expiring provisions of 
 - 2006-11-14 — Mr. Buyer moved to suspend the rules and pass the bill.
 - 2006-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 520). (text: CR H8617)
 - 2006-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 520).(text: CR H8617)
+- 2006-11-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
