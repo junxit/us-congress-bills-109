@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6314
 congress: 109
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 16 executed, 10 stated and not applied.
+26 amendatory instructions. 7 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,87 +87,6 @@ to guess them.
 | Removed | `December 27, 2006` |
 | Inserted | `June 30, 2007` |
 
-### 38 U.S.C. § 3501
-
-> by striking “a period” and inserting “an aggregate period”; and
-
-| | |
-|---|---|
-| Removed | `a period` |
-| Inserted | `an aggregate period` |
-
-### 38 U.S.C. § 3501
-
-> in subsection (b)(3), by striking “section 3501(a)(1)(D)” and inserting “subparagraph (D) or (E) of section 3501(a)(1)”; and
-
-| | |
-|---|---|
-| Removed | `section 3501(a)(1)(D)` |
-| Inserted | `subparagraph (D) or (E) of section 3501(a)(1)` |
-
-### 38 U.S.C. § 3501
-
-> in subsection (c), by striking “or 3501(a)(1)(D)(i)” and inserting “3501(a)(1)(D)(i), or 3501(a)(1)(E)”;
-
-| | |
-|---|---|
-| Removed | `or 3501(a)(1)(D)(i)` |
-| Inserted | `3501(a)(1)(D)(i), or 3501(a)(1)(E)` |
-
-### 38 U.S.C. § 3501
-
-> in subsection (a), by striking “an eligible person (within the meaning of section 3501(a)(1)(A) of this title)” and inserting “an eligible person whose eligibility is based on the death or disability of a parent”;
-
-| | |
-|---|---|
-| Removed | `an eligible person (within the meaning of section 3501(a)(1)(A) of this title)` |
-| Inserted | `an eligible person whose eligibility is based on the death or disability of a parent` |
-
-### 38 U.S.C. § 3501
-
-> by striking “or 3501(a)(1)(D)(ii) of this title” and inserting “3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title”;
-
-| | |
-|---|---|
-| Removed | `or 3501(a)(1)(D)(ii) of this title` |
-| Inserted | `3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title` |
-
-### 38 U.S.C. § 3501
-
-> in paragraph (2), by striking “or (D) of this title” and inserting “(D), or (E) of this title”;
-
-| | |
-|---|---|
-| Removed | `or (D) of this title` |
-| Inserted | `(D), or (E) of this title` |
-
-### 38 U.S.C. § 3501
-
-> in section 3540, by striking “and (D)” and inserting “(D), and (E)”;
-
-| | |
-|---|---|
-| Removed | `and (D)` |
-| Inserted | `(D), and (E)` |
-
-### 38 U.S.C. § 3501
-
-> in section 3686(a)(1), by striking “or (D)” and inserting “(D), or (E)”; and
-
-| | |
-|---|---|
-| Removed | `or (D)` |
-| Inserted | `(D), or (E)` |
-
-### 38 U.S.C. § 3501
-
-> in section 5113(b)(3)(B), by striking “or (D)” and inserting “(D), or (E)”.
-
-| | |
-|---|---|
-| Removed | `or (D)` |
-| Inserted | `(D), or (E)` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -177,13 +96,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 3501` | replace | by striking the period at the end of subparagraph (A) and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | replace | by striking the comma at the end of subparagraph (B) and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | replace | by striking “, or” at the end of subparagraph (C) and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 3501` | replace | by striking the comma at the end of subparagraph (D) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 3501` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | replace | by striking “Each eligible person” and inserting the following: “Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title,”; | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 3501` | strike | by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | insert | by inserting after “section 3501(a)(1) of this title” the following: “or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | add-at-end | in paragraph (1)(B), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 3501` | replace | in section 3563, by striking “each eligible person defined in section 3501(a)(1)(A) of this title” and inserting the following: “each eligible person whose eligibility is based on the death or disability of a parent”; | the bill quotes the text struck but describes what replaces it |
+| — | replace | by striking the period at the end of subparagraph (A) and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | by striking the comma at the end of subparagraph (B) and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | by striking “, or” at the end of subparagraph (C) and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | by striking the comma at the end of subparagraph (D) and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Each eligible person” and inserting the following: “Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “a period” and inserting “an aggregate period”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(3), by striking “section 3501(a)(1)(D)” and inserting “subparagraph (D) or (E) of section 3501(a)(1)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “or 3501(a)(1)(D)(i)” and inserting “3501(a)(1)(D)(i), or 3501(a)(1)(E)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “an eligible person (within the meaning of section 3501(a)(1)(A) of this title)” and inserting “an eligible person whose eligibility is based on the death or disability of a parent”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “section 3501(a)(1) of this title” the following: “or a person made eligible by the disability of a spouse under section 3501(a)(1)(E) of this title”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “or 3501(a)(1)(D)(ii) of this title” and inserting “3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (1)(B), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or (D) of this title” and inserting “(D), or (E) of this title”; | the bill names no machine-readable US Code section |
+| — | replace | in section 3540, by striking “and (D)” and inserting “(D), and (E)”; | the bill names no machine-readable US Code section |
+| — | replace | in section 3563, by striking “each eligible person defined in section 3501(a)(1)(A) of this title” and inserting the following: “each eligible person whose eligibility is based on the death or disability of a parent”; | the bill names no machine-readable US Code section |
+| — | replace | in section 3686(a)(1), by striking “or (D)” and inserting “(D), or (E)”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 5113(b)(3)(B), by striking “or (D)” and inserting “(D), or (E)”. | the bill names no machine-readable US Code section |
