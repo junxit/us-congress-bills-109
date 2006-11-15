@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1078
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1078
@@ -78,3 +78,11 @@ Congratulating the St. Louis Cardinals on winning the 2006 World Series.
 - 2006-11-13 — Introduced in House
 - 2006-11-13 — Introduced in House
 - 2006-11-13 — Referred to the House Committee on Government Reform.
+- 2006-11-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2006-11-15 — Considered as unfinished business. (consideration: CR H8655)
+- 2006-11-15 — Considered under suspension of the rules. (consideration: CR H8651-8653)
+- 2006-11-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1078.
+- 2006-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-11-15 — Ms. Foxx moved to suspend the rules and agree to the resolution.
+- 2006-11-15 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 523). (text: CR H8651)
+- 2006-11-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 523).(text: CR H8651)
