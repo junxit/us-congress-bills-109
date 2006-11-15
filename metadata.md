@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 100
