@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1245
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1245
@@ -292,3 +292,4 @@ Johanna's Law
 - 2006-11-14 — Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.
 - 2006-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8624)
 - 2006-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8624)
+- 2006-11-15 — Received in the Senate, read twice.
