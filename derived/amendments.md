@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
