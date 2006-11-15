@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 496
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 496
