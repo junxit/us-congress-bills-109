@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6326
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6326
