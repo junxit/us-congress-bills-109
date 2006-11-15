@@ -1,7 +1,7 @@
 ---
 measure: H.R. 864
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 864
@@ -122,3 +122,4 @@ STOP Act
 - 2006-11-14 — Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.
 - 2006-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 23 (Roll no. 521). (text: CR H8628-8631)
 - 2006-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 23 (Roll no. 521).(text: CR H8628-8631)
+- 2006-11-15 — Received in the Senate, read twice.
