@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4591
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 7 executed, 18 stated and not applied.
+24 amendatory instructions. 7 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,7 +96,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 2601` | add-at-end | The Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2601` | amend | The Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2605` | add-at-end | by adding at the end of paragraph (2) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2605` | add-at-end | by adding at the end of paragraph (3) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2605` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -111,6 +111,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2616` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2616` | replace | in subparagraphs (A) and (C), by striking the comma at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2616` | insert | in the first sentence of subsection (b), by inserting “or V” after “title IV”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 2617` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 2617` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 2617` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2617` | amend | by amending subsection (a)(2)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2617` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
