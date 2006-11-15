@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6326
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6326
@@ -35,3 +35,9 @@ To clarify the provision of nutrition services to older Americans.
 - 2006-11-15 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10950)
 - 2006-11-15 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10950)
 - 2006-11-15 — Referred to the House Committee on Education and the Workforce.
+- 2006-11-16 — Presented to President.
+- 2006-11-16 — Presented to President.
+- 2006-11-17 — Became Public Law No: 109-368.
+- 2006-11-17 — Became Public Law No: 109-368.
+- 2006-11-17 — Signed by President.
+- 2006-11-17 — Signed by President.
