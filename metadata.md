@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 101
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 101
@@ -25,3 +25,12 @@ Appointing the day for the convening of the first session of the One Hundred Ten
 - 2006-11-15 — On passage Passed without objection. (text: CR H8656)
 - 2006-11-15 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8656)
 - 2006-11-16 — Received in the Senate, read twice.
+- 2006-12-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 12/8/2006 S11830)
+- 2006-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 12/8/2006 S11830)
+- 2006-12-11 — Message on Senate action sent to the House.
+- 2006-12-19 — Presented to President.
+- 2006-12-19 — Presented to President.
+- 2006-12-22 — Became Public Law No: 109-447.
+- 2006-12-22 — Became Public Law No: 109-447.
+- 2006-12-22 — Signed by President.
+- 2006-12-22 — Signed by President.
