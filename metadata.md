@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 611
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 611
@@ -30,3 +30,7 @@ A resolution supporting the efforts of the Independent National Electoral Commis
 
 - 2006-09-29 — Introduced in Senate
 - 2006-09-30 — Referred to the Committee on Foreign Relations. (text of measure as introduced:  CR S10758)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11101)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11101)
+- 2006-11-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S11097-11102)
