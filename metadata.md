@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 604
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 604
@@ -37,3 +37,7 @@ A resolution recognizing the work and accomplishments of Mr. Britt "Max" Mayfiel
 - 2006-09-29 — Introduced in Senate
 - 2006-09-29 — Sponsor introductory remarks on measure. (CR S10755)
 - 2006-09-30 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced:  CR S10755)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11100)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11100)
+- 2006-11-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S11097-11102)
