@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 609
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 609
@@ -29,3 +29,7 @@ A resolution honoring the children's charities, youth-serving organizations, and
 
 - 2006-09-29 — Introduced in Senate
 - 2006-09-30 — Referred to the Committee on the Judiciary. (text of measure as introduced:  CR S1057)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11100-11101)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11100-11101)
+- 2006-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S11097-11102)
