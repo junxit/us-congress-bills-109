@@ -1,7 +1,7 @@
 ---
 measure: S. 4046
 congress: 109
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4046
@@ -16,7 +16,7 @@ Iraq Reconstruction Accountability Act of 2006
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (21)
+## Cosponsors (29)
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Lieberman, Joseph I. [D-CT] (L000304)
@@ -39,6 +39,14 @@ Iraq Reconstruction Accountability Act of 2006
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -49,3 +57,7 @@ Iraq Reconstruction Accountability Act of 2006
 - 2006-11-13 — Introduced in Senate
 - 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S10881)
 - 2006-11-13 — Sponsor introductory remarks on measure. (CR S10880-10881)
+- 2006-11-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2006-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.
+- 2006-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 666.
