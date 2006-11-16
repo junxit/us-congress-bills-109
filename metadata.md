@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 423
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 423
@@ -40,3 +40,4 @@ Authorizing the printing as a House document of "A History, Committee on the Jud
 - 2006-11-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2006-11-16 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S11096; text as passed Senate: CR S11096)
 - 2006-11-16 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S11096; text as passed Senate: CR S11096)
+- 2006-11-17 — Message on Senate action sent to the House.
