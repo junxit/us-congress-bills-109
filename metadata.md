@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 608
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 608
@@ -45,3 +45,7 @@ A resolution recognizing the contributions of Hispanic Serving Institutions, and
 - 2006-09-29 — Introduced in Senate
 - 2006-09-29 — Sponsor introductory remarks on measure. (CR S10757)
 - 2006-09-30 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced:  CR S10756-10757)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11100)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11100)
+- 2006-11-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S11097-11102)
