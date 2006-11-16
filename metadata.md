@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 101
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 101
@@ -24,3 +24,4 @@ Appointing the day for the convening of the first session of the One Hundred Ten
 - 2006-11-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2006-11-15 — On passage Passed without objection. (text: CR H8656)
 - 2006-11-15 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8656)
+- 2006-11-16 — Received in the Senate, read twice.
