@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 599
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 599
@@ -64,3 +64,7 @@ A resolution designating the week of October 23, 2006, through October 27, 2006,
 
 - 2006-09-29 — Introduced in Senate
 - 2006-09-30 — Referred to the Committee on the Judiciary. (text of measure as introduced:  CR S10753)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11098-11099)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11098-11099)
+- 2006-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S11097-11102)
