@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 595
 congress: 109
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 595
@@ -30,3 +30,7 @@ A resolution recognizing the Lawrence Berkeley National Laboratory as 1 of the p
 
 - 2006-09-29 — Introduced in Senate
 - 2006-09-30 — Referred to the Committee on Energy and Natural Resources. (text of measure as introduced:  CR S10749-10750)
+- 2006-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11097-11098)
+- 2006-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11097-11098)
+- 2006-11-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S11097-11102)
+- 2006-11-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S11097-11102)
