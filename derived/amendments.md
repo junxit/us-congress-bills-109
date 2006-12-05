@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4997
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,12 @@ to guess them.
 |---|---|
 | Removed | `Act and before June 1, 2006.` |
 | Inserted | `Act.` |
+
+### 8 U.S.C. § 1182
+
+> Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 (8 U.S.C. 1182 note; Public Law 103–416) (as amended by section 1(a)(1) of Public Law 108–441) is amended by striking “June 1, 2006.” and inserting “June 1, 2008.”.
+
+| | |
+|---|---|
+| Removed | `June 1, 2006.` |
+| Inserted | `June 1, 2008.` |
