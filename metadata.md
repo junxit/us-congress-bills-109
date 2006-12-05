@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1087
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1087
@@ -16,7 +16,7 @@ Designating Room H-139 of the Capitol as the "Henry J. Hyde Room".
 
 - Rep. Pence, Mike [R-IN-6] (P000587)
 
-## Cosponsors (36)
+## Cosponsors (38)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
@@ -54,6 +54,8 @@ Designating Room H-139 of the Capitol as the "Henry J. Hyde Room".
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
 ## Committees (1)
 
@@ -64,3 +66,9 @@ Designating Room H-139 of the Capitol as the "Henry J. Hyde Room".
 - 2006-11-15 — Introduced in House
 - 2006-11-15 — Introduced in House
 - 2006-11-15 — Referred to the House Committee on Transportation and Infrastructure.
+- 2006-12-05 — Considered under suspension of the rules. (consideration: CR H8681-8682)
+- 2006-12-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1087.
+- 2006-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-05 — Mr. Young (AK) moved to suspend the rules and agree to the resolution.
+- 2006-12-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8681)
+- 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8681)
