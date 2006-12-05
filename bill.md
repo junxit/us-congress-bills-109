@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3248
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Lifespan Respite Care Act of 2005”.
+This Act may be cited as the “Lifespan Respite Care Act of 2006”.
 
 ## § 2. Lifespan respite care
 
