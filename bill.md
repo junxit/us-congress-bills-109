@@ -9,55 +9,44 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To facilitate the use for irrigation and other purposes of water produced in connection with development of energy resources.
 
-## § 1. Short title, findings, and purpose
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “More Water and More Energy Act of 2006”.
-- **(b)** *Findings* The Congress finds the following:
-  - **(1)** Development of energy resources, including oil, natural gas, and coalbed methane, frequently results in bringing to the surface water extracted from underground sources.
-  - **(2)** Some of this produced water is used for irrigation or other purposes, but most of it is returned to the subsurface.
-  - **(3)** Reducing the amount of produced water returned to the subsurface, and increasing the amount that is made available for irrigation and other uses—
-    - **(A)** would augment water supplies;
-    - **(B)** could reduce the costs to energy developers for disposing of such water; and
-    - **(C)** in some instances could increase the efficiency of energy development activities.
-  - **(4)** Removing or reducing the technical, economic, environmental, legal, and other factors that impede use of produced water for irrigation and other purposes is in the national interest.
-- **(c)** *Purpose* The purpose of this Act is to facilitate the use of produced water for irrigation and other purposes and to demonstrate ways to accomplish that result.
+This Act may be cited as the “More Water and More Energy Act of 2006”.
 
-## § 2. Definitions
+## § 2. Produced water
 
-In this Act:
+The Water Resources Research Act of 1984 (42 U.S.C. 10301 et seq.) is amended by adding at the end thereof a new section, as follows:
 
-- **(1)** *Produced water* The term “produced water” means water from an underground source, that is brought to the surface as part of the process of exploration for or development of oil, natural gas, coalbed methane, or any other substance to be used as an energy source.
-- **(2)** *Secretary* The term “the Secretary” means the Secretary of the Interior.
-- **(3)** *Upper Basin States* The term “Upper Basin States” means the States of Colorado, New Mexico, Utah, and Wyoming.
-- **(4)** *Lower Basin States* The term “Lower Basin States” means the States of Arizona, California, and Nevada.
-
-## § 3. Identification of problems and solutions
-
-- **(a)** *Study*
-  - **(1)** *In general* The Secretary, acting through the Commissioner of Reclamation and the Director of the United States Geological Survey, shall conduct a study to identify—
-    - **(A)** the technical, economic, environmental, legal, and other obstacles to increasing the extent to which produced water can be used for irrigation and other purposes; and
-    - **(B)** the legislative, administrative, and other actions that could reduce or eliminate such obstacles.
-  - **(2)** *Consultation, advice, and comments* In implementing this subsection, the Secretary—
-    - **(A)** shall consult with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and appropriate Governors and local officials;
-    - **(B)** shall seek the advice of individuals with relevant professional and industrial experience or academic expertise; and
-    - **(C)** shall solicit comments and suggestions from the public.
-- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary shall report to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate regarding the results of the study required by this section.
-
-## § 4. Demonstration projects
-
-- **(a)** *Grants* Subject to the availability of funds appropriated for the purpose, the Secretary shall award grants to assist in the development of facilities to demonstrate the feasibility, effectiveness, and safety of processes to increase the extent to which produced water may be recovered and made suitable for use for irrigation, municipal or industrial uses, or other purposes.
-- **(b)** *Limitations* Grants under this section—
-  - **(1)** shall be provided for—
-    - **(A)** no more than one project in one of the Upper Basin States;
-    - **(B)** no more than one project in one of the Lower Basin States other than California; and
-    - **(C)** no more than one project in California;
-  - **(2)** shall not exceed $1,000,000 for any project;
-  - **(3)** shall be used to pay not more than 50 percent of the total cost of a project carried out with such grants; and
-  - **(4)** shall not be used for operation or maintenance of any facility.
-
-## § 5. Authorization of appropriations
-
-There are authorized to be appropriated—
-
-- **(1)** such sums as may be required to implement section 3; and
-- **(2)** $5,000,000 to implement section 4.
+> ## § 112. Produced water
+>
+> - **(a)** *Study* The Secretary, acting through the Commissioner of Reclamation and the Director of the United States Geological Survey, shall conduct a study to identify—
+>   - **(1)** the technical, economic, environmental (including potential adverse effects on water quality), legal, and other obstacles to increasing the extent to which produced water can be used for irrigation and other purposes; and
+>   - **(2)** the legislative, administrative, and other actions that could reduce or eliminate such obstacles.
+> - **(b)** *Report* Not later than one year after the date of the enactment of this section, the Secretary shall report to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate regarding the results of the study required by this section.
+> - **(c)** *Projects authorized*
+>   - **(1)** In the implementation of authority available to the Secretary prior to the date of enactment of this section and subject to the availability of funds appropriated for the purpose, the following projects are authorized:
+>     - **(A)** At least one project in one of the Upper Basin States.
+>     - **(B)** At least one project in one of the Lower Basin States other than California.
+>     - **(C)** At least one project in California.
+>   - **(2)** Funds obligated under this subsection—
+>     - **(A)** shall not exceed $1,000,000 for any project;
+>     - **(B)** shall be used to pay not more than 50 percent of the total cost of a project;
+>     - **(C)** shall not be used for operation or maintenance of any facility; and
+>     - **(D)** may be in addition to assistance provided by the United States pursuant to other provisions of law.
+> - **(d)** *Additional consultation, review, advice, and comment* In implementing this section, including preparation of the report required by subsection (b) and the establishment of criteria to be used in connection with award of assistance pursuant to subsection (c), the Secretary shall—
+>   - **(1)** consult with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and appropriate Governors and local officials;
+>   - **(2)** review any relevant information developed in connection with research carried out by others, including research carried out pursuant to section 999 of Public Law 109–58, and to the extent the Secretary considers advisable include such information in the report required by paragraph (3);
+>   - **(3)** seek the advice of individuals with relevant professional or academic expertise and of companies or individuals with industrial experience, particularly experience related to production of oil, natural gas, or other energy resources, including geothermal resources; and
+>   - **(4)** solicit comments and suggestions from the public.
+> - **(e)** *Relationship to State laws and interstate authorities and compacts* Nothing in this section shall be construed as superseding, modifying, abrogating, or limiting—
+>   - **(1)** the effect of any State law or any interstate authority or compact with regard to any use of water or the regulation of water quantity or quality; or
+>   - **(2)** the applicability or effect of any Federal law or regulation.
+> - **(f)** *Definitions* In this section:
+>   - **(1)** The term “produced water” means water from an underground source, that is brought to the surface as part of the process of exploration for or development of oil, natural gas, coalbed methane, or any other substance to be used as an energy source.
+>   - **(2)** The term “Secretary” means the Secretary of the Interior.
+>   - **(3)** The term “Upper Basin States” means the States of Colorado, New Mexico, Utah, and Wyoming.
+>   - **(4)** The term “Lower Basin States” means the States of Arizona, California, and Nevada.
+>   - **(5)** The term “project” means the provision of financial assistance for the development of a facility to demonstrate the feasibility, effectiveness, and safety of processes to increase the extent to which produced water may be recovered and made suitable for use for irrigation, municipal or industrial uses, or other purposes.
+> - **(g)** *Authorization of appropriations* There are authorized to be appropriated—
+>   - **(1)** $1,000,000 to carry out the study required by subsection (a); and
+>   - **(2)** $5,000,000 to carry out the other provisions of this section.
