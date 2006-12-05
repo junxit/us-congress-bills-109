@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4742
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4742
@@ -38,3 +38,9 @@ To amend title 35, United States Code, to allow the Director of the Patent and T
 - 2006-04-05 — Placed on the Union Calendar, Calendar No. 223.
 - 2006-04-05 — Reported by the Committee on Judiciary. H. Rept. 109-408.
 - 2006-04-05 — Reported by the Committee on Judiciary. H. Rept. 109-408.
+- 2006-12-05 — Considered under suspension of the rules. (consideration: CR H8685-8686)
+- 2006-12-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4742.
+- 2006-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-05 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
+- 2006-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8685-8686)
+- 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8685-8686)
