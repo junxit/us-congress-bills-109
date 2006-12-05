@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6111
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6015` | insert | Paragraph (1) of section 6015(e) of the Internal Revenue Code of 1986 (relating to petition for tax court review) is amended by inserting “or in the case of an individual who requests equitable relief under subsection (f)” after “who ele… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6015` | insert | Section 6015(e)(1)(A)(i)(II) of the Internal Revenue Code of 1986 is amended by inserting “or request is made” after “election is filed”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6015` | insert | Paragraph (1) of section 6015(e) of the Internal Revenue Code of 1986 (relating to petition for tax court review) is amended by inserting “, or in the case of an individual who requests equitable relief under subsection (f)” after “who e… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6015` | insert | Section 6015(e)(1)(A)(i)(II) of such Code is amended by inserting “or request is made” after “election is filed”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6015` | insert | by inserting “or requesting equitable relief under subsection (f)” after “making an election under subsection (b) or (c)”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6015` | insert | by inserting “or request” after “to which such election”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6015` | insert | Section 6015(e)(1)(B)(ii) of such Code is amended by inserting “or to which the request under subsection (f) relates” after “to which the election under subsection (b) or (c) relates”. | the bill quotes the text inserted but describes where it goes |
