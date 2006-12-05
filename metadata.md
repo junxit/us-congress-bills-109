@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4997
 congress: 109
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4997
@@ -16,9 +16,14 @@ Physicians for Underserved Areas Act
 
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McKinney, Cynthia A. [D-GA-4] (M000523)
 
 ## Committees (1)
 
@@ -29,3 +34,11 @@ Physicians for Underserved Areas Act
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Referred to the House Committee on the Judiciary.
+- 2006-05-01 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2006-05-12 — Referred to the Subcommittee on Immigration, Border Security, and Claims.
+- 2006-05-18 — Subcommittee Hearings Held.
+- 2006-09-27 — Committee Consideration and Mark-up Session Held.
+- 2006-09-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2006-12-05 — Placed on the Union Calendar, Calendar No. 427.
+- 2006-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-715.
+- 2006-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-715.
