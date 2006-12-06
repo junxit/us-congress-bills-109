@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5466
 congress: 109
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 

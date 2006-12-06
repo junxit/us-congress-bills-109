@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5466
 congress: 109
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5466
@@ -62,3 +62,12 @@ Captain John Smith Chesapeake National Historic Trail Designation Act
 - 2006-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8694)
 - 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8694)
 - 2006-12-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11537-11543)
+- 2006-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11537-11543)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-19 — Became Public Law No: 109-418.
+- 2006-12-19 — Became Public Law No: 109-418.
+- 2006-12-19 — Signed by President.
+- 2006-12-19 — Signed by President.
