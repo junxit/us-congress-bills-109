@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1674
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1674
@@ -69,3 +69,12 @@ Tsunami Warning and Education Act
 - 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8788-8790)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8788-8790)
 - 2006-12-06 — Received in the Senate, read twice.
+- 2006-12-08 — Message on Senate action sent to the House.
+- 2006-12-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11552)
+- 2006-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11552)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
+- 2006-12-20 — Became Public Law No: 109-424.
+- 2006-12-20 — Became Public Law No: 109-424.
+- 2006-12-20 — Signed by President.
+- 2006-12-20 — Signed by President.

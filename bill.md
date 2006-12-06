@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1674
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1674
@@ -68,7 +68,7 @@ The purposes of this Act are—
     - **(C)** ensure that maintaining operational tsunami detection equipment is the highest priority within the program carried out under this Act.
   - **(2)** *Report to congress*
     - **(A)** Not later than 1 year after the date of enactment of this Act, the National Weather Service, in consultation with other relevant Administration offices, shall transmit to Congress a report on how the tsunami forecast system under this section will be integrated with other United States and global ocean and coastal observation systems, the global earth observing system of systems, global seismic networks, and the Advanced National Seismic System.
-    - **(B)** Not later than 3 years after the date of enactment to this Act, the National Weather Service, in consultation with other relevant Administration offices, shall transmit a report to Congress on how technology developed under section 6 is being transferred into the program under this section.
+    - **(B)** Not later than 3 years after the date of enactment of this Act, the National Weather Service, in consultation with other relevant Administration offices, shall transmit a report to Congress on how technology developed under section 6 is being transferred into the program under this section.
 - **(f)** *Federal cooperation* When deploying and maintaining tsunami detection technologies, the Administrator shall seek the assistance and assets of other appropriate Federal agencies.
 - **(g)** *Annual equipment certification* At the same time Congress receives the budget justification documents in support of the President’s annual budget request for each fiscal year, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a certification that—
   - **(1)** identifies the tsunami detection equipment deployed pursuant to this Act, as of December 31 of the preceding calendar year;
