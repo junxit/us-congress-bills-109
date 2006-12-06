@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5076
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 6 executed, 20 stated and not applied.
+26 amendatory instructions. 2 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,24 +33,6 @@ to guess them.
 | Removed | `State.` |
 | Inserted | `State;` |
 
-### 49 U.S.C. § 1113
-
-> Section 4(a) of the National Transportation Safety Board Reauthorization Act of 2003 (Public Law 108–168; 49 U.S.C. 1113 note) is amended by striking “From the date of enactment of this Act through September 30, 2006, the” and inserting “The”.
-
-| | |
-|---|---|
-| Removed | `From the date of enactment of this Act through September 30, 2006, the` |
-| Inserted | `The` |
-
-### 49 U.S.C. § 1117
-
-> by striking “On February 1, 2006,” and inserting “On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code,”; and
-
-| | |
-|---|---|
-| Removed | `On February 1, 2006,` |
-| Inserted | `On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code,` |
-
 ### 49 U.S.C. § 1118
 
 > by striking “2006.” and inserting “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.”.
@@ -59,24 +41,6 @@ to guess them.
 |---|---|
 | Removed | `2006.` |
 | Inserted | `2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.` |
-
-### 46 U.S.C. § 2101
-
-> by striking “on the navigable waters or territorial sea of the United States,” and inserting “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,”; and
-
-| | |
-|---|---|
-| Removed | `on the navigable waters or territorial sea of the United States,` |
-| Inserted | `on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,` |
-
-### 49 U.S.C. § 1111
-
-> Section 1113(a) of such title is amended in paragraphs (3) and (4) by striking “subpena” and inserting “subpoena”.
-
-| | |
-|---|---|
-| Removed | `subpena` |
-| Inserted | `subpoena` |
 
 ## Stated, not applied
 
@@ -90,20 +54,24 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 1117` | strike | in paragraph (2) by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 1117` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 1135` | amend | Section 1135(d)(3) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1117` | strike | in paragraph (1) by striking “for $25,000 or more”. | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 1137` | amend | Section 1137(d) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 4(a) of the National Transportation Safety Board Reauthorization Act of 2003 (Public Law 108–168; 49 U.S.C. 1113 note) is amended by striking “From the date of enactment of this Act through September 30, 2006, the” and inserting … | the bill names no machine-readable US Code section |
+| — | replace | by striking “On February 1, 2006,” and inserting “On July 1 of each year, as part of the annual report required by section 1117 of title 49, United States Code,”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1) by striking “for $25,000 or more”. | the bill names no machine-readable US Code section |
+| — | amend | Section 1137(d) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter III of chapter 11 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for such chapter is amended by inserting after the item relating to section 1137 the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 1118` | strike | by striking “and” after “2005,”; and | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 3302` | amend | Section 1118(c) of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 1118` | amend | Section 1118(c) of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 1118` | repeal | Section 1118(d) of title 49, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | add-at-end | Section 1111(g) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 2101` | insert | by inserting “(as defined in section 2101(46) of title 46)” after “vessel of the United States”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 1111` | insert | Section 1131(c)(1) of such title is amended by inserting “or the Secretary of the department in which the Coast Guard is operating” after “Transportation”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 1111` | replace | by striking paragraph (1) of subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | redesignate | by redesignating paragraphs (2) and (3) of subsection (e) as paragraphs (3) and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | insert | by inserting after paragraph (1) of subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | redesignate | by redesignating subsection (i) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | insert | Section 1113(c) of such title is amended by inserting after the period at the end the following: “The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Direc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 1111` | add-at-end | Section 1113 of such title is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1111(g) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “on the navigable waters or territorial sea of the United States,” and inserting “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 59… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(as defined in section 2101(46) of title 46)” after “vessel of the United States”. | the bill names no machine-readable US Code section |
+| — | insert | Section 1131(c)(1) of such title is amended by inserting “or the Secretary of the department in which the Coast Guard is operating” after “Transportation”. | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) of subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) and (3) of subsection (e) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) of subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1113(a) of such title is amended in paragraphs (3) and (4) by striking “subpena” and inserting “subpoena”. | the bill names no machine-readable US Code section |
+| — | insert | Section 1113(c) of such title is amended by inserting after the period at the end the following: “The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Direc… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1113 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |

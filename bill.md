@@ -2,7 +2,7 @@
 legis-num: H.R. 5076
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5076
@@ -89,12 +89,12 @@ Within 90 days after the date of enactment of this Act, the Administrator of the
 - **(b)** *Fees, Refunds, and Reimbursements*
   - **(1)** *In general* Section 1118(c) of such title is amended to read as follows:
     > - **(c)** *Fees, refunds, and reimbursements*
-    > - **(1)** *In general* The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.
-    > - **(2)** *Receipts credited as offsetting collections* Notwithstanding section 3302 of title 31, any fee, refund, or reimbursement collected under this subsection—
-    >   - **(A)** shall be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed or with which the refund or reimbursement is associated;
-    >   - **(B)** shall be available for expenditure only to pay the costs of activities and services for which the fee is imposed or with which the refund or reimbursement is associated; and
-    >   - **(C)** shall remain available until expended.
-    > - **(3)** *Refunds* The Board may refund any fee paid by mistake or any amount paid in excess of that required.
+    >   - **(1)** *In general* The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.
+    >   - **(2)** *Receipts credited as offsetting collections* Notwithstanding section 3302 of title 31, any fee, refund, or reimbursement collected under this subsection—
+    >     - **(A)** shall be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed or with which the refund or reimbursement is associated;
+    >     - **(B)** shall be available for expenditure only to pay the costs of activities and services for which the fee is imposed or with which the refund or reimbursement is associated; and
+    >     - **(C)** shall remain available until expended.
+    >   - **(3)** *Refunds* The Board may refund any fee paid by mistake or any amount paid in excess of that required.
 
   - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect on October 1, 2005.
 - **(c)** *Report* Section 1118(d) of title 49, United States Code, is repealed.
