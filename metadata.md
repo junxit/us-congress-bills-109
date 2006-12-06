@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 497
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 497
@@ -84,3 +84,9 @@ To honor the memory of Arnold "Red" Auerbach.
 - 2006-12-05 — Introduced in House
 - 2006-12-05 — Introduced in House
 - 2006-12-05 — Referred to the House Committee on Government Reform.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8801-8804)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 497.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. LaTourette moved to suspend the rules and agree to the resolution.
+- 2006-12-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 12/7/2006 H8801-8802)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 12/7/2006 H8801-8802)
