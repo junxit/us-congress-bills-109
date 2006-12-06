@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 73
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 73
@@ -31,3 +31,4 @@ Supporting the goals and ideals of National High School Seniors Voter Registrati
 - 2006-12-05 — Mr. Ehlers moved to suspend the rules and agree to the resolution.
 - 2006-12-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8684)
 - 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8684)
+- 2006-12-06 — Received in the Senate.
