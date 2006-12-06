@@ -2,7 +2,7 @@
 legis-num: H. RES. 1089
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1089
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Doctor Friedman was a prolific producer of both scholarly and popular articles, essays, books, and broadcast media, including the books Capitalism and Freedom and Free to Choose, tri-weekly columns for Newsweek, commentaries in the Wall Street Journal, and two multi-part Public Broadcasting Service television series;
 - Whereas Doctor Friedman was one of the world’s foremost champions of liberty, not just in economics but in all respects;
 - Whereas Doctor Friedman will be remembered both as one of the most influential economists in history and as one of the twentieth century’s greatest heroes of freedom; and
-- Whereas Doctor Milton Friedman died on November 16, 2006, in San Francisco, California, at the age of 94 of heart failure: Now, therefore be it
+- Whereas Doctor Milton Friedman died on November 16, 2006, in San Francisco, California, at the age of 94 of heart failure: Now, therefore, be it
 
 That the House of Representatives, on the occasion of the death of Doctor Milton Friedman—
 
