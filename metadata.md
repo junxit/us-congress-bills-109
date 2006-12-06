@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 495
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 495
@@ -32,3 +32,4 @@ Authorizing the printing as a House document of "United States House of Represen
 - 2006-12-05 — Mr. Ehlers asked unanimous consent to discharge from committee and consider.
 - 2006-12-05 — On agreeing to the resolution Agreed to without objection. (text: CR H8703)
 - 2006-12-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8703)
+- 2006-12-06 — Received in the Senate.

@@ -2,12 +2,12 @@
 legis-num: H. CON. RES. 495
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 495
 
-> Authorizing the printing as a House document of “United States House of Representatives, The Committee on Ways and Means: A History, 1789–2006”.
+> Authorizing the printing as a House document of United States House of Representatives, The Committee on Ways and Means: A History, 1789–2006.
 
 ## § 1. Printing of document
 
