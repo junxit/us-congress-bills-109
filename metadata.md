@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1674
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1674
@@ -62,3 +62,10 @@ Tsunami Warning and Education Act
 - 2006-09-28 — Placed on the Union Calendar, Calendar No. 422.
 - 2006-09-28 — Reported (Amended) by the Committee on Science. H. Rept. 109-698.
 - 2006-09-28 — Reported (Amended) by the Committee on Science. H. Rept. 109-698.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8788-8793)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1674.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. Ehlers moved to suspend the rules and pass the bill, as amended.
+- 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8788-8790)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8788-8790)
+- 2006-12-06 — Received in the Senate, read twice.
