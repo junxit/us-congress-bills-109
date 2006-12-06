@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5666
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5666
@@ -34,3 +34,4 @@ Southern Idaho Bureau of Reclamation Repayment Act of 2006
 - 2006-12-05 — Mr. Radanovich moved to suspend the rules and pass the bill, as amended.
 - 2006-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8693)
 - 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8693)
+- 2006-12-06 — Received in the Senate.
