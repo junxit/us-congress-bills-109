@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3248
@@ -125,3 +125,13 @@ Lifespan Respite Care Act of 2006
 - 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8773-8775)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8773-8775)
 - 2006-12-06 — Received in the Senate, read twice.
+- 2006-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S11573-11578)
+- 2006-12-08 — Message on Senate action sent to the House.
+- 2006-12-08 — Passed Senate without amendment by Voice Vote.
+- 2006-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2006-12-20 — Presented to President.
+- 2006-12-20 — Presented to President.
+- 2006-12-21 — Became Public Law No: 109-442.
+- 2006-12-21 — Became Public Law No: 109-442.
+- 2006-12-21 — Signed by President.
+- 2006-12-21 — Signed by President.
