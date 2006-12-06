@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5110
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
