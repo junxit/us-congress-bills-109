@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5782
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5782
@@ -73,3 +73,12 @@ Pipeline Inspection, Protection, Enforcement, and Safety Act of 2006
 - 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8834-8839)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8834-8839)
 - 2006-12-06 — Received in the Senate, read twice.
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11535-11536)
+- 2006-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11535-11536)
+- 2006-12-20 — Presented to President.
+- 2006-12-20 — Presented to President.
+- 2006-12-29 — Became Public Law No: 109-468.
+- 2006-12-29 — Became Public Law No: 109-468.
+- 2006-12-29 — Signed by President.
+- 2006-12-29 — Signed by President.
