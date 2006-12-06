@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 484
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 484
@@ -16,7 +16,7 @@ Commending The New York Institute for Special Education for providing excellent 
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -38,6 +38,7 @@ Commending The New York Institute for Special Education for providing excellent 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
 
 ## Committees (1)
 
@@ -48,3 +49,10 @@ Commending The New York Institute for Special Education for providing excellent 
 - 2006-09-27 — Introduced in House
 - 2006-09-27 — Introduced in House
 - 2006-09-27 — Referred to the House Committee on Education and the Workforce.
+- 2006-11-02 — Referred to the Subcommittee on Education Reform.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8845-8846)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 484.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. Kuhl (NY) moved to suspend the rules and agree to the resolution.
+- 2006-12-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 12/7/2006 H8845)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 12/7/2006 H8845)
