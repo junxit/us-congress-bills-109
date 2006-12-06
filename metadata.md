@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3248
@@ -118,3 +118,10 @@ Lifespan Respite Care Act of 2006
 - 2006-12-05 — Placed on the Union Calendar, Calendar No. 428.
 - 2006-12-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-716.
 - 2006-12-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-716.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8773-8778)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3248.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.
+- 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8773-8775)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8773-8775)
+- 2006-12-06 — Received in the Senate, read twice.
