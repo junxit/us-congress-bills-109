@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5466
 congress: 109
-version: Introduced in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 81f
+
+> Section 4 of the Act of July 3, 1930 (16 U.S.C. 81f), is amended in the first sentence by striking “10,472,000” and inserting “8,572,000”.
+
+| | |
+|---|---|
+| Removed | `10,472,000` |
+| Inserted | `8,572,000` |
 
 ## Stated, not applied
 
