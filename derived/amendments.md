@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6342
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-101 amendatory instructions. 66 executed, 35 stated and not applied.
+101 amendatory instructions. 27 executed, 74 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -213,15 +213,6 @@ to guess them.
 | Removed | `such veteran’s service-connected total disability permanent in nature` |
 | Inserted | `the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived` |
 
-### 38 U.S.C. § 542
-
-> Section 542(c)(1) of title 38, United States Code, is amended by striking “2004” and inserting “2008”.
-
-| | |
-|---|---|
-| Removed | `2004` |
-| Inserted | `2008` |
-
 ### 5 U.S.C. § 306
 
 > Section 1785(b)(1) is amended by striking “Robert B.” and inserting “Robert T.”.
@@ -276,348 +267,6 @@ to guess them.
 | Removed | `3011(a)(1)(A)(ii)(II)` |
 | Inserted | `3011(a)(1)(A)(ii)(III)` |
 
-### 38 U.S.C. § 1114
-
-> in subsection (a), by striking “$112” and inserting “$115”;
-
-| | |
-|---|---|
-| Removed | `$112` |
-| Inserted | `$115` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (b), by striking “$218” and inserting “$225”;
-
-| | |
-|---|---|
-| Removed | `$218` |
-| Inserted | `$225` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (c), by striking “$337” and inserting “$348”;
-
-| | |
-|---|---|
-| Removed | `$337` |
-| Inserted | `$348` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (d), by striking “$485” and inserting “$501”;
-
-| | |
-|---|---|
-| Removed | `$485` |
-| Inserted | `$501` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (e), by striking “$690” and inserting “$712”;
-
-| | |
-|---|---|
-| Removed | `$690` |
-| Inserted | `$712` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (f), by striking “$873” and inserting “$901”;
-
-| | |
-|---|---|
-| Removed | `$873` |
-| Inserted | `$901` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (g), by striking “$1,099” and inserting “$1,135”;
-
-| | |
-|---|---|
-| Removed | `$1,099` |
-| Inserted | `$1,135` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (h), by striking “$1,277” and inserting “$1,319”;
-
-| | |
-|---|---|
-| Removed | `$1,277` |
-| Inserted | `$1,319` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (i), by striking “$1,436” and inserting “$1,483”;
-
-| | |
-|---|---|
-| Removed | `$1,436` |
-| Inserted | `$1,483` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (j), by striking “$2,393” and inserting “$2,471”;
-
-| | |
-|---|---|
-| Removed | `$2,393` |
-| Inserted | `$2,471` |
-
-### 38 U.S.C. § 1114
-
-> by striking “$87” both places it appears and inserting “$89”; and
-
-| | |
-|---|---|
-| Removed | `$87` |
-| Inserted | `$89` |
-
-### 38 U.S.C. § 1114
-
-> by striking “$2,977” and “$4,176” and inserting “$3,075” and “$4,313”, respectively;
-
-| | |
-|---|---|
-| Removed | `$2,977” and “$4,176` |
-| Inserted | `$3,075` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (l), by striking “$2,977” and inserting “$3,075”;
-
-| | |
-|---|---|
-| Removed | `$2,977` |
-| Inserted | `$3,075` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (m), by striking “$3,284” and inserting “$3,392”;
-
-| | |
-|---|---|
-| Removed | `$3,284` |
-| Inserted | `$3,392` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (n), by striking “$3,737” and inserting “$3,860”;
-
-| | |
-|---|---|
-| Removed | `$3,737` |
-| Inserted | `$3,860` |
-
-### 38 U.S.C. § 1114
-
-> in subsections (o) and (p), by striking “$4,176” each place it appears and inserting “$4,313”;
-
-| | |
-|---|---|
-| Removed | `$4,176` |
-| Inserted | `$4,313` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (1), by striking “$1,792” and inserting “$1,851”; and
-
-| | |
-|---|---|
-| Removed | `$1,792` |
-| Inserted | `$1,851` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (2), by striking “2,669” and inserting “$2,757”; and
-
-| | |
-|---|---|
-| Removed | `2,669` |
-| Inserted | `$2,757` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (s), by striking “$2,678” and inserting “$2,766”.
-
-| | |
-|---|---|
-| Removed | `$2,678` |
-| Inserted | `$2,766` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (A), by striking “$135” and inserting “$139”;
-
-| | |
-|---|---|
-| Removed | `$135` |
-| Inserted | `$139` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (B), by striking “$233” and “$68” and inserting “$240” and “$70”, respectively;
-
-| | |
-|---|---|
-| Removed | `$233” and “$68` |
-| Inserted | `$240` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (C), by striking “$91” and “$68” and inserting “$94” and “$70”, respectively;
-
-| | |
-|---|---|
-| Removed | `$91” and “$68` |
-| Inserted | `$94` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (D), by striking “$109” and inserting “$112”;
-
-| | |
-|---|---|
-| Removed | `$109` |
-| Inserted | `$112` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (E), by striking “$257” and inserting “$265”; and
-
-| | |
-|---|---|
-| Removed | `$257` |
-| Inserted | `$265` |
-
-### 38 U.S.C. § 1114
-
-> in subparagraph (F), by striking “$215” and inserting “$222”.
-
-| | |
-|---|---|
-| Removed | `$215` |
-| Inserted | `$222` |
-
-### 38 U.S.C. § 1114
-
-> Section 1162 of such title is amended by striking “$641” and inserting “$662”.
-
-| | |
-|---|---|
-| Removed | `$641` |
-| Inserted | `$662` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (1), by striking “$1,033” and inserting “$1,067”; and
-
-| | |
-|---|---|
-| Removed | `$1,033` |
-| Inserted | `$1,067` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (2), by striking “$221” and inserting “$228”.
-
-| | |
-|---|---|
-| Removed | `$221` |
-| Inserted | `$228` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (b), by striking “$257” and inserting “$265”;
-
-| | |
-|---|---|
-| Removed | `$257` |
-| Inserted | `$265` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (c), by striking “$257” and inserting “$265”; and
-
-| | |
-|---|---|
-| Removed | `$257` |
-| Inserted | `$265` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (d), by striking “$122” and inserting “$126”.
-
-| | |
-|---|---|
-| Removed | `$122` |
-| Inserted | `$126` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (1), by striking “$438” and inserting “$452”;
-
-| | |
-|---|---|
-| Removed | `$438` |
-| Inserted | `$452` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (2), by striking “$629” and inserting “$649”;
-
-| | |
-|---|---|
-| Removed | `$629` |
-| Inserted | `$649` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (3), by striking “$819” and inserting “$846”; and
-
-| | |
-|---|---|
-| Removed | `$819` |
-| Inserted | `$846` |
-
-### 38 U.S.C. § 1114
-
-> in paragraph (4), by striking “$819” and “$157” and inserting “$846” and “$162”, respectively.
-
-| | |
-|---|---|
-| Removed | `$819” and “$157` |
-| Inserted | `$846` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (a), by striking “$257” and inserting “$265”;
-
-| | |
-|---|---|
-| Removed | `$257` |
-| Inserted | `$265` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (b), by striking “$438” and inserting “$452”; and
-
-| | |
-|---|---|
-| Removed | `$438` |
-| Inserted | `$452` |
-
-### 38 U.S.C. § 1114
-
-> in subsection (c), by striking “$218” and inserting “$225”.
-
-| | |
-|---|---|
-| Removed | `$218` |
-| Inserted | `$225` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -638,7 +287,7 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 3501` | replace | by striking the comma at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3501` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3501` | strike | by striking “arising out of” and all that follows through the end. | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 3501` | add-at-end | Section 3501(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3501` | amend | Section 3501(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3501` | replace | by striking “Each eligible person” and inserting the following: “Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title,”; | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 3501` | strike | by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3501` | strike | by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -653,6 +302,7 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 3501` | strike | by striking “by the Secretary” and all that follows through “occurs”. | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 3501` | replace | in subparagraph (B) by striking “section 3501(a)(1)” and all that follows through the end and inserting the following: “subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title.”; and | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 3036` | strike | Section 3036 of title 38, United States Code, is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 542(c)(1) of title 38, United States Code, is amended by striking “2004” and inserting “2008”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 73 of title 38, United States Code, is amended by adding at the end the following new sections: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7328 the following new items: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 306` | insert | Section 1718(c)(2) is amended by inserting “of 1938” after “Act”. | the bill quotes the text inserted but describes where it goes |
@@ -661,4 +311,42 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 306` | strike | in subsection (d)(2), by striking “effective October 1, 2003,”; and | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 306` | strike | in the second sentence, by striking “shall be implemented no later than October 1, 2003, and”; and | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 306` | strike | in the third sentence, by striking “, following implementation of the schedule,”. | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 1114` | amend | The table in paragraph (3) of such subsection is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a), by striking “$112” and inserting “$115”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “$218” and inserting “$225”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “$337” and inserting “$348”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “$485” and inserting “$501”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “$690” and inserting “$712”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), by striking “$873” and inserting “$901”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g), by striking “$1,099” and inserting “$1,135”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h), by striking “$1,277” and inserting “$1,319”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (i), by striking “$1,436” and inserting “$1,483”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (j), by striking “$2,393” and inserting “$2,471”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$87” both places it appears and inserting “$89”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$2,977” and “$4,176” and inserting “$3,075” and “$4,313”, respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (l), by striking “$2,977” and inserting “$3,075”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (m), by striking “$3,284” and inserting “$3,392”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (n), by striking “$3,737” and inserting “$3,860”; | the bill names no machine-readable US Code section |
+| — | replace | in subsections (o) and (p), by striking “$4,176” each place it appears and inserting “$4,313”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “$1,792” and inserting “$1,851”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2,669” and inserting “$2,757”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (s), by striking “$2,678” and inserting “$2,766”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “$135” and inserting “$139”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “$233” and “$68” and inserting “$240” and “$70”, respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “$91” and “$68” and inserting “$94” and “$70”, respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “$109” and inserting “$112”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “$257” and inserting “$265”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking “$215” and inserting “$222”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1162 of such title is amended by striking “$641” and inserting “$662”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “$1,033” and inserting “$1,067”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “$221” and inserting “$228”. | the bill names no machine-readable US Code section |
+| — | amend | The table in paragraph (3) of such subsection is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “$257” and inserting “$265”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “$257” and inserting “$265”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “$122” and inserting “$126”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “$438” and inserting “$452”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “$629” and inserting “$649”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “$819” and inserting “$846”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “$819” and “$157” and inserting “$846” and “$162”, respectively. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “$257” and inserting “$265”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “$438” and inserting “$452”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “$218” and inserting “$225”. | the bill names no machine-readable US Code section |
