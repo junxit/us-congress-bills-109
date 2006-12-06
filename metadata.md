@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6338
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6338
@@ -68,3 +68,4 @@ Geneva Distinctive Emblems Protection Act of 2006
 - 2006-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8692)
 - 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8692)
 - 2006-12-05 — Referred to the House Committee on the Judiciary.
+- 2006-12-06 — Received in the Senate, read twice.
