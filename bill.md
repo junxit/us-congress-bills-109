@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5466
-congress: 109th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Ninth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5466
@@ -18,7 +18,7 @@ This Act may be cited as the “Captain John Smith Chesapeake National Historic 
 Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
 
 > - **(25)** *Captain John Smith Chesapeake National Historic Trail*
->   - **(A)** *In general* The John Smith Chesapeake National Historic Trail, a series of water routes extending approximately 3,000 miles along the Chesapeake Bay and the tributaries of the Chesapeake Bay in the States of Virginia, Maryland, and Delaware, and in the District of Columbia, that traces the 1607-1609 voyages of Captain John Smith to chart the land and waterways of the Chesapeake Bay, as generally depicted on the map entitled “Captain John Smith Chesapeake National Historic Trail Map MD, VA, DE, and DC”, numbered P-16/8000 (CAJO), and dated May 2006.
+>   - **(A)** *In general* The John Smith Chesapeake National Historic Trail, a series of water routes extending approximately 3,000 miles along the Chesapeake Bay and the tributaries of the Chesapeake Bay in the States of Virginia, Maryland, and Delaware, and in the District of Columbia, that traces the 1607–1609 voyages of Captain John Smith to chart the land and waterways of the Chesapeake Bay, as generally depicted on the map entitled “Captain John Smith Chesapeake National Historic Trail Map MD, VA, DE, and DC”, numbered P–16/8000 (CAJO), and dated May 2006.
 >   - **(B)** *Map* The map referred to in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 >   - **(C)** *Administration* The trail shall be administered by the Secretary of the Interior—
 >     - **(i)** in coordination with—
