@@ -2,7 +2,7 @@
 legis-num: H. RES. 1084
 congress: 109th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1084
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 1981 Ed Bradley joined 60 Minutes as an on-air correspondent and remained with 60 Minutes for 26 years;
 - Whereas in 2000, Ed Bradley was the only television journalist granted an interview with condemned Oklahoma City Bomber, Timothy McVeigh, which earned him an Emmy award;
 - Whereas Ed Bradley received numerous awards of distinction for his in-depth reporting and coverage, including 20 Emmy awards, Lew Klein Excellence in the Media Award (2006), Paul White Award (2000), Damon Runyon Award (2003), Robert F. Kennedy Journalism Award (1995), and a Lifetime Achievement Award from the National Association of Black Journalists (2005); and
-- Whereas in addition to invaluable contributions to journalism, Ed Bradley’s reporting also spurred social activism and change with his report on AIDS in Africa, “Death by Denial”, which helped influence drug companies into discounting and donating AIDS drugs to Africa: Now, therefore, be it
+- Whereas in addition to invaluable contributions to journalism, Ed Bradley’s reporting also spurred social activism and change with his report on AIDS in Africa, “Death by Denial”, which helped influence the pharmaceutical industry into discounting and donating AIDS drugs to Africa: Now, therefore, be it
 
 That the House of Representatives—
 

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1084
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1084
@@ -16,7 +16,7 @@ To honor the contributions and life of Edward R. Bradley.
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Cosponsors (50)
+## Cosponsors (58)
 
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
@@ -68,6 +68,14 @@ To honor the contributions and life of Edward R. Bradley.
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
 ## Committees (1)
 
@@ -78,3 +86,9 @@ To honor the contributions and life of Edward R. Bradley.
 - 2006-11-15 — Introduced in House
 - 2006-11-15 — Introduced in House
 - 2006-11-15 — Referred to the House Committee on Government Reform.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8798-8800)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1084.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. LaTourette moved to suspend the rules and agree to the resolution, as amended.
+- 2006-12-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8798-8799)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8798-8799)
