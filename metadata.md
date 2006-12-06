@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4997
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4997
@@ -42,3 +42,10 @@ Physicians for Underserved Areas Act
 - 2006-12-05 — Placed on the Union Calendar, Calendar No. 427.
 - 2006-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-715.
 - 2006-12-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 109-715.
+- 2006-12-06 — Considered under suspension of the rules. (consideration: CR 12/7/2006 H8809-8812)
+- 2006-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4997.
+- 2006-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-06 — Mr. Sensenbrenner moved to suspend the rules and pass the bill.
+- 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/7/2006 H8809)
+- 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/7/2006 H8809)
+- 2006-12-06 — The title of the measure was amended. Agreed to without objection.
