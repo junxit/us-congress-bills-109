@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6342
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6342
