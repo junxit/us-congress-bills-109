@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3248
