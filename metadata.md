@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5280
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5280
@@ -65,3 +65,4 @@ Dextromethorphan Distribution Act of 2006
 - 2006-12-06 — Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.
 - 2006-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as passed House: CR H8761)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as passed House: CR H8761)
+- 2006-12-07 — Received in the Senate.
