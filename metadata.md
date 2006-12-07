@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5798
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5798
@@ -32,3 +32,4 @@ To amend the Public Health Service Act to modify the program for the sanctuary s
 - 2006-12-06 — Mr. Deal (GA) moved to suspend the rules and pass the bill.
 - 2006-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/7/2006 H8778-8779)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/7/2006 H8778-8779)
+- 2006-12-07 — Received in the Senate.
