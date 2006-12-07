@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 497
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 497
@@ -90,3 +90,6 @@ To honor the memory of Arnold "Red" Auerbach.
 - 2006-12-06 — Mr. LaTourette moved to suspend the rules and agree to the resolution.
 - 2006-12-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 12/7/2006 H8801-8802)
 - 2006-12-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 12/7/2006 H8801-8802)
+- 2006-12-07 — Message on Senate action sent to the House.
+- 2006-12-07 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S11545-11546)
+- 2006-12-07 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S11545-11546)
