@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 733
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 733
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that there should be establ
 
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 
-## Cosponsors (33)
+## Cosponsors (53)
 
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Ryan, Paul [R-WI-1] (R000570)
@@ -51,6 +51,26 @@ Expressing the sense of the House of Representatives that there should be establ
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
 ## Committees (1)
 
@@ -61,3 +81,9 @@ Expressing the sense of the House of Representatives that there should be establ
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Introduced in House
 - 2006-03-16 — Referred to the House Committee on Government Reform.
+- 2006-12-07 — Considered under suspension of the rules. (consideration: CR H8923-8924)
+- 2006-12-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 733.
+- 2006-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-07 — Mr. Souder moved to suspend the rules and agree to the resolution.
+- 2006-12-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8923)
+- 2006-12-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8923)
