@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6345
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6345
@@ -30,3 +30,10 @@ To make a conforming amendment to the Federal Deposit Insurance Act with respect
 - 2006-12-05 — Introduced in House
 - 2006-12-05 — Introduced in House
 - 2006-12-05 — Referred to the House Committee on Financial Services.
+- 2006-12-07 — Considered under suspension of the rules. (consideration: CR H8914-8916)
+- 2006-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6345.
+- 2006-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-07 — Mr. Hensarling moved to suspend the rules and pass the bill.
+- 2006-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8914-8915)
+- 2006-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8914-8915)
+- 2006-12-07 — Received in the Senate, read twice.
