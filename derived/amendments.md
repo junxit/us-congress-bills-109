@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6344
 congress: 109
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-76 amendatory instructions. 12 executed, 64 stated and not applied.
+77 amendatory instructions. 12 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -205,3 +205,4 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 1509` | repeal | Section 6073 of the Assets Forfeiture Amendments Act of 1988 (21 U.S.C. 1509) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | replace | in subparagraph (B)(iii), by striking “except that the” and inserting the following: “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notificat… | the bill quotes the text struck but describes what replaces it |
 | — | amend | Section 712 is amended to read as follows: | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 1702` | add-at-end | Section 703(a) (21 U.S.C. 1702(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
