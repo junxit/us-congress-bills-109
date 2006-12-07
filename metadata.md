@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 497
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 497
