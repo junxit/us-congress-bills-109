@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 343
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 343
@@ -63,3 +63,4 @@ Recognizing the 50th anniversary of the Commission on Independent Colleges and U
 - 2006-12-07 — Mr. Kuhl (NY) moved to suspend the rules and agree to the resolution.
 - 2006-12-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8916)
 - 2006-12-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8916)
+- 2006-12-08 — Received in the Senate.
