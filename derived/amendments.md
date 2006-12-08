@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4941
 congress: 109
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 2 executed, 16 stated and not applied.
+17 amendatory instructions. 1 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 6 U.S.C. § 193
+### 6 U.S.C. § 182
 
 > in subsection (b)(3), by striking “subsection (c)(2)” and inserting “subsection (e)(2)”;
 
@@ -32,15 +32,6 @@ to guess them.
 |---|---|
 | Removed | `subsection (c)(2)` |
 | Inserted | `subsection (e)(2)` |
-
-### 6 U.S.C. § 192
-
-> Section 312(g) of the Homeland Security Act of 2002 (6 U.S.C. 192(g)) is amended by striking “5 years” and inserting “10 years”.
-
-| | |
-|---|---|
-| Removed | `5 years` |
-| Inserted | `10 years` |
 
 ## Stated, not applied
 
@@ -53,17 +44,17 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 313 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 193` | add-at-end | by adding at the end of subsection (b) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 193` | redesignate | by redesignating subsection (c) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 193` | insert | by inserting after subsection (b) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | add-at-end | by adding at the end of subsection (b) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | redesignate | by redesignating subsection (c) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 182` | insert | by inserting after subsection (b) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 191` | amend | Section 311(j) of the Homeland Security Act of 2002 (6 U.S.C. 191(j)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 314 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 315 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 316 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 317 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 181` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 318 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et. seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 315 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et. seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 316 the following new item: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1061` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et. seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1061` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 317 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et. seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 318 the following new item: | the bill names no machine-readable US Code section |
