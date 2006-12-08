@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3509
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Workplace Goods Job Growth and Competitiveness Act of 2005”.
+This Act may be cited as the “Workplace Goods Job Growth and Competitiveness Act of 2006”.
 
 ## § 2. Statute of repose for durable goods used in a trade or business
 
 - **(a)** *In general* Except as otherwise provided in this Act—
-  - **(1)** no civil action may be filed against the manufacturer or seller of a durable good for damage to property arising out of an accident involving that durable good if the accident occurred more than 12 years after the date on which the durable good was delivered to its first purchaser or lessee; and
-  - **(2)** no civil action may be filed against the manufacturer or seller of a durable good for damages for death or personal injury arising out of an accident involving that durable good if the accident occurred more than 12 years after the date on which the durable good was delivered to its first purchaser or lessee and if—
+  - **(1)** no civil action may be filed against the manufacturer or seller of a durable good for damage to property allegedly caused by that durable good if the damage to property occurred more than 12 years after the date on which the durable good was delivered to its first purchaser or lessee; and
+  - **(2)** no civil action may be filed against the manufacturer or seller of a durable good for damages for death or personal injury allegedly caused by that durable good if the death or personal injury occurred more than 12 years after the date on which the durable good was delivered to its first purchaser or lessee and if—
     - **(A)** the claimant has received or is eligible to receive worker compensation; and
     - **(B)** the injury does not involve a toxic harm (including, but not limited to, any asbestos-related harm).
 - **(b)** *Exceptions*
@@ -25,7 +25,9 @@ This Act may be cited as the “Workplace Goods Job Growth and Competitiveness A
   - **(2)** *Certain express warranties* This Act does not bar a civil action against a defendant who made an express warranty in writing, for a period of more than 12 years, as to the safety or life expectancy of a specific product, except that this Act shall apply at the expiration of that warranty.
   - **(3)** *Aviation limitations period* This Act does not affect the limitations period established by the General Aviation Revitalization Act of 1994 (49 U.S.C. 40101 note).
   - **(4)** *Actions involving the environment* Subsection (a)(1) does not supersede or modify any statute or common law that authorizes an action for civil damages, cost recovery, or any other form of relief for remediation of the environment (as defined in section 101(8) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(8)).
-- **(c)** *Effect on State law; preemption* Subject to subsection (b), this Act preempts and supersedes any State law that establishes a statute of repose to the extent such law applies to actions covered by this Act. Any action not specifically covered by this Act shall be governed by applicable State law.
+  - **(5)** *Regulatory actions* This Act does not affect regulatory enforcement actions brought by State or Federal agencies.
+  - **(6)** *Actions involving fraudulent concealment* This Act does not bar a civil action against a manufacturer or seller of a durable good who fraudulently concealed a defect in the durable good.
+- **(c)** *Effect on State law; preemption* Subject to subsection (b), this Act preempts and supersedes any State law that establishes a statute of repose to the extent such law applies to actions covered by this Act. Any action not specifically covered by this Act shall be governed by applicable State or other Federal law.
 - **(d)** *Transitional provision relating to extension of repose period* To the extent that this Act shortens the period during which a civil action could otherwise be brought pursuant to another provision of law, the claimant may, notwithstanding this Act, bring the action not later than 1 year after the date of the enactment of this Act.
 
 ## § 3. Definitions
@@ -41,7 +43,12 @@ In this Act:
     - **(i)** used in a trade or business;
     - **(ii)** held for the production of income; or
     - **(iii)** sold or donated to a governmental or private entity for the production of goods, training, demonstration, or any other similar purpose.
-- **(3)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, any other territory or possession of the United States, and any political subdivision of any of the foregoing.
+- **(3)** *Fraudulently concealed* With respect to a durable good, the term “fraudulently concealed” means that—
+  - **(A)** the manufacturer or seller of the durable good had actual knowledge of a defect in the durable good;
+  - **(B)** the defect in the durable good was the proximate cause of the harm to the claimant; and
+  - **(C)** the manufacturer or seller of the durable good affirmatively suppressed or hid, with the intent to deceive or defraud, the existence of such defect.
+- **(4)** *Seller* The term “seller” means any dealer, retailer, wholesaler, or distributer in the stream of commerce of a durable good concluding with the sale or lease of the durable good to the first end-user.
+- **(5)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, any other territory or possession of the United States, and any political subdivision of any of the foregoing.
 
 ## § 4. Effective date; application of Act
 
