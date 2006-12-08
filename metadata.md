@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1099
 congress: 109
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1099
@@ -16,6 +16,10 @@ Relating to consideration of the bill (H.R. 6111) to amend the Internal Revenue 
 
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2006-12-07 — Introduced in House
@@ -23,3 +27,10 @@ Relating to consideration of the bill (H.R. 6111) to amend the Internal Revenue 
 - 2006-12-07 — Rule provides for consideration of H.R. 6111.
 - 2006-12-07 — The House Committee on Rules reported an original measure, H. Rept. 109-722, by Mr. Gingrey.
 - 2006-12-07 — The House Committee on Rules reported an original measure, H. Rept. 109-722, by Mr. Gingrey.
+- 2006-12-08 — Considered as privileged matter. (consideration: CR H8989-8995)
+- 2006-12-08 — Considered as unfinished business. (consideration: CR H9022-9023)
+- 2006-12-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 1099.
+- 2006-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2006-12-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 164 (Roll no. 530). (text: CR H8989)
+- 2006-12-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 164 (Roll no. 530).(text: CR H8989)
+- 2006-12-08 — The previous question was ordered without objection. (consideration: CR H8995)
