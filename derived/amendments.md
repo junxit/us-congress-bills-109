@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5697
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 5545` | replace | Section 5545(d)(1) of title 5, United States Code, is amended by striking all after “except” and inserting an em-dash and the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5545(d)(1) of title 5, United States Code, is amended by striking all after “except” and inserting an em-dash and the following: | the bill names no machine-readable US Code section |
