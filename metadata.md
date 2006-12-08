@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 102
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 102
@@ -35,3 +35,12 @@ Making further continuing appropriations for the fiscal year 2007, and for other
 - 2006-12-08 — Rule provides for consideration of H.J. Res. 102 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2006-12-08 — Rules Committee Resolution H. Res. 1105 Reported to House. Rule provides for consideration of H.J. Res. 102 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2006-12-08 — The previous question was ordered without objection. (consideration: CR H9158)
+- 2006-12-09 — Became Public Law No: 109-383.
+- 2006-12-09 — Became Public Law No: 109-383.
+- 2006-12-09 — Message on Senate action sent to the House.
+- 2006-12-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 12/8/2006 S11645)
+- 2006-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 12/8/2006 S11645)
+- 2006-12-09 — Presented to President.
+- 2006-12-09 — Presented to President.
+- 2006-12-09 — Signed by President.
+- 2006-12-09 — Signed by President.
