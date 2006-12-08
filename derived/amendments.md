@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 102
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
