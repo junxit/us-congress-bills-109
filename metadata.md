@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6206
 congress: 109
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6206
@@ -39,3 +39,4 @@ Truman Scholarship Fund Modernization Act
 - 2006-12-07 — Mr. Kuhl (NY) moved to suspend the rules and pass the bill.
 - 2006-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8917-8918)
 - 2006-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8917-8918)
+- 2006-12-08 — Received in the Senate.
