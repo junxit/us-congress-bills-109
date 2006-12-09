@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3885
 congress: 109th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,9 +15,9 @@ This Act may be cited as the “District of Columbia and United States Territori
 
 ## § 2. Issuance of redesigned quarter dollars honoring the District of Columbia and each of the territories
 
-Section 5112 of title 31, United States Code, is amended by inserting after subsection (m) the following new subsection:
+Section 5112 of title 31, United States Code, is amended by adding at the end the following new subsection:
 
-> - **(n)** *Redesign and issuance of circulating quarter dollar honoring the District of Columbia and each of the territories*
+> - **(r)** *Redesign and issuance of circulating quarter dollar honoring the District of Columbia and each of the territories*
 >   - **(1)** *Redesign in 2009*
 >     - **(A)** *In general* Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) and subject to paragraph (6)(B), quarter dollar coins issued during 2009, shall have designs on the reverse side selected in accordance with this subsection which are emblematic of the District of Columbia and the territories.
 >     - **(B)** *Flexibility with regard to placement of inscriptions* Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during 2009 in which—
