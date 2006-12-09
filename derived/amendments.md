@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
