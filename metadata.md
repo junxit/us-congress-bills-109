@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 758
@@ -49,9 +49,10 @@ To establish an interagency aerospace revitalization task force to develop a nat
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -65,3 +66,9 @@ To establish an interagency aerospace revitalization task force to develop a nat
 - 2005-10-25 — Mr. Ehlers moved to suspend the rules and pass the bill.
 - 2005-10-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9065-9066)
 - 2005-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9065-9066)
+- 2005-10-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11386)
+- 2006-12-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11386)
+- 2006-12-07 — Message on Senate action sent to the House.
