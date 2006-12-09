@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5989
 congress: 109
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5989
@@ -57,3 +57,8 @@ To designate the facility of the United States Postal Service located at 10240 R
 - 2006-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7894)
 - 2006-09-29 — Received in the Senate.
 - 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-12-06 — Message on Senate action sent to the House.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11376)
+- 2006-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11376)
