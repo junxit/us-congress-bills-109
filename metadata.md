@@ -1,7 +1,7 @@
 ---
 measure: H.R. 854
 congress: 109
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 854
@@ -42,3 +42,6 @@ To provide for certain lands to be held in trust for the Utu Utu Gwaitu Paiute T
 - 2006-09-20 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-342.
 - 2006-09-20 — Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-342.
 - 2006-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 622.
+- 2006-12-06 — Message on Senate action sent to the House.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 12/7/2006 S11381)
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 12/7/2006 S11381)
