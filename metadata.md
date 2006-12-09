@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 109
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6102
@@ -51,3 +51,8 @@ To designate the facility of the United States Postal Service located at 200 Law
 - 2006-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 1 (Roll no. 473).(text: CR H6980)
 - 2006-09-26 — Received in the Senate.
 - 2006-11-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2006-12-06 — Message on Senate action sent to the House.
+- 2006-12-06 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR 12/7/2006 S11376)
+- 2006-12-06 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR 12/7/2006 S11376)
