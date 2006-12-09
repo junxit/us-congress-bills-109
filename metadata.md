@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6316
@@ -53,3 +53,4 @@ To extend through December 31, 2008, the authority of the Secretary of the Army 
 - 2006-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8683)
 - 2006-12-06 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR 12/7/2006 S11387)
 - 2006-12-06 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR 12/7/2006 S11387)
+- 2006-12-07 — Message on Senate action sent to the House.
