@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5304
 congress: 109
-version: Received in Senate
+version: Engrossed in House
 ---
 
 # H.R. 5304
