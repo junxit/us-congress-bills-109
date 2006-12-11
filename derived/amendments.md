@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 109
-version: Received in Senate
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “(or in the case of a facility with an annual budget of less than $40,000,000, 15 percent of the annual budget of the facility)” after “equal to 5 percent of the annual budget of the facility”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(or in the case of a facility with an annual budget of less than $40,000,000, 15 percent of the annual budget of the facility)” after “exceeds 5 percent of the annual budget of the facility”. | the bill names no machine-readable US Code section |
+| `35 U.S.C. § 202` | insert | by inserting “(or in the case of a facility with an annual budget of less than $40,000,000, 15 percent of the annual budget of the facility)” after “equal to 5 percent of the annual budget of the facility”; and | the bill quotes the text inserted but describes where it goes |
+| `35 U.S.C. § 202` | insert | by inserting “(or in the case of a facility with an annual budget of less than $40,000,000, 15 percent of the annual budget of the facility)” after “exceeds 5 percent of the annual budget of the facility”. | the bill quotes the text inserted but describes where it goes |
