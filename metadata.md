@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6131
 congress: 109
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6131
@@ -42,3 +42,10 @@ To permit certain expenditures from the Leaking Underground Storage Tank Trust F
 - 2006-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7387)
 - 2006-09-27 — Received in the Senate.
 - 2006-11-13 — Read twice and referred to the Committee on Finance.
+- 2006-12-08 — Message on Senate action sent to the House.
+- 2006-12-08 — Passed Senate without amendment by Unanimous Consent.
+- 2006-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2006-12-08 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S11552)
+- 2006-12-08 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S11552)
+- 2006-12-11 — Presented to President.
+- 2006-12-11 — Presented to President.
