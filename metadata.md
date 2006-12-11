@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 488
 congress: 109
-version: Received in Senate
+version: Engrossed in House
 ---
 
 # H.Con.Res. 488
