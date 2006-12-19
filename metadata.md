@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6429
 congress: 109
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6429
@@ -40,3 +40,6 @@ Fallen Firefighters Assistance Tax Clarification Act of 2006
 - 2006-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 12/8/2006 S11841)
 - 2006-12-09 — Received in the Senate, read twice.
 - 2006-12-09 — Referred to the House Committee on Ways and Means.
+- 2006-12-11 — Message on Senate action sent to the House.
+- 2006-12-19 — Presented to President.
+- 2006-12-19 — Presented to President.
