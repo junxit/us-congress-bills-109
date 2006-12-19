@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6344
 congress: 109
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6344
@@ -45,3 +45,8 @@ Office of National Drug Control Policy Reauthorization Act of 2006
 - 2006-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8950-8963)
 - 2006-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8950-8963)
 - 2006-12-07 — Received in the Senate, read twice.
+- 2006-12-08 — Message on Senate action sent to the House.
+- 2006-12-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11592-11593)
+- 2006-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11592-11593)
+- 2006-12-19 — Presented to President.
+- 2006-12-19 — Presented to President.
